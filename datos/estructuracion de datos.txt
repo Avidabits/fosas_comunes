@@ -1,0 +1,30 @@
+Tenemos datos de 57.686 victimas en 2641 fosas repartidas por 8113 municipios. El total de datos es 5 Mbytes. 
+
+Cada vez que la geolocalizacion que da un nuevo lat-long necesito saber el municipio más proximo. 
+
+A partir de municipio sacar la información de fosas.
+
+Quiero conseguir todo esto sin usar un servidor activo. Solo con un servidor pasivo estilo rawgit.
+
+Dividiré el mapa en cuadriculas con (lat-log)(lat-lon)
+Para cada cuadricula generaré un XML con los municipios, las fosas.
+Para eso primero debo generar una base de datos con todos los datos correctamente curados.
+
+Una vez realizada la base de datos, hare los scripts de exportacion de ficheros
+Los ficheros han de estar todos en un  directorio que será cacheado con la Appcache. 
+
+Alternativa: Un fichero de locucion por municipio. 
+
+---------------
+Proceso: 
+partimos de datos raw en csv
+convertimos datos a xlsm 
+importar datos a access
+georreferenciar.
+indexar, compactar db
+----------
+Datos:
+	1518 Localidades con alguna fosa
+	2610 fosas catalogadas
+	57685 victimas
+

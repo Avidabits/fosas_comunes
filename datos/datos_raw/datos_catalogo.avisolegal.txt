@@ -1,0 +1,38 @@
+http://datos.gob.es/?q=avisolegal_tipo
+------------------------------------------
+
+Aviso legal tipo
+Modelo de Aviso legal recogido en el ANEXO del Real Decreto 1495/2011, de 24 de octubre, de desarrollo de la Ley 37/2007, sobre reutilización de la información del sector público, para el ámbito del sector público estatal:
+
+Obligatoriedad de las condiciones generales.
+Las presentes condiciones generales, disponibles con carácter permanente bajo www.datos.gob.es/avisolegal, vincularán a cualquier agente reutilizador por el mero hecho de hacer uso de los documentos sometidos a ellas.
+
+Autorización de reutilización y cesión no exclusiva de derechos de propiedad intelectual.
+Las presentes condiciones generales permiten la reutilización de los documentos sometidos a ellas para fines comerciales y no comerciales. Se entiende por reutilización el uso de documentos que obran en poder de los órganos de la Administración General del Estado y los demás organismos y entidades del sector público estatal referidos en el artículo 1.2 del Real Decreto 1495/2011, de 24 de octubre, por el que se desarrolla la Ley 37/2007, de 16 de noviembre, sobre reutilización de la información del sector público estatal, por personas físicas o jurídicas, con fines comerciales o no comerciales, siempre que dicho uso no constituya una actividad administrativa pública. La reutilización autorizada incluye, a modo ilustrativo, actividades como la copia, difusión, modificación, adaptación, extracción, reordenación y combinación de la información.
+
+El concepto de documento es el establecido en el apartado 2 del artículo 3 de la Ley 37/2007, de 16 de noviembre, sobre reutilización de la información del sector público, por lo que comprende toda información cualquiera que sea su soporte material o electrónico así como su forma de expresión gráfica, sonora o en imagen utilizada, incluyendo, en consecuencia, también los datos en sus niveles más desagregados o “en bruto”.
+
+Esta autorización conlleva, asimismo, la cesión gratuita y no exclusiva de los derechos de propiedad intelectual, en su caso, correspondientes a tales documentos, autorizándose la realización de actividades de reproducción, distribución, comunicación pública o transformación, necesarias para desarrollar la actividad de reutilización autorizada, en cualquier modalidad y bajo cualquier formato, para todo el mundo y por el plazo máximo permitido por la Ley.
+
+Condiciones generales para la reutilización.
+Son de aplicación las siguientes condiciones generales para la reutilización de los documentos sometidos a ellas:
+
+         1. Está prohibido desnaturalizar el sentido de la información.
+
+         2. Debe citarse la fuente de los documentos objeto de la reutilización. Esta cita podrá realizarse de la siguiente manera: “Origen de los datos: [órgano administrativo, organismo o entidad del sector público estatal de que se trate]”.
+
+         3. Debe mencionarse la fecha de la última actualización de los documentos objeto de la reutilización, siempre cuando estuviera incluida en el documento original.
+
+         4. No se podrá indicar, insinuar o sugerir que la [órgano administrativo, organismo o entidad del sector público estatal de que se trate] titular de la información reutilizada participa, patrocina o apoya la reutilización que se lleve a cabo con ella.
+
+         5. Deben conservarse, no alterarse ni suprimirse los metadatos sobre la fecha de actualización y las condiciones de reutilización aplicables incluidos, en su caso, en el documento puesto a disposición para su reutilización.
+
+Exclusión de responsabilidad.
+La utilización de los conjuntos de datos se realizará por parte de los usuarios o agentes de la reutilización bajo su propia cuenta y riesgo, correspondiéndoles en exclusiva a ellos responder frente a terceros por daños que pudieran derivarse de ella.
+
+[El órgano administrativo, organismo o entidad del sector público estatal de que se trate] no será responsable del uso que de su información hagan los agentes reutilizadores ni tampoco de los daños sufridos o pérdidas económicas que, de forma directa o indirecta, produzcan o puedan producir perjuicios económicos, materiales o sobre datos, provocados por el uso de la información reutilizada.
+
+[El órgano administrativo, organismo o entidad del sector público estatal de que se trate] no garantiza la continuidad en la puesta a disposición de los documentos reutilizables, ni en contenido ni en forma, ni asume responsabilidades por cualquier error u omisión contenido en ellos.
+
+Responsabilidad del agente reutilizador.
+El agente reutilizador se halla sometido a la normativa aplicable en materia de reutilización de la información del sector público, incluyendo el régimen sancionador previsto en el artículo 11 de la Ley 37/2007, de 16 de noviembre, sobre reutilización de la información del sector público

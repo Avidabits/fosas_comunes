@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:georss="http://www.georss.org/georss" xmlns:fosas="http://fosas.org/fosas">
+ <channel>
+      <title>Fosas comunes</title>
+      <description>Un paseo por el horror. </description>
+      <language>es</language>
+      <georss:relationshiptag>is-centered-at</georss:relationshiptag>
+      <georss:point>43.5637236 -6.8340881</georss:point>
+      <municipio>
+        <nombre>Concejo del Franco</nombre>
+        <georss:point>43.5637236 -6.8340881</georss:point>
+        <num_fosas>3</num_fosas>
+        <fosa>
+          <num_registro>Identificador XXXX</num_registro>
+          <tipo_fosa>represalidos</tipo_fosa>
+          <estado_actual>exhumacion parcial</estado_actual>
+          <numero_personas_fosa>8</numero_personas_fosa>
+          <numero_personas_exhumadas>8</numero_personas_exhumadas>
+          <numero_personas_identificadas>7</numero_personas_identificadas>
+          <observaciones>Mucho cabrón aun anda suelto</observaciones>
+          <victima>
+            <nombre>Pepe</nombre>
+            <apellido1>Lopez</apellido1>
+            <apellido2>Perez</apellido2>
+            <sexo>M</sexo>
+            <edad>32</edad>
+            <profesion>Ferroviario</profesion>
+            <fecha_fallecimiento>27/11/1939</fecha_fallecimiento>
+            <fecha_inhumacion>27/11/1951</fecha_inhumacion>
+          </victima>
+        </fosa>
+      </municipio>
+    </channel>
+   </rss>
+      
