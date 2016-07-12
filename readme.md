@@ -6,6 +6,7 @@ Navegador de fosas comunes. Una voz sintética nos acompañara en nuestro recorrid
 
 La principal limitación está determinada por la pobre georrefernciación de la información de fosas, limitada a los municipios en la mayoría de los casos.
 
+Prueba del api: https://cdn.rawgit.com/Avidabits/fosas_comunes/master/TestSpeechSynthesis.html
 
 Funcionalidad Básica:
 Iniciar mapa en Madrid con zoom fijo no modificable, del orden de 5 km de radio
