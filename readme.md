@@ -8,6 +8,7 @@ La principal limitación está determinada por la pobre georrefernciación de la in
 
 Prueba del api: https://cdn.rawgit.com/Avidabits/fosas_comunes/master/TestSpeechSynthesis.html
 
+
 Funcionalidad Básica:
 Iniciar mapa en Madrid con zoom fijo no modificable, del orden de 5 km de radio
 Localizar posicion del usuario.
