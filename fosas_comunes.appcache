@@ -1,0 +1,13 @@
+CACHE MANIFEST
+
+## No sirve de nada cachear el audio
+CACHE:
+
+
+# Fallback content
+FALLBACK:
+
+# Use from network if available
+NETWORK:
+
+
