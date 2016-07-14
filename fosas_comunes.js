@@ -1,4 +1,7 @@
-//funciones y ayudas del de paseo de fosas
+// variables globales de zona de fosas
+var miZona=null; //es una variable de tipo zona que se construye con function construyeZona(xml) 
+
+//objetos que construyen la informacion de una zona: zona, localidad, fosas, victimas
 
 function victima(nombre, apellido1, apellido2, sexo, edad, profesion, fechaFallecimiento, fechaInhumacion)
 {
@@ -39,6 +42,8 @@ function zona(latitud, longitud, listaLocalidades)
     this.latitud=latitud;
     this.longitud=longitud;
     this.listaLocalidades=listaLocalidades;
+    // TODO: miZona.markerFosaActual
+    
 }//zona
 
 function construyeListaVictimas(xmlFosa)
