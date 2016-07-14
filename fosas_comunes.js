@@ -46,7 +46,7 @@ function construyeListaVictimas(xmlFosa)
    //ahora voy a recorrer las fosas de la localidad  
    var xmlVictima=xmlFosa.getElementsByTagName("victima");
    console.log("\victimas: " + xmlVictima.length); 
-   var listaVisctimas= new Array();
+   var listaVictimas= new Array();
    var  nombre; 
    var  apellido1;
    var  apellido2;
