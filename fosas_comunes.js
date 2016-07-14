@@ -146,17 +146,17 @@ function construyeZona(xml)
     var lat_long;
     var cLatitud;
     var cLongitud; 
-    var xmlZona = xmlDoc.getElementsByTagName("zona");
-    
+    var listaLocalidades=null;
+    var xmlZona = xmlDoc.getElementsByTagName("zona");//lista de zonas
     for (i = 0; i <xmlZona.length; i++) {  
       lat_long=xmlZona[i].getElementsByTagName("centro")[0].childNodes[0].nodeValue;
       var arr = lat_long.split(" ");
       cLatitud=arr[0]/1; // con esto fuerzo la conversion numerica
       cLongitud=arr[1]/1; // con esto fuerzo la conversion numerica
-      console.log("\nzona latitud:"+cLatitud+"longitud:"+cLongitud);                          
-    }//for  -- en realidad solo deberíamos tener un channel
-
-    var listaLocalidades=construyeListaLocalidades(xmlZona);
+      console.log("\nzona latitud:"+cLatitud+"longitud:"+cLongitud); 
+      listaLocalidades=construyeListaLocalidades(xmlZona[i]);                      
+    }//for  -- en realidad solo deberíamos tener una zona
+  
     return new zona(cLatitud, cLongitud, listaLocalidades);
      
 }//construyeZona 
