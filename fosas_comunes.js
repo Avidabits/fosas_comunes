@@ -38,7 +38,7 @@ function zona(latitud, longitud, listaLocalidades)
 {
     this.latitud=latitud;
     this.longitud=longitud;
-    this.listaLocalidades=listaLocalidadades;
+    this.listaLocalidades=listaLocalidades;
 }//zona
 
 function construyeListaVictimas(xmlFosa)
