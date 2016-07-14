@@ -151,7 +151,7 @@ function construyeZona(xml)
       var arr = lat_long.split(" ");
       cLatitud=arr[0]/1; // con esto fuerzo la conversion numerica
       cLongitud=arr[1]/1; // con esto fuerzo la conversion numerica
-      console.log("\nzona latitud:"+clatitud+"longitud:"+clongitud);                          
+      console.log("\nzona latitud:"+cLatitud+"longitud:"+cLongitud);                          
     }//for  -- en realidad solo deberíamos tener un channel
 
     var listaLocalidades=construyeListaLocalidades(xmlZona);
@@ -199,12 +199,12 @@ function cambiaFosa(newLatitud, newLongitud)
 function cambiaPosicion(newLatitud, newLongitud)
 {
     
-   if (cambioZona(latitud, longitud, latitud, longitud))
+   if (cambioZona(newLatitud, newLongitud/*, latitud, longitud*/))
     {
         // hay que cambiar las bolas indicativas de fosas.
         //actualizamos el nuevo centro
         /* TODO: esto aqui raro....
-        pCentro=centro(latitud, longitud);
+        pCentro=centro(newLatitud, newLongitud);
         map.setCenter(pCentro);
         ActualizaBolas(latitud, longitud);  
         */   
