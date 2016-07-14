@@ -100,7 +100,7 @@ function construyeListaFosas(xmlLocalidad)
       observaciones=xmlFosa[i].getElementsByTagName("observaciones")[0].childNodes[0].nodeValue;
 
       //// ahora hay que leer todas las victimas de esta fosa
-      var listaVictimas=construyeListaVictimas(xmlFosa);
+      var listaVictimas=construyeListaVictimas(xmlFosa[i]);
       var tempFosa=new fosa(numRegistro, tipoFosa, estadoActual, numeroPersonasFosa, numeroPersonasExhumadas, numeroPersonasIdentificadas, observaciones, listaVictimas);
       listaFosas.push(tempFosa); 
      }
@@ -131,7 +131,7 @@ function construyeListaLocalidades(xmlZona)
       console.log("\nzona latitud:"+locLatitud+"longitud:"+locLongitud);  
       numFosas=xmlLoc[i].getElementsByTagName("numFosas")[0].childNodes[0].nodeValue;
       //// ahora hay que leer todas las fosas de esta localidad
-      var listaFosas=construyeListaFosas(xmlLoc);
+      var listaFosas=construyeListaFosas(xmlLoc[i]);
       var tempLocalidad=new localidad(locNombre, locLatitud, locLongitud, listaFosas);
       listaLocalidades.push(tempLocalidad); 
      }
