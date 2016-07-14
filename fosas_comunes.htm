@@ -18,35 +18,35 @@
   </script>
     
   <script> <!--script de inicializacion de mapas-->
-    // el punto central que sea Madrid
-    var pCentro=null;
-    var map=null;
-    var miPaseo=null; 
+    // el punto central que sea Madrid (40.4166333,-3.7033831)
+    var pCentro=new google.maps.LatLng(40.4166333,-3.7033831);
+    console.log("Madrid"); console.log(pCentro);
     
-    function loadXMLDoc()
+    var map=null;
+    var miZona=null; 
+    
+    function asyncLoadXMLDoc()
     {  
-      console.log("entrando en loadXMLDoc");
+      console.log("entrando en asyncLoadXMLDoc");
       var xhttp = new XMLHttpRequest();
       xhttp.onreadystatechange = function() {
         if (xhttp.readyState == 4 && xhttp.status == 200) {
-          miPaseo=construyePaseo(xhttp);
-          pCentro=new google.maps.LatLng(miPaseo.latitud,miPaseo.longitud);
+          miZona=construyeZona(xhttp);
+          pCentro=new google.maps.LatLng(miZona.latitud,miZona.longitud);
           map.setCenter(pCentro); 
-          creaBolas();
-          // ya tenemos el paseo creado, usamos el título y la descripción en la interfaz de usuario
-          document.getElementById("title").innerHTML=miPaseo.titulo+": "+miPaseo.descripcion;
+          creaMarcadoresFosas(); //Crear los marcadores de fosas
         }//if 
       };// function onreadystatechange
      
-      xhttp.open("GET", nombreFicheroZona(pCentro.coords.latitude, pCentro.coords.longitude), true);
+      xhttp.open("GET", nombreFicheroZona(pCentro.lat(), pCentro.lng()), true);
       xhttp.send();
-    }// function loadXMLDoc    
+    }// function asyncLoadXMLDoc    
     
     function initialize()
     {
       
       var mapProp = {
-      //center:pCentro,
+      center:pCentro,
       zoom:15,
       scaleControl:true,
       streetViewControl:false,
@@ -54,49 +54,52 @@
       };
 
       map=new google.maps.Map(document.getElementById("googleMap"),mapProp);
+      
+      // asignamos la funcionar a usar cuando el usuario hace click en el mapa
       google.maps.event.addListener(map, 'click', function(event) {
          cambiaPosicion(event.latLng.lat(), event.latLng.lng())
         }); // esto es para que pueda funcionar en modo simulador
        
-      loadXMLDoc();   //funcion asincrona, 
-
+      asyncLoadXMLDoc();   //funcion asincrona 
       
     }//function initialize
 
     google.maps.event.addDomListener(window, 'load', initialize);
     
 
-    function creaBolas()
-    {               
-          var miBola = new google.maps.Circle({
-          map:map, 
-          center:pCentro,
-          radius:5,
-          strokeOpacity:0,
-          strokeWeight:0,
-          fillColor:"#880000",
-          fillOpacity:0.4}); //new google.maps.Circle
-          miPaseo.bolaPosicionActual=miBola;
+    function creaMarcadoresFosas()
+    {     
+      // TODO: NO USAR CIRCULOS SINO MARCADORES
+      var miFosa = new google.maps.Circle({
+      map:map, 
+      center:pCentro,
+      radius:5,
+      strokeOpacity:0,
+      strokeWeight:0,
+      fillColor:"#880000",
+      fillOpacity:0.4}); //new google.maps.Circle
+      miZona.bolaPosicionActual=miFosa;
           
-      for (var i = 0; i <miPaseo.listaItems.length; i++) {
-        miBola = new google.maps.Circle({
-          center:new google.maps.LatLng(miPaseo.listaItems[i].latitud,miPaseo.listaItems[i].longitud),
-          radius:miPaseo.listaItems[i].radio,
+      for (var i = 0; i <miZona.listaFosas.length; i++) {
+        // TODO: LAS FOSAS NO DEBEN SER CIRCULOS SINO MARCADORES                                        
+        miFosa = new google.maps.Circle({
+          center:new google.maps.LatLng(miZona.listaFosas[i].latitud,miZona.listaFosas[i].longitud),
+          radius:miPaseo.listaFosas[i].radio,
           strokeOpacity:0,
           strokeWeight:0,
           fillColor:"#0000FF",
           fillOpacity:0.4
         }); //new google.maps.Circle
         
-        google.maps.event.addListener(miBola, 'click', function(event) {
-           cambiaPosicion(event.latLng.lat(), event.latLng.lng())
+        google.maps.event.addListener(miFosa, 'click', function(event) {
+           cambiaFosa(event.latLng.lat(), event.latLng.lng());
         } ); //addListener
         
         miBola.setMap(map);
-        miPaseo.listaItems[i].bola=miBola;
+        miPaseo.listaFosas[i].marcador=miFosa;
       }//for
       
-    }// function creaBolas
+    }// function creaMarcadoresFosas
     
     // en esta zona meteremos las funciones de geolocalizacion
      
@@ -127,7 +130,6 @@
     }
     if (!('speechSynthesis' in window)) alert("Tu navegador no soporta síntesis de voz");
     else habla("este paseo no te va a gustar...");
-
 
 
     function miraDondeEstamos(){
