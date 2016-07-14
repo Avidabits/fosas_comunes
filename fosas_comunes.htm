@@ -20,8 +20,6 @@
   <script> <!--script de inicializacion de mapas-->
     // el punto central que sea Madrid (40.4166333,-3.7033831)
     var pCentro=new google.maps.LatLng(40.4166333,-3.7033831);
-    console.log("Madrid"); console.log(pCentro);
-    
     var map=null;
     var miZona=null; 
     
@@ -34,7 +32,7 @@
           miZona=construyeZona(xhttp);
           pCentro=new google.maps.LatLng(miZona.latitud,miZona.longitud);
           map.setCenter(pCentro); 
-          creaMarcadoresFosas(); //Crear los marcadores de fosas
+          // TODO: creaMarcadoresFosas(); //Crear los marcadores de fosas
         }//if 
       };// function onreadystatechange
      
@@ -79,25 +77,31 @@
       fillColor:"#880000",
       fillOpacity:0.4}); //new google.maps.Circle
       miZona.bolaPosicionActual=miFosa;
-          
-      for (var i = 0; i <miZona.listaFosas.length; i++) {
-        // TODO: LAS FOSAS NO DEBEN SER CIRCULOS SINO MARCADORES                                        
-        miFosa = new google.maps.Circle({
-          center:new google.maps.LatLng(miZona.listaFosas[i].latitud,miZona.listaFosas[i].longitud),
-          radius:miPaseo.listaFosas[i].radio,
-          strokeOpacity:0,
-          strokeWeight:0,
-          fillColor:"#0000FF",
-          fillOpacity:0.4
-        }); //new google.maps.Circle
+      // TODO: Para cada localidad, obtener la lista de fosas, para cada fosa, marcador
+      // el símbolo del marcador, debería depender del tipo de fosa
+      for (var i = 0; i <miZona.listaLocalidades.length; i++) {
+        var listaFosas=miZona.listaLocalidades[i];
+        for (var j=0; j<listaFosas.length; j++)
+        {   
+           // TODO: LAS FOSAS NO DEBEN SER CIRCULOS SINO MARCADORES                                        
+            miFosa = new google.maps.Circle({
+              center:new google.maps.LatLng(miZona.listaFosas[i].latitud,miZona.listaFosas[i].longitud),
+              radius:miPaseo.listaFosas[i].radio,
+              strokeOpacity:0,
+              strokeWeight:0,
+              fillColor:"#0000FF",
+              fillOpacity:0.4
+            }); //new google.maps.Circle
         
-        google.maps.event.addListener(miFosa, 'click', function(event) {
-           cambiaFosa(event.latLng.lat(), event.latLng.lng());
-        } ); //addListener
+            google.maps.event.addListener(miFosa, 'click', function(event) {
+               cambiaFosa(event.latLng.lat(), event.latLng.lng());
+            } ); //addListener
         
-        miBola.setMap(map);
-        miPaseo.listaFosas[i].marcador=miFosa;
-      }//for
+            miBola.setMap(map);
+            miPaseo.listaFosas[i].marcador=miFosa;
+        } // for para cada fosa
+
+      }//for para cada localidad
       
     }// function creaMarcadoresFosas
     
@@ -164,14 +168,8 @@
       var msg;
       msg="("+position.coords.latitude+","+position.coords.longitude+") - altura:"+position.coords.altitude;
       document.getElementById("lineaDepuracion").innerHTML =msg;
-      console.log("onSuccessGeolocating: ", msg);
-
       cambiaPosicion(position.coords.latitude, position.coords.longitude);
-
-    }
-
-
-    
+    }  
 
   </script>
   </body>
