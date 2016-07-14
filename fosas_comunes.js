@@ -112,6 +112,7 @@ function construyeListaFosas(xmlLocalidad)
 function construyeListaLocalidades(xmlZona)
 {
    //ahora voy a recorrer las localidades de la zona  
+   console.log(xmlZona);
    var xmlLoc=xmlZona.getElementsByTagName("localidad");
    console.log("\nlocalidades: " + xmlLoc.length); 
    var listaLocalidades= new Array();
@@ -146,6 +147,7 @@ function construyeZona(xml)
     var cLatitud;
     var cLongitud; 
     var xmlZona = xmlDoc.getElementsByTagName("zona");
+    
     for (i = 0; i <xmlZona.length; i++) {  
       lat_long=xmlZona[i].getElementsByTagName("centro")[0].childNodes[0].nodeValue;
       var arr = lat_long.split(" ");
