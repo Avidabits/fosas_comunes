@@ -71,7 +71,7 @@ function construyeListaVictimas(xmlFosa)
       profesion=xmlVictima[i].getElementsByTagName("profesion")[0].childNodes[0].nodeValue;
       fechaFallecimiento=xmlVictima[i].getElementsByTagName("fechaFallecimiento")[0].childNodes[0].nodeValue;
       fechaInhumacion=xmlVictima[i].getElementsByTagName("fechaInhumacion")[0].childNodes[0].nodeValue;
-
+      console.log("victima", nombre);
       var tempVictima=new victima(nombre, apellido1, apellido2, sexo, edad, profesion, fechaFallecimiento, fechaInhumacion);
       listaVictimas.push(tempVictima); 
      }
@@ -104,7 +104,7 @@ function construyeListaFosas(xmlLocalidad)
       numeroPersonasExhumadas=xmlFosa[i].getElementsByTagName("numeroPersonasExhumadas")[0].childNodes[0].nodeValue;
       numeroPersonasIdentificadas=xmlFosa[i].getElementsByTagName("numeroPersonasIdentificadas")[0].childNodes[0].nodeValue;
       observaciones=xmlFosa[i].getElementsByTagName("observaciones")[0].childNodes[0].nodeValue;
-
+      console.log("fosa ", numRegistro);
       //// ahora hay que leer todas las victimas de esta fosa
       var listaVictimas=construyeListaVictimas(xmlFosa[i]);
       var tempFosa=new fosa(numRegistro, tipoFosa, estadoActual, numeroPersonasFosa, numeroPersonasExhumadas, numeroPersonasIdentificadas, observaciones, listaVictimas);
@@ -126,13 +126,14 @@ function construyeListaLocalidades(xmlZona)
     var locLatitud;
     var locLongitud;
   
-    for (i = 0; i <xmlLoc.length; i++) {  // para cada localidad                       
+    for (i = 0; i <xmlLoc.length; i++) {  // para cada localidad    
       locNombre=xmlLoc[i].getElementsByTagName("nombre")[0].childNodes[0].nodeValue;
       var lat_long=xmlLoc[i].getElementsByTagName("point")[0].childNodes[0].nodeValue;
       var arr = lat_long.split(" ");
       locLatitud=arr[0]/1; // con esto fuerzo la conversion numerica
       locLongitud=arr[1]/1; // con esto fuerzo la conversion numerica
       //// ahora hay que leer todas las fosas de esta localidad
+      console.log("localidad", locNombre);
       var listaFosas=construyeListaFosas(xmlLoc[i]);
       var tempLocalidad=new localidad(locNombre, locLatitud, locLongitud, listaFosas);
       listaLocalidades.push(tempLocalidad); 

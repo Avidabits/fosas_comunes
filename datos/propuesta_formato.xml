@@ -5,7 +5,7 @@
       <nombre>Concejo del Franco</nombre>
       <point>43.5637236 -6.8340881</point>
       <fosa>
-        <numRegistro>ID1</numRegistro>
+        <numRegistro>CF1</numRegistro>
         <tipoFosa>represalidos</tipoFosa>
         <estadoActual>exhumación parcial</estadoActual>
         <numeroPersonasFosa>8</numeroPersonasFosa>
@@ -44,7 +44,7 @@
         </victima>        
       </fosa>
       <fosa>
-        <numRegistro>ID2</numRegistro>
+        <numRegistro>CF2</numRegistro>
         <tipoFosa>represalidos</tipoFosa>
         <estadoActual>exhumación parcial</estadoActual>
         <numeroPersonasFosa>8</numeroPersonasFosa>
@@ -77,7 +77,7 @@
     <nombre>Tapia de Casariego</nombre>
     <point>43.567866,-6.951911</point>
     <fosa>
-      <numRegistro>ID8</numRegistro>
+      <numRegistro>TC1</numRegistro>
       <tipoFosa>represalidos</tipoFosa>
       <estadoActual>exhumación parcial</estadoActual>
       <numeroPersonasFosa>8</numeroPersonasFosa>
