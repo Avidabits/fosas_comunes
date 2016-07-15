@@ -56,6 +56,7 @@
               if (xhttp.readyState == 4 && xhttp.status == 200) {
                   miZona=construyeZona(xhttp);
                   pCentro=new google.maps.LatLng(miZona.latitud,miZona.longitud);
+                  console.log("centrado en la miZona", miZona.latitud,miZona.longitud);
                   map.setCenter(pCentro);
                   creaMarcadoresFosas(); //Crear los marcadores de fosas
               }//if
@@ -71,9 +72,10 @@
       // Para cada localidad, obtener la lista de fosas, para cada fosa, marcador
       // por el momento todas las fosas de una localidad comparten posicion, 
       // pues la geolocalización es solo a nivel de localidad
+      console.log("creando marcadores para localidades: ", miZona.listaLocalidades.length);
       for (var i = 0; i <miZona.listaLocalidades.length; i++) 
       {
-          var listaFosas=miZona.listaLocalidades[i];
+          var listaFosas=miZona.listaLocalidades[i].listaFosas;
           for (var j=0; j<listaFosas.length; j++)
           {   
               var markerFosa=new google.maps.Marker({ 
@@ -81,7 +83,8 @@
                 animation:google.maps.Animation.BOUNCE, icon:'calavera_marker.png' });
               
               google.maps.event.addListener(markerFosa, 'click', function(event) {
-                  //esto es para poder funcionar en modo simulacion                           
+                  //esto es para poder funcionar en modo simulacion 
+                  console.log("se ha pinchado un marcador, evento: ", event);
                   cambiaFosa(event.latLng.lat(), event.latLng.lng()); 
                   pCentro=new google.maps.LatLng(event.latLng.lat(), event.latLng.lng());
                   map.setCenter(pCentro);  } ); //addListener
