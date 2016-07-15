@@ -203,7 +203,9 @@ function cambiaFosa(newLatitud, newLongitud)
 
 function cambiaPosicion(newLatitud, newLongitud)
 {
-    
+   // se llamará al recibir una nueva posicion de GPS o al pinchar 
+   // en una nueva posicion en el mapa
+   // por tanto en muchos casos no habra ni cambio de zona ni cambio de fosa
    if (cambioZona(newLatitud, newLongitud/*, latitud, longitud*/))
     {
         // hay que cambiar las bolas indicativas de fosas.
