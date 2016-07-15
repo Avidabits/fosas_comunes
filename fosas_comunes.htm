@@ -84,7 +84,7 @@
               google.maps.event.addListener(markerFosa, 'click', function(event) {
                   /*esto es para poder funcionar en modo simulacion */
                   console.log("se ha pinchado un marcador, evento: ", event);
-                  CambiaPosicion(event.latLng.lat(), event.latLng.lng()); 
+                  cambiaPosicion(event.latLng.lat(), event.latLng.lng()); 
                   pCentro=event.latLng;
                   map.setCenter(pCentro); 
                   /* TODO: este cambio de centro podría suponer un cambio de Zona sin que nos enteremos*/

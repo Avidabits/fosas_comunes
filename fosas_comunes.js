@@ -322,7 +322,6 @@ function puntoEnCirculo(puntoLat, puntoLong, circuloLat, circuloLong, circuloRad
 /////////////////////////////////////////////////////////////////
 ///// SONIDO SINTETICO
 function habla(text) {
-     window.speechSynthesis.cancel(); //primero callar lo anterior
     // Create a new instance of SpeechSynthesisUtterance.
 	var msg = new SpeechSynthesisUtterance();
   
