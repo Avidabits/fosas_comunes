@@ -26,8 +26,8 @@ function victima(nombre, apellido1, apellido2, sexo, edad, profesion, fechaFalle
     this.fechaFallecimiento=fechaFallecimiento;
     this.fechaInhumacion=fechaInhumacion;
     this.generaSpeech=function(){
-       var speech=nombre+" "+apellido1+" "+apellido2+" de "+edad+" años ,"+ profesion + "fallecido el "+fechaFallecimiento;
-       if (fechaInhumacion) speech+="inhumado el "+fechaInhumacion;
+       var speech=nombre+" "+apellido1+" "+apellido2+" de "+edad+" años ,"+ profesion + "fallece el "+fechaFallecimiento;
+       if (fechaInhumacion) speech+="inhumación el "+fechaInhumacion;
        speech+=".\n";
        return speech;
     }; //generaSpeech
@@ -47,7 +47,7 @@ function fosa(registro, tipoFosa, estadoActual,numeroPersonasFosa, numeroPersona
     this.marcador=null;
 
     this.generaSpeech=function(){
-      var speech="Fosa "+registro+" del tipo "+tipoFosa+", actualmente "+estadoActual+ ". Contiene ";
+      var speech="Fosa "/*+registro*/+" del tipo "+tipoFosa+", actualmente "+estadoActual+ ". Contiene ";
       if (numeroPersonasFosa==1){
         speech+="una persona ";
         if (numeroPersonasIdentificadas==1) speech+="identificada";
@@ -84,8 +84,8 @@ function localidad(nombre, latitud, longitud, listaFosas)
 
     this.generaSpeech=function(){
      var speech=nombre; 
-      if (listaFosas.lenght==1) speech+=", tiene una fosa común.\n"; 
-      else speech+=", tiene "+listaFosas.lenght+" fosas comunes.\n";
+      if (listaFosas.length==1) speech+=", tiene una fosa común.\n"; 
+      else speech+=", tiene "+listaFosas.length+" fosas comunes.\n";
       for (var i=0; i<listaFosas.length; i++)
       {   
           speech+=listaFosas[i].generaSpeech();
