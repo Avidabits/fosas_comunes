@@ -75,7 +75,7 @@
     </localidad>
   <localidad>
     <nombre>Tapia de Casariego</nombre>
-    <point>43.567866,-6.951911</point>
+    <point>43.567866 -6.951911</point>
     <fosa>
       <numRegistro>TC1</numRegistro>
       <tipoFosa>represalidos</tipoFosa>
