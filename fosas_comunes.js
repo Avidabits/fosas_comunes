@@ -1,6 +1,18 @@
 // variables globales de zona de fosas
 var miZona=null; //es una variable de tipo zona que se construye con function construyeZona(xml) 
 
+// Al no estar geolocalizadas las fosas, colocamos los marcadores en la posicion de la muy cerca unos de otros
+// la distancia entre marcadores que en realidad se consideran en el mismo puento es esta variable deltaFosas
+// deltaGrados=180*deltaKm/((RT=6371km)*PI  )
+// Delta_Kilometros=((RT=6371km)*PI  )* Delta_grados/180
+var deltaFosas=0.001125; //unos 125 metros
+
+// para decidir que nos ponemos a contar la fosas de una localidad, puesto que no tenemos los polígonos
+// hemos de tomar una decisión respecto a la distancia a la posicion puntual de esa localidad
+// decidimos tomar unos 2Km, que segun la formula anterior corresponde aproximadamente a 0.018 grados
+var deltaLocalidad=0.018;
+
+
 //objetos que construyen la informacion de una zona: zona, localidad, fosas, victimas
 
 function victima(nombre, apellido1, apellido2, sexo, edad, profesion, fechaFallecimiento, fechaInhumacion)
@@ -13,6 +25,11 @@ function victima(nombre, apellido1, apellido2, sexo, edad, profesion, fechaFalle
     this.profesion=profesion;
     this.fechaFallecimiento=fechaFallecimiento;
     this.fechaInhumacion=fechaInhumacion;
+    this.generaSpeech=function(){
+       var speech=nombre+" "+apellido1+" "+apellido2+" de "+edad+" años ,"+ profesion + "fallecido el "+fechaFallecimiento;
+       if (fechaInhumacion) speech+="inhumado el "+fechaInhumacion;
+       speech+=".\n";
+    }; //generaSpeech
 
 }//victima
 
@@ -26,24 +43,71 @@ function fosa(registro, tipoFosa, estadoActual,numeroPersonasFosa, numeroPersona
     this.numeroPersonasIdentificadas=numeroPersonasIdentificadas;
     this.observaciones=observaciones;
     this.listaVictimas=listaVictimas;
+    this.generaSpeech=function(){
+      var speech="Fosa "+registro+" del tipo "+tipoFosa+", actualmente "+estadoActual+ ". Contiene ";
+      if (numeroPersonasFosa==1){
+        speech+="una persona ";
+        if (numeroPersonasIdentificadas==1) speech+="identificada";
+        else speech+="no identificada";
+        if (numeroPersonasExhumadas==1) speech+=" y exhumada";
+      }
+      else {
+        speech+=numeroPersonasFosa + " personas";
+        if (numeroPersonasExhumadas>0) speech+=", exhumadas: "+ numeroPersonasExhumadas;
+        if (numeroPersonasIdentificadas>0) ", identificadas: "+ numeroPersonasIdentificadas;      
+      }
+      speech+=".\n"+observaciones+"\n";
+      for (var i=0; i<listaVictimas.length; i++)
+      {
+           speech+=listaVictimas[i].generaSpeech();
+      }
+       
+      return speech;
+    }; //generaSpeech
+    
  } // fosa
-
+;
 function localidad(nombre, latitud, longitud, listaFosas)
 {
-this.nombre=nombre;
-this.latitud=latitud;
-this.longitud=longitud;
-this.listaFosas=listaFosas;
-} //localidad
+    this.nombre=nombre;
+    this.latitud=latitud;
+    this.longitud=longitud;
+    this.listaFosas=listaFosas;
+    this.puntoEnEntorno = function(latitudPunto, longitudPunto) {
+            if (abs(latitud-latitudPunto) > deltaLocalidad) return false;
+            if (abs(longitud-longitudPunto) > deltaLocalidad) return false;
+            return true;
+        };//puntoEnEntorno
+
+    this.generaSpeech=function(){
+      // primero habla la localiadad
+      var speech=nombre; 
+      if (listaFosas.lenght>1) speech+=", tiene una fosa común.\n"; 
+      else speech+=", tiene "+listaFosas.lenght+" fosas comunes.\n";
+      for (var i=0; i<listaFosas.length; i++)
+      {   
+          speech+=listaFosas[i].generaSpeech();
+          speech+="\n";   
+      }// para cada fosa
+      return speech;
+  
+    };//generaSpeech 
+
+} //objeto localidad
 
 function zona(latitud, longitud, listaLocalidades)
 {
     this.latitud=latitud;
     this.longitud=longitud;
     this.listaLocalidades=listaLocalidades;
-    this.markerFosaActual=null; //no se conoce en el momento de construcción
-    // TODO: actualizar esto cuando se cambie de fosa
+    this.localidadActual=null; // la funcion cambiaPosicion deberá actualizarla
     console.log("zona nueva:", this);
+    this.buscaLocalidadEnEntorno = function(latitudPunto, longitudPunto)    {
+        for (var i=0; i<listaLocalidades.length; i++){
+         if (listaLocalidades[i].puntoEnEntorno(latitudPunto, longitudPunto)) return listaLocalidades[i];
+        }
+        return null;// esto es que no ha encontrado ninguna 
+     };//buscaLocalidadEnEntorno
     
 }//zona
 
@@ -212,27 +276,29 @@ function cambiaFosa(newLatitud, newLongitud)
     }*/   
 }
 
+
 function cambiaPosicion(newLatitud, newLongitud)
 {
-   // se llamará al recibir una nueva posicion de GPS o al pinchar 
-   // en una nueva posicion en el mapa
-   // por tanto en muchos casos no habra ni cambio de zona ni cambio de fosa
-   console.log("cambiaPosicion:", newLatitud, newLongitud);
-   if (cambioZona(newLatitud, newLongitud/*, latitud, longitud*/))
-    {
-        // hay que cambiar las bolas indicativas de fosas.
-        //actualizamos el nuevo centro
-        /* TODO: esto aqui raro....
-        pCentro=centro(newLatitud, newLongitud);
-        map.setCenter(pCentro);
-        ActualizaBolas(latitud, longitud);  
-        */   
-    } 
-    else if (cambioFosa())
-    {
-
-        cambiaFosa(newLatitud, newLongitud);       
-    }  
+   // se llama en tres casos
+   // 1º: al recibir una nueva posicion de GPS.
+   // 2º al pinchar el usuario en el mapa
+   // 3º al pinchar en un marcador de fosa
+   // por tanto en muchos casos no habra ni cambio de zona ni cambio de nada
+   
+    if (miZona.localidadActual)
+    {   // caso de que estemos dentro de la zona actual
+        if (miZona.localidadActual.puntoEnEntorno(newLatitud, newLongitud)) return;
+    }
+    
+    //solo cambiaremos la localidad actual si encontramos otra en el entorno del punto
+    // para eso no queda mas remedio que recorrer todas las localidades
+    var localidadActual=buscaLocalidadEnEntorno(newLatitud, newLongitud);
+    if (localidadActual){ 
+       //necesitamos cambiar la localidad actual.
+       miZona.localidadActual=localidadActual;
+       habla(miZona.localidadActual.generaSpeech());
+    }
+    //TODO: aun podría ser el caso un cambio de zona, que por el momento no vamos a tratar
     
 
 }//function cambiaPosicion

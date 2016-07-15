@@ -43,13 +43,13 @@
           map.setCenter(pCentro);          
       }); // esto es para que pueda funcionar en modo simulador
 
-      asyncLoadXMLDoc();   //funcion asincrona
+      asyncCargaXMLZona();   //funcion asincrona
 
     }//function initialize   
     
-    function asyncLoadXMLDoc()
+    function asyncCargaXMLZona()
     {  
-      console.log("entrando en asyncLoadXMLDoc");
+      console.log("entrando en asyncCargaXMLZona");
       var xhttp = new XMLHttpRequest();
       xhttp.onreadystatechange = function() {
               if (xhttp.readyState == 4 && xhttp.status == 200) {
@@ -63,38 +63,40 @@
 
       xhttp.open("GET", nombreFicheroZona(pCentro.lat(), pCentro.lng()), true);
       xhttp.send();
-    }// function asyncLoadXMLDoc
+    }// function asyncCargaXMLZona
 
     function creaMarcadoresFosas()
     {
       // Para cada localidad, obtener la lista de fosas, para cada fosa, marcador
       // por el momento todas las fosas de una localidad comparten posicion, 
       // pues la geolocalización es solo a nivel de localidad
-      var incrementoLatLon=0.00225; //unos 250 metros
+      
       for (var i = 0; i <miZona.listaLocalidades.length; i++) 
       {   
           var listaFosas=miZona.listaLocalidades[i].listaFosas;
           for (var j=0; j<listaFosas.length; j++)
           {   
-              var punto=new google.maps.LatLng(miZona.listaLocalidades[i].latitud+incrementoLatLon*j,miZona.listaLocalidades[i].longitud+incrementoLatLon*j); 
+              var punto=new google.maps.LatLng(miZona.listaLocalidades[i].latitud+deltaFosas*j,miZona.listaLocalidades[i].longitud+deltaFosas*j); 
               console.log("creando marcador de localidad ", miZona.listaLocalidades[i].nombre, " fosa ", j, "de fosas", listaFosas.length, "en el punto", punto);
-              var markerFosa=new google.maps.Marker({position:punto, map:map, icon:'calavera_marker.png' });
+              var markerFosa=new google.maps.Marker({position:punto, map:map="", icon:'calavera_marker.png', 
+                             registro: listaFosas[j].registro});
               listaFosas[j].marcador=markerFosa; 
                                              
               google.maps.event.addListener(markerFosa, 'click', function(event) {
                   /*esto es para poder funcionar en modo simulacion */
                   console.log("se ha pinchado un marcador, evento: ", event);
-                  cambiaFosa(event.latLng.lat(), event.latLng.lng()); 
+                  CambiaPosicion(event.latLng.lat(), event.latLng.lng()); 
                   pCentro=event.latLng;
-                  map.setCenter(pCentro);  } ); //addListener
-                  
-                          
+                  map.setCenter(pCentro); 
+                  /* TODO: este cambio de centro podría suponer un cambio de Zona sin que nos enteremos*/
+                  /* Por el momento vamos a asumir que solo hay una zona gigante- */
+                  } ); //addListener
+                            
           } // for para cada fosa
        }//for para cada localidad
       
     }// function creaMarcadoresFosas
     
-
   </script>
   </head>
 
@@ -120,7 +122,8 @@
       alert("No hay soporte para geolocalización, actualiza tu navegador");
     }
     if (!('speechSynthesis' in window)) alert("Tu navegador no soporta síntesis de voz");
-    // else habla("este paseo no te va a gustar...");// TODO: pensar otro mensaje de bienvenida
+    //else habla("Empezamos la navegación de fosas comunes...");
+    // TODO: pensar otro mensaje de bienvenida
 
 
     function miraDondeEstamos(){
