@@ -28,12 +28,11 @@ function fosa(registro, tipoFosa, estadoActual,numeroPersonasFosa, numeroPersona
     this.listaVictimas=listaVictimas;
  } // fosa
 
-function localidad(nombre, latitud, longitud, numFosas, listaFosas)
+function localidad(nombre, latitud, longitud, listaFosas)
 {
 this.nombre=nombre;
 this.latitud=latitud;
 this.longitud=longitud;
-this.numFosas=numFosas;
 this.listaFosas=listaFosas;
 } //localidad
 
@@ -42,7 +41,9 @@ function zona(latitud, longitud, listaLocalidades)
     this.latitud=latitud;
     this.longitud=longitud;
     this.listaLocalidades=listaLocalidades;
-    // TODO: miZona.markerFosaActual
+    this.markerFosaActual=null; //no se conoce en el momento de construcción
+    // TODO: actualizar esto cuando se cambie de fosa
+    console.log("zona nueva:", this);
     
 }//zona
 
@@ -50,7 +51,7 @@ function construyeListaVictimas(xmlFosa)
 {
    //ahora voy a recorrer las fosas de la localidad  
    var xmlVictima=xmlFosa.getElementsByTagName("victima");
-   console.log("\nvictimas: " + xmlVictima.length); 
+   console.log("victimas: " + xmlVictima.length); 
    var listaVictimas= new Array();
    var  nombre; 
    var  apellido1;
@@ -84,7 +85,7 @@ function construyeListaFosas(xmlLocalidad)
 {
    //ahora voy a recorrer las fosas de la localidad  
    var xmlFosa=xmlLocalidad.getElementsByTagName("fosa");
-   console.log("\nfosas: " + xmlFosa.length); 
+   console.log("fosas: " + xmlFosa.length); 
    var listaFosas= new Array();
 
    var numRegistro;
@@ -118,21 +119,19 @@ function construyeListaLocalidades(xmlZona)
 {
    //ahora voy a recorrer las localidades de la zona  
    var xmlLoc=xmlZona.getElementsByTagName("localidad");
-   console.log("\nlocalidades: " + xmlLoc.length); 
+   console.log("localidades: " + xmlLoc.length); 
    var listaLocalidades= new Array();
 
     var locNombre;
     var locLatitud;
     var locLongitud;
-    var numFosas;
   
     for (i = 0; i <xmlLoc.length; i++) {  // para cada localidad                       
       locNombre=xmlLoc[i].getElementsByTagName("nombre")[0].childNodes[0].nodeValue;
-      lat_long=xmlLoc[i].getElementsByTagName("point")[0].childNodes[0].nodeValue;
+      var lat_long=xmlLoc[i].getElementsByTagName("point")[0].childNodes[0].nodeValue;
       var arr = lat_long.split(" ");
       locLatitud=arr[0]/1; // con esto fuerzo la conversion numerica
       locLongitud=arr[1]/1; // con esto fuerzo la conversion numerica
-      numFosas=xmlLoc[i].getElementsByTagName("numFosas")[0].childNodes[0].nodeValue;
       //// ahora hay que leer todas las fosas de esta localidad
       var listaFosas=construyeListaFosas(xmlLoc[i]);
       var tempLocalidad=new localidad(locNombre, locLatitud, locLongitud, listaFosas);
@@ -156,7 +155,7 @@ function construyeZona(xml)
       var arr = lat_long.split(" ");
       cLatitud=arr[0]/1; // con esto fuerzo la conversion numerica
       cLongitud=arr[1]/1; // con esto fuerzo la conversion numerica
-      console.log("\nzona latitud:"+cLatitud+"longitud:"+cLongitud); 
+      console.log("zona latitud:"+cLatitud+"longitud:"+cLongitud); 
       listaLocalidades=construyeListaLocalidades(xmlZona[i]);                      
     }//for  -- en realidad solo deberíamos tener una zona
   
