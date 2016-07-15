@@ -27,7 +27,7 @@ function victima(nombre, apellido1, apellido2, sexo, edad, profesion, fechaFalle
     this.fechaInhumacion=fechaInhumacion;
     this.generaSpeech=function(){
        var speech=nombre+" "+apellido1+" "+apellido2+" de "+edad+" años ,"+ profesion + "fallece el "+fechaFallecimiento;
-       if (fechaInhumacion) speech+="inhumación el "+fechaInhumacion;
+       if (fechaInhumacion) speech+="se inhuma el "+fechaInhumacion;
        speech+=".\n";
        return speech;
     }; //generaSpeech
