@@ -1,6 +1,8 @@
 ﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" >
+    
 <head>
+  <link rel="icon" type="image/png" href="calavera_marker.png">
   <link rel="stylesheet" type="text/css" href="fosas_comunes.css">
   <title id="title">Cunetas: gente en fosas comunes</title> 
   <script src="https://maps.googleapis.com/maps/api/js"> </script>
@@ -26,7 +28,7 @@
     function initialize()
     {
       var mapProp = {
-      //center:pCentro,
+      center:pCentro,
       zoom:15,
       scaleControl:true,
       streetViewControl:false,
@@ -37,7 +39,9 @@
 
       // asignamos la funcionar a usar cuando el usuario hace click en el mapa
       google.maps.event.addListener(map, 'click', function(event) {
-      cambiaPosicion(event.latLng.lat(), event.latLng.lng())
+          cambiaPosicion(event.latLng.lat(), event.latLng.lng())
+          pCentro=new google.maps.LatLng(event.latLng.lat(), event.latLng.lng());
+          map.setCenter(pCentro);          
       }); // esto es para que pueda funcionar en modo simulador
 
       asyncLoadXMLDoc();   //funcion asincrona
@@ -61,9 +65,9 @@
       xhttp.send();
     }// function asyncLoadXMLDoc
 
+   
     function creaMarcadoresFosas()
     {
-      // miZona.markerFosaActual=miFosa; //TODO: ¿dónde esto?
       // Para cada localidad, obtener la lista de fosas, para cada fosa, marcador
       // por el momento todas las fosas de una localidad comparten posicion, 
       // pues la geolocalización es solo a nivel de localidad
@@ -72,15 +76,18 @@
           var listaFosas=miZona.listaLocalidades[i];
           for (var j=0; j<listaFosas.length; j++)
           {   
-              var miFosa=new google.maps.Marker({ 
+              var markerFosa=new google.maps.Marker({ 
                 position:new google.maps.LatLng(miZona.listaLocalidades[i].latitud,miZona.listaLocalidades[i].longitud),
                 animation:google.maps.Animation.BOUNCE, icon:'calavera_marker.png' });
               
-              google.maps.event.addListener(miFosa, 'click', function(event) {
-                  cambiaFosa(event.latLng.lat(), event.latLng.lng());  } ); //addListener
+              google.maps.event.addListener(markerFosa, 'click', function(event) {
+                  //esto es para poder funcionar en modo simulacion                           
+                  cambiaFosa(event.latLng.lat(), event.latLng.lng()); 
+                  pCentro=new google.maps.LatLng(event.latLng.lat(), event.latLng.lng());
+                  map.setCenter(pCentro);  } ); //addListener
         
-              miFosa.setMap(map);
-              miZona.ListaLocalidades[i].listaFosas[j].marcador=miFosa; 
+              markerFosa.setMap(map);
+              miZona.ListaLocalidades[i].listaFosas[j].marcador=markerFosa; 
             
           } // for para cada fosa
 
@@ -88,6 +95,7 @@
       
     }// function creaMarcadoresFosas
     
+
   </script>
   </head>
 
@@ -149,6 +157,8 @@
       msg="("+position.coords.latitude+","+position.coords.longitude+") - altura:"+position.coords.altitude;
       document.getElementById("lineaDepuracion").innerHTML =msg;
       cambiaPosicion(position.coords.latitude, position.coords.longitude);
+      pCentro=new google.maps.LatLng(position.coords.latitude, position.coords.longitude);
+      map.setCenter(pCentro);    
     }  
 
   </script>

@@ -6,7 +6,7 @@
       <point>43.5637236 -6.8340881</point>
       <numFosas>3</numFosas>
       <fosa>
-        <numRegistro>Identificador XXXX</numRegistro>
+        <numRegistro>ID1</numRegistro>
         <tipoFosa>represalidos</tipoFosa>
         <estadoActual>exhumación parcial</estadoActual>
         <numeroPersonasFosa>8</numeroPersonasFosa>
@@ -23,6 +23,108 @@
           <fechaFallecimiento>27/11/1939</fechaFallecimiento>
           <fechaInhumacion>27/11/1951</fechaInhumacion>
         </victima>
+        <victima>
+          <nombre>Paco</nombre>
+          <apellido1>Lopez</apellido1>
+          <apellido2>Perez</apellido2>
+          <sexo>M</sexo>
+          <edad>32</edad>
+          <profesion>carbonero</profesion>
+          <fechaFallecimiento>27/11/1939</fechaFallecimiento>
+          <fechaInhumacion>27/11/1951</fechaInhumacion>
+        </victima>
+      </fosa>
+      <fosa>
+        <numRegistro>ID2</numRegistro>
+        <tipoFosa>represalidos</tipoFosa>
+        <estadoActual>exhumación parcial</estadoActual>
+        <numeroPersonasFosa>8</numeroPersonasFosa>
+        <numeroPersonasExhumadas>8</numeroPersonasExhumadas>
+        <numeroPersonasIdentificadas>7</numeroPersonasIdentificadas>
+        <observaciones>Mucho cabrón aun anda suelto</observaciones>
+        <victima>
+          <nombre>Pepa</nombre>
+          <apellido1>Lopez</apellido1>
+          <apellido2>Perez</apellido2>
+          <sexo>M</sexo>
+          <edad>32</edad>
+          <profesion>Ferroviaria</profesion>
+          <fechaFallecimiento>27/11/1939</fechaFallecimiento>
+          <fechaInhumacion>27/11/1951</fechaInhumacion>
+        </victima>
+        <victima>
+          <nombre>Paca</nombre>
+          <apellido1>Lopez</apellido1>
+          <apellido2>Perez</apellido2>
+          <sexo>M</sexo>
+          <edad>32</edad>
+          <profesion>carbonero</profesion>
+          <fechaFallecimiento>27/11/1939</fechaFallecimiento>
+          <fechaInhumacion>27/11/1951</fechaInhumacion>
+        </victima>
       </fosa>
     </localidad>
+  <localidad>
+    <nombre>Tapia de Casariego</nombre>
+    <point>43.567866,-6.951911</point>
+    <numFosas>3</numFosas>
+    <fosa>
+      <numRegistro>ID8</numRegistro>
+      <tipoFosa>represalidos</tipoFosa>
+      <estadoActual>exhumación parcial</estadoActual>
+      <numeroPersonasFosa>8</numeroPersonasFosa>
+      <numeroPersonasExhumadas>8</numeroPersonasExhumadas>
+      <numeroPersonasIdentificadas>7</numeroPersonasIdentificadas>
+      <observaciones>Mucho cabrón aun anda suelto</observaciones>
+      <victima>
+        <nombre>Florencio</nombre>
+        <apellido1>Lopez</apellido1>
+        <apellido2>Perez</apellido2>
+        <sexo>M</sexo>
+        <edad>32</edad>
+        <profesion>Ferroviario</profesion>
+        <fechaFallecimiento>27/11/1939</fechaFallecimiento>
+        <fechaInhumacion>27/11/1951</fechaInhumacion>
+      </victima>
+      <victima>
+        <nombre>Carbunco</nombre>
+        <apellido1>Lopez</apellido1>
+        <apellido2>Perez</apellido2>
+        <sexo>M</sexo>
+        <edad>32</edad>
+        <profesion>carbonero</profesion>
+        <fechaFallecimiento>27/11/1939</fechaFallecimiento>
+        <fechaInhumacion>27/11/1951</fechaInhumacion>
+      </victima>
+    </fosa>
+    <fosa>
+      <numRegistro>ID2</numRegistro>
+      <tipoFosa>represalidos</tipoFosa>
+      <estadoActual>exhumación parcial</estadoActual>
+      <numeroPersonasFosa>8</numeroPersonasFosa>
+      <numeroPersonasExhumadas>8</numeroPersonasExhumadas>
+      <numeroPersonasIdentificadas>7</numeroPersonasIdentificadas>
+      <observaciones>Mucho cabrón aun anda suelto</observaciones>
+      <victima>
+        <nombre>munificia</nombre>
+        <apellido1>Lopez</apellido1>
+        <apellido2>Perez</apellido2>
+        <sexo>M</sexo>
+        <edad>32</edad>
+        <profesion>Ferroviaria</profesion>
+        <fechaFallecimiento>27/11/1939</fechaFallecimiento>
+        <fechaInhumacion>27/11/1951</fechaInhumacion>
+      </victima>
+      <victima>
+        <nombre>Sandra</nombre>
+        <apellido1>Lopez</apellido1>
+        <apellido2>Perez</apellido2>
+        <sexo>M</sexo>
+        <edad>32</edad>
+        <profesion>carbonero</profesion>
+        <fechaFallecimiento>27/11/1939</fechaFallecimiento>
+        <fechaInhumacion>27/11/1951</fechaInhumacion>
+      </victima>
+    </fosa>
+  </localidad> 
   </zona>

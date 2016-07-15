@@ -196,6 +196,9 @@ function cambioFosa()
 
 function cambiaFosa(newLatitud, newLongitud)
 {
+  // se puede llegar aqui como resultado de un CambiaPosicion
+  // o como resultado de un click en el marcador de Fosa
+  console.log("cambiaFosa:", newLatitud, newLongitud);
   // recorrer la lista de fosas cargada y buscar la más proxima
   // fosa.habla();
    
@@ -206,6 +209,7 @@ function cambiaPosicion(newLatitud, newLongitud)
    // se llamará al recibir una nueva posicion de GPS o al pinchar 
    // en una nueva posicion en el mapa
    // por tanto en muchos casos no habra ni cambio de zona ni cambio de fosa
+   console.log("cambiaPosicion:", newLatitud, newLongitud);
    if (cambioZona(newLatitud, newLongitud/*, latitud, longitud*/))
     {
         // hay que cambiar las bolas indicativas de fosas.
