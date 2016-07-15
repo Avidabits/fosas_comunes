@@ -6,12 +6,12 @@
       <point>43.5637236 -6.8340881</point>
       <fosa>
         <numRegistro>CF1</numRegistro>
-        <tipoFosa>represalidos</tipoFosa>
+        <tipoFosa>represaliados</tipoFosa>
         <estadoActual>exhumación parcial</estadoActual>
         <numeroPersonasFosa>8</numeroPersonasFosa>
         <numeroPersonasExhumadas>8</numeroPersonasExhumadas>
         <numeroPersonasIdentificadas>7</numeroPersonasIdentificadas>
-        <observaciones>Mucho cabrón aun anda suelto</observaciones>
+        <observaciones>Mucho cabrón aun anda suelto en este concejo</observaciones>
         <victima>
           <nombre>Pepe</nombre>
           <apellido1>Lopez</apellido1>
@@ -45,12 +45,12 @@
       </fosa>
       <fosa>
         <numRegistro>CF2</numRegistro>
-        <tipoFosa>represalidos</tipoFosa>
+        <tipoFosa>fusilados</tipoFosa>
         <estadoActual>exhumación parcial</estadoActual>
         <numeroPersonasFosa>8</numeroPersonasFosa>
         <numeroPersonasExhumadas>8</numeroPersonasExhumadas>
         <numeroPersonasIdentificadas>7</numeroPersonasIdentificadas>
-        <observaciones>Mucho cabrón aun anda suelto</observaciones>
+        <observaciones>Otra fosa, por si te parecian pocas</observaciones>
         <victima>
           <nombre>Pepa</nombre>
           <apellido1>Lopez</apellido1>
@@ -83,7 +83,7 @@
       <numeroPersonasFosa>8</numeroPersonasFosa>
       <numeroPersonasExhumadas>8</numeroPersonasExhumadas>
       <numeroPersonasIdentificadas>7</numeroPersonasIdentificadas>
-      <observaciones>Mucho cabrón aun anda suelto</observaciones>
+      <observaciones>Mucho cabrón aun anda suelto en Tapia</observaciones>
       <victima>
         <nombre>Florencio</nombre>
         <apellido1>Lopez</apellido1>

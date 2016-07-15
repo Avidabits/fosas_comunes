@@ -122,10 +122,13 @@
       alert("No hay soporte para geolocalización, actualiza tu navegador");
     }
     if (!('speechSynthesis' in window)) alert("Tu navegador no soporta síntesis de voz");
-    //else habla("Empezamos la navegación de fosas comunes...");
-    // TODO: pensar otro mensaje de bienvenida
-    //miZona=new zona();
-    //cambiaPosicion(40, -6);
+    else {
+       // TODO: pensar otro mensaje de bienvenida
+      var speech="Tengo "+3+" amigas en una fosa"; 
+      habla(speech);
+    }
+   
+ 
 
 
     function miraDondeEstamos(){

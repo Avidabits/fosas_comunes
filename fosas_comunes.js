@@ -29,6 +29,7 @@ function victima(nombre, apellido1, apellido2, sexo, edad, profesion, fechaFalle
        var speech=nombre+" "+apellido1+" "+apellido2+" de "+edad+" años ,"+ profesion + "fallecido el "+fechaFallecimiento;
        if (fechaInhumacion) speech+="inhumado el "+fechaInhumacion;
        speech+=".\n";
+       return speech;
     }; //generaSpeech
 
 }//victima
@@ -55,8 +56,8 @@ function fosa(registro, tipoFosa, estadoActual,numeroPersonasFosa, numeroPersona
       }
       else {
         speech+=numeroPersonasFosa + " personas";
-        if (numeroPersonasExhumadas>0) speech+=", exhumadas: "+ numeroPersonasExhumadas;
-        if (numeroPersonasIdentificadas>0) ", identificadas: "+ numeroPersonasIdentificadas;      
+        if (numeroPersonasExhumadas>0) speech+=", de las cuales exhumadas: "+ numeroPersonasExhumadas;
+        if (numeroPersonasIdentificadas>0) ", e identificadas: "+ numeroPersonasIdentificadas;      
       }
       speech+=".\n"+observaciones+"\n";
       for (var i=0; i<listaVictimas.length; i++)
@@ -82,9 +83,8 @@ function localidad(nombre, latitud, longitud, listaFosas)
         };//puntoEnEntorno
 
     this.generaSpeech=function(){
-      // primero habla la localiadad
-      var speech=nombre; 
-      if (listaFosas.lenght>1) speech+=", tiene una fosa común.\n"; 
+     var speech=nombre; 
+      if (listaFosas.lenght==1) speech+=", tiene una fosa común.\n"; 
       else speech+=", tiene "+listaFosas.lenght+" fosas comunes.\n";
       for (var i=0; i<listaFosas.length; i++)
       {   
