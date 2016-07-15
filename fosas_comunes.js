@@ -43,6 +43,8 @@ function fosa(registro, tipoFosa, estadoActual,numeroPersonasFosa, numeroPersona
     this.numeroPersonasIdentificadas=numeroPersonasIdentificadas;
     this.observaciones=observaciones;
     this.listaVictimas=listaVictimas;
+    this.marcador=null;
+
     this.generaSpeech=function(){
       var speech="Fosa "+registro+" del tipo "+tipoFosa+", actualmente "+estadoActual+ ". Contiene ";
       if (numeroPersonasFosa==1){
@@ -92,6 +94,16 @@ function localidad(nombre, latitud, longitud, listaFosas)
       return speech;
   
     };//generaSpeech 
+    this.animaMarcadores=function(){
+       for (var i=0; i<listaFosas.lenght; i++){
+          listaFosas[i].marcador.setAnimation(null);
+       }
+    };//animaMarcadores
+    this.desanimaMarcadores=function(){
+       for (var i=0; i<listaFosas.lenght; i++){
+          listaFosas[i].marcador.setAnimation(google.maps.Animation.BOUNCE);
+       }
+    };//desanimaMarcadores
 
 } //objeto localidad
 
@@ -240,42 +252,6 @@ function nombreFicheroZona(latitud, longitud)
     return "datos/propuesta_formato.xml"
 }
 
-function centroZona(latitud, longitud)
-{
-   //TODO: debe devolver un tipo Posicion indicando el centro de la zona que corresponde 
-   return latitud==longitud;
-}
-
-function cambioZona(newLatitud, newLongitud, oldLatitud, oldLongitud)
-{
-    return (centroZona(newLatitud, newLongitud)==centroZona(oldLatitud, oldLongitud));
-}
-
-function cambioFosa()
-{
-    // TODO determinar si hay que activar una nueva fosa 
-    // ¿CUAL ES LA MAS PRÓXIMA?
-    // SI DISTANCIA ES MENOR QUE distancia_fosa_minima
-     
-    return false;
-}
-
-function cambiaFosa(newLatitud, newLongitud)
-{
-  // se puede llegar aqui como resultado de un CambiaPosicion
-  // o como resultado de un click en el marcador de Fosa
-  console.log("cambiaFosa:", newLatitud, newLongitud);
-  // recorrer la lista de fosas cargada y buscar la más proxima
-  // fosa.habla();
-  /*function toggleBounce() {
-      if (marker.getAnimation() !== null) {
-        marker.setAnimation(null);
-      } else {
-        marker.setAnimation(google.maps.Animation.BOUNCE);
-      }
-    }*/   
-}
-
 
 function cambiaPosicion(newLatitud, newLongitud)
 {
@@ -284,7 +260,7 @@ function cambiaPosicion(newLatitud, newLongitud)
    // 2º al pinchar el usuario en el mapa
    // 3º al pinchar en un marcador de fosa
    // por tanto en muchos casos no habra ni cambio de zona ni cambio de nada
-   
+    console.log("CambiaPosicion");
     if (miZona.localidadActual)
     {   // caso de que estemos dentro de la zona actual
         if (miZona.localidadActual.puntoEnEntorno(newLatitud, newLongitud)) return;
@@ -292,14 +268,16 @@ function cambiaPosicion(newLatitud, newLongitud)
     
     //solo cambiaremos la localidad actual si encontramos otra en el entorno del punto
     // para eso no queda mas remedio que recorrer todas las localidades
-    var localidadActual=buscaLocalidadEnEntorno(newLatitud, newLongitud);
+    var localidadActual=miZona.buscaLocalidadEnEntorno(newLatitud, newLongitud);
     if (localidadActual){ 
        //necesitamos cambiar la localidad actual.
+       miZona.localidadActual.desanimaMarcadores();
        miZona.localidadActual=localidadActual;
+       miZona.localidadActual.animaMarcadores();
        habla(miZona.localidadActual.generaSpeech());
+
     }
     //TODO: aun podría ser el caso un cambio de zona, que por el momento no vamos a tratar
-    
 
 }//function cambiaPosicion
 
