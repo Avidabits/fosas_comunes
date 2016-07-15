@@ -76,8 +76,8 @@ function localidad(nombre, latitud, longitud, listaFosas)
     this.longitud=longitud;
     this.listaFosas=listaFosas;
     this.puntoEnEntorno = function(latitudPunto, longitudPunto) {
-            if (abs(latitud-latitudPunto) > deltaLocalidad) return false;
-            if (abs(longitud-longitudPunto) > deltaLocalidad) return false;
+            if (Math.abs(latitud-latitudPunto) > deltaLocalidad) return false;
+            if (Math.abs(longitud-longitudPunto) > deltaLocalidad) return false;
             return true;
         };//puntoEnEntorno
 
