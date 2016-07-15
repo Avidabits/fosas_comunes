@@ -271,11 +271,10 @@ function cambiaPosicion(newLatitud, newLongitud)
     var localidadActual=miZona.buscaLocalidadEnEntorno(newLatitud, newLongitud);
     if (localidadActual){ 
        //necesitamos cambiar la localidad actual.
-       miZona.localidadActual.desanimaMarcadores();
+       if(miZona.localidadActual) miZona.localidadActual.desanimaMarcadores();
        miZona.localidadActual=localidadActual;
        miZona.localidadActual.animaMarcadores();
        habla(miZona.localidadActual.generaSpeech());
-
     }
     //TODO: aun podría ser el caso un cambio de zona, que por el momento no vamos a tratar
 
