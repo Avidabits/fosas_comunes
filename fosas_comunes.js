@@ -203,7 +203,13 @@ function cambiaFosa(newLatitud, newLongitud)
   console.log("cambiaFosa:", newLatitud, newLongitud);
   // recorrer la lista de fosas cargada y buscar la más proxima
   // fosa.habla();
-   
+  /*function toggleBounce() {
+      if (marker.getAnimation() !== null) {
+        marker.setAnimation(null);
+      } else {
+        marker.setAnimation(google.maps.Animation.BOUNCE);
+      }
+    }*/   
 }
 
 function cambiaPosicion(newLatitud, newLongitud)

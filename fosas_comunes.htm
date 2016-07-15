@@ -5,7 +5,8 @@
   <link rel="icon" type="image/png" href="calavera_marker.png">
   <link rel="stylesheet" type="text/css" href="fosas_comunes.css">
   <title id="title">Cunetas: gente en fosas comunes</title> 
-  <script src="https://maps.googleapis.com/maps/api/js"> </script>
+  <script src="https://maps.googleapis.com/maps/api/js?AIzaSyDIAeS71vGbVd9V0N9PJwSMrZIxnGQEWoQ"> </script>
+    <!--todo: antes de pasar a produccion indicar la url-->
   <script src="fosas_comunes.js"> </script>
   <meta name="viewport" content="width=device-width, initial-scale=1.0" /><!--para que no escalen los móviles-->
   <script>
@@ -13,10 +14,8 @@
     (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
     m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
     })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-
     ga('create', 'UA-27140304-5', 'auto');
     ga('send', 'pageview');
-
   </script>    
     
   <script> <!--script de inicializacion de mapas-->
@@ -29,7 +28,7 @@
     {
       var mapProp = {
       center:pCentro,
-      zoom:15,
+      zoom:11,
       scaleControl:true,
       streetViewControl:false,
       mapTypeId:google.maps.MapTypeId.HYBRID
@@ -66,29 +65,30 @@
       xhttp.send();
     }// function asyncLoadXMLDoc
 
-   
     function creaMarcadoresFosas()
     {
       // Para cada localidad, obtener la lista de fosas, para cada fosa, marcador
       // por el momento todas las fosas de una localidad comparten posicion, 
       // pues la geolocalización es solo a nivel de localidad
-      
+      var incrementoLatLon=0.00225; //unos 250 metros
       for (var i = 0; i <miZona.listaLocalidades.length; i++) 
       {   
           var listaFosas=miZona.listaLocalidades[i].listaFosas;
-          var punto=new google.maps.LatLng(miZona.listaLocalidades[i].latitud,miZona.listaLocalidades[i].longitud);                                               
           for (var j=0; j<listaFosas.length; j++)
           {   
-              console.log("creando marcador de localidad ", i, " fosa ", j, "de fosas", listaFosas.length);
-              var markerFosa=new google.maps.Marker({position:punto, animation:google.maps.Animation.BOUNCE, icon:'calavera_marker.png' });
+              var punto=new google.maps.LatLng(miZona.listaLocalidades[i].latitud+incrementoLatLon*j,miZona.listaLocalidades[i].longitud+incrementoLatLon*j); 
+              console.log("creando marcador de localidad ", miZona.listaLocalidades[i].nombre, " fosa ", j, "de fosas", listaFosas.length, "en el punto", punto);
+              var markerFosa=new google.maps.Marker({position:punto, map:map, icon:'calavera_marker.png' });
+              listaFosas[j].marcador=markerFosa; 
+                                             
               google.maps.event.addListener(markerFosa, 'click', function(event) {
-                  //esto es para poder funcionar en modo simulacion 
+                  /*esto es para poder funcionar en modo simulacion */
                   console.log("se ha pinchado un marcador, evento: ", event);
                   cambiaFosa(event.latLng.lat(), event.latLng.lng()); 
-                  pCentro=new google.maps.LatLng(event.latLng.lat(), event.latLng.lng());
+                  pCentro=event.latLng;
                   map.setCenter(pCentro);  } ); //addListener
-              markerFosa.setMap(map);
-              listaFosas[j].marcador=markerFosa;             
+                  
+                          
           } // for para cada fosa
        }//for para cada localidad
       
