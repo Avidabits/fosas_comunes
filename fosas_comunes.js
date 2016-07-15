@@ -96,7 +96,8 @@ function construyeListaFosas(xmlLocalidad)
    var numeroPersonasIdentificadas
    var observaciones;
   
-    for (i = 0; i <xmlFosa.length; i++) {  // para cada fosa                       
+    for (i = 0; i <xmlFosa.length; i++) {  // para cada fosa   
+      console.log("creando fosa ", i+1, "de ",  xmlFosa.length);                    
       numRegistro=xmlFosa[i].getElementsByTagName("numRegistro")[0].childNodes[0].nodeValue;
       tipoFosa=xmlFosa[i].getElementsByTagName("tipoFosa")[0].childNodes[0].nodeValue;
       estadoActual=xmlFosa[i].getElementsByTagName("estadoActual")[0].childNodes[0].nodeValue;
@@ -109,6 +110,7 @@ function construyeListaFosas(xmlLocalidad)
       var listaVictimas=construyeListaVictimas(xmlFosa[i]);
       var tempFosa=new fosa(numRegistro, tipoFosa, estadoActual, numeroPersonasFosa, numeroPersonasExhumadas, numeroPersonasIdentificadas, observaciones, listaVictimas);
       listaFosas.push(tempFosa); 
+      console.log("creada la fosa ", i+1, "de ",  xmlFosa.length);
      }
 
      return listaFosas;
