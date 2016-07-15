@@ -96,12 +96,12 @@ function localidad(nombre, latitud, longitud, listaFosas)
     };//generaSpeech 
     this.animaMarcadores=function(){
        for (var i=0; i<listaFosas.lenght; i++){
-          listaFosas[i].marcador.setAnimation(null);
+          listaFosas[i].marcador.setAnimation(google.maps.Animation.BOUNCE);
        }
     };//animaMarcadores
     this.desanimaMarcadores=function(){
        for (var i=0; i<listaFosas.lenght; i++){
-          listaFosas[i].marcador.setAnimation(google.maps.Animation.BOUNCE);
+          listaFosas[i].marcador.setAnimation(null);
        }
     };//desanimaMarcadores
 
@@ -322,6 +322,7 @@ function puntoEnCirculo(puntoLat, puntoLong, circuloLat, circuloLong, circuloRad
 /////////////////////////////////////////////////////////////////
 ///// SONIDO SINTETICO
 function habla(text) {
+     window.speechSynthesis.cancel(); //primero callar lo anterior
     // Create a new instance of SpeechSynthesisUtterance.
 	var msg = new SpeechSynthesisUtterance();
   

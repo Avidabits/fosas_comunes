@@ -38,7 +38,7 @@
 
       // asignamos la funcionar a usar cuando el usuario hace click en el mapa
       google.maps.event.addListener(map, 'click', function(event) {
-          cambiaPosicion(event.latLng.lat(), event.latLng.lng())
+          cambiaPosicion(event.latLng.lat(), event.latLng.lng());
           pCentro=new google.maps.LatLng(event.latLng.lat(), event.latLng.lng());
           map.setCenter(pCentro);          
       }); // esto es para que pueda funcionar en modo simulador
@@ -78,9 +78,8 @@
           {   
               var punto=new google.maps.LatLng(miZona.listaLocalidades[i].latitud+deltaFosas*j,miZona.listaLocalidades[i].longitud+deltaFosas*j); 
               console.log("creando marcador de localidad ", miZona.listaLocalidades[i].nombre, " fosa ", j, "de fosas", listaFosas.length, "en el punto", punto);
-              var markerFosa=new google.maps.Marker({position:punto, map:map, icon:'calavera_marker.png', 
-                             registro: listaFosas[j].registro});
-              listaFosas[j].marcador=markerFosa; 
+              var markerFosa=new google.maps.Marker({position:punto, map:map, icon:'calavera_marker.png'});
+              listaFosas[j].marcador=markerFosa; //para poder animar y desanimar 
                                              
               google.maps.event.addListener(markerFosa, 'click', function(event) {
                   /*esto es para poder funcionar en modo simulacion */
@@ -124,7 +123,7 @@
     if (!('speechSynthesis' in window)) alert("Tu navegador no soporta síntesis de voz");
     else {
        // TODO: pensar otro mensaje de bienvenida
-      var speech="Tengo "+3+" amigas en una fosa"; 
+      var speech="Tiene "+49+" años y una canción"; 
       habla(speech);
     }
    
