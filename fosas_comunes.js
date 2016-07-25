@@ -129,24 +129,43 @@ function construyeListaVictimas(xmlFosa)
    var xmlVictima=xmlFosa.getElementsByTagName("victima");
    console.log("victimas: " + xmlVictima.length); 
    var listaVictimas= new Array();
-   var  nombre; 
-   var  apellido1;
-   var  apellido2;
-   var  sexo;
-   var  edad;
-   var  profesion;
-   var  fechaFallecimiento;
-   var  fechaInhumacion;
+
   
     for (var i = 0; i <xmlVictima.length; i++) {  // para cada fosa                       
-      nombre=xmlVictima[i].getElementsByTagName("nombre")[0].childNodes[0].nodeValue;
-      apellido1=xmlVictima[i].getElementsByTagName("apellido1")[0].childNodes[0].nodeValue;
-      apellido2=xmlVictima[i].getElementsByTagName("apellido2")[0].childNodes[0].nodeValue;
-      sexo=xmlVictima[i].getElementsByTagName("sexo")[0].childNodes[0].nodeValue;
-      edad=xmlVictima[i].getElementsByTagName("edad")[0].childNodes[0].nodeValue;
-      profesion=xmlVictima[i].getElementsByTagName("profesion")[0].childNodes[0].nodeValue;
-      fechaFallecimiento=xmlVictima[i].getElementsByTagName("fechaFallecimiento")[0].childNodes[0].nodeValue;
-      fechaInhumacion=xmlVictima[i].getElementsByTagName("fechaInhumacion")[0].childNodes[0].nodeValue;
+      var  nombre=null; 
+      var  apellido1=null;
+      var  apellido2=null;
+      var  sexo=null;
+      var  edad=null;
+      var  profesion=null;
+      var  fechaFallecimiento=null;
+      var  fechaInhumacion=null; 
+      var currentTagName=null;
+       
+      currentTagName=xmlVictima[i].getElementsByTagName("nombre")[0];
+      if (currentTagName) nombre=currentTagName.childNodes[0].nodeValue;
+
+      currentTagName=xmlVictima[i].getElementsByTagName("apellido1")[0];
+      if (currentTagName) apellido1=currentTagName.childNodes[0].nodeValue;
+
+      currentTagName=xmlVictima[i].getElementsByTagName("apellido2")[0];
+      if (currentTagName) apellido2=currentTagName.childNodes[0].nodeValue;
+
+      currentTagName=xmlVictima[i].getElementsByTagName("sexo")[0];
+      if (currentTagName) sexo=currentTagName.childNodes[0].nodeValue;
+
+      currentTagName=xmlVictima[i].getElementsByTagName("edad")[0];
+      if (currentTagName) edad=currentTagName.childNodes[0].nodeValue;
+
+      currentTagName=xmlVictima[i].getElementsByTagName("profesion")[0];
+      if (currentTagName) profesion=currentTagName.childNodes[0].nodeValue;
+
+      currentTagName=xmlVictima[i].getElementsByTagName("fechaFallecimiento")[0];
+      if (currentTagName) fechaFallecimiento=currentTagName.childNodes[0].nodeValue;
+
+      currentTagName=xmlVictima[i].getElementsByTagName("fechaInhumacion")[0];
+      if (currentTagName) fechaInhumacion=currentTagName.childNodes[0].nodeValue;
+
       console.log("victima", nombre);
       var tempVictima=new victima(nombre, apellido1, apellido2, sexo, edad, profesion, fechaFallecimiento, fechaInhumacion);
       listaVictimas.push(tempVictima); 
@@ -164,23 +183,40 @@ function construyeListaFosas(xmlLocalidad)
    console.log("fosas: " + xmlFosa.length); 
    var listaFosas= new Array();
 
-   var numRegistro;
-   var tipoFosa;
-   var estadoActual;
-   var numeroPersonasFosa;
-   var numeroPersonasExhumadas;
-   var numeroPersonasIdentificadas
-   var observaciones;
+
   
     for (var i = 0; i <xmlFosa.length; i++) {  // para cada fosa   
+      var numRegistro=null;
+      var tipoFosa=null;
+      var estadoActual=null;
+      var numeroPersonasFosa=null;
+      var numeroPersonasExhumadas=null;
+      var numeroPersonasIdentificadas=null;
+      var observaciones=null;
+      var currentTagName=null
       console.log("creando fosa i=", i, "de ",  xmlFosa.length);                    
-      numRegistro=xmlFosa[i].getElementsByTagName("numRegistro")[0].childNodes[0].nodeValue;
-      tipoFosa=xmlFosa[i].getElementsByTagName("tipoFosa")[0].childNodes[0].nodeValue;
-      estadoActual=xmlFosa[i].getElementsByTagName("estadoActual")[0].childNodes[0].nodeValue;
-      numeroPersonasFosa=xmlFosa[i].getElementsByTagName("numeroPersonasFosa")[0].childNodes[0].nodeValue;
-      numeroPersonasExhumadas=xmlFosa[i].getElementsByTagName("numeroPersonasExhumadas")[0].childNodes[0].nodeValue;
-      numeroPersonasIdentificadas=xmlFosa[i].getElementsByTagName("numeroPersonasIdentificadas")[0].childNodes[0].nodeValue;
-      observaciones=xmlFosa[i].getElementsByTagName("observaciones")[0].childNodes[0].nodeValue;
+      
+      currentTagName=xmlFosa[i].getElementsByTagName("numRegistro")[0];
+      if (currentTagName) numRegistro=currentTagName.childNodes[0].nodeValue;
+
+      currentTagName=xmlFosa[i].getElementsByTagName("tipoFosa")[0];
+      if (currentTagName) tipoFosa=currentTagName.childNodes[0].nodeValue;
+  
+      currentTagName=xmlFosa[i].getElementsByTagName("estadoActual")[0];
+      if (currentTagName) estadoActual=currentTagName.childNodes[0].nodeValue;
+
+      currentTagName=xmlFosa[i].getElementsByTagName("numeroPersonasFosa")[0];
+      if (currentTagName) numeroPersonasFosa=currentTagName.childNodes[0].nodeValue;
+
+      currentTagName=xmlFosa[i].getElementsByTagName("numeroPersonasExhumadas")[0];
+      if (currentTagName) numeroPersonasExhumadas=currentTagName.childNodes[0].nodeValue;
+
+      currentTagName=xmlFosa[i].getElementsByTagName("numeroPersonasIdentificadas")[0];
+      if (currentTagName) numeroPersonasIdentificadas=currentTagName.childNodes[0].nodeValue;
+
+      currentTagName=xmlFosa[i].getElementsByTagName("observaciones")[0];
+      if (currentTagName) observaciones=currentTagName.childNodes[0].nodeValue;
+
       console.log("fosa ", numRegistro);
       //// ahora hay que leer todas las victimas de esta fosa
       var listaVictimas=construyeListaVictimas(xmlFosa[i]);
