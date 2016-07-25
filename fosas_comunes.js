@@ -26,7 +26,8 @@ function victima(nombre, apellido1, apellido2, sexo, edad, profesion, fechaFalle
     this.fechaFallecimiento=fechaFallecimiento;
     this.fechaInhumacion=fechaInhumacion;
     this.generaSpeech=function(){
-       var speech=nombre+" "+apellido1+" "+apellido2+" de "+edad+" años ,"+ profesion + "fallece el "+fechaFallecimiento;
+       // TODO: ENTERARSE DE COMO PONER BIEN ACENTOS Y EÑES. 
+       var speech=nombre+" "+apellido1+" "+apellido2+" de "+edad+" anios ,"+ profesion + "fallece el "+fechaFallecimiento;
        if (fechaInhumacion) speech+="se inhuma el "+fechaInhumacion;
        speech+=".\n";
        return speech;
@@ -85,7 +86,8 @@ function localidad(nombre, latitud, longitud, listaFosas)
 
     this.generaSpeech=function(){
      var speech=nombre; 
-      if (listaFosas.length==1) speech+=", tiene una fosa común.\n"; 
+       // TODO: ENTERARSE DE COMO PONER BIEN ACENTOS Y EÑES. 
+      if (listaFosas.length==1) speech+=", tiene una fosa comun.\n"; 
       else speech+=", tiene "+listaFosas.length+" fosas comunes.\n";
       for (var i=0; i<listaFosas.length; i++)
       {   
