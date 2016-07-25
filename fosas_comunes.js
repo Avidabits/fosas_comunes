@@ -206,10 +206,10 @@ function construyeListaLocalidades(xmlZona)
   
     for (var i = 0; i <xmlLoc.length; i++) {  // para cada localidad    
       locNombre=xmlLoc[i].getElementsByTagName("nombre")[0].childNodes[0].nodeValue;
-      var lat_long=xmlLoc[i].getElementsByTagName("point")[0].childNodes[0].nodeValue;
-      var arr = lat_long.split(" ");
-      locLatitud=arr[0]/1; // con esto fuerzo la conversion numerica
-      locLongitud=arr[1]/1; // con esto fuerzo la conversion numerica
+      locLatitud=xmlLoc[i].getElementsByTagName("Latitud")[0].childNodes[0].nodeValue;
+      locLongitud=xmlLoc[i].getElementsByTagName("Longitud")[0].childNodes[0].nodeValue;
+      locLatitud=locLatitud/1; // con esto fuerzo la conversion numerica
+      locLongitud=locLatitud/1; // con esto fuerzo la conversion numerica
       //// ahora hay que leer todas las fosas de esta localidad
       console.log("localidad", locNombre);
       var listaFosas=construyeListaFosas(xmlLoc[i]);
