@@ -249,7 +249,9 @@ function nombreFicheroZona(latitud, longitud)
     // TODO: lo primero necesitarmos saber que fichero pedir,
     // si hacemos una cuadricula de 20Km de lado, podemos nombrar los ficheros a patir de
     // la latitud y longitud en la que estamos centrados.
-    return "datos/propuesta_formato.xml"
+    // todo esto es para evitar usar un servidor activo. 
+    // return "datos/propuesta_formato.xml";
+    return "datos/zona_completa.xml";
 }
 
 
