@@ -239,7 +239,7 @@ function construyeListaLocalidades(xmlZona)
       locLatitud=xmlLoc[i].getElementsByTagName("Latitud")[0].childNodes[0].nodeValue;
       locLongitud=xmlLoc[i].getElementsByTagName("Longitud")[0].childNodes[0].nodeValue;
       locLatitud=locLatitud/1; // con esto fuerzo la conversion numerica
-      locLongitud=locLatitud/1; // con esto fuerzo la conversion numerica
+      locLongitud=locLongitud/1; // con esto fuerzo la conversion numerica
       //// ahora hay que leer todas las fosas de esta localidad
       var listaFosas=construyeListaFosas(xmlLoc[i]);
       var tempLocalidad=new localidad(locNombre, locLatitud, locLongitud, listaFosas);
