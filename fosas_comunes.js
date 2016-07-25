@@ -77,6 +77,7 @@ function localidad(nombre, latitud, longitud, listaFosas)
     this.longitud=longitud;
     this.listaFosas=listaFosas;
     this.puntoEnEntorno = function(latitudPunto, longitudPunto) {
+            console.log("mirando si punto "+latitudPunto+","+longitudPunto+" esta cerca de "+latitud +","+longitud+" con delta "+ deltaLocalidad);
             if (Math.abs(latitud-latitudPunto) > deltaLocalidad) return false;
             if (Math.abs(longitud-longitudPunto) > deltaLocalidad) return false;
             return true;
@@ -115,6 +116,7 @@ function zona(latitud, longitud, listaLocalidades)
     this.localidadActual=null; // la funcion cambiaPosicion deberá actualizarla
     console.log("zona nueva:", this);
     this.buscaLocalidadEnEntorno = function(latitudPunto, longitudPunto)    {
+        console.log("buscando localidad en entorno: "+latitudPunto+","+longitudPunto);
         for (var i=0; i<listaLocalidades.length; i++){
          if (listaLocalidades[i].puntoEnEntorno(latitudPunto, longitudPunto)) return listaLocalidades[i];
         }
@@ -127,7 +129,6 @@ function construyeListaVictimas(xmlFosa)
 {
    //ahora voy a recorrer las fosas de la localidad  
    var xmlVictima=xmlFosa.getElementsByTagName("victima");
-   console.log("victimas: " + xmlVictima.length); 
    var listaVictimas= new Array();
 
   
@@ -166,7 +167,6 @@ function construyeListaVictimas(xmlFosa)
       currentTagName=xmlVictima[i].getElementsByTagName("fechaInhumacion")[0];
       if (currentTagName) fechaInhumacion=currentTagName.childNodes[0].nodeValue;
 
-      console.log("victima", nombre);
       var tempVictima=new victima(nombre, apellido1, apellido2, sexo, edad, profesion, fechaFallecimiento, fechaInhumacion);
       listaVictimas.push(tempVictima); 
      }
@@ -180,11 +180,8 @@ function construyeListaFosas(xmlLocalidad)
 {
    //ahora voy a recorrer las fosas de la localidad  
    var xmlFosa=xmlLocalidad.getElementsByTagName("fosa");
-   console.log("fosas: " + xmlFosa.length); 
    var listaFosas= new Array();
 
-
-  
     for (var i = 0; i <xmlFosa.length; i++) {  // para cada fosa   
       var numRegistro=null;
       var tipoFosa=null;
@@ -194,7 +191,6 @@ function construyeListaFosas(xmlLocalidad)
       var numeroPersonasIdentificadas=null;
       var observaciones=null;
       var currentTagName=null
-      console.log("creando fosa i=", i, "de ",  xmlFosa.length);                    
       
       currentTagName=xmlFosa[i].getElementsByTagName("numRegistro")[0];
       if (currentTagName) numRegistro=currentTagName.childNodes[0].nodeValue;
@@ -217,12 +213,10 @@ function construyeListaFosas(xmlLocalidad)
       currentTagName=xmlFosa[i].getElementsByTagName("observaciones")[0];
       if (currentTagName) observaciones=currentTagName.childNodes[0].nodeValue;
 
-      console.log("fosa ", numRegistro);
       //// ahora hay que leer todas las victimas de esta fosa
       var listaVictimas=construyeListaVictimas(xmlFosa[i]);
       var tempFosa=new fosa(numRegistro, tipoFosa, estadoActual, numeroPersonasFosa, numeroPersonasExhumadas, numeroPersonasIdentificadas, observaciones, listaVictimas);
       listaFosas.push(tempFosa); 
-      console.log("creada la fosa i=", i, "de ",  xmlFosa.length);
      }
 
      return listaFosas;
@@ -247,7 +241,6 @@ function construyeListaLocalidades(xmlZona)
       locLatitud=locLatitud/1; // con esto fuerzo la conversion numerica
       locLongitud=locLatitud/1; // con esto fuerzo la conversion numerica
       //// ahora hay que leer todas las fosas de esta localidad
-      console.log("localidad", locNombre);
       var listaFosas=construyeListaFosas(xmlLoc[i]);
       var tempLocalidad=new localidad(locNombre, locLatitud, locLongitud, listaFosas);
       listaLocalidades.push(tempLocalidad); 
@@ -298,14 +291,14 @@ function cambiaPosicion(newLatitud, newLongitud)
    // 2º al pinchar el usuario en el mapa
    // 3º al pinchar en un marcador de fosa
    // por tanto en muchos casos no habra ni cambio de zona ni cambio de nada
-    console.log("CambiaPosicion");
+    console.log("CambiaPosicion: "+ newLatitud+","+newLongitud);
     if (miZona.localidadActual)
-    {   // caso de que estemos dentro de la zona actual
+    {   // si ya hay una localidad actual, y seguimos en el entorno, no hacemos nada
         if (miZona.localidadActual.puntoEnEntorno(newLatitud, newLongitud)) return;
     }
     
     //solo cambiaremos la localidad actual si encontramos otra en el entorno del punto
-    // para eso no queda mas remedio que recorrer todas las localidades
+    // para eso no queda mas remedio que recorrer todas las localidades de la zona
     var localidadActual=miZona.buscaLocalidadEnEntorno(newLatitud, newLongitud);
     if (localidadActual){ 
        //necesitamos cambiar la localidad actual.

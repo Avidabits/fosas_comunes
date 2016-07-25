@@ -77,7 +77,7 @@
           for (var j=0; j<listaFosas.length; j++)
           {   
               var punto=new google.maps.LatLng(miZona.listaLocalidades[i].latitud+deltaFosas*j,miZona.listaLocalidades[i].longitud+deltaFosas*j); 
-              console.log("creando marcador de localidad ", miZona.listaLocalidades[i].nombre, " fosa ", j, "de fosas", listaFosas.length, "en el punto", punto);
+              console.log("creando marcador de ", miZona.listaLocalidades[i].nombre, " fosa ", j, "de fosas", listaFosas.length, "en el punto", punto);
               var markerFosa=new google.maps.Marker({position:punto, map:map, icon:'calavera_marker.png'});
               listaFosas[j].marcador=markerFosa; //para poder animar y desanimar 
                                              
