@@ -1,4 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
+<listaLocalidades>
+  
 <localidad>
 <nombre>Salas</nombre>
 <IdProvincia>6</IdProvincia>
@@ -10617,3 +10620,4 @@
 <longitud>-1.322687</longitud>
 </localidad>
 
+  </listaLocalidades>
