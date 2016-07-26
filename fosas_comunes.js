@@ -26,12 +26,17 @@ function victima(nombre, apellido1, apellido2, sexo, edad, profesion, fechaFalle
     this.fechaFallecimiento=fechaFallecimiento;
     this.fechaInhumacion=fechaInhumacion;
     this.generaSpeech=function(){
-       // TODO: ENTERARSE DE COMO PONER BIEN ACENTOS Y EÑES. 
-       var speech=nombre+" "+apellido1+" "+apellido2+" de "+edad+" anios ,"+ profesion + "fallece el "+fechaFallecimiento;
-       if (fechaInhumacion) speech+="se inhuma el "+fechaInhumacion;
+       var speech=""; 
+       if (nombre) speech+=nombre;
+       if (apellido1) speech+=" "+apellido1;
+       if (apellido2) speech+=" "+apellido2;
+       if (edad) speech+=" de "+edad+" años"; // TODO: ENTERARSE DE COMO PONER BIEN ACENTOS Y EÑES.
+       if (profesion) speech+=", "+profesion;
+       if (fechaFallecimiento) speech+=" fallece el "+fechaFallecimiento;
+       if (fechaInhumacion) speech+=", se inhuma el "+fechaInhumacion;
        speech+=".\n";
        return speech;
-    }; //generaSpeech
+    }; //victima.generaSpeech
 
 }//victima
 
@@ -48,26 +53,34 @@ function fosa(registro, tipoFosa, estadoActual,numeroPersonasFosa, numeroPersona
     this.marcador=null;
 
     this.generaSpeech=function(){
-      var speech="Fosa "/*+registro*/+" del tipo "+tipoFosa+", actualmente "+estadoActual+ ". Contiene ";
-      if (numeroPersonasFosa==1){
-        speech+="una persona ";
-        if (numeroPersonasIdentificadas==1) speech+="identificada";
-        else speech+="no identificada";
-        if (numeroPersonasExhumadas==1) speech+=" y exhumada";
+      // TODO: el número de fosa lo recita como si fueran siglas americanas (CA->california) por eso lo omito hasta que sepa como solucionar el problema
+      var speech="";
+      if (tipoFosa) speech+="Fosa del tipo "+tipoFosa;
+      if (estadoActual) speech+=" actualmente "+estadoActual;
+      if (numeroPersonasFosa!=null)
+      {
+         if (numeroPersonasFosa==1) speech+=" contiene una persona";
+         else if (numeroPersonasFosa>1) speech+="contiene "+numeroPersonasFosa+" personas";
       }
-      else {
-        speech+=numeroPersonasFosa + " personas";
-        if (numeroPersonasExhumadas>0) speech+=", de las cuales exhumadas: "+ numeroPersonasExhumadas;
-        if (numeroPersonasIdentificadas>0) ", e identificadas: "+ numeroPersonasIdentificadas;      
+      if (numeroPersonasIdentificadas!=null)
+      {
+          if (numeroPersonasIdentificadas==0) speech+=" sin identificar";
+          else if (numeroPersonasIdentificadas>0) speech+=", "+numeroPersonasIdentificadas+" identificadas";
       }
-      speech+=".\n"+observaciones+"\n";
+      if (numeroPersonasExhumadas!=null)
+      {
+          if (numeroPersonasExhumadas==1) speech+=", una exhumada";
+          else if (numeroPersonasExhumandas>1) speech+=" "+numeroPersonasExhumadas+" exhumadas";
+      }
+      if (observaciones!=null) speech+=".\n"+observaciones+"\n";
+      if (listaVictimas.length>0) speech+="Víctimas: ";
       for (var i=0; i<listaVictimas.length; i++)
       {
            speech+=listaVictimas[i].generaSpeech();
       }
        
       return speech;
-    }; //generaSpeech
+    }; //fosa.generaSpeech
     
  } // fosa
 ;
@@ -88,7 +101,7 @@ function localidad(nombre, latitud, longitud, listaFosas)
      var speech=nombre; 
        // TODO: ENTERARSE DE COMO PONER BIEN ACENTOS Y EÑES. 
       if (listaFosas.length==1) speech+=", tiene una fosa comun.\n"; 
-      else speech+=", tiene "+listaFosas.length+" fosas comunes.\n";
+      else if (listaFosas.lenfth >1) speech+=", tiene "+listaFosas.length+" fosas comunes.\n";
       for (var i=0; i<listaFosas.length; i++)
       {   
           speech+=listaFosas[i].generaSpeech();
@@ -366,10 +379,9 @@ function habla(text) {
 	msg.rate = 1.0;
 	msg.pitch = 1.0;
   
-    // If a voice has been selected, find the voice and set the
-    // utterance instance's voice attribute.
+    // uso la voz que mejor funciona sin conexión -native- para optimizar el consumo de datos
 	msg.voice = speechSynthesis.getVoices().filter(function(voice) { return voice.name == "native"; })[0];
 	console.log(msg); 
-    // Queue this utterance.
+    window.speechSynthesis.cancel(); //hacer que pare la anterior locución si es que había
 	window.speechSynthesis.speak(msg);
 }
