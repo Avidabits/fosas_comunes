@@ -50,8 +50,7 @@ function fosa(registro, tipoFosa, estadoActual,numeroPersonasFosa, numeroPersona
     this.numeroPersonasIdentificadas=numeroPersonasIdentificadas;
     this.observaciones=observaciones;
     this.listaVictimas=listaVictimas;
-    this.marcador=null;
-
+    
     this.generaSpeech=function(){
       // TODO: el número de fosa lo recita como si fueran siglas americanas (CA->california) por eso lo omito hasta que sepa como solucionar el problema
       var speech="";
@@ -70,7 +69,7 @@ function fosa(registro, tipoFosa, estadoActual,numeroPersonasFosa, numeroPersona
       if (numeroPersonasExhumadas!=null)
       {
           if (numeroPersonasExhumadas==1) speech+=", una exhumada";
-          else if (numeroPersonasExhumandas>1) speech+=" "+numeroPersonasExhumadas+" exhumadas";
+          else if (numeroPersonasExhumadas>1) speech+=" "+numeroPersonasExhumadas+" exhumadas";
       }
       if (observaciones!=null) speech+=".\n"+observaciones+"\n";
       if (listaVictimas.length>0) speech+="Víctimas: ";
@@ -110,16 +109,7 @@ function localidad(nombre, latitud, longitud, listaFosas)
       return speech;
   
     };//generaSpeech 
-    this.animaMarcadores=function(){
-       for (var i=0; i<listaFosas.lenght; i++){
-          listaFosas[i].marcador.setAnimation(google.maps.Animation.BOUNCE);
-       }
-    };//animaMarcadores
-    this.desanimaMarcadores=function(){
-       for (var i=0; i<listaFosas.lenght; i++){
-          listaFosas[i].marcador.setAnimation(null);
-       }
-    };//desanimaMarcadores
+    
 
 } //objeto localidad
 
@@ -288,6 +278,11 @@ function construyeZona(xml)
 
 
 //////////////////////////////////////
+function nombreFicheroMarcadores()
+{
+  return "datos/localidades_con_fosa.xml";
+}
+
 function nombreFicheroZona(latitud, longitud)
 {
     // TODO: lo primero necesitarmos saber que fichero pedir,
@@ -317,9 +312,9 @@ function cambiaPosicion(newLatitud, newLongitud)
     var localidadActual=miZona.buscaLocalidadEnEntorno(newLatitud, newLongitud);
     if (localidadActual){ 
        //necesitamos cambiar la localidad actual.
-       if(miZona.localidadActual) miZona.localidadActual.desanimaMarcadores();
+       //if(miZona.localidadActual) miZona.localidadActual.desanimaMarcadores();
        miZona.localidadActual=localidadActual;
-       miZona.localidadActual.animaMarcadores();
+       //miZona.localidadActual.animaMarcadores();
        habla(miZona.localidadActual.generaSpeech());
     }
     //TODO: aun podría ser el caso un cambio de zona, que por el momento no vamos a tratar

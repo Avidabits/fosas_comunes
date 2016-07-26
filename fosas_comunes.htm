@@ -42,11 +42,25 @@
           pCentro=new google.maps.LatLng(event.latLng.lat(), event.latLng.lng());
           map.setCenter(pCentro);          
       }); // esto es para que pueda funcionar en modo simulador
-      // TODO: aquí solo deberíamos cargar el fichero de posiciones y dejar la carga de 
-      // los datos zonales para cuando se detecte que son necesarios
+      asynCargaMarcadoresFosas(); //funcion asincrona
+      // TODO: quitar cuando este implementado que los datos zonales para cuando se detecte que son necesarios
       asyncCargaXMLZona();   //funcion asincrona
 
     }//function initialize   
+    
+    function asynCargaMarcadoresFosas()
+    {
+      console.log("entrando en asynCargaMarcadoresFosas");
+      var xhttp = new XMLHttpRequest();
+      xhttp.onreadystatechange = function() {
+              if (xhttp.readyState == 4 && xhttp.status == 200) {
+                  construyeMarcadores(xhttp);
+                }//if
+          };// function onreadystatechange
+
+      xhttp.open("GET", nombreFicheroMarcadores(), true);
+      xhttp.send();
+     } // function asynCargaMarcadoresFosas
     
     function asyncCargaXMLZona()
     {  
@@ -58,8 +72,6 @@
                   pCentro=new google.maps.LatLng(miZona.latitud,miZona.longitud);
                   console.log("centrado en la miZona", miZona.latitud,miZona.longitud);
                   map.setCenter(pCentro);
-                  //TODO: Separar la carga de marcadores (solo al principio) de la carga de zona
-                  creaMarcadoresFosas(); //Crear los marcadores de fosas
               }//if
           };// function onreadystatechange
 
@@ -67,36 +79,33 @@
       xhttp.send();
     }// function asyncCargaXMLZona
 
-    function creaMarcadoresFosas() 
+    function construyeMarcadores(xml)
     {
-      // Para cada localidad, obtener la lista de fosas, para cada fosa, marcador
-      // por el momento todas las fosas de una localidad comparten posicion, 
-      // pues la geolocalización es solo a nivel de localidad
-      
-      for (var i = 0; i <miZona.listaLocalidades.length; i++) 
-      {   
-          var listaFosas=miZona.listaLocalidades[i].listaFosas;
-          for (var j=0; j<listaFosas.length; j++)
-          {   
-              var punto=new google.maps.LatLng(miZona.listaLocalidades[i].latitud+deltaFosas*j,miZona.listaLocalidades[i].longitud+deltaFosas*j); 
-              console.log("creando marcador de ", miZona.listaLocalidades[i].nombre, " fosa ", j, "de fosas", listaFosas.length, "en el punto", punto);
-              var markerFosa=new google.maps.Marker({position:punto, map:map, icon:'calavera_marker.png'});
-              listaFosas[j].marcador=markerFosa; //para poder animar y desanimar 
-                                             
-              google.maps.event.addListener(markerFosa, 'click', function(event) {
+      var xmlDoc = xml.responseXML;
+      var cLatitud;
+      var cLongitud; 
+      var xmlLocalidad = xmlDoc.getElementsByTagName("localidad");//lista de localidadades
+    
+      for (var i = 0; i <xmlLocalidad.length; i++) {  
+        cLatitud=xmlLocalidad[i].getElementsByTagName("latitud")[0].childNodes[0].nodeValue;
+        cLatitud=cLatitud/1; // con esto fuerzo la conversion numerica
+        cLongitud=xmlLocalidad[i].getElementsByTagName("longitud")[0].childNodes[0].nodeValue;
+        cLongitud=cLongitud/1; // con esto fuerzo la conversion numerica
+        var punto=new google.maps.LatLng(cLatitud,cLongitud);
+        var markerFosa=new google.maps.Marker({position:punto, map:map, icon:'calavera_marker.png'});
+        google.maps.event.addListener(markerFosa, 'click', function(event) {
                   /*esto es para poder funcionar en modo simulacion */
                   console.log("se ha pinchado un marcador, evento: ", event);
                   cambiaPosicion(event.latLng.lat(), event.latLng.lng()); 
                   pCentro=event.latLng;
                   map.setCenter(pCentro); 
-                  /* TODO: este cambio de centro podría suponer un cambio de Zona sin que nos enteremos*/
-                  /* Por el momento vamos a asumir que solo hay una zona gigante- */
-                  } ); //addListener
-                            
-          } // for para cada fosa
-       }//for para cada localidad
-      
-    }// function creaMarcadoresFosas
+           } ); //addListener
+
+      }//for  
+  
+    }//function construyeMarcadores
+    
+  
     
   </script>
   </head>
