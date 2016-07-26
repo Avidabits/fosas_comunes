@@ -232,7 +232,7 @@ function construyeListaFosas(xmlLocalidad)
       var listaVictimas=construyeListaVictimas(xmlFosa[i]);
       var tempFosa=new fosa(numRegistro, tipoFosa, estadoActual, numeroPersonasFosa, numeroPersonasExhumadas, numeroPersonasIdentificadas, observaciones, listaVictimas);
       listaFosas.push(tempFosa); 
-     }
+     } 
 
      return listaFosas;
 
