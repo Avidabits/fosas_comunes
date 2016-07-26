@@ -72,7 +72,7 @@ function fosa(registro, tipoFosa, estadoActual,numeroPersonasFosa, numeroPersona
           else if (numeroPersonasExhumadas>1) speech+=" "+numeroPersonasExhumadas+" exhumadas";
       }
       if (observaciones!=null) speech+=".\n"+observaciones+"\n";
-      if (listaVictimas.length>0) speech+="Víctimas: ";
+      if (listaVictimas.length>0) speech+=" Victimas: "; //TODO: problema con accentos. 
       for (var i=0; i<listaVictimas.length; i++)
       {
            speech+=listaVictimas[i].generaSpeech();
@@ -241,8 +241,8 @@ function construyeListaLocalidades(xmlZona)
   
     for (var i = 0; i <xmlLoc.length; i++) {  // para cada localidad    
       locNombre=xmlLoc[i].getElementsByTagName("nombre")[0].childNodes[0].nodeValue;
-      locLatitud=xmlLoc[i].getElementsByTagName("Latitud")[0].childNodes[0].nodeValue;
-      locLongitud=xmlLoc[i].getElementsByTagName("Longitud")[0].childNodes[0].nodeValue;
+      locLatitud=xmlLoc[i].getElementsByTagName("latitud")[0].childNodes[0].nodeValue;
+      locLongitud=xmlLoc[i].getElementsByTagName("longitud")[0].childNodes[0].nodeValue;
       locLatitud=locLatitud/1; // con esto fuerzo la conversion numerica
       locLongitud=locLongitud/1; // con esto fuerzo la conversion numerica
       //// ahora hay que leer todas las fosas de esta localidad

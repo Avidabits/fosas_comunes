@@ -84,8 +84,9 @@
       var xmlDoc = xml.responseXML;
       var cLatitud;
       var cLongitud; 
+      
       var xmlLocalidad = xmlDoc.getElementsByTagName("localidad");//lista de localidadades
-    
+      console.log("construyeMarcadores: longitud="+xmlLocalidad.length);
       for (var i = 0; i <xmlLocalidad.length; i++) {  
         cLatitud=xmlLocalidad[i].getElementsByTagName("latitud")[0].childNodes[0].nodeValue;
         cLatitud=cLatitud/1; // con esto fuerzo la conversion numerica
