@@ -84,7 +84,7 @@
       var xmlDoc = xml.responseXML;
       var cLatitud;
       var cLongitud; 
-      
+      console.log(xmlDoc);
       var xmlLocalidad = xmlDoc.getElementsByTagName("localidad");//lista de localidadades
       console.log("construyeMarcadores: longitud="+xmlLocalidad.length);
       for (var i = 0; i <xmlLocalidad.length; i++) {  
