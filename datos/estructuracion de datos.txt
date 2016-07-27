@@ -9,11 +9,10 @@ Quiero conseguir todo esto sin usar un servidor activo. Solo con un servidor pas
 Dividiré el mapa en cuadriculas con (lat-log)(lat-lon)
 Para cada cuadricula generaré un XML con los municipios, las fosas.
 Para eso primero debo generar una base de datos con todos los datos correctamente curados.
-
-Una vez realizada la base de datos, hare los scripts de exportacion de ficheros
-Los ficheros han de estar todos en un  directorio que será cacheado con la Appcache. 
-
-Alternativa: Un fichero de locucion por municipio. 
+Datos:
+	1517 Localidades con alguna fosa
+	2610 fosas catalogadas
+	57685 victimas
 
 ---------------
 Proceso: 
@@ -23,8 +22,6 @@ importar datos a access
 georreferenciar.
 indexar, compactar db
 ----------
-Datos:
-	1518 Localidades con alguna fosa
-	2610 fosas catalogadas
-	57685 victimas
+- se genera el fichero zona_completa.xml exportando las localidades y sus relaciones con fosas y victimas a xml desde access
+- con este un script se generan ficheros de zonas de "cuadriculas" de 2x2 grados, que se corresponde mas o menos a 222km de lado.
 

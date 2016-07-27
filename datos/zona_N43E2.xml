@@ -1,0 +1,2423 @@
+<?xml version="1.0" encoding="utf-8"?>
+<zona>
+  <centro>43 2</centro>
+  <localidad>
+    <nombre>Figueres</nombre>
+    <IdProvincia>19</IdProvincia>
+    <ID>257</ID>
+    <latitud>42.2675</latitud>
+    <longitud>2.96084</longitud>
+    <fosa>
+      <numRegistro>1037/2009 GERO</numRegistro>
+      <denominacionFosa>NO CONSTA</denominacionFosa>
+      <estadoActual>TRASLADADA AL VALLE DE LOS CAÍDOS</estadoActual>
+      <numeroPersonasFosa>4</numeroPersonasFosa>
+      <numeroPersonasExhumadas>4</numeroPersonasExhumadas>
+      <numeroPersonasIdentificadas>4</numeroPersonasIdentificadas>
+      <entidadInformante>Patrimonio Nacional</entidadInformante>
+      <observaciones>Trasladada al Valle de los Caídos con la fecha/s:26/03/1959,13/09/1964</observaciones>
+      <IdLocalidad>257</IdLocalidad>
+      <victima>
+        <nombre>José Mª</nombre>
+        <apellido1>Figa</apellido1>
+        <apellido2>Bigas</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1037/2009 GERO</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Joaquín</nombre>
+        <apellido1>Iglesias</apellido1>
+        <apellido2>Pérez</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1037/2009 GERO</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Emiliano</nombre>
+        <apellido1>del Val</apellido1>
+        <apellido2>Vázquez</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1037/2009 GERO</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Fernando</nombre>
+        <apellido1>Peinador</apellido1>
+        <apellido2>Martín</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1037/2009 GERO</numRegistro>
+      </victima>
+    </fosa>
+    <fosa>
+      <numRegistro>2205/2010 GERO</numRegistro>
+      <denominacionFosa>Fosa en el Cementerio de Figueres</denominacionFosa>
+      <estadoActual>NO INTERVENIDA</estadoActual>
+      <entidadPromotora>Dirección General de Memoria Democrática</entidadPromotora>
+      <entidadInformante>Dirección General de Memoria Democrática. Generalitat de Catalunya</entidadInformante>
+      <observaciones>La localidad de Figueres fue duramente bombardeada en el transcurso del año 1938 así como los últimos días de la guerra, justo antes de la ocupación de la ciudad y cuando faltaba muy poco para que las tropas republicanas primero, y rebeldes después, llegaran a la frontera con Francia. El número de muertos de esos días es de más de 200 personas, pero muchas de ellas no pudieron ser identificadas, seguramente eran de otros lugares de Cataluña o del Estado. Aunque esta fosa no es propiamente de soldados sino que suponemos que la mayoría de las víctimas fueron civiles, estos fueron muertos durante la retirada hacia Francia, periodo en el que las víctimas (todas las inhumados como "desconocidas" de la fosa) tenían los mismos objetivos y motivaciones, huir de la ejército rebelde y llegar a la frontera.</observaciones>
+      <IdLocalidad>257</IdLocalidad>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Pardines</nombre>
+    <IdProvincia>19</IdProvincia>
+    <ID>386</ID>
+    <latitud>42.31271</latitud>
+    <longitud>2.213113</longitud>
+    <fosa>
+      <numRegistro>1042/2009 GERO</numRegistro>
+      <denominacionFosa>NO CONSTA</denominacionFosa>
+      <estadoActual>TRASLADADA AL VALLE DE LOS CAÍDOS</estadoActual>
+      <numeroPersonasFosa>9</numeroPersonasFosa>
+      <numeroPersonasExhumadas>9</numeroPersonasExhumadas>
+      <numeroPersonasIdentificadas>0</numeroPersonasIdentificadas>
+      <entidadInformante>Patrimonio Nacional</entidadInformante>
+      <observaciones>Trasladada al Valle de los Caídos con la fecha/s:26/03/1959</observaciones>
+      <IdLocalidad>386</IdLocalidad>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1042/2009 GERO</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1042/2009 GERO</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1042/2009 GERO</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1042/2009 GERO</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1042/2009 GERO</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1042/2009 GERO</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1042/2009 GERO</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1042/2009 GERO</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1042/2009 GERO</numRegistro>
+      </victima>
+    </fosa>
+    <fosa>
+      <numRegistro>1043/2009 GERO</numRegistro>
+      <denominacionFosa>NO CONSTA</denominacionFosa>
+      <estadoActual>TRASLADADA AL VALLE DE LOS CAÍDOS</estadoActual>
+      <IdLocalidad>386</IdLocalidad>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Rialp</nombre>
+    <IdProvincia>30</IdProvincia>
+    <ID>424</ID>
+    <latitud>42.44348</latitud>
+    <longitud>1.135177</longitud>
+    <fosa>
+      <numRegistro>1253/2009 LERI</numRegistro>
+      <denominacionFosa>NO CONSTA</denominacionFosa>
+      <estadoActual>TRASLADADA AL VALLE DE LOS CAÍDOS</estadoActual>
+      <numeroPersonasFosa>69</numeroPersonasFosa>
+      <numeroPersonasExhumadas>68</numeroPersonasExhumadas>
+      <numeroPersonasIdentificadas>39</numeroPersonasIdentificadas>
+      <entidadInformante>Patrimonio Nacional</entidadInformante>
+      <observaciones>Trasladada al Valle de los Caídos con la fecha/s:19/11/1962</observaciones>
+      <IdLocalidad>424</IdLocalidad>
+      <victima>
+        <nombre>Juan</nombre>
+        <apellido1>Amedo</apellido1>
+        <apellido2>Rodríguez</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1253/2009 LERI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Coxeldeiro</nombre>
+        <apellido1>Amado</apellido1>
+        <apellido2>Carrión</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1253/2009 LERI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Faustino</nombre>
+        <apellido1>de la Cruz</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1253/2009 LERI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Francisco</nombre>
+        <apellido1>Díaz</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1253/2009 LERI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Pascual</nombre>
+        <apellido1>Siganto</apellido1>
+        <apellido2>Calvo</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1253/2009 LERI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Valeriano</nombre>
+        <apellido1>Undides</apellido1>
+        <apellido2>Frandosa</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1253/2009 LERI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>José</nombre>
+        <apellido1>Ferreiro</apellido1>
+        <apellido2>Pérez</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1253/2009 LERI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>José</nombre>
+        <apellido1>González</apellido1>
+        <apellido2>Pedreira</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1253/2009 LERI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>José</nombre>
+        <apellido1>Varela</apellido1>
+        <apellido2>Balanto</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1253/2009 LERI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Tomás</nombre>
+        <apellido1>Marques</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1253/2009 LERI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Agustín</nombre>
+        <apellido1>González</apellido1>
+        <apellido2>Ruiz</apellido2>
+        <sexo>M</sexo>
+        <edad>49</edad>
+        <profesion>Labrador</profesion>
+        <otrosDatos>Casado</otrosDatos>
+        <fechaFallecimiento>13/05/1938</fechaFallecimiento>
+        <numRegistro>1253/2009 LERI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1253/2009 LERI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>José</nombre>
+        <apellido1>Badosa</apellido1>
+        <apellido2>Badosa</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1253/2009 LERI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Ramón</nombre>
+        <apellido1>Velasco</apellido1>
+        <apellido2>Alonso</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1253/2009 LERI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Ángel</nombre>
+        <apellido1>Rocha</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1253/2009 LERI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Evaristo</nombre>
+        <apellido1>Pozos</apellido1>
+        <apellido2>Ramos</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1253/2009 LERI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Manuel</nombre>
+        <apellido1>Quintana</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1253/2009 LERI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Andrés</nombre>
+        <apellido1>Hernández</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1253/2009 LERI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Amable</nombre>
+        <apellido1>Cosme</apellido1>
+        <apellido2>Bugalló</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1253/2009 LERI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>José</nombre>
+        <apellido1>Sanjurjo</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1253/2009 LERI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1253/2009 LERI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1253/2009 LERI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Bruno</nombre>
+        <apellido1>Canicajo</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1253/2009 LERI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <otrosDatos>Chapa Nº 361058</otrosDatos>
+        <numRegistro>1253/2009 LERI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1253/2009 LERI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1253/2009 LERI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1253/2009 LERI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Alejandro</nombre>
+        <apellido1>Aparicio</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1253/2009 LERI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1253/2009 LERI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Dionisio</nombre>
+        <apellido1>Cortijo</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1253/2009 LERI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Tomás</nombre>
+        <apellido1>Pujante</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1253/2009 LERI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1253/2009 LERI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1253/2009 LERI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1253/2009 LERI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Daniel</nombre>
+        <apellido1>López</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1253/2009 LERI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Mauro</nombre>
+        <apellido1>Calvo</apellido1>
+        <apellido2>Pérez</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1253/2009 LERI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Ramón</nombre>
+        <apellido1>González</apellido1>
+        <apellido2>López</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1253/2009 LERI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Manuel</nombre>
+        <apellido1>Lucas</apellido1>
+        <apellido2>Tarrado</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1253/2009 LERI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1253/2009 LERI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1253/2009 LERI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Enrique</nombre>
+        <apellido1>Fanós</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1253/2009 LERI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1253/2009 LERI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1253/2009 LERI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Manuel</nombre>
+        <apellido1>Belmonte</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1253/2009 LERI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1253/2009 LERI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Juan Manuel</nombre>
+        <apellido1>Blanco</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1253/2009 LERI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Aparicio</nombre>
+        <apellido1>Rodríguez</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1253/2009 LERI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1253/2009 LERI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1253/2009 LERI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1253/2009 LERI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Ricardo</nombre>
+        <apellido1>Pérez</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1253/2009 LERI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Antonio</nombre>
+        <apellido1>Palacios</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1253/2009 LERI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Rogelio</nombre>
+        <apellido1>Fonaso</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1253/2009 LERI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1253/2009 LERI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Vicente</nombre>
+        <apellido1>Víctor</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1253/2009 LERI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1253/2009 LERI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Andrés</nombre>
+        <apellido1>Honrado</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1253/2009 LERI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Venerando</nombre>
+        <apellido1>Grobel</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1253/2009 LERI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1253/2009 LERI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1253/2009 LERI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Ramiro</nombre>
+        <apellido1>Méndez</apellido1>
+        <apellido2>Sedante</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1253/2009 LERI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Hermenegildo</nombre>
+        <apellido1>Rodríguez</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1253/2009 LERI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Gabriel</nombre>
+        <apellido1>Usay</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1253/2009 LERI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1253/2009 LERI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1253/2009 LERI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1253/2009 LERI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1253/2009 LERI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1253/2009 LERI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1253/2009 LERI</numRegistro>
+      </victima>
+    </fosa>
+    <fosa>
+      <numRegistro>2280/2010 LERI</numRegistro>
+      <denominacionFosa>Fosa Molina de Josepet</denominacionFosa>
+      <fechaFosa>05/11/1938</fechaFosa>
+      <estadoActual>DESAPARECIDA</estadoActual>
+      <numeroPersonasFosa>11</numeroPersonasFosa>
+      <numeroPersonasIdentificadas>11</numeroPersonasIdentificadas>
+      <entidadPromotora>Dirección General de Memoria Democrática</entidadPromotora>
+      <entidadInformante>Dirección General de Memoria Democrática. Generalitat de Catalunya</entidadInformante>
+      <observaciones>Esta fosa actualmente se encuentra desaparecida ya que los restos fueron trasladados al cementerio de Rialp en los años 60. En el año 2004 los familiares pusieron una placa con la ayuda de la Generalitat, el Consejo Comarcal y el Ayuntamiento con los nombres de las víctimas.</observaciones>
+      <IdLocalidad>424</IdLocalidad>
+      <victima>
+        <nombre>Francesc</nombre>
+        <apellido1>Noves</apellido1>
+        <apellido2>Gasia</apellido2>
+        <sexo>V</sexo>
+        <fechaFallecimiento>05/11/1938</fechaFallecimiento>
+        <numRegistro>2280/2010 LERI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Francesc</nombre>
+        <apellido1>Sumalla</apellido1>
+        <apellido2>Gardenyes</apellido2>
+        <sexo>V</sexo>
+        <fechaFallecimiento>05/11/1938</fechaFallecimiento>
+        <numRegistro>2280/2010 LERI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Francesc</nombre>
+        <apellido1>Franch</apellido1>
+        <apellido2>Escur</apellido2>
+        <sexo>V</sexo>
+        <fechaFallecimiento>05/11/1938</fechaFallecimiento>
+        <numRegistro>2280/2010 LERI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Jaume</nombre>
+        <apellido1>Moli</apellido1>
+        <apellido2>Canut</apellido2>
+        <sexo>V</sexo>
+        <fechaFallecimiento>05/11/1938</fechaFallecimiento>
+        <numRegistro>2280/2010 LERI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Josep</nombre>
+        <apellido1>Farré</apellido1>
+        <apellido2>Mola</apellido2>
+        <sexo>V</sexo>
+        <fechaFallecimiento>05/11/1938</fechaFallecimiento>
+        <numRegistro>2280/2010 LERI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Modest</nombre>
+        <apellido1>Roc</apellido1>
+        <apellido2>Montané</apellido2>
+        <sexo>V</sexo>
+        <fechaFallecimiento>05/11/1938</fechaFallecimiento>
+        <numRegistro>2280/2010 LERI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Baltasar</nombre>
+        <apellido1>Pau</apellido1>
+        <apellido2>Coma</apellido2>
+        <sexo>V</sexo>
+        <fechaFallecimiento>05/11/1938</fechaFallecimiento>
+        <numRegistro>2280/2010 LERI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Blai</nombre>
+        <apellido1>Montané</apellido1>
+        <apellido2>Terrés</apellido2>
+        <sexo>V</sexo>
+        <fechaFallecimiento>05/11/1938</fechaFallecimiento>
+        <numRegistro>2280/2010 LERI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Guillem</nombre>
+        <apellido1>Peret</apellido1>
+        <apellido2>Borrut</apellido2>
+        <sexo>V</sexo>
+        <fechaFallecimiento>05/11/1938</fechaFallecimiento>
+        <numRegistro>2280/2010 LERI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Jaume</nombre>
+        <apellido1>Nus</apellido1>
+        <apellido2>Canut</apellido2>
+        <sexo>V</sexo>
+        <fechaFallecimiento>05/11/1938</fechaFallecimiento>
+        <numRegistro>2280/2010 LERI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Francesc</nombre>
+        <apellido1>Portis</apellido1>
+        <apellido2>Lapedra</apellido2>
+        <sexo>V</sexo>
+        <fechaFallecimiento>05/11/1938</fechaFallecimiento>
+        <numRegistro>2280/2010 LERI</numRegistro>
+      </victima>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Berga</nombre>
+    <IdProvincia>9</IdProvincia>
+    <ID>537</ID>
+    <latitud>42.10144</latitud>
+    <longitud>1.8438</longitud>
+    <fosa>
+      <numRegistro>1284/2009 BARC</numRegistro>
+      <denominacionFosa>NO CONSTA</denominacionFosa>
+      <estadoActual>TRASLADADA AL VALLE DE LOS CAÍDOS</estadoActual>
+      <numeroPersonasFosa>1</numeroPersonasFosa>
+      <numeroPersonasExhumadas>1</numeroPersonasExhumadas>
+      <numeroPersonasIdentificadas>1</numeroPersonasIdentificadas>
+      <entidadInformante>Patrimonio Nacional</entidadInformante>
+      <observaciones>Trasladada al Valle de los Caídos con la fecha/s:14/01/1965</observaciones>
+      <IdLocalidad>537</IdLocalidad>
+      <victima>
+        <nombre>José Mª</nombre>
+        <apellido1>Rodríguez</apellido1>
+        <apellido2>Fontecha</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1284/2009 BARC</numRegistro>
+      </victima>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Prats de Lluçanès</nombre>
+    <IdProvincia>9</IdProvincia>
+    <ID>553</ID>
+    <latitud>42.00874</latitud>
+    <longitud>2.028578</longitud>
+    <fosa>
+      <numRegistro>1802/2010 BARC</numRegistro>
+      <denominacionFosa>Fosa de Puigvistós</denominacionFosa>
+      <tipoFosa>LUCHA ARMADA</tipoFosa>
+      <fechaFosa>06/02/1939</fechaFosa>
+      <estadoActual>EXHUMADA TOTAL</estadoActual>
+      <numeroPersonasExhumadas>7</numeroPersonasExhumadas>
+      <numeroPersonasIdentificadas>1</numeroPersonasIdentificadas>
+      <entidadPromotora>Dirección General de Memoria Democrática</entidadPromotora>
+      <entidadInformante>Dirección General de Memoria Democrática. Generalitat de Catalunya</entidadInformante>
+      <observaciones>La intervención en esta fosa, ubicada en la finca Mas Puigvistós, se realizó en junio de 2004 como una prueba piloto que se encargó por la Comisión Interdepartamental sobre Localización de Fosas de la Generalitat de Cataluña al Instituto de Medicina Legal de Cataluña. El estudio previo para su localización se hizo a partir del testimonio de la hermana de uno de los inhumados en la fosa, quien vió morir y enterrar a un grupo de 6 u 8 soldados. Como datos históricos previos se conocía que el 3 de febrero de 1939 las tropas rebeldes entraron en Prats de Lluçanés, tras duros combates por la resistencia del ejército republicano. A los tres días, vecinos del pueblo recogieron en las proximidadesd del caserio los cadáveres de, al menos, un civil y de varios soldados republicanos y los enterraron en esta fosa. Tras los trabajos de apertura de la fosa aparecieron siete esqueletos que corresponden a hombres de una edad media de 30 años, todos presentan evidencias que indican su muerte violenta por arma de fuego.</observaciones>
+      <IdLocalidad>553</IdLocalidad>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Amer</nombre>
+    <IdProvincia>19</IdProvincia>
+    <ID>719</ID>
+    <latitud>42.0095</latitud>
+    <longitud>2.604287</longitud>
+    <fosa>
+      <numRegistro>1031/2009 GERO</numRegistro>
+      <denominacionFosa>NO CONSTA</denominacionFosa>
+      <estadoActual>TRASLADADA AL VALLE DE LOS CAÍDOS</estadoActual>
+      <numeroPersonasFosa>22</numeroPersonasFosa>
+      <numeroPersonasExhumadas>22</numeroPersonasExhumadas>
+      <numeroPersonasIdentificadas>0</numeroPersonasIdentificadas>
+      <entidadInformante>Patrimonio Nacional</entidadInformante>
+      <observaciones>Trasladada al Valle de los Caídos con la fecha/s:26/03/1959</observaciones>
+      <IdLocalidad>719</IdLocalidad>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1031/2009 GERO</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1031/2009 GERO</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1031/2009 GERO</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1031/2009 GERO</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1031/2009 GERO</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1031/2009 GERO</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1031/2009 GERO</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1031/2009 GERO</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1031/2009 GERO</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1031/2009 GERO</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1031/2009 GERO</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1031/2009 GERO</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1031/2009 GERO</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1031/2009 GERO</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1031/2009 GERO</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1031/2009 GERO</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1031/2009 GERO</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1031/2009 GERO</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1031/2009 GERO</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1031/2009 GERO</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1031/2009 GERO</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1031/2009 GERO</numRegistro>
+      </victima>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Bolvir</nombre>
+    <IdProvincia>19</IdProvincia>
+    <ID>720</ID>
+    <latitud>42.41716</latitud>
+    <longitud>1.88031</longitud>
+    <fosa>
+      <numRegistro>1032/2009 GERO</numRegistro>
+      <denominacionFosa>NO CONSTA</denominacionFosa>
+      <estadoActual>TRASLADADA AL VALLE DE LOS CAÍDOS</estadoActual>
+      <numeroPersonasFosa>1</numeroPersonasFosa>
+      <numeroPersonasExhumadas>1</numeroPersonasExhumadas>
+      <numeroPersonasIdentificadas>0</numeroPersonasIdentificadas>
+      <entidadInformante>Patrimonio Nacional</entidadInformante>
+      <observaciones>Trasladada al Valle de los Caídos con la fecha/s:26/03/1959</observaciones>
+      <IdLocalidad>720</IdLocalidad>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1032/2009 GERO</numRegistro>
+      </victima>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Castellfollit de la Roca</nombre>
+    <IdProvincia>19</IdProvincia>
+    <ID>722</ID>
+    <latitud>42.21913</latitud>
+    <longitud>2.550077</longitud>
+    <fosa>
+      <numRegistro>1267/2009 GERO</numRegistro>
+      <denominacionFosa>NO CONSTA</denominacionFosa>
+      <estadoActual>TRASLADADA AL VALLE DE LOS CAÍDOS</estadoActual>
+      <numeroPersonasFosa>2</numeroPersonasFosa>
+      <numeroPersonasExhumadas>2</numeroPersonasExhumadas>
+      <numeroPersonasIdentificadas>2</numeroPersonasIdentificadas>
+      <entidadInformante>Patrimonio Nacional</entidadInformante>
+      <observaciones>Trasladada al Valle de los Caídos con la fecha/s:19/11/1963</observaciones>
+      <IdLocalidad>722</IdLocalidad>
+      <victima>
+        <nombre>Vicente</nombre>
+        <apellido1>Rodríguez</apellido1>
+        <apellido2>Rodríguez</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1267/2009 GERO</numRegistro>
+      </victima>
+      <victima>
+        <nombre>José</nombre>
+        <apellido1>Carbonell</apellido1>
+        <apellido2>Saura</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1267/2009 GERO</numRegistro>
+      </victima>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Celrà</nombre>
+    <IdProvincia>19</IdProvincia>
+    <ID>723</ID>
+    <latitud>42.02462</latitud>
+    <longitud>2.878967</longitud>
+    <fosa>
+      <numRegistro>1035/2009 GERO</numRegistro>
+      <denominacionFosa>NO CONSTA</denominacionFosa>
+      <estadoActual>TRASLADADA AL VALLE DE LOS CAÍDOS</estadoActual>
+      <numeroPersonasFosa>10</numeroPersonasFosa>
+      <numeroPersonasExhumadas>10</numeroPersonasExhumadas>
+      <numeroPersonasIdentificadas>0</numeroPersonasIdentificadas>
+      <entidadInformante>Patrimonio Nacional</entidadInformante>
+      <observaciones>Trasladada al Valle de los Caídos con la fecha/s:26/03/1959</observaciones>
+      <IdLocalidad>723</IdLocalidad>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1035/2009 GERO</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1035/2009 GERO</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1035/2009 GERO</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1035/2009 GERO</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1035/2009 GERO</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1035/2009 GERO</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1035/2009 GERO</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1035/2009 GERO</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1035/2009 GERO</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1035/2009 GERO</numRegistro>
+      </victima>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Fontanals de Cerdanya</nombre>
+    <IdProvincia>19</IdProvincia>
+    <ID>725</ID>
+    <latitud>42.38765</latitud>
+    <longitud>1.919695</longitud>
+    <fosa>
+      <numRegistro>1034/2009 GERO</numRegistro>
+      <denominacionFosa>Caixans</denominacionFosa>
+      <estadoActual>TRASLADADA AL VALLE DE LOS CAÍDOS</estadoActual>
+      <numeroPersonasFosa>3</numeroPersonasFosa>
+      <numeroPersonasExhumadas>3</numeroPersonasExhumadas>
+      <numeroPersonasIdentificadas>0</numeroPersonasIdentificadas>
+      <entidadInformante>Patrimonio Nacional</entidadInformante>
+      <observaciones>Trasladada al Valle de los Caídos con la fecha/s:26/03/1959</observaciones>
+      <IdLocalidad>725</IdLocalidad>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1034/2009 GERO</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1034/2009 GERO</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1034/2009 GERO</numRegistro>
+      </victima>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Olot</nombre>
+    <IdProvincia>19</IdProvincia>
+    <ID>728</ID>
+    <latitud>42.18211</latitud>
+    <longitud>2.488189</longitud>
+    <fosa>
+      <numRegistro>2230/2010 GERO</numRegistro>
+      <denominacionFosa>Fosa en el Cementerio de Olot</denominacionFosa>
+      <estadoActual>DESAPARECIDA</estadoActual>
+      <entidadPromotora>Dirección General de Memoria Democrática</entidadPromotora>
+      <entidadInformante>Dirección General de Memoria Democrática. Generalitat de Catalunya</entidadInformante>
+      <observaciones>En Olot se instaló los últimos meses de la guerra un hospital militar. Mientras funcionó el hospital fueron atendidos aproximadamente 7.000 soldados, las fichas médicas de los cuales se conservan en el Archivo Municipal, al igual que el listado de muertos que se produjeron, entre 50 y 70 defunciones de personas foráneas de Olot. De estos, aunque puede que alguno no fuera enterrado en el cementerio, el resto fueron enterrados en el cementerio, aunque se ha perdido la memoria de ubicación de la fosa. En conversación mantenida con Jordi Pujiula, este informó que por fuerza ha de existir la fosa en el cementerio, y que incluso se había comentado por la población que los soldados que morían en el hospital eran inhumados de noche en el cementerio, para no crear, entre la población civil y también la militar estacionada en la zona, la lógica desmoralización.</observaciones>
+      <IdLocalidad>728</IdLocalidad>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Ribes de Freser</nombre>
+    <IdProvincia>19</IdProvincia>
+    <ID>729</ID>
+    <latitud>42.30637</latitud>
+    <longitud>2.169102</longitud>
+    <fosa>
+      <numRegistro>2282/2010 GERO</numRegistro>
+      <denominacionFosa>Fosa en el cementerio de Ribes de Freser</denominacionFosa>
+      <estadoActual>NO INTERVENIDA</estadoActual>
+      <entidadPromotora>Dirección General de Memoria Democrática</entidadPromotora>
+      <entidadInformante>Dirección General de Memoria Democrática. Generalitat de Catalunya</entidadInformante>
+      <observaciones>Las defunciones inscritas en Ribes se inician con soldados muertos el 29 de julio de 1938 y la última inscripción es del 6 de febrero de 1939. Ribes de Freser fue ocupado el día 8 y Núria el día 9. Todo parece indicar que los soldados muertos fueron inhumados en el cementerio, aunque actualmente se desconoce la ubicación de la fosa dentro del recinto</observaciones>
+      <IdLocalidad>729</IdLocalidad>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Ripoll</nombre>
+    <IdProvincia>19</IdProvincia>
+    <ID>730</ID>
+    <latitud>42.20079</latitud>
+    <longitud>2.190623</longitud>
+    <fosa>
+      <numRegistro>1044/2009 GERO</numRegistro>
+      <denominacionFosa>NO CONSTA</denominacionFosa>
+      <estadoActual>TRASLADADA AL VALLE DE LOS CAÍDOS</estadoActual>
+      <numeroPersonasFosa>2</numeroPersonasFosa>
+      <numeroPersonasExhumadas>2</numeroPersonasExhumadas>
+      <numeroPersonasIdentificadas>0</numeroPersonasIdentificadas>
+      <entidadInformante>Patrimonio Nacional</entidadInformante>
+      <observaciones>Trasladada al Valle de los Caídos con la fecha/s:26/03/1959</observaciones>
+      <IdLocalidad>730</IdLocalidad>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1044/2009 GERO</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1044/2009 GERO</numRegistro>
+      </victima>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Sant Ferriol</nombre>
+    <IdProvincia>19</IdProvincia>
+    <ID>731</ID>
+    <latitud>42.20639</latitud>
+    <longitud>2.661678</longitud>
+    <fosa>
+      <numRegistro>1046/2009 GERO</numRegistro>
+      <denominacionFosa>NO CONSTA</denominacionFosa>
+      <estadoActual>TRASLADADA AL VALLE DE LOS CAÍDOS</estadoActual>
+      <numeroPersonasFosa>1</numeroPersonasFosa>
+      <numeroPersonasExhumadas>1</numeroPersonasExhumadas>
+      <numeroPersonasIdentificadas>0</numeroPersonasIdentificadas>
+      <entidadInformante>Patrimonio Nacional</entidadInformante>
+      <observaciones>Trasladada al Valle de los Caídos con la fecha/s:26/03/1959</observaciones>
+      <IdLocalidad>731</IdLocalidad>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1046/2009 GERO</numRegistro>
+      </victima>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Sant Julià de Ramis</nombre>
+    <IdProvincia>19</IdProvincia>
+    <ID>733</ID>
+    <latitud>42.02824</latitud>
+    <longitud>2.853541</longitud>
+    <fosa>
+      <numRegistro>1048/2009 GERO</numRegistro>
+      <denominacionFosa>NO CONSTA</denominacionFosa>
+      <estadoActual>TRASLADADA AL VALLE DE LOS CAÍDOS</estadoActual>
+      <numeroPersonasFosa>3</numeroPersonasFosa>
+      <numeroPersonasExhumadas>3</numeroPersonasExhumadas>
+      <numeroPersonasIdentificadas>0</numeroPersonasIdentificadas>
+      <entidadInformante>Patrimonio Nacional</entidadInformante>
+      <observaciones>Trasladada al Valle de los Caídos con la fecha/s:26/03/1959</observaciones>
+      <IdLocalidad>733</IdLocalidad>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1048/2009 GERO</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1048/2009 GERO</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1048/2009 GERO</numRegistro>
+      </victima>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Sant Martí de Llémena</nombre>
+    <IdProvincia>19</IdProvincia>
+    <ID>734</ID>
+    <latitud>42.03672</latitud>
+    <longitud>2.647339</longitud>
+    <fosa>
+      <numRegistro>1049/2009 GERO</numRegistro>
+      <denominacionFosa>NO CONSTA</denominacionFosa>
+      <estadoActual>TRASLADADA AL VALLE DE LOS CAÍDOS</estadoActual>
+      <numeroPersonasFosa>6</numeroPersonasFosa>
+      <numeroPersonasExhumadas>6</numeroPersonasExhumadas>
+      <numeroPersonasIdentificadas>0</numeroPersonasIdentificadas>
+      <entidadInformante>Patrimonio Nacional</entidadInformante>
+      <observaciones>Trasladada al Valle de los Caídos con la fecha/s:26/03/1959</observaciones>
+      <IdLocalidad>734</IdLocalidad>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1049/2009 GERO</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1049/2009 GERO</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1049/2009 GERO</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1049/2009 GERO</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1049/2009 GERO</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1049/2009 GERO</numRegistro>
+      </victima>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Sant Miquel de Campmajor</nombre>
+    <IdProvincia>19</IdProvincia>
+    <ID>735</ID>
+    <latitud>42.13596</latitud>
+    <longitud>2.678047</longitud>
+    <fosa>
+      <numRegistro>1050/2009 GERO</numRegistro>
+      <denominacionFosa>NO CONSTA</denominacionFosa>
+      <estadoActual>TRASLADADA AL VALLE DE LOS CAÍDOS</estadoActual>
+      <numeroPersonasFosa>21</numeroPersonasFosa>
+      <numeroPersonasExhumadas>21</numeroPersonasExhumadas>
+      <numeroPersonasIdentificadas>0</numeroPersonasIdentificadas>
+      <entidadInformante>Patrimonio Nacional</entidadInformante>
+      <observaciones>Trasladada al Valle de los Caídos con la fecha/s:26/03/1959</observaciones>
+      <IdLocalidad>735</IdLocalidad>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1050/2009 GERO</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1050/2009 GERO</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1050/2009 GERO</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1050/2009 GERO</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1050/2009 GERO</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1050/2009 GERO</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1050/2009 GERO</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1050/2009 GERO</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1050/2009 GERO</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1050/2009 GERO</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1050/2009 GERO</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1050/2009 GERO</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1050/2009 GERO</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1050/2009 GERO</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1050/2009 GERO</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1050/2009 GERO</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1050/2009 GERO</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1050/2009 GERO</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1050/2009 GERO</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1050/2009 GERO</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1050/2009 GERO</numRegistro>
+      </victima>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Sarrià de Ter</nombre>
+    <IdProvincia>19</IdProvincia>
+    <ID>736</ID>
+    <latitud>42.01446</latitud>
+    <longitud>2.824395</longitud>
+    <fosa>
+      <numRegistro>1051/2009 GERO</numRegistro>
+      <denominacionFosa>NO CONSTA</denominacionFosa>
+      <estadoActual>TRASLADADA AL VALLE DE LOS CAÍDOS</estadoActual>
+      <numeroPersonasFosa>1</numeroPersonasFosa>
+      <numeroPersonasExhumadas>1</numeroPersonasExhumadas>
+      <numeroPersonasIdentificadas>0</numeroPersonasIdentificadas>
+      <entidadInformante>Patrimonio Nacional</entidadInformante>
+      <observaciones>Trasladada al Valle de los Caídos con la fecha/s:26/03/1959</observaciones>
+      <IdLocalidad>736</IdLocalidad>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1051/2009 GERO</numRegistro>
+      </victima>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Terrades</nombre>
+    <IdProvincia>19</IdProvincia>
+    <ID>738</ID>
+    <latitud>42.31036</latitud>
+    <longitud>2.839645</longitud>
+    <fosa>
+      <numRegistro>1053/2009 GERO</numRegistro>
+      <denominacionFosa>NO CONSTA</denominacionFosa>
+      <estadoActual>TRASLADADA AL VALLE DE LOS CAÍDOS</estadoActual>
+      <numeroPersonasFosa>32</numeroPersonasFosa>
+      <numeroPersonasExhumadas>32</numeroPersonasExhumadas>
+      <numeroPersonasIdentificadas>0</numeroPersonasIdentificadas>
+      <entidadInformante>Patrimonio Nacional</entidadInformante>
+      <observaciones>Trasladada al Valle de los Caídos con la fecha/s:26/03/1959</observaciones>
+      <IdLocalidad>738</IdLocalidad>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1053/2009 GERO</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1053/2009 GERO</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1053/2009 GERO</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1053/2009 GERO</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1053/2009 GERO</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1053/2009 GERO</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1053/2009 GERO</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1053/2009 GERO</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1053/2009 GERO</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1053/2009 GERO</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1053/2009 GERO</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1053/2009 GERO</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1053/2009 GERO</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1053/2009 GERO</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1053/2009 GERO</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1053/2009 GERO</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1053/2009 GERO</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1053/2009 GERO</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1053/2009 GERO</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1053/2009 GERO</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1053/2009 GERO</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1053/2009 GERO</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1053/2009 GERO</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1053/2009 GERO</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1053/2009 GERO</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1053/2009 GERO</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1053/2009 GERO</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1053/2009 GERO</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1053/2009 GERO</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1053/2009 GERO</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1053/2009 GERO</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1053/2009 GERO</numRegistro>
+      </victima>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Tortellà</nombre>
+    <IdProvincia>19</IdProvincia>
+    <ID>739</ID>
+    <latitud>42.2337</latitud>
+    <longitud>2.630278</longitud>
+    <fosa>
+      <numRegistro>1054/2009 GERO</numRegistro>
+      <denominacionFosa>NO CONSTA</denominacionFosa>
+      <estadoActual>TRASLADADA AL VALLE DE LOS CAÍDOS</estadoActual>
+      <numeroPersonasFosa>1</numeroPersonasFosa>
+      <numeroPersonasExhumadas>1</numeroPersonasExhumadas>
+      <numeroPersonasIdentificadas>1</numeroPersonasIdentificadas>
+      <entidadInformante>Patrimonio Nacional</entidadInformante>
+      <observaciones>Trasladada al Valle de los Caídos con la fecha/s:26/03/1959</observaciones>
+      <IdLocalidad>739</IdLocalidad>
+      <victima>
+        <nombre>José</nombre>
+        <apellido1>Estebanell</apellido1>
+        <apellido2>Ventura</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1054/2009 GERO</numRegistro>
+      </victima>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Toses</nombre>
+    <IdProvincia>19</IdProvincia>
+    <ID>740</ID>
+    <latitud>42.32076</latitud>
+    <longitud>2.014152</longitud>
+    <fosa>
+      <numRegistro>1055/2009 GERO</numRegistro>
+      <denominacionFosa>NO CONSTA</denominacionFosa>
+      <estadoActual>TRASLADADA AL VALLE DE LOS CAÍDOS</estadoActual>
+      <numeroPersonasFosa>11</numeroPersonasFosa>
+      <numeroPersonasExhumadas>11</numeroPersonasExhumadas>
+      <numeroPersonasIdentificadas>0</numeroPersonasIdentificadas>
+      <entidadInformante>Patrimonio Nacional</entidadInformante>
+      <observaciones>Trasladada al Valle de los Caídos con la fecha/s:26/03/1959</observaciones>
+      <IdLocalidad>740</IdLocalidad>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1055/2009 GERO</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1055/2009 GERO</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1055/2009 GERO</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1055/2009 GERO</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1055/2009 GERO</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1055/2009 GERO</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1055/2009 GERO</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1055/2009 GERO</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1055/2009 GERO</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1055/2009 GERO</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1055/2009 GERO</numRegistro>
+      </victima>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Vilademuls</nombre>
+    <IdProvincia>19</IdProvincia>
+    <ID>741</ID>
+    <latitud>42.13896</latitud>
+    <longitud>2.888571</longitud>
+    <fosa>
+      <numRegistro>1056/2009 GERO</numRegistro>
+      <denominacionFosa>NO CONSTA</denominacionFosa>
+      <estadoActual>TRASLADADA AL VALLE DE LOS CAÍDOS</estadoActual>
+      <numeroPersonasFosa>1</numeroPersonasFosa>
+      <numeroPersonasExhumadas>1</numeroPersonasExhumadas>
+      <numeroPersonasIdentificadas>1</numeroPersonasIdentificadas>
+      <entidadInformante>Patrimonio Nacional</entidadInformante>
+      <observaciones>Trasladada al Valle de los Caídos con la fecha/s:26/03/1959</observaciones>
+      <IdLocalidad>741</IdLocalidad>
+      <victima>
+        <nombre>Fernando</nombre>
+        <apellido1>Rivas</apellido1>
+        <apellido2>Brunet</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1056/2009 GERO</numRegistro>
+      </victima>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Abella de la Conca</nombre>
+    <IdProvincia>30</IdProvincia>
+    <ID>954</ID>
+    <latitud>42.16106</latitud>
+    <longitud>1.089764</longitud>
+    <fosa>
+      <numRegistro>2285/2010 LERI</numRegistro>
+      <denominacionFosa>Fosa en el término municipal de Abella de la Conca</denominacionFosa>
+      <estadoActual>NO INTERVENIDA</estadoActual>
+      <entidadPromotora>Dirección General de Memoria Democrática</entidadPromotora>
+      <entidadInformante>Dirección General de Memoria Democrática. Generalitat de Catalunya</entidadInformante>
+      <observaciones>Cuando el frente se estabilizó en abril de 1938, Abella de la Conca quedó bajo dominio republicano, quedándose las tropas rebeldes a muy poca distancia. La fosa, o varias fosas que pueden haber por el término, tal y como especifica la Guardia Civil, debieron nacer sobre todo de los enfrentamientos del mes de mayo, igual que en Sant Romà d'Abella, así como los primeros días de la ofensiva final.</observaciones>
+      <IdLocalidad>954</IdLocalidad>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Escaló</nombre>
+    <IdProvincia>30</IdProvincia>
+    <ID>967</ID>
+    <latitud>42.54</latitud>
+    <longitud>1.15</longitud>
+    <fosa>
+      <numRegistro>2299/2011 LERI</numRegistro>
+      <denominacionFosa>Fosa en Prat del Rector</denominacionFosa>
+      <estadoActual>NO INTERVENIDA</estadoActual>
+      <entidadPromotora>Dirección General de Memoria Democrática</entidadPromotora>
+      <entidadInformante>Dirección General de Memoria Democrática. Generalitat de Catalunya</entidadInformante>
+      <observaciones>Las víctimas fueron inhumadas en el margen derecho de la carretera de Llavorsí en Escaló, entre el Hostal de Aidí y el puente del Cargol, en un lugar conocido como El Prat de Rector.</observaciones>
+      <IdLocalidad>967</IdLocalidad>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Estaron</nombre>
+    <IdProvincia>30</IdProvincia>
+    <ID>968</ID>
+    <latitud>42.53</latitud>
+    <longitud>1.19</longitud>
+    <fosa>
+      <numRegistro>2300/2011 LERI</numRegistro>
+      <denominacionFosa>Fosa en Prat del Coixet</denominacionFosa>
+      <estadoActual>DESAPARECIDA</estadoActual>
+      <numeroPersonasExhumadas>7</numeroPersonasExhumadas>
+      <entidadPromotora>Dirección General de Memoria Democrática</entidadPromotora>
+      <entidadInformante>Dirección General de Memoria Democrática. Generalitat de Catalunya</entidadInformante>
+      <observaciones>Se trata de una fosa desaparecida debido a que los restos fueron trasladados al cementerio.</observaciones>
+      <IdLocalidad>968</IdLocalidad>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Llavorsí</nombre>
+    <IdProvincia>30</IdProvincia>
+    <ID>972</ID>
+    <latitud>42.4955</latitud>
+    <longitud>1.212028</longitud>
+    <fosa>
+      <numRegistro>2292/2010 LERI</numRegistro>
+      <denominacionFosa>Fosa en Prat de Gori</denominacionFosa>
+      <estadoActual>NO INTERVENIDA</estadoActual>
+      <entidadPromotora>Dirección General de Memoria Democrática</entidadPromotora>
+      <entidadInformante>Dirección General de Memoria Democrática. Generalitat de Catalunya</entidadInformante>
+      <observaciones>A finales de abril de 1938 las tropas franquistas fueron a buscar a su casa a varios vecinos de Llavorsí. En total 6 hombres que fueron muertos en El Prat de Gori, entre Rialb y Llavorsí, junto a la carretera. La fosa fue abierta en el mismo Prat.</observaciones>
+      <IdLocalidad>972</IdLocalidad>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Montardit de Baix</nombre>
+    <IdProvincia>30</IdProvincia>
+    <ID>975</ID>
+    <latitud>42.38</latitud>
+    <longitud>1.11</longitud>
+    <fosa>
+      <numRegistro>2308/2011 LERI</numRegistro>
+      <denominacionFosa>Fosa en el Cementerio de Montardit</denominacionFosa>
+      <estadoActual>NO INTERVENIDA</estadoActual>
+      <numeroPersonasExhumadas>19</numeroPersonasExhumadas>
+      <entidadPromotora>Dirección General de Memoria Democrática</entidadPromotora>
+      <entidadInformante>Dirección General de Memoria Democrática. Generalitat de Catalunya</entidadInformante>
+      <observaciones>Las víctimas fueron vecinos de Escaló y Rialp. Los vecinos de Escaló fueron trasladados al cementerio de Montardit donde fueron ejecutados. Al día siguiente fueron enterrados junto al cementerio con los vecinos de Rialp, muertos en la Taquilla de Sort.</observaciones>
+      <IdLocalidad>975</IdLocalidad>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Organyà</nombre>
+    <IdProvincia>30</IdProvincia>
+    <ID>976</ID>
+    <latitud>42.2114</latitud>
+    <longitud>1.328864</longitud>
+    <fosa>
+      <numRegistro>2221/2010 LERI</numRegistro>
+      <denominacionFosa>Fosa en el Cementerio de Organyá</denominacionFosa>
+      <fechaFosa>01/12/1938</fechaFosa>
+      <estadoActual>NO INTERVENIDA</estadoActual>
+      <entidadPromotora>Dirección General de Memoria Democrática</entidadPromotora>
+      <entidadInformante>Dirección General de Memoria Democrática. Generalitat de Catalunya</entidadInformante>
+      <observaciones>Organyà sufrió dos bombardeos durante la Guerra en los que murieron varios vecinos del pueblo y unos 30 soldados de los que había instalados entonces en la localidad. El primer bombardeo, el 1 de diciembre de 1938, provocó la muerte de 9 vecinos, (niños y hombres mayores) y unos 30 soldados. A pesar de que los vecinos fueron atendidos en el hospital que se había instalado en las escuelas de la población, no se pudo hacer nada. Estos fueron enterrados por sus familias, pero los soldados fueron inhumados en una zanja en el cementerio</observaciones>
+      <IdLocalidad>976</IdLocalidad>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Pont de Bar, El</nombre>
+    <IdProvincia>30</IdProvincia>
+    <ID>978</ID>
+    <latitud>42.37196</latitud>
+    <longitud>1.606315</longitud>
+    <fosa>
+      <numRegistro>1252/2009 LERI</numRegistro>
+      <denominacionFosa>Aristot</denominacionFosa>
+      <estadoActual>TRASLADADA AL VALLE DE LOS CAÍDOS</estadoActual>
+      <numeroPersonasFosa>77</numeroPersonasFosa>
+      <numeroPersonasExhumadas>77</numeroPersonasExhumadas>
+      <numeroPersonasIdentificadas>22</numeroPersonasIdentificadas>
+      <entidadInformante>Patrimonio Nacional</entidadInformante>
+      <observaciones>Trasladada al Valle de los Caídos con la fecha/s:19/11/1962</observaciones>
+      <IdLocalidad>978</IdLocalidad>
+      <victima>
+        <nombre>Juan</nombre>
+        <apellido1>Sánchez</apellido1>
+        <apellido2>Aroca</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1252/2009 LERI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1252/2009 LERI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Abilio</nombre>
+        <apellido1>Cañiveral</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1252/2009 LERI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1252/2009 LERI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1252/2009 LERI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1252/2009 LERI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1252/2009 LERI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1252/2009 LERI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Martín</nombre>
+        <apellido1>Roca</apellido1>
+        <apellido2>Brunet</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1252/2009 LERI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1252/2009 LERI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1252/2009 LERI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Ricardo</nombre>
+        <apellido1>Callado</apellido1>
+        <apellido2>Digna</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1252/2009 LERI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1252/2009 LERI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Joaquín</nombre>
+        <apellido1>Contiojen</apellido1>
+        <apellido2>Vallo</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1252/2009 LERI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Alfonso</nombre>
+        <apellido1>Oncal</apellido1>
+        <apellido2>Martínez</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1252/2009 LERI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1252/2009 LERI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Pedro</nombre>
+        <apellido1>Jiménez</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1252/2009 LERI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Luis</nombre>
+        <apellido1>Escalante</apellido1>
+        <apellido2>Lapirain</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1252/2009 LERI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1252/2009 LERI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1252/2009 LERI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1252/2009 LERI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Ramón</nombre>
+        <apellido1>Fábregas</apellido1>
+        <apellido2>Giner</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1252/2009 LERI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1252/2009 LERI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1252/2009 LERI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1252/2009 LERI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1252/2009 LERI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Juan</nombre>
+        <apellido1>Gómez</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1252/2009 LERI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Lorenzo</nombre>
+        <apellido1>Ribot</apellido1>
+        <apellido2>Cabell</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1252/2009 LERI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1252/2009 LERI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1252/2009 LERI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1252/2009 LERI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1252/2009 LERI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1252/2009 LERI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1252/2009 LERI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1252/2009 LERI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1252/2009 LERI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1252/2009 LERI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1252/2009 LERI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1252/2009 LERI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Francisco</nombre>
+        <apellido1>Masana</apellido1>
+        <apellido2>Miguel</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1252/2009 LERI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Andrés</nombre>
+        <apellido1>López</apellido1>
+        <apellido2>Coscollano</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1252/2009 LERI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>José</nombre>
+        <apellido1>Gracia</apellido1>
+        <apellido2>Riu</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1252/2009 LERI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1252/2009 LERI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1252/2009 LERI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1252/2009 LERI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Enrique</nombre>
+        <apellido1>Galabert</apellido1>
+        <apellido2>Berta</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1252/2009 LERI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1252/2009 LERI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Francisco</nombre>
+        <apellido1>Aznar</apellido1>
+        <apellido2>Belen</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1252/2009 LERI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1252/2009 LERI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1252/2009 LERI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1252/2009 LERI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1252/2009 LERI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1252/2009 LERI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Juan</nombre>
+        <apellido1>Giner</apellido1>
+        <apellido2>Torrente</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1252/2009 LERI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Ramón</nombre>
+        <apellido1>Termes</apellido1>
+        <apellido2>Cortina</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1252/2009 LERI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>José</nombre>
+        <apellido1>Balague</apellido1>
+        <apellido2>Gil</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1252/2009 LERI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Luis</nombre>
+        <apellido1>Camprubi</apellido1>
+        <apellido2>Salvany</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1252/2009 LERI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Isidro</nombre>
+        <apellido1>Moracuder</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1252/2009 LERI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1252/2009 LERI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1252/2009 LERI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1252/2009 LERI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1252/2009 LERI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1252/2009 LERI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1252/2009 LERI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1252/2009 LERI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1252/2009 LERI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1252/2009 LERI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1252/2009 LERI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <otrosDatos>Dice " Soldado Militangas"</otrosDatos>
+        <numRegistro>1252/2009 LERI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1252/2009 LERI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>José</nombre>
+        <apellido1>Gallart</apellido1>
+        <apellido2>Julia</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1252/2009 LERI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1252/2009 LERI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1252/2009 LERI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1252/2009 LERI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1252/2009 LERI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1252/2009 LERI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1252/2009 LERI</numRegistro>
+      </victima>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Sant Romà d'Abella</nombre>
+    <IdProvincia>30</IdProvincia>
+    <ID>981</ID>
+    <latitud>42.14</latitud>
+    <longitud>1.04</longitud>
+    <fosa>
+      <numRegistro>2305/2011 LERI</numRegistro>
+      <denominacionFosa>Fosa al lado del Cementerio de Sant Romà d'Abella</denominacionFosa>
+      <estadoActual>NO INTERVENIDA</estadoActual>
+      <entidadPromotora>Dirección General de Memoria Democrática</entidadPromotora>
+      <entidadInformante>Dirección General de Memoria Democrática. Generalitat de Catalunya</entidadInformante>
+      <observaciones>La segunda fosa más grande documentada actualmente, justo detrás de la línea de frente de la cabeza de puente de Tremp y probablemente nacida de los continuos combates en Sant Corneli, Orcau y el Monte de Cuencas donde, al igual que los otros cabeza de puente del Segre, se intentó una acometida por parte de los republicanos a partir del 23 de mayo. El objetivo republicano era llegar hasta Tremp, pero las tropas rebeldes se parapetaron eficazmente en Sant Corneli, privando el avance republicano. El pequeño núcleo de Sant Romà d'Abella cambió varias veces de manos, con combates muy duros y causando, en consecuencia, muchos muertos, y finalmente después de los combates del mes de mayo quedó bajo dominio republicano. Por su ubicación no es atrevido pensar que los muertos y heridos en la batalla eran trasladados hasta Sant Romà d'Abella, donde se inhumaban.</observaciones>
+      <IdLocalidad>981</IdLocalidad>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Seu d'Urgell, La</nombre>
+    <IdProvincia>30</IdProvincia>
+    <ID>982</ID>
+    <latitud>42.3567</latitud>
+    <longitud>1.459659</longitud>
+    <fosa>
+      <numRegistro>2217/2010 LERI</numRegistro>
+      <denominacionFosa>Fosa del Cementerio de La Seu d´Urgell</denominacionFosa>
+      <estadoActual>NO INTERVENIDA</estadoActual>
+      <entidadPromotora>Dirección General de Memoria Democrática</entidadPromotora>
+      <entidadInformante>Dirección General de Memoria Democrática. Generalitat de Catalunya</entidadInformante>
+      <observaciones>En el Registro Civil de la población hay inscritos hasta 70 soldados que murieron el hospital del X CE instalado en La Seu d'Urgell, parece ser que fue instalado en el convento de las monjas Lestonnac. Lo más probable es que todos los fallecidos fueran inhumados en el cementerio, aunque no se conoce el emplazamiento de la fosa. Es posible que cuando los militares, años después, se instalaron en el castillo de La Seu d'Urgell e hicieron suya una parcela del cementerio para la inhumación de los soldados muertos, lo ubicaran allí donde ya existía una fosa de soldados, como ocurrió en el cementerio de Manresa.</observaciones>
+      <IdLocalidad>982</IdLocalidad>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Sorpe</nombre>
+    <IdProvincia>30</IdProvincia>
+    <ID>984</ID>
+    <latitud>42.65</latitud>
+    <longitud>1.07</longitud>
+    <fosa>
+      <numRegistro>2306/2011 LERI</numRegistro>
+      <denominacionFosa>Fosa en Prat del Fuster</denominacionFosa>
+      <estadoActual>NO INTERVENIDA</estadoActual>
+      <entidadPromotora>Dirección General de Memoria Democrática</entidadPromotora>
+      <entidadInformante>Dirección General de Memoria Democrática. Generalitat de Catalunya</entidadInformante>
+      <observaciones>La fosa se encuentra fuera del cementerio. Parece ser que días después de la muerte de las víctimas, sus familiares intentaron exhumar los cuerpos y trasladarlos al cementerio, sin conseguirlo. Finalmente cubrieron la fosa con piedras.</observaciones>
+      <IdLocalidad>984</IdLocalidad>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Sort</nombre>
+    <IdProvincia>30</IdProvincia>
+    <ID>985</ID>
+    <latitud>42.41024</latitud>
+    <longitud>1.128763</longitud>
+    <fosa>
+      <numRegistro>2237/2010 LERI</numRegistro>
+      <denominacionFosa>Fosa en el Cementerio de Sort</denominacionFosa>
+      <tipoFosa>LUCHA ARMADA</tipoFosa>
+      <estadoActual>DESAPARECIDA</estadoActual>
+      <entidadPromotora>Dirección General de Memoria Democrática</entidadPromotora>
+      <entidadInformante>Dirección General de Memoria Democrática. Generalitat de Catalunya</entidadInformante>
+      <observaciones>La serie de montañas que actualmente hacen de frontera administrativa entre las comarcas del Pallars Sobirà y el Alt Urgell también hicieron de frontera militar entre los dos ejércitos cuando el frente se estabilizó a partir del mes de abril de 1938. Los inhumados en el cementerio de Sort, población donde actualmente no se tiene ninguna constancia de que se instalara un hospital militar aunque sería lógico que se hubiera habilitado uno, debieron ser recogidos del frente por la descripción que se hace el año 1958: "Durante el período que estuvo estacionado el frente de guerra en estos alrededores, se verificaron numerosos entierros depositándose los restos en fosas comunes sin poder individualizarse".</observaciones>
+      <IdLocalidad>985</IdLocalidad>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Valencia d'Aneu</nombre>
+    <IdProvincia>30</IdProvincia>
+    <ID>989</ID>
+    <latitud>42.63</latitud>
+    <longitud>1.11</longitud>
+    <fosa>
+      <numRegistro>2307/2011 LERI</numRegistro>
+      <denominacionFosa>Fosa Prat de Ton d'Aiguan</denominacionFosa>
+      <estadoActual>DESAPARECIDA</estadoActual>
+      <numeroPersonasExhumadas>3</numeroPersonasExhumadas>
+      <entidadPromotora>Dirección General de Memoria Democrática</entidadPromotora>
+      <entidadInformante>Dirección General de Memoria Democrática. Generalitat de Catalunya</entidadInformante>
+      <observaciones>Se trata de una fosa desaparecida ya que los restos de las víctimas fueron trasladados al cementerio.</observaciones>
+      <IdLocalidad>989</IdLocalidad>
+    </fosa>
+  </localidad>
+</zona>

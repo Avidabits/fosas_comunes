@@ -3,8 +3,8 @@
     <centro>43.5637236 -6.8340881</centro>
     <localidad>
       <nombre>Concejo del Franco</nombre>
-      <Latitud>43.5637236</Latitud>
-      <Longitud>-6.8340881</Longitud>
+      <latitud>43.5637236</latitud>
+      <longitud>-6.8340881</longitud>
       <fosa>
         <numRegistro>CF1</numRegistro>
         <tipoFosa>represaliados</tipoFosa>
@@ -76,8 +76,8 @@
     </localidad>
   <localidad>
     <nombre>Tapia de Casariego</nombre>
-    <Latitud>43.567866</Latitud>
-    <Longitud>-6.951911</Longitud>
+    <latitud>43.567866</latitud>
+    <longitud>-6.951911</longitud>
     <fosa>
       <numRegistro>TC1</numRegistro>
       <tipoFosa>represaliados</tipoFosa>

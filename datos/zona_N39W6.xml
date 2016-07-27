@@ -1,0 +1,4101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<zona>
+  <centro>39 -6</centro>
+  <localidad>
+    <nombre>Torremejía</nombre>
+    <IdProvincia>8</IdProvincia>
+    <ID>54</ID>
+    <latitud>38.78965</latitud>
+    <longitud>-6.381672</longitud>
+    <fosa>
+      <numRegistro>1303/2009 BADA</numRegistro>
+      <denominacionFosa>NO CONSTA</denominacionFosa>
+      <estadoActual>TRASLADADA AL VALLE DE LOS CAÍDOS</estadoActual>
+      <numeroPersonasFosa>6</numeroPersonasFosa>
+      <numeroPersonasExhumadas>6</numeroPersonasExhumadas>
+      <numeroPersonasIdentificadas>6</numeroPersonasIdentificadas>
+      <entidadInformante>Patrimonio Nacional</entidadInformante>
+      <observaciones>Trasladada al Valle de los Caídos con la fecha/s:08/06/1981</observaciones>
+      <IdLocalidad>54</IdLocalidad>
+      <victima>
+        <nombre>Manuel</nombre>
+        <apellido1>Alonso</apellido1>
+        <apellido2>Bejarano</apellido2>
+        <sexo>M</sexo>
+        <otrosDatos>Coman 2º</otrosDatos>
+        <numRegistro>1303/2009 BADA</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Manuel</nombre>
+        <apellido1>Menéndez</apellido1>
+        <apellido2>Lenon</apellido2>
+        <sexo>M</sexo>
+        <otrosDatos>Coman 2º</otrosDatos>
+        <numRegistro>1303/2009 BADA</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Juan</nombre>
+        <apellido1>Cambra</apellido1>
+        <apellido2>Janeí</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1303/2009 BADA</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Pascual</nombre>
+        <apellido1>Caldú</apellido1>
+        <apellido2>Albesa</apellido2>
+        <sexo>M</sexo>
+        <otrosDatos>Colón 2º</otrosDatos>
+        <numRegistro>1303/2009 BADA</numRegistro>
+      </victima>
+      <victima>
+        <nombre>José María</nombre>
+        <apellido1>Paira</apellido1>
+        <apellido2>Barres</apellido2>
+        <sexo>M</sexo>
+        <otrosDatos>Paiva</otrosDatos>
+        <numRegistro>1303/2009 BADA</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Manuel</nombre>
+        <apellido1>Peneo</apellido1>
+        <apellido2>Zamorano</apellido2>
+        <sexo>M</sexo>
+        <otrosDatos>Paiva 2º</otrosDatos>
+        <numRegistro>1303/2009 BADA</numRegistro>
+      </victima>
+    </fosa>
+    <fosa>
+      <numRegistro>377/2009 BADA</numRegistro>
+      <denominacionFosa>Fosa común en el cementerio viejo de Torremejía</denominacionFosa>
+      <tipoFosa>FUSILAMIENTO</tipoFosa>
+      <fechaFosa>14/09/1936</fechaFosa>
+      <estadoActual>EXHUMADA TOTAL</estadoActual>
+      <numeroPersonasExhumadas>33</numeroPersonasExhumadas>
+      <numeroPersonasIdentificadas>0</numeroPersonasIdentificadas>
+      <entidadPromotora>Corporación Municipal</entidadPromotora>
+      <entidadInformante>Junta de Extremadura. Consejería de Cultura y Turismo. Proyecto para la Recuperación de la Memoria Histórica de Extremadura</entidadInformante>
+      <observaciones>Torremejia fue el primer pueblo de España donde se realizaron exhumaciones por iniciativa municipal tras un acuerdo en el Pleno de 28-6-1979. La exhumación se llevó a cabo el 17 de agosto de 1979. Las víctimas eran 33 vecinos de la localidad, que fueron fusilados el 14 de septiembre de 1936 y enterrados en una fosa en el cementerio viejo. Hoy ese lugar es un parque público denominado "Jardines de la Libertad". En el cementerio se levantó un mausoleo con una gran cruz donde aparecen los nombres de los 33 vecinos.</observaciones>
+      <IdLocalidad>54</IdLocalidad>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Torrico</nombre>
+    <IdProvincia>47</IdProvincia>
+    <ID>56</ID>
+    <latitud>39.83018</latitud>
+    <longitud>-5.227055</longitud>
+    <fosa>
+      <numRegistro>447/2009 TOLE</numRegistro>
+      <denominacionFosa>Fosas en El Torrico</denominacionFosa>
+      <tipoFosa>FUSILAMIENTO</tipoFosa>
+      <estadoActual>EXHUMADA TOTAL</estadoActual>
+      <entidadInformante>Asociación para la Recuperación de la Memoria Histórica de Cuenca</entidadInformante>
+      <observaciones>Tres fosas exhumadas en 1979 y1980, con un total de 15 cuerpos</observaciones>
+      <IdLocalidad>56</IdLocalidad>
+    </fosa>
+    <fosa>
+      <numRegistro>448/2009 TOLE</numRegistro>
+      <denominacionFosa>Fosas en el término de El Torrico</denominacionFosa>
+      <tipoFosa>FUSILAMIENTO</tipoFosa>
+      <estadoActual>NO INTERVENIDA</estadoActual>
+      <entidadInformante>Asociación para la Recuperación de la Memoria Histórica de Cuenca</entidadInformante>
+      <observaciones>La entidad informante prorciona el dato de 25 personas enterradas en distintas fosas. Al parecer, tres de estas fosas fueron exhumadas en los años 1979 y 1980, recuperándose los restos de 15 personas.</observaciones>
+      <IdLocalidad>56</IdLocalidad>
+    </fosa>
+    <fosa>
+      <numRegistro>449/2009 TOLE</numRegistro>
+      <denominacionFosa>Fosa en el paraje de El Carrizal</denominacionFosa>
+      <tipoFosa>FUSILAMIENTO</tipoFosa>
+      <estadoActual>NO INTERVENIDA</estadoActual>
+      <numeroPersonasExhumadas>2</numeroPersonasExhumadas>
+      <entidadInformante>Asociación para la Recuperación de la Memoria Histórica de Cuenca</entidadInformante>
+      <IdLocalidad>56</IdLocalidad>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Badajoz</nombre>
+    <IdProvincia>8</IdProvincia>
+    <ID>155</ID>
+    <latitud>38.8786</latitud>
+    <longitud>-6.970284</longitud>
+    <fosa>
+      <numRegistro>965/2009 BADA</numRegistro>
+      <denominacionFosa>NO CONSTA</denominacionFosa>
+      <estadoActual>TRASLADADA AL VALLE DE LOS CAÍDOS</estadoActual>
+      <numeroPersonasFosa>3</numeroPersonasFosa>
+      <numeroPersonasExhumadas>3</numeroPersonasExhumadas>
+      <numeroPersonasIdentificadas>3</numeroPersonasIdentificadas>
+      <entidadInformante>Patrimonio Nacional</entidadInformante>
+      <observaciones>Trasladada al Valle de los Caídos con la fecha/s:24/03/1959</observaciones>
+      <IdLocalidad>155</IdLocalidad>
+      <victima>
+        <nombre>Antonio</nombre>
+        <apellido1>Delgado</apellido1>
+        <apellido2>Merino</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>965/2009 BADA</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Antonio</nombre>
+        <apellido1>Luengo</apellido1>
+        <apellido2>Olivar</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>965/2009 BADA</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Fernando</nombre>
+        <apellido1>Díaz-Otero</apellido1>
+        <apellido2>Fernández</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>965/2009 BADA</numRegistro>
+      </victima>
+    </fosa>
+    <fosa>
+      <numRegistro>969/2009 BADA</numRegistro>
+      <denominacionFosa>NO CONSTA</denominacionFosa>
+      <estadoActual>TRASLADADA AL VALLE DE LOS CAÍDOS</estadoActual>
+      <numeroPersonasFosa>60</numeroPersonasFosa>
+      <numeroPersonasExhumadas>44</numeroPersonasExhumadas>
+      <numeroPersonasIdentificadas>0</numeroPersonasIdentificadas>
+      <entidadInformante>Patrimonio Nacional</entidadInformante>
+      <observaciones>Restos de la fosa conocida como "Fosa de los Legionarios". Trasladada al Valle de los Caídos con la fecha/s:24/03/1959</observaciones>
+      <IdLocalidad>155</IdLocalidad>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <otrosDatos>A.De la Fosa de "Los Legionarios"</otrosDatos>
+        <numRegistro>969/2009 BADA</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <otrosDatos>A.De la Fosa de "Los Legionarios"</otrosDatos>
+        <numRegistro>969/2009 BADA</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <otrosDatos>A.De la Fosa de "Los Legionarios"</otrosDatos>
+        <numRegistro>969/2009 BADA</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <otrosDatos>A.De la Fosa de "Los Legionarios"</otrosDatos>
+        <numRegistro>969/2009 BADA</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <otrosDatos>A.De la Fosa de "Los Legionarios"</otrosDatos>
+        <numRegistro>969/2009 BADA</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <otrosDatos>A.De la Fosa de "Los Legionarios"</otrosDatos>
+        <numRegistro>969/2009 BADA</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <otrosDatos>A.De la Fosa de "Los Legionarios"</otrosDatos>
+        <numRegistro>969/2009 BADA</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Antonio</nombre>
+        <apellido1>de Tena</apellido1>
+        <apellido2>Dávila</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>969/2009 BADA</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Antonio</nombre>
+        <apellido1>Ortiz</apellido1>
+        <apellido2>de la Cruz</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>969/2009 BADA</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Isidro</nombre>
+        <apellido1>Fraile</apellido1>
+        <apellido2>Merino</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>969/2009 BADA</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Joaquín</nombre>
+        <apellido1>Barquero Hidalgo</apellido1>
+        <apellido2>Barquero</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>969/2009 BADA</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Juan Pedro</nombre>
+        <apellido1>Suárez</apellido1>
+        <apellido2>Benito</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>969/2009 BADA</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <otrosDatos>A.De la Fosa de "Los Legionarios"</otrosDatos>
+        <numRegistro>969/2009 BADA</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <otrosDatos>A.De la Fosa de "Los Legionarios"</otrosDatos>
+        <numRegistro>969/2009 BADA</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <otrosDatos>A.De la Fosa de "Los Legionarios"</otrosDatos>
+        <numRegistro>969/2009 BADA</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <otrosDatos>A.De la Fosa de "Los Legionarios"</otrosDatos>
+        <numRegistro>969/2009 BADA</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <otrosDatos>A.De la Fosa de "Los Legionarios"</otrosDatos>
+        <numRegistro>969/2009 BADA</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <otrosDatos>A.De la Fosa de "Los Legionarios"</otrosDatos>
+        <numRegistro>969/2009 BADA</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <otrosDatos>A.De la Fosa de "Los Legionarios"</otrosDatos>
+        <numRegistro>969/2009 BADA</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <otrosDatos>A.De la Fosa de "Los Legionarios"</otrosDatos>
+        <numRegistro>969/2009 BADA</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <otrosDatos>A.De la Fosa de "Los Legionarios"</otrosDatos>
+        <numRegistro>969/2009 BADA</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <otrosDatos>A.De la Fosa de "Los Legionarios"</otrosDatos>
+        <numRegistro>969/2009 BADA</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <otrosDatos>A.De la Fosa de "Los Legionarios"</otrosDatos>
+        <numRegistro>969/2009 BADA</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <otrosDatos>A.De la Fosa de "Los Legionarios"</otrosDatos>
+        <numRegistro>969/2009 BADA</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <otrosDatos>A.De la Fosa de "Los Legionarios"</otrosDatos>
+        <numRegistro>969/2009 BADA</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <otrosDatos>A.De la Fosa de "Los Legionarios"</otrosDatos>
+        <numRegistro>969/2009 BADA</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <otrosDatos>A.De la Fosa de "Los Legionarios"</otrosDatos>
+        <numRegistro>969/2009 BADA</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <otrosDatos>A.De la Fosa de "Los Legionarios"</otrosDatos>
+        <numRegistro>969/2009 BADA</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <otrosDatos>A.De la Fosa de "Los Legionarios"</otrosDatos>
+        <numRegistro>969/2009 BADA</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <otrosDatos>A.De la Fosa de "Los Legionarios"</otrosDatos>
+        <numRegistro>969/2009 BADA</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <otrosDatos>A.De la Fosa de "Los Legionarios"</otrosDatos>
+        <numRegistro>969/2009 BADA</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <otrosDatos>A.De la Fosa de "Los Legionarios"</otrosDatos>
+        <numRegistro>969/2009 BADA</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <otrosDatos>A.De la Fosa de "Los Legionarios"</otrosDatos>
+        <numRegistro>969/2009 BADA</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <otrosDatos>A.De la Fosa de "Los Legionarios"</otrosDatos>
+        <numRegistro>969/2009 BADA</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <otrosDatos>A.De la Fosa de "Los Legionarios"</otrosDatos>
+        <numRegistro>969/2009 BADA</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <otrosDatos>A.De la Fosa de "Los Legionarios"</otrosDatos>
+        <numRegistro>969/2009 BADA</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <otrosDatos>A.De la Fosa de "Los Legionarios"</otrosDatos>
+        <numRegistro>969/2009 BADA</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <otrosDatos>A.De la Fosa de "Los Legionarios"</otrosDatos>
+        <numRegistro>969/2009 BADA</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <otrosDatos>A.De la Fosa de "Los Legionarios"</otrosDatos>
+        <numRegistro>969/2009 BADA</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <otrosDatos>A.De la Fosa de "Los Legionarios"</otrosDatos>
+        <numRegistro>969/2009 BADA</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <otrosDatos>A.De Fosa militar a continuación "Los Legionarios"</otrosDatos>
+        <numRegistro>969/2009 BADA</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <otrosDatos>A.De Fosa militar a continuación "Los Legionarios"</otrosDatos>
+        <numRegistro>969/2009 BADA</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <otrosDatos>A.De Fosa militar a continuación "Los Legionarios"</otrosDatos>
+        <numRegistro>969/2009 BADA</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <otrosDatos>A.De Fosa militar a continuación "Los Legionarios"</otrosDatos>
+        <numRegistro>969/2009 BADA</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <otrosDatos>A.De Fosa militar a continuación "Los Legionarios"</otrosDatos>
+        <numRegistro>969/2009 BADA</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <otrosDatos>A.De Fosa militar a continuación "Los Legionarios"</otrosDatos>
+        <numRegistro>969/2009 BADA</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <otrosDatos>A.De Fosa militar a continuación "Los Legionarios"</otrosDatos>
+        <numRegistro>969/2009 BADA</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <otrosDatos>A.De Fosa militar a continuación "Los Legionarios"</otrosDatos>
+        <numRegistro>969/2009 BADA</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <otrosDatos>A.De Fosa militar a continuación "Los Legionarios"</otrosDatos>
+        <numRegistro>969/2009 BADA</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Vicente</nombre>
+        <apellido1>Gómez</apellido1>
+        <apellido2>Coronado</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>969/2009 BADA</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Antonio</nombre>
+        <apellido1>Gómez</apellido1>
+        <apellido2>Tena</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>969/2009 BADA</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Marcelino</nombre>
+        <apellido1>Rey</apellido1>
+        <apellido2>Horrillo</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>969/2009 BADA</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Antonio</nombre>
+        <apellido1>Godoy</apellido1>
+        <apellido2>Calderón Barca</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>969/2009 BADA</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Salvador</nombre>
+        <apellido1>Díaz</apellido1>
+        <apellido2>de la Cruz</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>969/2009 BADA</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Tiburcio</nombre>
+        <apellido1>Hernández</apellido1>
+        <apellido2>Sánchez</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>969/2009 BADA</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Francisco</nombre>
+        <apellido1>Gómez Coronado</apellido1>
+        <apellido2>Gómez Coronado</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>969/2009 BADA</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Rafael</nombre>
+        <apellido1>Gómez Coronado</apellido1>
+        <apellido2>Gómez Coronado</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>969/2009 BADA</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Ángel</nombre>
+        <apellido1>Fernández</apellido1>
+        <apellido2>Murillo</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>969/2009 BADA</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Serafín</nombre>
+        <apellido1>Martín</apellido1>
+        <apellido2>García</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>969/2009 BADA</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Esteban</nombre>
+        <apellido1>Barrero</apellido1>
+        <apellido2>Cáceres</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>969/2009 BADA</numRegistro>
+      </victima>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Belmez</nombre>
+    <IdProvincia>17</IdProvincia>
+    <ID>165</ID>
+    <latitud>38.27234</latitud>
+    <longitud>-5.208753</longitud>
+    <fosa>
+      <numRegistro>2379/2011 CORD</numRegistro>
+      <denominacionFosa>Fosa en el Cementerio de Belmez</denominacionFosa>
+      <estadoActual>DESAPARECIDA</estadoActual>
+      <numeroPersonasExhumadas>72</numeroPersonasExhumadas>
+      <entidadPromotora>AYUNTAMIENTO</entidadPromotora>
+      <entidadInformante>Consejería de Gobernación y Justicia de la Junta de Andalucía</entidadInformante>
+      <observaciones>No se tienen datos de cómo pudo ser su tamaño ya que los cuerpos que estaban enterrados fueron exhumados y trasladados a un nicho común donde se encuentran los restos de estas víctimas, y el emplazamiento originario de la fosa ha sido reutilizado para otros usos. En la fosa solo se encontraban 13 víctimas de las 72 registradas en Belmez. Hay que señalar que en mayo y octubre de 2009 se exhumaron dos fosas, una con tres víctimas y otra con una víctima, con signos de violencia y heridas de arma de fuego, al parecer los hechos ocurrieron en 1949.</observaciones>
+      <IdLocalidad>165</IdLocalidad>
+    </fosa>
+    <fosa>
+      <numRegistro>2380/2011 CORD</numRegistro>
+      <denominacionFosa>Fosa en el Cementerio de Belmez</denominacionFosa>
+      <estadoActual>EXHUMADA TOTAL</estadoActual>
+      <numeroPersonasExhumadas>13</numeroPersonasExhumadas>
+      <entidadInformante>Consejería de Gobernación y Justicia de la Junta de Andalucía</entidadInformante>
+      <observaciones>No se tienen datos de cómo pudo ser su tamaño ya que los cuerpos que estaban enterrados fueron exhumados y trasladados a dos nichos del cementerio y se ha colocado una lápida con los nombre de las personas que allí descansan. 
+En esta fosa solo se encontraban 13 de las 72 víctimas registradas en Bélmez.</observaciones>
+      <IdLocalidad>165</IdLocalidad>
+    </fosa>
+    <fosa>
+      <numRegistro>873/2009 CORD</numRegistro>
+      <denominacionFosa>NO CONSTA</denominacionFosa>
+      <estadoActual>TRASLADADA AL VALLE DE LOS CAÍDOS</estadoActual>
+      <numeroPersonasFosa>1</numeroPersonasFosa>
+      <numeroPersonasExhumadas>1</numeroPersonasExhumadas>
+      <numeroPersonasIdentificadas>1</numeroPersonasIdentificadas>
+      <entidadInformante>Patrimonio Nacional</entidadInformante>
+      <observaciones>Trasladada al Valle de los Caídos con la fecha/s:24/03/1959</observaciones>
+      <IdLocalidad>165</IdLocalidad>
+      <victima>
+        <nombre>Andrés</nombre>
+        <apellido1>Pozo</apellido1>
+        <apellido2>Porras</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>873/2009 CORD</numRegistro>
+      </victima>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Calamonte</nombre>
+    <IdProvincia>8</IdProvincia>
+    <ID>190</ID>
+    <latitud>38.88998</latitud>
+    <longitud>-6.385029</longitud>
+    <fosa>
+      <numRegistro>379/2009 BADA</numRegistro>
+      <denominacionFosa>Fosas dispersas en el término municipal de Calamonte</denominacionFosa>
+      <tipoFosa>FUSILAMIENTO</tipoFosa>
+      <estadoActual>EXHUMADA TOTAL</estadoActual>
+      <entidadPromotora>Corporación Municipal</entidadPromotora>
+      <entidadInformante>Junta de Extremadura. Consejería de Cultura y Turismo. Proyecto para la Recuperación de la Memoria Histórica de Extremadura</entidadInformante>
+      <observaciones>En el año 1979, gracias a la iniciativa de la alcaldía y de los testimonios de los mayores del lugar, se recogen los restos de fusilados que se encontraban desperdigados en fosas comunes por todo el término municipal de Calamonte y se erige un obelisco en el cementerio municipal con el nombre de 30 víctimas del pueblo.</observaciones>
+      <IdLocalidad>190</IdLocalidad>
+    </fosa>
+    <fosa>
+      <numRegistro>366/2009 BADA</numRegistro>
+      <denominacionFosa>Fosa común en Calamonte</denominacionFosa>
+      <tipoFosa>FUSILAMIENTO</tipoFosa>
+      <estadoActual>EXHUMADA TOTAL</estadoActual>
+      <numeroPersonasExhumadas>3</numeroPersonasExhumadas>
+      <entidadInformante>Junta de Extremadura. Consejería de Cultura y Turismo. Proyecto para la Recuperación de la Memoria Histórica de Extremadura</entidadInformante>
+      <observaciones>En el año 2005 se intervino en esta fosa ubicada en la localidad de Calamonte. Se buscaba a 3 víctimas; sin embargo, aparecieron restos que a primera vista no se corresponden con tres cuerpos, sino con cuatro. Al parecer los restos encontrados habrían sido sepultados ya en un lugar anterior y esa puede ser la causa de que falten elementos. Estariamos ante una amalgama de restos, incluso alguno de origen animal, que impediría una correcta identificación. Los restos fueron depositados en una caja de madera y se colocó una placa en homenaje a las víctimas.</observaciones>
+      <IdLocalidad>190</IdLocalidad>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Campillo de Llerena</nombre>
+    <IdProvincia>8</IdProvincia>
+    <ID>195</ID>
+    <latitud>38.50023</latitud>
+    <longitud>-5.831132</longitud>
+    <fosa>
+      <numRegistro>2573/2015 BADA</numRegistro>
+      <denominacionFosa>Cementerio de los Italianos</denominacionFosa>
+      <entidadPromotora>Ayuntamiento</entidadPromotora>
+      <entidadInformante>Junta de Extremadura. Consejería de Cultura y Turismo. Proyecto para la Recuperación de la Memoria Histórica de Extremadura</entidadInformante>
+      <observaciones>• Se trata de un cementerio de guerra construido en 1937 por la I Brigada Mixta Flechas Azules donde recibieron sepultura 44 soldados de esta unidad, ( 33 españoles, 9 italianos y 2 desconocidos) caídos en los combates que se desarrollaron en la Sierra de Argallén del 10 de junio en adelante. En Julio del 37 la Brigada es trasladada y el cementerio es entregado al Ayuntamiento de Campillo con expresado acuerdo de su mantenimiento y cuido.
+ • En los años 38 y 39 se reactiva el frente en la zona y este cementerio será utilizado por las tropas de Franco para dar sepultura a los soldados ( ya no falangistas) que caen en los sucesivos combates. El cementerio ha de ser ampliado. Se combinan varias formas de enterramientos: nichos de mampostería, tumbas abovedadas, fosas en tierra con cajas y una extensa zona con enterramientos alineados en tierra sin cajas.
+ • En la posguerra los italianos son trasladados a Zaragoza ( 18-3-41) y algunos soldados al Valle de los caídos ( distintas fechas) pero la gran mayoría de enterramientos permanecen en ese lugar.
+ • El cementerio conocerá una fase de deterioro. Sobre los años 60 el Frente de Juventudes organiza un campo de trabajo en Campillo destinado a remozar y adecentar el cementerio. El Ayuntamiento ha venido manteniendo este Cementerio que a pesar de todo ha sufrido continuos ataques y expolios de tumbas. Ha sido frecuente encontrar huesos, cráneos y algunos enseres rodando por el interior del recinto.</observaciones>
+      <IdLocalidad>195</IdLocalidad>
+    </fosa>
+    <fosa>
+      <numRegistro>2574/2015 BADA</numRegistro>
+      <denominacionFosa>Cementerio de los Italianos</denominacionFosa>
+      <observaciones>• Se trata de un cementerio de guerra construido en 1937 por la I Brigada Mixta Flechas Azules donde recibieron sepultura 44 soldados de esta unidad, ( 33 españoles, 9 italianos y 2 desconocidos) caídos en los combates que se desarrollaron en la Sierra de Argallén del 10 de junio en adelante. En Julio del 37 la Brigada es trasladada y el cementerio es entregado al Ayuntamiento de Campillo con expresado acuerdo de su mantenimiento y cuido.
+ • En los años 38 y 39 se reactiva el frente en la zona y este cementerio será utilizado por las tropas de Franco para dar sepultura a los soldados ( ya no falangistas) que caen en los sucesivos combates. El cementerio ha de ser ampliado. Se combinan varias formas de enterramientos: nichos de mampostería, tumbas abovedadas, fosas en tierra con cajas y una extensa zona con enterramientos alineados en tierra sin cajas.
+ • En la posguerra los italianos son trasladados a Zaragoza ( 18-3-41) y algunos soldados al Valle de los caídos ( distintas fechas) pero la gran mayoría de enterramientos permanecen en ese lugar.
+ • El cementerio conocerá una fase de deterioro. Sobre los años 60 el Frente de Juventudes organiza un campo de trabajo en Campillo destinado a remozar y adecentar el cementerio. El Ayuntamiento ha venido manteniendo este Cementerio que a pesar de todo ha sufrido continuos ataques y expolios de tumbas. Ha sido frecuente encontrar huesos, cráneos y algunos enseres rodando por el interior del recinto.</observaciones>
+      <IdLocalidad>195</IdLocalidad>
+    </fosa>
+    <fosa>
+      <numRegistro>2575/2015 BADA</numRegistro>
+      <denominacionFosa>Cementerio de los Italianos</denominacionFosa>
+      <entidadPromotora>Ayuntamiento</entidadPromotora>
+      <entidadInformante>Junta de Extremadura. Consejería de Cultura y Turismo. Proyecto para la Recuperación de la Memoria Histórica de Extremadura</entidadInformante>
+      <observaciones>• Se trata de un cementerio de guerra construido en 1937 por la I Brigada Mixta Flechas Azules donde recibieron sepultura 44 soldados de esta unidad, ( 33 españoles, 9 italianos y 2 desconocidos) caídos en los combates que se desarrollaron en la Sierra de Argallén del 10 de junio en adelante. En Julio del 37 la Brigada es trasladada y el cementerio es entregado al Ayuntamiento de Campillo con expresado acuerdo de su mantenimiento y cuido.
+ • En los años 38 y 39 se reactiva el frente en la zona y este cementerio será utilizado por las tropas de Franco para dar sepultura a los soldados ( ya no falangistas) que caen en los sucesivos combates. El cementerio ha de ser ampliado. Se combinan varias formas de enterramientos: nichos de mampostería, tumbas abovedadas, fosas en tierra con cajas y una extensa zona con enterramientos alineados en tierra sin cajas.
+ • En la posguerra los italianos son trasladados a Zaragoza ( 18-3-41) y algunos soldados al Valle de los caídos ( distintas fechas) pero la gran mayoría de enterramientos permanecen en ese lugar.
+ • El cementerio conocerá una fase de deterioro. Sobre los años 60 el Frente de Juventudes organiza un campo de trabajo en Campillo destinado a remozar y adecentar el cementerio. El Ayuntamiento ha venido manteniendo este Cementerio que a pesar de todo ha sufrido continuos ataques y expolios de tumbas. Ha sido frecuente encontrar huesos, cráneos y algunos enseres rodando por el interior del recinto.</observaciones>
+      <IdLocalidad>195</IdLocalidad>
+    </fosa>
+    <fosa>
+      <numRegistro>956/2009 BADA</numRegistro>
+      <denominacionFosa>NO CONSTA</denominacionFosa>
+      <estadoActual>TRASLADADA AL VALLE DE LOS CAÍDOS</estadoActual>
+      <numeroPersonasFosa>4</numeroPersonasFosa>
+      <numeroPersonasExhumadas>4</numeroPersonasExhumadas>
+      <numeroPersonasIdentificadas>4</numeroPersonasIdentificadas>
+      <entidadInformante>Patrimonio Nacional</entidadInformante>
+      <observaciones>Trasladada al Valle de los Caídos con la fecha/s:24/03/1959</observaciones>
+      <IdLocalidad>195</IdLocalidad>
+      <victima>
+        <nombre>Adriano</nombre>
+        <apellido1>Martínez</apellido1>
+        <apellido2>de Sana</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>956/2009 BADA</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Pedro</nombre>
+        <apellido1>Márquez</apellido1>
+        <apellido2>Navas</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>956/2009 BADA</numRegistro>
+      </victima>
+      <victima>
+        <nombre>José</nombre>
+        <apellido1>Navas</apellido1>
+        <apellido2>Palomo</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>956/2009 BADA</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Emiliano</nombre>
+        <apellido1>Martín</apellido1>
+        <apellido2>Elneiso</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>956/2009 BADA</numRegistro>
+      </victima>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Espiel</nombre>
+    <IdProvincia>17</IdProvincia>
+    <ID>248</ID>
+    <latitud>38.18865</latitud>
+    <longitud>-5.018202</longitud>
+    <fosa>
+      <numRegistro>878/2009 CORD</numRegistro>
+      <denominacionFosa>NO CONSTA</denominacionFosa>
+      <estadoActual>TRASLADADA AL VALLE DE LOS CAÍDOS</estadoActual>
+      <numeroPersonasFosa>3</numeroPersonasFosa>
+      <numeroPersonasExhumadas>3</numeroPersonasExhumadas>
+      <numeroPersonasIdentificadas>3</numeroPersonasIdentificadas>
+      <entidadInformante>Patrimonio Nacional</entidadInformante>
+      <observaciones>Trasladada al Valle de los Caídos con la fecha/s:24/03/1959</observaciones>
+      <IdLocalidad>248</IdLocalidad>
+      <victima>
+        <nombre>Eulogio</nombre>
+        <apellido1>Prieto</apellido1>
+        <apellido2>Santiago</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>878/2009 CORD</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Gregorio</nombre>
+        <apellido1>Márquez</apellido1>
+        <apellido2>Jimeno</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>878/2009 CORD</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Manuel</nombre>
+        <apellido1>Jaime</apellido1>
+        <apellido2>Pérez</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>878/2009 CORD</numRegistro>
+      </victima>
+    </fosa>
+    <fosa>
+      <numRegistro>879/2009 CORD</numRegistro>
+      <denominacionFosa>NO CONSTA</denominacionFosa>
+      <estadoActual>TRASLADADA AL VALLE DE LOS CAÍDOS</estadoActual>
+      <entidadInformante>Patrimonio Nacional</entidadInformante>
+      <IdLocalidad>248</IdLocalidad>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Feria</nombre>
+    <IdProvincia>8</IdProvincia>
+    <ID>255</ID>
+    <latitud>38.51197</latitud>
+    <longitud>-6.564341</longitud>
+    <fosa>
+      <numRegistro>2566/2015 BADA</numRegistro>
+      <denominacionFosa>Cementerio municipal de Feria</denominacionFosa>
+      <estadoActual>NO INTERVENIDA</estadoActual>
+      <entidadPromotora>Junta de Extremadura. Consejería de Cultura y Turismo. Proyecto para la Recuperación de la Memoria Histórica de Extremadura</entidadPromotora>
+      <entidadInformante>Junta de Extremadura. Consejería de Cultura y Turismo. Proyecto para la Recuperación de la Memoria Histórica de Extremadura</entidadInformante>
+      <observaciones>En esta fosa se buscan los cuerpos de los vecinos de Feria fusilados en el verano de 1936, más concretamente en septiembre, y que fueron inhumados en una fosa común en el cementerio municipal. Según estos testimonios orales que se han recogido a vecinos de Feria y familiares de estas víctimas de la represión franquista de la localidad, existe una posible fosa en el pozo de una mina.</observaciones>
+      <IdLocalidad>255</IdLocalidad>
+    </fosa>
+    <fosa>
+      <numRegistro>2567/2015 BADA</numRegistro>
+      <denominacionFosa>Noria 'El Salamanco Chico'</denominacionFosa>
+      <entidadPromotora>Familiares</entidadPromotora>
+      <entidadInformante>Junta de Extremadura. Consejería de Cultura y Turismo. Proyecto para la Recuperación de la Memoria Histórica de Extremadura</entidadInformante>
+      <IdLocalidad>255</IdLocalidad>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Miajadas</nombre>
+    <IdProvincia>11</IdProvincia>
+    <ID>346</ID>
+    <latitud>39.15122</latitud>
+    <longitud>-5.907261</longitud>
+    <fosa>
+      <numRegistro>1024/2009 CACE</numRegistro>
+      <denominacionFosa>NO CONSTA</denominacionFosa>
+      <estadoActual>TRASLADADA AL VALLE DE LOS CAÍDOS</estadoActual>
+      <numeroPersonasFosa>6</numeroPersonasFosa>
+      <numeroPersonasExhumadas>6</numeroPersonasExhumadas>
+      <numeroPersonasIdentificadas>6</numeroPersonasIdentificadas>
+      <entidadInformante>Patrimonio Nacional</entidadInformante>
+      <observaciones>Trasladada al Valle de los Caídos con la fecha/s:26/03/1959</observaciones>
+      <IdLocalidad>346</IdLocalidad>
+      <victima>
+        <nombre>Filomena</nombre>
+        <apellido1>Martínez</apellido1>
+        <apellido2>Mordillo</apellido2>
+        <sexo>F</sexo>
+        <numRegistro>1024/2009 CACE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Pablo</nombre>
+        <apellido1>Martín</apellido1>
+        <apellido2>Asensio</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1024/2009 CACE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Juan</nombre>
+        <apellido1>García</apellido1>
+        <apellido2>García</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1024/2009 CACE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Gregorio</nombre>
+        <apellido1>Gardiel</apellido1>
+        <apellido2>Vacas</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1024/2009 CACE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Marcos</nombre>
+        <apellido1>Gordón</apellido1>
+        <apellido2>Martín</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1024/2009 CACE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Melchor</nombre>
+        <apellido1>García</apellido1>
+        <apellido2>Redondo</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1024/2009 CACE</numRegistro>
+      </victima>
+    </fosa>
+    <fosa>
+      <numRegistro>2570/2015 CACE</numRegistro>
+      <denominacionFosa>Cementerio municipal de Miajadas</denominacionFosa>
+      <estadoActual>NO INTERVENIDA</estadoActual>
+      <entidadPromotora>Junta de Extremadura. Consejería de Cultura y Turismo. Proyecto para la Recuperación de la Memoria Histórica de Extremadura</entidadPromotora>
+      <entidadInformante>Junta de Extremadura. Consejería de Cultura y Turismo. Proyecto para la Recuperación de la Memoria Histórica de Extremadura</entidadInformante>
+      <IdLocalidad>346</IdLocalidad>
+    </fosa>
+    <fosa>
+      <numRegistro>2571/2015 CACE</numRegistro>
+      <denominacionFosa>El Santo</denominacionFosa>
+      <entidadPromotora>Junta de Extremadura. Consejería de Cultura y Turismo. Proyecto para la Recuperación de la Memoria Histórica de Extremadura</entidadPromotora>
+      <entidadInformante>Junta de Extremadura. Consejería de Cultura y Turismo. Proyecto para la Recuperación de la Memoria Histórica de Extremadura</entidadInformante>
+      <IdLocalidad>346</IdLocalidad>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Mirandilla</nombre>
+    <IdProvincia>8</IdProvincia>
+    <ID>348</ID>
+    <latitud>39.0017</latitud>
+    <longitud>-6.289864</longitud>
+    <fosa>
+      <numRegistro>2281/2010 BADA</numRegistro>
+      <denominacionFosa>Fosa en cementerio de Mirandilla</denominacionFosa>
+      <estadoActual>EXHUMADA TOTAL</estadoActual>
+      <numeroPersonasFosa>1</numeroPersonasFosa>
+      <numeroPersonasExhumadas>1</numeroPersonasExhumadas>
+      <numeroPersonasIdentificadas>1</numeroPersonasIdentificadas>
+      <entidadInformante>Junta de Extremadura. Consejería de Cultura y Turismo. Proyecto para la Recuperación de la Memoria Histórica de Extremadura</entidadInformante>
+      <observaciones>En una fosa localizada en el cementerio municipal de Mirandilla se han recuperado los restos de un hombre. Según los testimonios orales, la víctima fue conducida con otros hacía la iglesia, temiendo por su vida se escapó y subió a la torre desde la que se tiró. Sobrevivió al golpe pero no podía sostenerse en pie, siendo rematado allí mismo. Al analizar los restos se ha comprobado que, efectivamente, presentaba una factura en la columna vertebral.</observaciones>
+      <IdLocalidad>348</IdLocalidad>
+      <victima>
+        <nombre>Zacarias</nombre>
+        <apellido1>Moyano</apellido1>
+        <apellido2>Ruiz</apellido2>
+        <sexo>M</sexo>
+        <edad>30</edad>
+        <numRegistro>2281/2010 BADA</numRegistro>
+      </victima>
+    </fosa>
+    <fosa>
+      <numRegistro>2484/2011 BADA</numRegistro>
+      <denominacionFosa>Fosa en el paraje Pozo de la Meregilda</denominacionFosa>
+      <tipoFosa>FUSILAMIENTO</tipoFosa>
+      <estadoActual>EXHUMADA TOTAL</estadoActual>
+      <numeroPersonasFosa>1</numeroPersonasFosa>
+      <numeroPersonasExhumadas>2</numeroPersonasExhumadas>
+      <numeroPersonasIdentificadas>1</numeroPersonasIdentificadas>
+      <entidadInformante>Junta de Extremadura. Consejería de Cultura y Turismo. Proyecto para la Recuperación de la Memoria Histórica de Extremadura</entidadInformante>
+      <observaciones>En el año 2004 fue exhumada una fosa en el paraje denominado Pozo de la Meregilda. Según los testimonios recogidos, a la víctima le advirtieron de que no abandonara la localidad pues al día siguiente le iban a fusilar. No debió creerlo y permaneció junto a los suyos en el pueblo. En la madrugada del día siguiente se presentaron a por él, quien les dijo que tenía que ir a trabajar; horas después le detuvieron en la obra donde trabajaba y le llevaron junto a otro hombre al paraje donde fueron fuislados.</observaciones>
+      <IdLocalidad>348</IdLocalidad>
+      <victima>
+        <nombre>Marcelo</nombre>
+        <apellido1>Tirado</apellido1>
+        <apellido2>Molina</apellido2>
+        <sexo>M</sexo>
+        <localidadResidencia>Mirandilla</localidadResidencia>
+        <numRegistro>2484/2011 BADA</numRegistro>
+      </victima>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Oropesa</nombre>
+    <IdProvincia>47</IdProvincia>
+    <ID>379</ID>
+    <latitud>39.91914</latitud>
+    <longitud>-5.173415</longitud>
+    <fosa>
+      <numRegistro>450/2009 TOLE</numRegistro>
+      <denominacionFosa>Fosas en el cementerio de Oropesa</denominacionFosa>
+      <estadoActual>NO INTERVENIDA</estadoActual>
+      <entidadInformante>Asociación para la Recuperación de la Memoria Histórica de Cuenca</entidadInformante>
+      <IdLocalidad>379</IdLocalidad>
+    </fosa>
+    <fosa>
+      <numRegistro>928/2009 TOLE</numRegistro>
+      <denominacionFosa>NO CONSTA</denominacionFosa>
+      <estadoActual>TRASLADADA AL VALLE DE LOS CAÍDOS</estadoActual>
+      <numeroPersonasFosa>2</numeroPersonasFosa>
+      <numeroPersonasExhumadas>2</numeroPersonasExhumadas>
+      <numeroPersonasIdentificadas>0</numeroPersonasIdentificadas>
+      <entidadInformante>Patrimonio Nacional</entidadInformante>
+      <observaciones>Trasladada al Valle de los Caídos con la fecha/s:24/03/1959</observaciones>
+      <IdLocalidad>379</IdLocalidad>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>928/2009 TOLE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>928/2009 TOLE</numRegistro>
+      </victima>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Quintana de la Serena</nombre>
+    <IdProvincia>8</IdProvincia>
+    <ID>416</ID>
+    <latitud>38.74163</latitud>
+    <longitud>-5.672316</longitud>
+    <fosa>
+      <numRegistro>2569/2015 BADA</numRegistro>
+      <denominacionFosa>Cementerio municipal de Quintana de la Serena</denominacionFosa>
+      <estadoActual>EXHUMADA TOTAL</estadoActual>
+      <numeroPersonasExhumadas>5</numeroPersonasExhumadas>
+      <numeroPersonasIdentificadas>0</numeroPersonasIdentificadas>
+      <entidadPromotora>Junta de Extremadura. Consejería de Cultura y Turismo. Proyecto para la Recuperación de la Memoria Histórica de Extremadura</entidadPromotora>
+      <entidadInformante>Junta de Extremadura. Consejería de Cultura y Turismo. Proyecto para la Recuperación de la Memoria Histórica de Extremadura</entidadInformante>
+      <observaciones>En la intervención arqueológica llevada a cabo en el cementerio municipal de Quintana de la Serena, con el objetivo de localizar una fosa común de la Guerra Civil, fueron hallados dos depósitos secundarios de restos óseos que podían estar relacionados con la fosa buscada. Estos restos, posiblemente, pertenecerían a vecinos fusilados en abril de 1939. Esta exhumación surge a raíz del testimonio oral recogido en la localidad donde se cuenta que ya acabada la guerra, en abril de 1939 y sobre los días 20 o 25, llegaron dos policías a la casa del represaliado y le dijeron que los acompañase y cuando éste les dijo que esperasen que iba a recoger la chaqueta le respondieron que “a donde iban no necesitaba chaqueta”. Cuando llegaron al Ayuntamiento había allí dos compañeros más. Los tres fueron conducidos al cementerio donde los llevaron ante una fosa con cinco hombres “ametrallados” y los obligaron a darles sepultura y que estuvieran callados con la amenaza de que si hablaban correrían la misma suerte.</observaciones>
+      <IdLocalidad>416</IdLocalidad>
+    </fosa>
+    <fosa>
+      <numRegistro>957/2009 BADA</numRegistro>
+      <denominacionFosa>NO CONSTA</denominacionFosa>
+      <estadoActual>TRASLADADA AL VALLE DE LOS CAÍDOS</estadoActual>
+      <numeroPersonasFosa>2</numeroPersonasFosa>
+      <numeroPersonasExhumadas>2</numeroPersonasExhumadas>
+      <numeroPersonasIdentificadas>2</numeroPersonasIdentificadas>
+      <entidadInformante>Patrimonio Nacional</entidadInformante>
+      <observaciones>Trasladada al Valle de los Caídos con la fecha/s:24/03/1959</observaciones>
+      <IdLocalidad>416</IdLocalidad>
+      <victima>
+        <nombre>Domingo</nombre>
+        <apellido1>Fernández</apellido1>
+        <apellido2>Lambea</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>957/2009 BADA</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Ricardo</nombre>
+        <apellido1>Martín</apellido1>
+        <apellido2>Romero</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>957/2009 BADA</numRegistro>
+      </victima>
+    </fosa>
+    <fosa>
+      <numRegistro>967/2009 BADA</numRegistro>
+      <denominacionFosa>NO CONSTA</denominacionFosa>
+      <estadoActual>TRASLADADA AL VALLE DE LOS CAÍDOS</estadoActual>
+      <numeroPersonasExhumadas>16</numeroPersonasExhumadas>
+      <numeroPersonasIdentificadas>16</numeroPersonasIdentificadas>
+      <entidadInformante>Patrimonio Nacional</entidadInformante>
+      <observaciones>Trasladada al Valle de los Caídos con la fecha/s:24/03/1959</observaciones>
+      <IdLocalidad>416</IdLocalidad>
+    </fosa>
+    <fosa>
+      <numRegistro>968/2009 BADA</numRegistro>
+      <denominacionFosa>NO CONSTA</denominacionFosa>
+      <estadoActual>TRASLADADA AL VALLE DE LOS CAÍDOS</estadoActual>
+      <numeroPersonasFosa>15</numeroPersonasFosa>
+      <numeroPersonasExhumadas>15</numeroPersonasExhumadas>
+      <numeroPersonasIdentificadas>15</numeroPersonasIdentificadas>
+      <entidadInformante>Patrimonio Nacional</entidadInformante>
+      <observaciones>Trasladada al Valle de los Caídos con la fecha/s:24/03/1959</observaciones>
+      <IdLocalidad>416</IdLocalidad>
+      <victima>
+        <nombre>Ramón</nombre>
+        <apellido1>Barquero</apellido1>
+        <apellido2>Barquero</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>968/2009 BADA</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Rafael</nombre>
+        <apellido1>Barquero</apellido1>
+        <apellido2>Barquero</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>968/2009 BADA</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Rafael</nombre>
+        <apellido1>de la Cruz</apellido1>
+        <apellido2>Barquero</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>968/2009 BADA</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Diego</nombre>
+        <apellido1>Morilla-Velarde</apellido1>
+        <apellido2>Barquero</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>968/2009 BADA</numRegistro>
+      </victima>
+      <victima>
+        <nombre>J. Andrés</nombre>
+        <apellido1>Morilla-Velarde</apellido1>
+        <apellido2>Barquero</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>968/2009 BADA</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Isidro</nombre>
+        <apellido1>Barquero</apellido1>
+        <apellido2>Barquero</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>968/2009 BADA</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Miguel</nombre>
+        <apellido1>Barquero</apellido1>
+        <apellido2>Barquero</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>968/2009 BADA</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Francisco</nombre>
+        <apellido1>Murillo-Velarde</apellido1>
+        <apellido2>H. Barquero</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>968/2009 BADA</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Juan</nombre>
+        <apellido1>Díaz</apellido1>
+        <apellido2>González</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>968/2009 BADA</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Diego</nombre>
+        <apellido1>de la Cruz</apellido1>
+        <apellido2>Nogales</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>968/2009 BADA</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Baltasar</nombre>
+        <apellido1>Sánchez</apellido1>
+        <apellido2>García</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>968/2009 BADA</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Francisco</nombre>
+        <apellido1>Martín</apellido1>
+        <apellido2>Robledo</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>968/2009 BADA</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Pedro</nombre>
+        <apellido1>de la Cruz</apellido1>
+        <apellido2>Barquero</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>968/2009 BADA</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Juan</nombre>
+        <apellido1>Sánchez</apellido1>
+        <apellido2>Cáceres</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>968/2009 BADA</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Esteban</nombre>
+        <apellido1>Barquero</apellido1>
+        <apellido2>Barquero</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>968/2009 BADA</numRegistro>
+      </victima>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Almendral</nombre>
+    <IdProvincia>8</IdProvincia>
+    <ID>508</ID>
+    <latitud>38.61327</latitud>
+    <longitud>-6.822295</longitud>
+    <fosa>
+      <numRegistro>2278/2010 BADA</numRegistro>
+      <denominacionFosa>Fosas de Almendral</denominacionFosa>
+      <estadoActual>EXHUMADA TOTAL</estadoActual>
+      <entidadInformante>Junta de Extremadura. Consejería de Cultura y Turismo. Proyecto para la Recuperación de la Memoria Histórica de Extremadura</entidadInformante>
+      <observaciones>Esta localidad de Badajoz sufrió una dura represión ya que fueron fusilados en distintos pueblos y ciudades 122 vecinos del pueblo. En Almendral se encontraban enterrados en varios puntos más de sesenta personas. En 1991 se acometió la exhumación de estas víctimas y se erigió en el cementerio un mausoleo con una placa de homenaje.</observaciones>
+      <IdLocalidad>508</IdLocalidad>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Arroyo de San Serván</nombre>
+    <IdProvincia>8</IdProvincia>
+    <ID>509</ID>
+    <latitud>38.85286</latitud>
+    <longitud>-6.455208</longitud>
+    <fosa>
+      <numRegistro>2558/2013 BADA</numRegistro>
+      <denominacionFosa>Fosa en finca El Valle</denominacionFosa>
+      <estadoActual>EXHUMADA TOTAL</estadoActual>
+      <numeroPersonasExhumadas>3</numeroPersonasExhumadas>
+      <numeroPersonasIdentificadas>0</numeroPersonasIdentificadas>
+      <entidadPromotora>Asociación para la Recuperación de la Memoria Histórica de Extremadura</entidadPromotora>
+      <entidadInformante>Junta de Extremadura. Consejería de Cultura y Turismo. Proyecto para la Recuperación de la Memoria Histórica de Extremadura</entidadInformante>
+      <observaciones>En agosto de 2012 se realizó la exhumación de una fosa localizada en un olivar cercano a la localidad de Arroyo de San Serván. En ese lugar habría sido ejecutadas un grupo de personas en agosto de 1936. En la fosa exhumada se han recuperado los restos de tres víctimas.</observaciones>
+      <IdLocalidad>509</IdLocalidad>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Azuaga</nombre>
+    <IdProvincia>8</IdProvincia>
+    <ID>510</ID>
+    <latitud>38.25962</latitud>
+    <longitud>-5.677916</longitud>
+    <fosa>
+      <numRegistro>959/2009 BADA</numRegistro>
+      <denominacionFosa>NO CONSTA</denominacionFosa>
+      <estadoActual>TRASLADADA AL VALLE DE LOS CAÍDOS</estadoActual>
+      <numeroPersonasFosa>1</numeroPersonasFosa>
+      <numeroPersonasExhumadas>1</numeroPersonasExhumadas>
+      <numeroPersonasIdentificadas>1</numeroPersonasIdentificadas>
+      <entidadInformante>Patrimonio Nacional</entidadInformante>
+      <observaciones>Trasladada al Valle de los Caídos con la fecha/s:24/03/1959</observaciones>
+      <IdLocalidad>510</IdLocalidad>
+      <victima>
+        <nombre>Antonio</nombre>
+        <apellido1>Córdoba</apellido1>
+        <apellido2>Jiménez</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>959/2009 BADA</numRegistro>
+      </victima>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Cabeza la Vaca</nombre>
+    <IdProvincia>8</IdProvincia>
+    <ID>511</ID>
+    <latitud>38.08687</latitud>
+    <longitud>-6.422567</longitud>
+    <fosa>
+      <numRegistro>2572/2015 BADA</numRegistro>
+      <denominacionFosa>Cementerio municipal de Cabeza la Vaca</denominacionFosa>
+      <estadoActual>EXHUMADA PARCIAL</estadoActual>
+      <numeroPersonasExhumadas>40</numeroPersonasExhumadas>
+      <numeroPersonasIdentificadas>0</numeroPersonasIdentificadas>
+      <entidadPromotora>Familiares</entidadPromotora>
+      <entidadInformante>Junta de Extremadura. Consejería de Cultura y Turismo. Proyecto para la Recuperación de la Memoria Histórica de Extremadura</entidadInformante>
+      <observaciones>Esta excavación se realiza para encontrar los cuerpos de aproximadamente 40 personas que fueron fusiladas y presumiblemente inhumadas en esta fosa común. Se localiza en el cementerio municipal de Cabeza la Vaca según se desprende de los testimonios orales recogidos en la localidad. De acuerdo con las primeras investigaciones, en el registro civil de la localidad de Cabeza la Vaca aparecen inscritas 31 personas fallecidas por represión franquista y se le añaden 9 víctimas más que se han tomado de los testimonios orales recogidos y contrastados.</observaciones>
+      <IdLocalidad>511</IdLocalidad>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Casas de Don Pedro</nombre>
+    <IdProvincia>8</IdProvincia>
+    <ID>512</ID>
+    <latitud>39.10563</latitud>
+    <longitud>-5.328635</longitud>
+    <fosa>
+      <numRegistro>2274/2010 BADA</numRegistro>
+      <denominacionFosa>Fosas del Olivar de las Boticarias</denominacionFosa>
+      <tipoFosa>FUSILAMIENTO</tipoFosa>
+      <estadoActual>EXHUMADA TOTAL</estadoActual>
+      <entidadInformante>Junta de Extremadura. Consejería de Cultura y Turismo. Proyecto para la Recuperación de la Memoria Histórica de Extremadura</entidadInformante>
+      <observaciones>En julio de 1978 en el paraje del "Olivar de las Boticarias" familiares y vecinos de la localidad recogieron en tres cajas los restos de fusilados provenientes del improvisado campo de prisioneros de Zaldívar y Las Boticarias. Los familiares de las víctimas sufragaron un panteón y celebraron un funeral en un ambiente hostil, aunque ya la democracia daba sus primeros pasos en el proceso de recuperar la memoria</observaciones>
+      <IdLocalidad>512</IdLocalidad>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Castuera</nombre>
+    <IdProvincia>8</IdProvincia>
+    <ID>513</ID>
+    <latitud>38.72257</latitud>
+    <longitud>-5.545517</longitud>
+    <fosa>
+      <numRegistro>2498/2012 BADA</numRegistro>
+      <denominacionFosa>Fosas junto al cementerio de Castuera</denominacionFosa>
+      <estadoActual>EXHUMADA TOTAL</estadoActual>
+      <numeroPersonasExhumadas>18</numeroPersonasExhumadas>
+      <entidadPromotora>Asociación Memorial Campo de Concentración de Castuera</entidadPromotora>
+      <entidadInformante>Junta de Extremadura. Consejería de Cultura y Turismo. Proyecto para la Recuperación de la Memoria Histórica de Extremadura</entidadInformante>
+      <observaciones>En el verano de 2011 se realizaron labores de exhumación de dos fosas comunes localizadas en la parte exterior del cementerio de Castuera. En una de ellas se recuperaron los restos de tres víctimas de la represión de la posguerra. También se localizó otra fosa en la que podrían haber sido enterradas unas quince víctimas que pudieran tratrase de prisioneros del campo de concentración cercano al pueblo, que estuvo operativo hasta marzo de 1940.</observaciones>
+      <IdLocalidad>513</IdLocalidad>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Fregenal de la Sierra</nombre>
+    <IdProvincia>8</IdProvincia>
+    <ID>514</ID>
+    <latitud>38.16476</latitud>
+    <longitud>-6.651353</longitud>
+    <fosa>
+      <numRegistro>2293/2010 BADA</numRegistro>
+      <denominacionFosa>Fosas en cementerio de Fregenal de la Sierra</denominacionFosa>
+      <estadoActual>EXHUMADA PARCIAL</estadoActual>
+      <numeroPersonasExhumadas>47</numeroPersonasExhumadas>
+      <numeroPersonasIdentificadas>47</numeroPersonasIdentificadas>
+      <entidadInformante>Junta de Extremadura. Consejería de Cultura y Turismo. Proyecto para la Recuperación de la Memoria Histórica de Extremadura</entidadInformante>
+      <observaciones>A finales de noviembre de 2010 se realizaron sondeos y estudios preliminares de varias fosas comunes existentes en el cementerio de la localidad, en la parte izquierda del recinto. Se trata de una sucesión de varias fosas, a lo largo de unos veinte metros, en las que podrían haber sido enterradas más de treinta víctimas. En alguna fosa estarían enterrados cuatro o cinco cuerpos; en otras, dos o tres, sin poder determinar por el momento si existirían enterramientos a un nivel inferior. Durante septiembre y octubre de 2012 se han exhumado siete de las doce fosas localizadas y, hasta el momento, se han documentado 47 cuerpos inhumados en grupos diferentes.</observaciones>
+      <IdLocalidad>514</IdLocalidad>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Herrera del Duque</nombre>
+    <IdProvincia>8</IdProvincia>
+    <ID>515</ID>
+    <latitud>39.16891</latitud>
+    <longitud>-5.051313</longitud>
+    <fosa>
+      <numRegistro>966/2009 BADA</numRegistro>
+      <denominacionFosa>NO CONSTA</denominacionFosa>
+      <estadoActual>TRASLADADA AL VALLE DE LOS CAÍDOS</estadoActual>
+      <numeroPersonasFosa>10</numeroPersonasFosa>
+      <numeroPersonasExhumadas>10</numeroPersonasExhumadas>
+      <numeroPersonasIdentificadas>10</numeroPersonasIdentificadas>
+      <entidadInformante>Patrimonio Nacional</entidadInformante>
+      <observaciones>Trasladada al Valle de los Caídos con la fecha/s:24/03/1959</observaciones>
+      <IdLocalidad>515</IdLocalidad>
+      <victima>
+        <nombre>Juan M.</nombre>
+        <apellido1>Domínguez</apellido1>
+        <apellido2>Villarejo</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>966/2009 BADA</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Francisco</nombre>
+        <apellido1>Chacón</apellido1>
+        <apellido2>Valles</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>966/2009 BADA</numRegistro>
+      </victima>
+      <victima>
+        <nombre>José</nombre>
+        <apellido1>Chacón</apellido1>
+        <apellido2>Velasco</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>966/2009 BADA</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Ignacio</nombre>
+        <apellido1>Chacón</apellido1>
+        <apellido2>Lázaro</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>966/2009 BADA</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Fernando</nombre>
+        <apellido1>Chacón</apellido1>
+        <apellido2>Torralba</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>966/2009 BADA</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Sebastián</nombre>
+        <apellido1>Chacón</apellido1>
+        <apellido2>Torralba</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>966/2009 BADA</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Timoteo</nombre>
+        <apellido1>Carpio</apellido1>
+        <apellido2>López</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>966/2009 BADA</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Federico</nombre>
+        <apellido1>Muñoz</apellido1>
+        <apellido2>Muñoz</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>966/2009 BADA</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Valeriano</nombre>
+        <apellido1>Carapeto</apellido1>
+        <apellido2>Rodríguez</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>966/2009 BADA</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Fernando</nombre>
+        <apellido1>López</apellido1>
+        <apellido2>Muñoz</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>966/2009 BADA</numRegistro>
+      </victima>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Llerena</nombre>
+    <IdProvincia>8</IdProvincia>
+    <ID>516</ID>
+    <latitud>38.23769</latitud>
+    <longitud>-6.015329</longitud>
+    <fosa>
+      <numRegistro>365/2009 BADA</numRegistro>
+      <denominacionFosa>Fosa en el arroyo Romanzal</denominacionFosa>
+      <tipoFosa>FUSILAMIENTO</tipoFosa>
+      <estadoActual>EXHUMADA TOTAL</estadoActual>
+      <numeroPersonasFosa>34</numeroPersonasFosa>
+      <numeroPersonasExhumadas>40</numeroPersonasExhumadas>
+      <numeroPersonasIdentificadas>34</numeroPersonasIdentificadas>
+      <entidadInformante>Junta de Extremadura. Consejería de Cultura y Turismo. Proyecto para la Recuperación de la Memoria Histórica de Extremadura</entidadInformante>
+      <observaciones>La fosa estaba localizada a orillas del arroyo Romanzal. Esta fosa contenía los cuerpos de 40 personas fusiladas en Llerena, la mayoria de ellos en septiembre de 1936, cuyos restos fueron entregados a sus familiares. En una ceremonia digna, discreta y familiar se procedió a darles sepultura en un panteón en el cementerio municipal donde figuran los nombres de todas las víctimas de la represión franquista en Llerena. Se incorpora un listado con la identidad de 34 víctimas. Exhumada el 29 de agosto de 2005.</observaciones>
+      <IdLocalidad>516</IdLocalidad>
+      <victima>
+        <nombre>Miguel</nombre>
+        <apellido1>Durán</apellido1>
+        <apellido2>Expósito</apellido2>
+        <sexo>V</sexo>
+        <edad>33</edad>
+        <profesion>Jornalero</profesion>
+        <numRegistro>365/2009 BADA</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Antonio</nombre>
+        <apellido1>Esmeralda</apellido1>
+        <apellido2>Gato</apellido2>
+        <sexo>V</sexo>
+        <edad>42</edad>
+        <profesion>Jornalero</profesion>
+        <numRegistro>365/2009 BADA</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Agustina</nombre>
+        <apellido1>Esteban</apellido1>
+        <apellido2>Cordero</apellido2>
+        <sexo>F</sexo>
+        <edad>50</edad>
+        <numRegistro>365/2009 BADA</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Agustina</nombre>
+        <apellido1>Esteban</apellido1>
+        <apellido2>Larios</apellido2>
+        <sexo>F</sexo>
+        <numRegistro>365/2009 BADA</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Florencio</nombre>
+        <apellido1>Macedo</apellido1>
+        <apellido2>Muñoz</apellido2>
+        <edad>27</edad>
+        <profesion>Guardia Municipal</profesion>
+        <numRegistro>365/2009 BADA</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Fernando</nombre>
+        <apellido1>Maltrana</apellido1>
+        <apellido2>Galán</apellido2>
+        <sexo>V</sexo>
+        <numRegistro>365/2009 BADA</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Valentín</nombre>
+        <apellido1>Maltrana</apellido1>
+        <apellido2>Galán</apellido2>
+        <sexo>V</sexo>
+        <numRegistro>365/2009 BADA</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Angel</nombre>
+        <apellido1>Marín</apellido1>
+        <apellido2>Martín</apellido2>
+        <sexo>V</sexo>
+        <edad>23</edad>
+        <profesion>Albañil</profesion>
+        <numRegistro>365/2009 BADA</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Cándida</nombre>
+        <apellido1>Morgado</apellido1>
+        <apellido2>Valencia</apellido2>
+        <sexo>F</sexo>
+        <edad>37</edad>
+        <profesion>albañil</profesion>
+        <numRegistro>365/2009 BADA</numRegistro>
+      </victima>
+      <victima>
+        <nombre>José</nombre>
+        <apellido1>Núñez</apellido1>
+        <apellido2>González</apellido2>
+        <sexo>V</sexo>
+        <numRegistro>365/2009 BADA</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Antonio</nombre>
+        <apellido1>Pizarro</apellido1>
+        <apellido2>García</apellido2>
+        <sexo>V</sexo>
+        <edad>34</edad>
+        <profesion>Jornalero</profesion>
+        <numRegistro>365/2009 BADA</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Crispín</nombre>
+        <apellido1>Rafael</apellido1>
+        <apellido2>Rando</apellido2>
+        <sexo>V</sexo>
+        <edad>33</edad>
+        <profesion>Jornalero</profesion>
+        <numRegistro>365/2009 BADA</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Cipriano</nombre>
+        <apellido1>Rodríguez</apellido1>
+        <apellido2>Núñez</apellido2>
+        <sexo>V</sexo>
+        <edad>25</edad>
+        <profesion>Jornalero</profesion>
+        <numRegistro>365/2009 BADA</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Telesforo</nombre>
+        <apellido1>Rodríguez</apellido1>
+        <apellido2>Núñez</apellido2>
+        <sexo>V</sexo>
+        <edad>33</edad>
+        <profesion>Ferroviario</profesion>
+        <numRegistro>365/2009 BADA</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Josefa "La Galla"</nombre>
+        <apellido1>Fernández</apellido1>
+        <apellido2>Catena</apellido2>
+        <sexo>V</sexo>
+        <edad>36</edad>
+        <numRegistro>365/2009 BADA</numRegistro>
+      </victima>
+      <victima>
+        <nombre>José</nombre>
+        <apellido1>Flores</apellido1>
+        <apellido2>Bautista</apellido2>
+        <sexo>V</sexo>
+        <edad>28</edad>
+        <numRegistro>365/2009 BADA</numRegistro>
+      </victima>
+      <victima>
+        <nombre>María del Señor</nombre>
+        <apellido1>Manzano</apellido1>
+        <apellido2>Durán</apellido2>
+        <sexo>F</sexo>
+        <edad>39</edad>
+        <otrosDatos>Esposa de José Aragón Murciano</otrosDatos>
+        <numRegistro>365/2009 BADA</numRegistro>
+      </victima>
+      <victima>
+        <nombre>María</nombre>
+        <apellido1>Morgado</apellido1>
+        <apellido2>Valencia</apellido2>
+        <sexo>F</sexo>
+        <edad>49</edad>
+        <otrosDatos>Estaba casada con Lucio Ruiz Maldonado, militante del PSOE. Era hermana de Cándida Morgado Valencia, también fusilada.</otrosDatos>
+        <numRegistro>365/2009 BADA</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Antonio</nombre>
+        <apellido1>Pérez</apellido1>
+        <apellido2>Gómez</apellido2>
+        <sexo>V</sexo>
+        <edad>44</edad>
+        <profesion>Ferroviario</profesion>
+        <otrosDatos>Nacido en Hornachuelo (Córdoba)</otrosDatos>
+        <numRegistro>365/2009 BADA</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Mercedes</nombre>
+        <apellido1>Puerto</apellido1>
+        <apellido2>Castaño</apellido2>
+        <sexo>F</sexo>
+        <edad>45</edad>
+        <otrosDatos>Viuda de Juan Valencia Durán, también fusilado.</otrosDatos>
+        <numRegistro>365/2009 BADA</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Antonio</nombre>
+        <apellido1>Sánchez</apellido1>
+        <apellido2>Rajo</apellido2>
+        <sexo>V</sexo>
+        <edad>33</edad>
+        <profesion>ferroviario</profesion>
+        <numRegistro>365/2009 BADA</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Teresa</nombre>
+        <apellido1>Sánchez</apellido1>
+        <apellido2>Ramos</apellido2>
+        <sexo>F</sexo>
+        <edad>53</edad>
+        <numRegistro>365/2009 BADA</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Gabriela</nombre>
+        <apellido1>Soriano</apellido1>
+        <apellido2>Flores</apellido2>
+        <sexo>F</sexo>
+        <edad>50</edad>
+        <otrosDatos>Madre de Antonio Alvarez Soriano, también fusilado.</otrosDatos>
+        <numRegistro>365/2009 BADA</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Juan</nombre>
+        <apellido1>Valencia</apellido1>
+        <apellido2>Durán</apellido2>
+        <sexo>V</sexo>
+        <numRegistro>365/2009 BADA</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Fernando</nombre>
+        <apellido1>Viejo</apellido1>
+        <apellido2>Hernández</apellido2>
+        <sexo>V</sexo>
+        <edad>23</edad>
+        <profesion>Jornalero</profesion>
+        <numRegistro>365/2009 BADA</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Rafael "Viri"</nombre>
+        <apellido1>Rodríguez</apellido1>
+        <apellido2>Barroso</apellido2>
+        <sexo>V</sexo>
+        <numRegistro>365/2009 BADA</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Ignacio "Viri"</nombre>
+        <apellido1>Rodríguez</apellido1>
+        <apellido2>Barroso</apellido2>
+        <sexo>V</sexo>
+        <numRegistro>365/2009 BADA</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Wenceslao</nombre>
+        <apellido1>Rodríguez</apellido1>
+        <apellido2>Muñoz</apellido2>
+        <sexo>V</sexo>
+        <edad>60</edad>
+        <profesion>Jornalero</profesion>
+        <numRegistro>365/2009 BADA</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Gabriela</nombre>
+        <apellido1>Alvarez</apellido1>
+        <apellido2>Flores</apellido2>
+        <sexo>F</sexo>
+        <numRegistro>365/2009 BADA</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Antonio</nombre>
+        <apellido1>León</apellido1>
+        <apellido2>Durán</apellido2>
+        <sexo>V</sexo>
+        <edad>28</edad>
+        <profesion>Jornalero</profesion>
+        <numRegistro>365/2009 BADA</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Juan</nombre>
+        <apellido1>Hernández</apellido1>
+        <apellido2>García</apellido2>
+        <sexo>V</sexo>
+        <edad>33</edad>
+        <numRegistro>365/2009 BADA</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Adrián</nombre>
+        <apellido1>Núñez</apellido1>
+        <apellido2>García</apellido2>
+        <sexo>V</sexo>
+        <edad>24</edad>
+        <profesion>Labrador</profesion>
+        <otrosDatos>Nacido y vecino de Bienvenida</otrosDatos>
+        <numRegistro>365/2009 BADA</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Francisco</nombre>
+        <apellido1>Cayero</apellido1>
+        <apellido2>Rubio</apellido2>
+        <sexo>V</sexo>
+        <edad>23</edad>
+        <numRegistro>365/2009 BADA</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Isabel</nombre>
+        <apellido1>Galán</apellido1>
+        <apellido2>Lancharro</apellido2>
+        <sexo>F</sexo>
+        <edad>58</edad>
+        <numRegistro>365/2009 BADA</numRegistro>
+      </victima>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Medina de las Torres</nombre>
+    <IdProvincia>8</IdProvincia>
+    <ID>517</ID>
+    <latitud>38.34339</latitud>
+    <longitud>-6.411753</longitud>
+    <fosa>
+      <numRegistro>378/2009 BADA</numRegistro>
+      <denominacionFosa>Fosa común en el cementerio de San Isidro</denominacionFosa>
+      <tipoFosa>FUSILAMIENTO</tipoFosa>
+      <estadoActual>NO INTERVENIDA</estadoActual>
+      <numeroPersonasIdentificadas>55</numeroPersonasIdentificadas>
+      <entidadInformante>Junta de Extremadura. Consejería de Cultura y Turismo. Proyecto para la Recuperación de la Memoria Histórica de Extremadura</entidadInformante>
+      <observaciones>En agosto de 1979 se adoptó un acuerdo municipal para exhumar los restos de víctimas de la Guerra Civil que estaban enterrados en una fosa común del cementerio y proceder a su reinhumación en un panteón. En Medina de las Torres fueron fusiladas entre el día 25 de agosto y el 23 de octubre de 1936, 55 personas, de las cuales 14 eran mujeres. Sus nombres figuran en una lápida del panteón.</observaciones>
+      <IdLocalidad>517</IdLocalidad>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Mérida</nombre>
+    <IdProvincia>8</IdProvincia>
+    <ID>518</ID>
+    <latitud>38.91586</latitud>
+    <longitud>-6.345606</longitud>
+    <fosa>
+      <numRegistro>2279/2010 BADA</numRegistro>
+      <denominacionFosa>Fosas junto al muro del cementerio de Mérida</denominacionFosa>
+      <estadoActual>EXHUMADA TOTAL</estadoActual>
+      <entidadInformante>Junta de Extremadura. Consejería de Cultura y Turismo. Proyecto para la Recuperación de la Memoria Histórica de Extremadura</entidadInformante>
+      <observaciones>En el verano de 2008 se realizaron trabajos de excavación en cuatro fosas localizadas junto al muro sur del cementerio municipal de Mérida. Se recuperaron numerosos restos humanos muy fragmentados y sin conexión anatómica, salvo un individuo en la fosa 3, por lo que la hipótesis es que estas fosas fueron exhumadas en la posguerra. Con los restos ahora recuperados se llenaron tres ataúdes que han sido depositados en un mausoleo cedido por el Ayuntamiento.</observaciones>
+      <IdLocalidad>518</IdLocalidad>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Monesterio</nombre>
+    <IdProvincia>8</IdProvincia>
+    <ID>519</ID>
+    <latitud>38.08678</latitud>
+    <longitud>-6.274293</longitud>
+    <fosa>
+      <numRegistro>963/2009 BADA</numRegistro>
+      <denominacionFosa>NO CONSTA</denominacionFosa>
+      <estadoActual>TRASLADADA AL VALLE DE LOS CAÍDOS</estadoActual>
+      <numeroPersonasFosa>1</numeroPersonasFosa>
+      <numeroPersonasExhumadas>1</numeroPersonasExhumadas>
+      <numeroPersonasIdentificadas>1</numeroPersonasIdentificadas>
+      <entidadInformante>Patrimonio Nacional</entidadInformante>
+      <observaciones>Trasladada al Valle de los Caídos con la fecha/s:24/03/1959</observaciones>
+      <IdLocalidad>519</IdLocalidad>
+      <victima>
+        <nombre>Manuel</nombre>
+        <apellido1>Layngo</apellido1>
+        <apellido2>Bautista</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>963/2009 BADA</numRegistro>
+      </victima>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Monterrubio de la Serena</nombre>
+    <IdProvincia>8</IdProvincia>
+    <ID>520</ID>
+    <latitud>38.5892</latitud>
+    <longitud>-5.443485</longitud>
+    <fosa>
+      <numRegistro>962/2009 BADA</numRegistro>
+      <denominacionFosa>NO CONSTA</denominacionFosa>
+      <estadoActual>TRASLADADA AL VALLE DE LOS CAÍDOS</estadoActual>
+      <numeroPersonasFosa>4</numeroPersonasFosa>
+      <numeroPersonasExhumadas>4</numeroPersonasExhumadas>
+      <numeroPersonasIdentificadas>4</numeroPersonasIdentificadas>
+      <entidadInformante>Patrimonio Nacional</entidadInformante>
+      <observaciones>Trasladada al Valle de los Caídos con la fecha/s:24/03/1959</observaciones>
+      <IdLocalidad>520</IdLocalidad>
+      <victima>
+        <nombre>Enrique</nombre>
+        <apellido1>Acosta</apellido1>
+        <apellido2>Hidalgo</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>962/2009 BADA</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Sebastián</nombre>
+        <apellido1>Quetabas</apellido1>
+        <apellido2>Tous</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>962/2009 BADA</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Juan Luis</nombre>
+        <apellido1>Quetabas</apellido1>
+        <apellido2>Ferrer</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>962/2009 BADA</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Lamberto</nombre>
+        <apellido1>Córdoba</apellido1>
+        <apellido2>Ergueta</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>962/2009 BADA</numRegistro>
+      </victima>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Nogales</nombre>
+    <IdProvincia>8</IdProvincia>
+    <ID>521</ID>
+    <latitud>38.58658</latitud>
+    <longitud>-6.749022</longitud>
+    <fosa>
+      <numRegistro>964/2009 BADA</numRegistro>
+      <denominacionFosa>NO CONSTA</denominacionFosa>
+      <estadoActual>TRASLADADA AL VALLE DE LOS CAÍDOS</estadoActual>
+      <numeroPersonasFosa>3</numeroPersonasFosa>
+      <numeroPersonasExhumadas>3</numeroPersonasExhumadas>
+      <numeroPersonasIdentificadas>0</numeroPersonasIdentificadas>
+      <entidadInformante>Patrimonio Nacional</entidadInformante>
+      <observaciones>Trasladada al Valle de los Caídos con la fecha/s:24/03/1959</observaciones>
+      <IdLocalidad>521</IdLocalidad>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>964/2009 BADA</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>964/2009 BADA</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>964/2009 BADA</numRegistro>
+      </victima>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Orellana la Vieja</nombre>
+    <IdProvincia>8</IdProvincia>
+    <ID>522</ID>
+    <latitud>39.00505</latitud>
+    <longitud>-5.534274</longitud>
+    <fosa>
+      <numRegistro>2275/2010 BADA</numRegistro>
+      <denominacionFosa>Fosas de Orellana La Vieja</denominacionFosa>
+      <estadoActual>EXHUMADA TOTAL</estadoActual>
+      <entidadInformante>Junta de Extremadura. Consejería de Cultura y Turismo. Proyecto para la Recuperación de la Memoria Histórica de Extremadura</entidadInformante>
+      <observaciones>En 1979, con el primer ayuntamiento democrático, se exhumaron los restos de vecinos del pueblo que permanecían en el olvido de las fosas comunes.  Se erigió un mausoleo en el cementerio con una placa de homenaje y los nombres de más de 60 víctimas de Orellana.</observaciones>
+      <IdLocalidad>522</IdLocalidad>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Peñalsordo</nombre>
+    <IdProvincia>8</IdProvincia>
+    <ID>523</ID>
+    <latitud>38.81918</latitud>
+    <longitud>-5.114106</longitud>
+    <fosa>
+      <numRegistro>961/2009 BADA</numRegistro>
+      <denominacionFosa>NO CONSTA</denominacionFosa>
+      <estadoActual>TRASLADADA AL VALLE DE LOS CAÍDOS</estadoActual>
+      <numeroPersonasFosa>2</numeroPersonasFosa>
+      <numeroPersonasExhumadas>2</numeroPersonasExhumadas>
+      <numeroPersonasIdentificadas>2</numeroPersonasIdentificadas>
+      <entidadInformante>Patrimonio Nacional</entidadInformante>
+      <observaciones>Trasladada al Valle de los Caídos con la fecha/s:24/03/1959</observaciones>
+      <IdLocalidad>523</IdLocalidad>
+      <victima>
+        <nombre>Nicolás</nombre>
+        <apellido1>Serrano</apellido1>
+        <apellido2>Milara</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>961/2009 BADA</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Bernabé</nombre>
+        <apellido1>Serrano</apellido1>
+        <apellido2>Milara</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>961/2009 BADA</numRegistro>
+      </victima>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Puebla de Alcocer</nombre>
+    <IdProvincia>8</IdProvincia>
+    <ID>524</ID>
+    <latitud>38.98521</latitud>
+    <longitud>-5.257938</longitud>
+    <fosa>
+      <numRegistro>2564/2015 BADA</numRegistro>
+      <denominacionFosa>Cementerio municipal de Puebla de Alcocer</denominacionFosa>
+      <estadoActual>EXHUMADA TOTAL</estadoActual>
+      <numeroPersonasExhumadas>45</numeroPersonasExhumadas>
+      <numeroPersonasIdentificadas>0</numeroPersonasIdentificadas>
+      <entidadPromotora>Agrupación de familiares</entidadPromotora>
+      <entidadInformante>Junta de Extremadura. Consejería de Cultura y Turismo. Proyecto para la Recuperación de la Memoria Histórica de Extremadura</entidadInformante>
+      <observaciones>Según los testimonios orales recogidos a familiares de las víctimas de la represión franquista en Puebla de Alcocer, se estiman 35 individuos ejecutados en mayo de 1939 por las fuerzas franquistas en la fosa a excavar. Según estos testimonio, el 21 de mayo de 1939 fueron sacadas 11 personas de la cárcel de Puebla de Alcocer y trasladados al paraje denominado “Cuesta de la Cabeza”, en el término municipal de dicha localidad, donde fueron ejecutados y posteriormente inhumados en una trinchera del Frente de Extremadura, que está ubicada en dicha paraje. El día 25 de mayo de 1939, otros 24 vecinos de la localidad fueron nuevamente sacados de la cárcel y conducidos al lugar denominado “El Chaparral”, que dista de la “Cuesta de la Cabeza” en un kilómetro aproximadamente, donde fueron ejecutados y posteriormente inhumados en una trinchera del Frente de Extremadura.</observaciones>
+      <IdLocalidad>524</IdLocalidad>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Salvatierra de los Barros</nombre>
+    <IdProvincia>8</IdProvincia>
+    <ID>525</ID>
+    <latitud>38.49078</latitud>
+    <longitud>-6.685156</longitud>
+    <fosa>
+      <numRegistro>1363/2009 BADA</numRegistro>
+      <denominacionFosa>Fosa en Salvatierra de los Barros</denominacionFosa>
+      <tipoFosa>FUSILAMIENTO</tipoFosa>
+      <fechaFosa>30/09/1936</fechaFosa>
+      <estadoActual>EXHUMADA TOTAL</estadoActual>
+      <numeroPersonasFosa>4</numeroPersonasFosa>
+      <numeroPersonasExhumadas>4</numeroPersonasExhumadas>
+      <numeroPersonasIdentificadas>4</numeroPersonasIdentificadas>
+      <entidadPromotora>Familiares</entidadPromotora>
+      <entidadInformante>Junta de Extremadura. Consejería de Cultura y Turismo. Proyecto para la Recuperación de la Memoria Histórica de Extremadura</entidadInformante>
+      <observaciones>Esta fosa se localizó a orillas de un arroyo cercano a la población. El hijo de una de las víctimas había adquirido un trozo de parcela donde varios testigos ubicaban la fosa, la rodeó con un muro y colocó una verja con una cruz. La fosa contenía los restos de 4 fusilados el día 30 de septiembre de 1936 y fue exhumada el 15 de Octubre de 2007 bajo la dirección técnica de la Sociedad de Ciencias Aranzadi. Los restos recuperados fueron entregados al Ayuntamiento de Salvatierra de los Barros.</observaciones>
+      <IdLocalidad>525</IdLocalidad>
+      <victima>
+        <nombre>José Manuel</nombre>
+        <apellido1>Ramos</apellido1>
+        <apellido2>Sánchez</apellido2>
+        <sexo>M</sexo>
+        <edad>33</edad>
+        <fechaFallecimiento>30/09/1936</fechaFallecimiento>
+        <fechaExhumación>15/10/2007</fechaExhumación>
+        <numRegistro>1363/2009 BADA</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Juan Manuel</nombre>
+        <apellido1>Ramos</apellido1>
+        <apellido2>Sánchez</apellido2>
+        <sexo>M</sexo>
+        <edad>46</edad>
+        <fechaFallecimiento>30/09/1936</fechaFallecimiento>
+        <fechaExhumación>15/09/2007</fechaExhumación>
+        <numRegistro>1363/2009 BADA</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Juan de la Cruz</nombre>
+        <apellido1>Cintas</apellido1>
+        <apellido2>Suero</apellido2>
+        <sexo>M</sexo>
+        <edad>42</edad>
+        <fechaFallecimiento>30/09/1936</fechaFallecimiento>
+        <fechaExhumación>15/10/2007</fechaExhumación>
+        <numRegistro>1363/2009 BADA</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Nicolás</nombre>
+        <apellido1>Ramos</apellido1>
+        <apellido2>Vázquez</apellido2>
+        <sexo>M</sexo>
+        <edad>27</edad>
+        <fechaFallecimiento>30/09/1936</fechaFallecimiento>
+        <fechaExhumación>15/10/2007</fechaExhumación>
+        <numRegistro>1363/2009 BADA</numRegistro>
+      </victima>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Santa Amalia</nombre>
+    <IdProvincia>8</IdProvincia>
+    <ID>526</ID>
+    <latitud>39.01209</latitud>
+    <longitud>-6.01155</longitud>
+    <fosa>
+      <numRegistro>2501/2012 BADA</numRegistro>
+      <denominacionFosa>Fosa en finca La Parrilla</denominacionFosa>
+      <tipoFosa>FUSILAMIENTO</tipoFosa>
+      <fechaFosa>13/08/1938</fechaFosa>
+      <estadoActual>EXHUMADA TOTAL</estadoActual>
+      <numeroPersonasExhumadas>7</numeroPersonasExhumadas>
+      <entidadPromotora>Asociación Foro para la Recuperación de la Memoria Histórica de Santa Amalia</entidadPromotora>
+      <entidadInformante>Junta de Extremadura. Consejería de Cultura y Turismo. Proyecto para la Recuperación de la Memoria Histórica de Extremadura</entidadInformante>
+      <observaciones>Esta fosa ha sido localizada en las inmediaciones de un arroyo que atraviesa la finca La Parrilla, a unos 12 km. del casco urbano de Santa Amalia. En abril de 2011 se realizó la exhumación de la fosa, recuperándose los restos de siete víctimas fusiladas en ese lugar en agosto de 1938. Unos días después de su fusilamiento, los cadáveres fueron encontrados y enterrados por el guarda de la finca para protegerlos de las alimañas. Los restos óseos se encontraban en mal estado de conservación debido a la humedad. Se maneja una lista de 91 desaparecidos de Santa Amalia por lo que la identidad de las víctimas no está determinada.</observaciones>
+      <IdLocalidad>526</IdLocalidad>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Valdecaballeros</nombre>
+    <IdProvincia>8</IdProvincia>
+    <ID>527</ID>
+    <latitud>39.24578</latitud>
+    <longitud>-5.191957</longitud>
+    <fosa>
+      <numRegistro>2565/2015 BADA</numRegistro>
+      <denominacionFosa>Las Cabezuelas</denominacionFosa>
+      <estadoActual>NO INTERVENIDA</estadoActual>
+      <entidadPromotora>Junta de Extremadura. Consejería de Cultura y Turismo. Proyecto para la Recuperación de la Memoria Histórica de Extremadura</entidadPromotora>
+      <entidadInformante>Junta de Extremadura. Consejería de Cultura y Turismo. Proyecto para la Recuperación de la Memoria Histórica de Extremadura</entidadInformante>
+      <IdLocalidad>527</IdLocalidad>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Valle de la Serena</nombre>
+    <IdProvincia>8</IdProvincia>
+    <ID>528</ID>
+    <latitud>38.70062</latitud>
+    <longitud>-5.799649</longitud>
+    <fosa>
+      <numRegistro>376/2009 BADA</numRegistro>
+      <denominacionFosa>Fosas en el Valle de la Serena</denominacionFosa>
+      <tipoFosa>FUSILAMIENTO</tipoFosa>
+      <estadoActual>EXHUMADA TOTAL</estadoActual>
+      <numeroPersonasIdentificadas>70</numeroPersonasIdentificadas>
+      <entidadPromotora>Corporación Municipal</entidadPromotora>
+      <entidadInformante>Junta de Extremadura. Consejería de Cultura y Turismo. Proyecto para la Recuperación de la Memoria Histórica de Extremadura</entidadInformante>
+      <observaciones>Esta localidad puede considerarse como una de las precursoras de la recuperación de la memoria histórica en Extremadura. Ya en marzo de 1979, un mes antes de las primeras elecciones democráticas, se recogieron los restos de muchas víctimas de la represión franquista, 70 víctimas que fueron asesinadas en cuatro "sacas": el 11 de agosto de 1938 (17), el 17 de septiembre de 1938 (10), el 11 de mayo de 1939 (18) y el 9 de junio de 1939 (15), y que estaban enterradas en cuatro lugares. Sus propias familias decidieron exhumarlos y hacer constar sus nombres en cuatro lápidas que rodean un mausoleo en homenaje a las víctimas.</observaciones>
+      <IdLocalidad>528</IdLocalidad>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Villafranca de los Barros</nombre>
+    <IdProvincia>8</IdProvincia>
+    <ID>529</ID>
+    <latitud>38.5623</latitud>
+    <longitud>-6.337831</longitud>
+    <fosa>
+      <numRegistro>958/2009 BADA</numRegistro>
+      <denominacionFosa>NO CONSTA</denominacionFosa>
+      <estadoActual>TRASLADADA AL VALLE DE LOS CAÍDOS</estadoActual>
+      <numeroPersonasFosa>1</numeroPersonasFosa>
+      <numeroPersonasExhumadas>1</numeroPersonasExhumadas>
+      <numeroPersonasIdentificadas>1</numeroPersonasIdentificadas>
+      <entidadInformante>Patrimonio Nacional</entidadInformante>
+      <observaciones>Trasladada al Valle de los Caídos con la fecha/s:24/03/1959</observaciones>
+      <IdLocalidad>529</IdLocalidad>
+      <victima>
+        <nombre>Julián</nombre>
+        <apellido1>Rodríguez</apellido1>
+        <apellido2>Casado</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>958/2009 BADA</numRegistro>
+      </victima>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Villanueva de la Serena</nombre>
+    <IdProvincia>8</IdProvincia>
+    <ID>530</ID>
+    <latitud>38.97399</latitud>
+    <longitud>-5.800302</longitud>
+    <fosa>
+      <numRegistro>2509/2012 BADA</numRegistro>
+      <denominacionFosa>Fosa en Cementerio nuevo</denominacionFosa>
+      <estadoActual>NO INTERVENIDA</estadoActual>
+      <entidadInformante>Junta de Extremadura. Consejería de Cultura y Turismo. Proyecto para la Recuperación de la Memoria Histórica de Extremadura</entidadInformante>
+      <observaciones>En el cementerio nuevo de la localidad de Villanueva de la Serena existe una fosa común donde están enterradas numerosas víctimas de la represión tras la entrada de las tropas franquistas en julio de 1938. Se iniciaron entonces detenciones y encarcelamientos masivos en el Depósito Municipal de habitantes que no habían huido a zona republicana. Se desconoce la identidad y número exacto de las víctimas allí enterradas, aunque se sabe que desde 1936 a 1939 fueron fusilados unos 270 vecinos. El espacio que ocupa la fosa está señalizado y dignificado con una placas de homenaje a las víctimas. En octubre de 2011 se realizó un acto de homenaje en el mismo cementerio.</observaciones>
+      <IdLocalidad>530</IdLocalidad>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Villar del Rey</nombre>
+    <IdProvincia>8</IdProvincia>
+    <ID>531</ID>
+    <latitud>39.13239</latitud>
+    <longitud>-6.847796</longitud>
+    <fosa>
+      <numRegistro>367/2009 BADA</numRegistro>
+      <denominacionFosa>Fosa en la finca El Pedazo</denominacionFosa>
+      <tipoFosa>FUSILAMIENTO</tipoFosa>
+      <fechaFosa>12/09/1936</fechaFosa>
+      <estadoActual>EXHUMADA TOTAL</estadoActual>
+      <numeroPersonasExhumadas>6</numeroPersonasExhumadas>
+      <numeroPersonasIdentificadas>2</numeroPersonasIdentificadas>
+      <entidadPromotora>Familiares de las víctimas</entidadPromotora>
+      <entidadInformante>Junta de Extremadura. Consejería de Cultura y Turismo. Proyecto para la Recuperación de la Memoria Histórica de Extremadura</entidadInformante>
+      <observaciones>Según testimonios orales, en el paraje de la finca "El Pedazo" denominado "Puente de los Cinco Ojos", tuvo lugar el fusilamiento de seis hombres y una mujer el 12 de septiembre de 1936. La intervención de esta fosa se realizó en marzo de 2007 y dio como resultado la exhumación de restos que pueden corresponder a dos víctimas. Los resultados de los análisis paleopatológicos no son concluyentes y las pruebas de ADN no han podido determinar identidad alguna.</observaciones>
+      <IdLocalidad>531</IdLocalidad>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Zalamea de la Serena</nombre>
+    <IdProvincia>8</IdProvincia>
+    <ID>532</ID>
+    <latitud>38.64977</latitud>
+    <longitud>-5.656967</longitud>
+    <fosa>
+      <numRegistro>960/2009 BADA</numRegistro>
+      <denominacionFosa>NO CONSTA</denominacionFosa>
+      <estadoActual>TRASLADADA AL VALLE DE LOS CAÍDOS</estadoActual>
+      <numeroPersonasFosa>1</numeroPersonasFosa>
+      <numeroPersonasExhumadas>1</numeroPersonasExhumadas>
+      <numeroPersonasIdentificadas>1</numeroPersonasIdentificadas>
+      <entidadInformante>Patrimonio Nacional</entidadInformante>
+      <observaciones>Trasladada al Valle de los Caídos con la fecha/s:24/03/1959</observaciones>
+      <IdLocalidad>532</IdLocalidad>
+      <victima>
+        <nombre>Jorge</nombre>
+        <apellido1>Coll</apellido1>
+        <apellido2>de San Simón</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>960/2009 BADA</numRegistro>
+      </victima>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Cabañas del Castillo</nombre>
+    <IdProvincia>11</IdProvincia>
+    <ID>591</ID>
+    <latitud>39.54757</latitud>
+    <longitud>-5.511646</longitud>
+    <fosa>
+      <numRegistro>1858/2010 CACE</numRegistro>
+      <denominacionFosa>Fosa en el cementerio de Roturas de Cabañas</denominacionFosa>
+      <tipoFosa>GUERRILLERA</tipoFosa>
+      <estadoActual>EXHUMADA TOTAL</estadoActual>
+      <numeroPersonasFosa>2</numeroPersonasFosa>
+      <numeroPersonasExhumadas>2</numeroPersonasExhumadas>
+      <numeroPersonasIdentificadas>2</numeroPersonasIdentificadas>
+      <entidadPromotora>Familiares / Foro por la Memoria / Sociedad de Ciencias Aranzadi</entidadPromotora>
+      <entidadInformante>Junta de Extremadura. Consejería de Cultura y Turismo. Proyecto para la Recuperación de la Memoria Histórica de Extremadura</entidadInformante>
+      <observaciones>En julio de 2007 fue exhumada una fosa a la entrada del cementerio de Roturas de Cabaña que contenía los restos de un guerrillero abatido por la Guardia Civil en noviembre de 1945 y de una mujer que fue enterrada con él 12 años después. Según los testimonios recogidos, el enterramiento a la entrada del recinto sin lápida identificativa se consideraba como un castigo al permitir que fueran pisados por todos los que visitaban el cementerio.</observaciones>
+      <IdLocalidad>591</IdLocalidad>
+      <victima>
+        <nombre>Trinidad</nombre>
+        <apellido1>Alvarez</apellido1>
+        <sexo>F</sexo>
+        <otrosDatos>Fue enterrada junto a la otra víctima 12 años después.</otrosDatos>
+        <numRegistro>1858/2010 CACE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Victorino</nombre>
+        <apellido1>Pereda</apellido1>
+        <apellido2>Ortega</apellido2>
+        <sexo>M</sexo>
+        <otrosDatos>Conocido como "El Ino". Era miembro del partido Comunista de España, fue guardia de asalto republicano y combatió en el frente de Madrid. Tras la Guerra se alistó en la guerrilla antifranquista y formó parte de la división 13 en la montaña cacereña.</otrosDatos>
+        <fechaExhumación>21/07/2007</fechaExhumación>
+        <numRegistro>1858/2010 CACE</numRegistro>
+      </victima>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Cáceres</nombre>
+    <IdProvincia>11</IdProvincia>
+    <ID>592</ID>
+    <latitud>39.47618</latitud>
+    <longitud>-6.37076</longitud>
+    <fosa>
+      <numRegistro>1023/2009 CACE</numRegistro>
+      <denominacionFosa>NO CONSTA</denominacionFosa>
+      <estadoActual>TRASLADADA AL VALLE DE LOS CAÍDOS</estadoActual>
+      <numeroPersonasFosa>9</numeroPersonasFosa>
+      <numeroPersonasExhumadas>9</numeroPersonasExhumadas>
+      <numeroPersonasIdentificadas>9</numeroPersonasIdentificadas>
+      <entidadInformante>Patrimonio Nacional</entidadInformante>
+      <observaciones>Trasladada al Valle de los Caídos con la fecha/s:26/03/1959,22/05/1967</observaciones>
+      <IdLocalidad>592</IdLocalidad>
+      <victima>
+        <nombre>Luis</nombre>
+        <apellido1>Díaz</apellido1>
+        <apellido2>Rodríguez</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1023/2009 CACE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Eloy</nombre>
+        <apellido1>García</apellido1>
+        <apellido2>Sánchez</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1023/2009 CACE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Ángel</nombre>
+        <apellido1>Baveira</apellido1>
+        <apellido2>Herrera</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1023/2009 CACE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Florencio</nombre>
+        <apellido1>Vázquez</apellido1>
+        <apellido2>Rodríguez</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1023/2009 CACE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Candelario</nombre>
+        <apellido1>Pajuelo</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1023/2009 CACE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Juan</nombre>
+        <apellido1>García</apellido1>
+        <apellido2>Rivero</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1023/2009 CACE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Leandro</nombre>
+        <apellido1>Nevado</apellido1>
+        <apellido2>Álvarez</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1023/2009 CACE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>José</nombre>
+        <apellido1>Rubinos</apellido1>
+        <apellido2>González</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1023/2009 CACE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>José</nombre>
+        <apellido1>Orbán</apellido1>
+        <apellido2>Montalbán</apellido2>
+        <sexo>M</sexo>
+        <otrosDatos>I 3º</otrosDatos>
+        <numRegistro>1023/2009 CACE</numRegistro>
+      </victima>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Escurial</nombre>
+    <IdProvincia>11</IdProvincia>
+    <ID>594</ID>
+    <latitud>39.16914</latitud>
+    <longitud>-5.885627</longitud>
+    <fosa>
+      <numRegistro>2483/2011 CACE</numRegistro>
+      <denominacionFosa>Fosas en el paraje Los Arenales</denominacionFosa>
+      <tipoFosa>FUSILAMIENTO</tipoFosa>
+      <estadoActual>EXHUMADA TOTAL</estadoActual>
+      <numeroPersonasExhumadas>16</numeroPersonasExhumadas>
+      <entidadInformante>Junta de Extremadura. Consejería de Cultura y Turismo. Proyecto para la Recuperación de la Memoria Histórica de Extremadura</entidadInformante>
+      <observaciones>En el verano de 2009, durante uno de los campos de trabajo de Recuperación de la Memoria Histórica que anualmente se organizan, se descubrieron dos fosas comunes en el paraje de Los Arenales, lugar donde se llevaron a cabo fusilamientos en agosto de 1936 de personas que, según los testimonios orales, procedían de Escurial, Miajadas, Santa Amalia, Almoharín y Zorita. Se localizaron los restos de 16 personas, junto numerosos objetos y enseres de las víctimas.</observaciones>
+      <IdLocalidad>594</IdLocalidad>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Logrosán</nombre>
+    <IdProvincia>11</IdProvincia>
+    <ID>595</ID>
+    <latitud>39.33704</latitud>
+    <longitud>-5.486933</longitud>
+    <fosa>
+      <numRegistro>1022/2009 CACE</numRegistro>
+      <denominacionFosa>NO CONSTA</denominacionFosa>
+      <estadoActual>TRASLADADA AL VALLE DE LOS CAÍDOS</estadoActual>
+      <numeroPersonasFosa>71</numeroPersonasFosa>
+      <numeroPersonasExhumadas>71</numeroPersonasExhumadas>
+      <numeroPersonasIdentificadas>1</numeroPersonasIdentificadas>
+      <entidadInformante>Patrimonio Nacional</entidadInformante>
+      <observaciones>Trasladada al Valle de los Caídos con la fecha/s:26/03/1959</observaciones>
+      <IdLocalidad>595</IdLocalidad>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <otrosDatos>Procedentes Finca "Río de la Concha"</otrosDatos>
+        <numRegistro>1022/2009 CACE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <otrosDatos>Procedentes Finca "Río de la Concha"</otrosDatos>
+        <numRegistro>1022/2009 CACE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <otrosDatos>Procedentes Finca "Río de la Concha"</otrosDatos>
+        <numRegistro>1022/2009 CACE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <otrosDatos>Procedentes Finca "Río de la Concha"</otrosDatos>
+        <numRegistro>1022/2009 CACE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <otrosDatos>Procedentes Finca "Río de la Concha"</otrosDatos>
+        <numRegistro>1022/2009 CACE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <otrosDatos>Procedentes Finca "Río de la Concha"</otrosDatos>
+        <numRegistro>1022/2009 CACE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <otrosDatos>Procedentes Finca "Olivar Grande"</otrosDatos>
+        <numRegistro>1022/2009 CACE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <otrosDatos>Procedentes Finca "Olivar Grande"</otrosDatos>
+        <numRegistro>1022/2009 CACE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1022/2009 CACE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1022/2009 CACE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1022/2009 CACE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1022/2009 CACE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1022/2009 CACE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1022/2009 CACE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1022/2009 CACE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1022/2009 CACE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1022/2009 CACE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1022/2009 CACE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1022/2009 CACE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1022/2009 CACE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1022/2009 CACE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1022/2009 CACE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1022/2009 CACE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1022/2009 CACE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1022/2009 CACE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1022/2009 CACE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Rufino</nombre>
+        <apellido1>Cavides</apellido1>
+        <apellido2>Sánchez</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1022/2009 CACE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <otrosDatos>Procedentes Finca "Carrasco"</otrosDatos>
+        <numRegistro>1022/2009 CACE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <otrosDatos>Procedentes Finca "Carrasco"</otrosDatos>
+        <numRegistro>1022/2009 CACE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <otrosDatos>Procedentes Finca "Carrasco"</otrosDatos>
+        <numRegistro>1022/2009 CACE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <otrosDatos>Procedentes Finca "Carrasco"</otrosDatos>
+        <numRegistro>1022/2009 CACE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <otrosDatos>Procedente Cementerio Municipal</otrosDatos>
+        <numRegistro>1022/2009 CACE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <otrosDatos>Procedentes Cementerio Municipal</otrosDatos>
+        <numRegistro>1022/2009 CACE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <otrosDatos>Procedentes Cementerio Municipal</otrosDatos>
+        <numRegistro>1022/2009 CACE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <otrosDatos>Procedentes Finca "Conejal"</otrosDatos>
+        <numRegistro>1022/2009 CACE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <otrosDatos>Procedentes Finca "Conejal"</otrosDatos>
+        <numRegistro>1022/2009 CACE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <otrosDatos>Procedentes Finca "Conejal"</otrosDatos>
+        <numRegistro>1022/2009 CACE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <otrosDatos>Procedentes Finca "Conejal"</otrosDatos>
+        <numRegistro>1022/2009 CACE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <otrosDatos>Procedentes Finca "Conejal"</otrosDatos>
+        <numRegistro>1022/2009 CACE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <otrosDatos>Procedentes Finca "Dentilla"</otrosDatos>
+        <numRegistro>1022/2009 CACE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <otrosDatos>Procedentes Finca "Dentilla"</otrosDatos>
+        <numRegistro>1022/2009 CACE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <otrosDatos>Procedentes Finca "Dentilla"</otrosDatos>
+        <numRegistro>1022/2009 CACE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <otrosDatos>Procedentes Finca "Dentilla"</otrosDatos>
+        <numRegistro>1022/2009 CACE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <otrosDatos>Procedentes Finca "Dentilla"</otrosDatos>
+        <numRegistro>1022/2009 CACE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <otrosDatos>Procedentes Finca "Conejal"</otrosDatos>
+        <numRegistro>1022/2009 CACE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <otrosDatos>Procedentes Finca "Conejal"</otrosDatos>
+        <numRegistro>1022/2009 CACE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <otrosDatos>Procedentes Finca "Conejal"</otrosDatos>
+        <numRegistro>1022/2009 CACE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <otrosDatos>Procedentes Finca "Conejal"</otrosDatos>
+        <numRegistro>1022/2009 CACE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <otrosDatos>Procedentes Finca "Dentilla"</otrosDatos>
+        <numRegistro>1022/2009 CACE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <otrosDatos>Procedentes Finca "Dentilla"</otrosDatos>
+        <numRegistro>1022/2009 CACE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <otrosDatos>Procedentes Finca "Dentilla"</otrosDatos>
+        <numRegistro>1022/2009 CACE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <otrosDatos>Procedentes Finca "Dentilla"</otrosDatos>
+        <numRegistro>1022/2009 CACE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <otrosDatos>Procedentes Finca "Dentilla"</otrosDatos>
+        <numRegistro>1022/2009 CACE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <otrosDatos>Procedentes Finca "Dentilla"</otrosDatos>
+        <numRegistro>1022/2009 CACE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <otrosDatos>Procedentes Finca "Dentilla"</otrosDatos>
+        <numRegistro>1022/2009 CACE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <otrosDatos>Procedentes Finca "Dentilla"</otrosDatos>
+        <numRegistro>1022/2009 CACE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <otrosDatos>Procedentes Finca "Dentilla"</otrosDatos>
+        <numRegistro>1022/2009 CACE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <otrosDatos>Procedentes Finca "Dentilla"</otrosDatos>
+        <numRegistro>1022/2009 CACE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <otrosDatos>Procedentes Finca "Dentilla"</otrosDatos>
+        <numRegistro>1022/2009 CACE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <otrosDatos>Procedentes Finca "Dentilla"</otrosDatos>
+        <numRegistro>1022/2009 CACE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <otrosDatos>Procedentes Finca "Dentilla"</otrosDatos>
+        <numRegistro>1022/2009 CACE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <otrosDatos>Procedentes Finca "Dentilla"</otrosDatos>
+        <numRegistro>1022/2009 CACE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <otrosDatos>Procedentes Finca "Dentilla"</otrosDatos>
+        <numRegistro>1022/2009 CACE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <otrosDatos>Procedentes Finca "Dentilla"</otrosDatos>
+        <numRegistro>1022/2009 CACE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <otrosDatos>Procedentes Finca "Dentilla"</otrosDatos>
+        <numRegistro>1022/2009 CACE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <otrosDatos>Procedentes Finca "Dentilla"</otrosDatos>
+        <numRegistro>1022/2009 CACE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <otrosDatos>Procedentes Finca "Dentilla"</otrosDatos>
+        <numRegistro>1022/2009 CACE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <otrosDatos>Procedentes Finca "Dentilla"</otrosDatos>
+        <numRegistro>1022/2009 CACE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <otrosDatos>Procedentes Finca "Dentilla"</otrosDatos>
+        <numRegistro>1022/2009 CACE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <otrosDatos>Procedentes Finca "Dentilla"</otrosDatos>
+        <numRegistro>1022/2009 CACE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <otrosDatos>Procedentes Finca "Dentilla"</otrosDatos>
+        <numRegistro>1022/2009 CACE</numRegistro>
+      </victima>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Navas del Madroño</nombre>
+    <IdProvincia>11</IdProvincia>
+    <ID>596</ID>
+    <latitud>39.62302</latitud>
+    <longitud>-6.651073</longitud>
+    <fosa>
+      <numRegistro>369/2009 CACE</numRegistro>
+      <denominacionFosa>Fosas de Navas del Madroño</denominacionFosa>
+      <tipoFosa>FUSILAMIENTO</tipoFosa>
+      <fechaFosa>01/01/1938</fechaFosa>
+      <estadoActual>EXHUMADA TOTAL</estadoActual>
+      <numeroPersonasExhumadas>75</numeroPersonasExhumadas>
+      <entidadPromotora>Corporación Municipal de Navas del Madroño</entidadPromotora>
+      <entidadInformante>Junta de Extremadura. Consejería de Cultura y Turismo. Proyecto para la Recuperación de la Memoria Histórica de Extremadura</entidadInformante>
+      <observaciones>En 1980 fueron exhumados los restos de 75 vecinos de Navas del Madroño que, en enero de 1938, fueron fusilados tras ser acusados de formar parte del complot de Máximo Calvo. La fosa no estaba profunda, los huesos estaban casi a flor de tierra; la segunda fosa estaba inundada de agua a los pocos metros; junto a los cráneos agujereados por las balas, había munición, brazos partidos y prendas personales.Los restos exhumados se trasladaron al cementerio municipal de Navas del Madroño, donde reposan en un mausoleo con sus nombres.</observaciones>
+      <IdLocalidad>596</IdLocalidad>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Robledollano</nombre>
+    <IdProvincia>11</IdProvincia>
+    <ID>599</ID>
+    <latitud>39.61113</latitud>
+    <longitud>-5.510137</longitud>
+    <fosa>
+      <numRegistro>1328/2009 CACE</numRegistro>
+      <denominacionFosa>Fosa en el Puerto de los Herreros</denominacionFosa>
+      <tipoFosa>FUSILAMIENTO</tipoFosa>
+      <fechaFosa>01/10/1936</fechaFosa>
+      <estadoActual>EXHUMADA TOTAL</estadoActual>
+      <numeroPersonasFosa>3</numeroPersonasFosa>
+      <numeroPersonasExhumadas>3</numeroPersonasExhumadas>
+      <numeroPersonasIdentificadas>3</numeroPersonasIdentificadas>
+      <entidadPromotora>Familiares / Sociedad Aranzadi</entidadPromotora>
+      <entidadInformante>Junta de Extremadura. Consejería de Cultura y Turismo. Proyecto para la Recuperación de la Memoria Histórica de Extremadura</entidadInformante>
+      <observaciones>La fosa se encontraba en una finca privada de cultivo de cereal y se había preservado en anteriores roturaciones. El terreno es muy pedregoso, compuesto principalmente por roca de cuarcita, pizarras y arcillas. El enterramiento de las víctimas fue muy superficial y, según los testimonios, ante la presencia de animales en el lugar, se colocaron piedras de mediano tamaño para evitar la acción de los animales. La exhumación se realizó en julio de 2007 y se constató pronto la ausencia de restos óseos completos, tan solo huesos largos en mal estado de conservación. Las víctimas enterradas en esta fosa eran tres vecinos de Retamosa de Cabañas que fueron detenidos el 30 de septiembre de 1936 tras tomarles declaración en la sede de Falange; en la noche del 1 de octubre fueron llevados hasta un paraje próximo al Puerto de los Herreros donde acabaron con sus vidas.</observaciones>
+      <IdLocalidad>599</IdLocalidad>
+      <victima>
+        <nombre>Zoilo</nombre>
+        <apellido1>Martín</apellido1>
+        <apellido2>Robledo</apellido2>
+        <sexo>M</sexo>
+        <edad>50</edad>
+        <profesion>ganadero</profesion>
+        <otrosDatos>Natural y vecino de Retamosa de Cabañas. Tenía carnet del partido socialista</otrosDatos>
+        <fechaInhumacion>01/10/1936</fechaInhumacion>
+        <fechaExhumación>28/07/2007</fechaExhumación>
+        <numRegistro>1328/2009 CACE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Leandro José</nombre>
+        <apellido1>Carrasco</apellido1>
+        <apellido2>Alvarez</apellido2>
+        <sexo>M</sexo>
+        <edad>39</edad>
+        <localidadNacimiento>Cabañas del Castillo</localidadNacimiento>
+        <profesion>molinero</profesion>
+        <otrosDatos>Vecino de Retamosa de Cabañas. Era Presidente de la Casa del Pueblo. Casado, dejó 6 hijos.</otrosDatos>
+        <fechaInhumacion>01/10/1936</fechaInhumacion>
+        <fechaExhumación>28/07/2007</fechaExhumación>
+        <numRegistro>1328/2009 CACE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Cesáreo</nombre>
+        <apellido1>Villegas</apellido1>
+        <apellido2>Rodríguez</apellido2>
+        <sexo>M</sexo>
+        <edad>52</edad>
+        <profesion>labrador</profesion>
+        <otrosDatos>Natural y vecino de Retamosa de Cabañas. Casado.</otrosDatos>
+        <fechaInhumacion>01/10/1936</fechaInhumacion>
+        <fechaExhumación>28/07/2007</fechaExhumación>
+        <numRegistro>1328/2009 CACE</numRegistro>
+      </victima>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Trujillo</nombre>
+    <IdProvincia>11</IdProvincia>
+    <ID>600</ID>
+    <latitud>39.45842</latitud>
+    <longitud>-5.881428</longitud>
+    <fosa>
+      <numRegistro>1019/2009 CACE</numRegistro>
+      <denominacionFosa>NO CONSTA</denominacionFosa>
+      <estadoActual>TRASLADADA AL VALLE DE LOS CAÍDOS</estadoActual>
+      <numeroPersonasFosa>49</numeroPersonasFosa>
+      <numeroPersonasExhumadas>49</numeroPersonasExhumadas>
+      <numeroPersonasIdentificadas>45</numeroPersonasIdentificadas>
+      <entidadInformante>Patrimonio Nacional</entidadInformante>
+      <observaciones>Trasladada al Valle de los Caídos con la fecha/s:26/03/1959,22/05/1967</observaciones>
+      <IdLocalidad>600</IdLocalidad>
+      <victima>
+        <nombre>Modesto</nombre>
+        <apellido1>Campos</apellido1>
+        <apellido2>Villa</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1019/2009 CACE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>José</nombre>
+        <apellido1>Alonso</apellido1>
+        <apellido2>Díaz</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1019/2009 CACE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Marcelino</nombre>
+        <apellido1>Mellado</apellido1>
+        <apellido2>Moza</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1019/2009 CACE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Amadeo</nombre>
+        <apellido1>López</apellido1>
+        <apellido2>Castro</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1019/2009 CACE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>José</nombre>
+        <apellido1>Blanco</apellido1>
+        <apellido2>Parabelo</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1019/2009 CACE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>José</nombre>
+        <apellido1>País</apellido1>
+        <apellido2>Domínguez</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1019/2009 CACE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Miguel</nombre>
+        <apellido1>Cerrillo</apellido1>
+        <apellido2>Cantero</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1019/2009 CACE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Manuel</nombre>
+        <apellido1>Bravo</apellido1>
+        <apellido2>Pantoja</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1019/2009 CACE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Gumersindo</nombre>
+        <apellido1>Crespo</apellido1>
+        <apellido2>Blanco</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1019/2009 CACE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Juan</nombre>
+        <apellido1>Cristondo</apellido1>
+        <apellido2>Irureta</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1019/2009 CACE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Domingo</nombre>
+        <apellido1>Gómez</apellido1>
+        <apellido2>Ortun</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1019/2009 CACE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Santiago</nombre>
+        <apellido1>García</apellido1>
+        <apellido2>García</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1019/2009 CACE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>José</nombre>
+        <apellido1>Sánchez</apellido1>
+        <apellido2>Hernández</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1019/2009 CACE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Manuel</nombre>
+        <apellido1>Pérez</apellido1>
+        <apellido2>Novoa</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1019/2009 CACE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>José</nombre>
+        <apellido1>Camacho</apellido1>
+        <apellido2>Núñez</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1019/2009 CACE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Daniel</nombre>
+        <apellido1>Pérez</apellido1>
+        <apellido2>Rogado</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1019/2009 CACE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Juan</nombre>
+        <apellido1>Rodríguez</apellido1>
+        <apellido2>Rosa</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1019/2009 CACE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Domingo</nombre>
+        <apellido1>Mesa</apellido1>
+        <apellido2>Yuncar</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1019/2009 CACE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Antonio</nombre>
+        <apellido1>Rodríguez</apellido1>
+        <apellido2>Sánchez</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1019/2009 CACE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Emilio</nombre>
+        <apellido1>Ceballos</apellido1>
+        <apellido2>Gómez</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1019/2009 CACE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Juan</nombre>
+        <apellido1>Barroso</apellido1>
+        <apellido2>Rosal</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1019/2009 CACE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Victoriano</nombre>
+        <apellido1>Costa</apellido1>
+        <apellido2>Márquez</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1019/2009 CACE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Antonio</nombre>
+        <apellido1>Flores</apellido1>
+        <apellido2>Sánchez</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1019/2009 CACE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Antonio</nombre>
+        <apellido1>Sanz</apellido1>
+        <apellido2>de Vicuña</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1019/2009 CACE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Francisco</nombre>
+        <apellido1>Martín</apellido1>
+        <apellido2>Tiendas</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1019/2009 CACE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>DESCONOCIDO</nombre>
+        <apellido1>Cabo</apellido1>
+        <sexo>M</sexo>
+        <otrosDatos>Medalla 390.441 ó 390.141</otrosDatos>
+        <numRegistro>1019/2009 CACE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <otrosDatos>Falangista del Tercio de Mola</otrosDatos>
+        <numRegistro>1019/2009 CACE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Santiago</nombre>
+        <apellido1>García</apellido1>
+        <apellido2>Gómez</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1019/2009 CACE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Miguel</nombre>
+        <apellido1>Figueroa</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1019/2009 CACE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Francisco</nombre>
+        <apellido1>Alonso</apellido1>
+        <apellido2>Martín</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1019/2009 CACE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <otrosDatos>Medalla nº 123.710</otrosDatos>
+        <numRegistro>1019/2009 CACE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <otrosDatos>Cabo del Regimiento de Paloma</otrosDatos>
+        <numRegistro>1019/2009 CACE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Manuel</nombre>
+        <apellido1>Cabot</apellido1>
+        <apellido2>Serra</apellido2>
+        <sexo>M</sexo>
+        <otrosDatos>Regimiento de Paloma</otrosDatos>
+        <numRegistro>1019/2009 CACE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Marcial</nombre>
+        <apellido1>Barciano</apellido1>
+        <apellido2>Barciano</apellido2>
+        <sexo>M</sexo>
+        <otrosDatos>Tercio de Burgos</otrosDatos>
+        <numRegistro>1019/2009 CACE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Pedro</nombre>
+        <apellido1>Martorell</apellido1>
+        <apellido2>Cubit</apellido2>
+        <sexo>M</sexo>
+        <otrosDatos>Regimiento de Paloma</otrosDatos>
+        <numRegistro>1019/2009 CACE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <otrosDatos>Medalla nº 136862</otrosDatos>
+        <numRegistro>1019/2009 CACE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Manuel</nombre>
+        <apellido1>Tejerio</apellido1>
+        <apellido2>Vázquez</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1019/2009 CACE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Cesáreo</nombre>
+        <apellido1>Pérez</apellido1>
+        <apellido2>Pérez</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1019/2009 CACE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Fausto</nombre>
+        <apellido1>Herrero</apellido1>
+        <apellido2>García</apellido2>
+        <sexo>M</sexo>
+        <otrosDatos>I 5º</otrosDatos>
+        <numRegistro>1019/2009 CACE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Antonio</nombre>
+        <apellido1>López</apellido1>
+        <apellido2>Aranda</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1019/2009 CACE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Rafael</nombre>
+        <apellido1>Franco</apellido1>
+        <apellido2>Ponce de León</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1019/2009 CACE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Antonio</nombre>
+        <apellido1>Barón</apellido1>
+        <apellido2>Rodríguez</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1019/2009 CACE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Juan</nombre>
+        <apellido1>Pérez</apellido1>
+        <apellido2>Moreno</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1019/2009 CACE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Emilio</nombre>
+        <apellido1>Alegre</apellido1>
+        <apellido2>Guzmán</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1019/2009 CACE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Pedro</nombre>
+        <apellido1>Fernández</apellido1>
+        <apellido2>Martín</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1019/2009 CACE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Antonio</nombre>
+        <apellido1>Santos</apellido1>
+        <apellido2>de Almeida</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1019/2009 CACE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>David</nombre>
+        <apellido1>Román</apellido1>
+        <apellido2>Vega</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1019/2009 CACE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Florentino</nombre>
+        <apellido1>Sánchez</apellido1>
+        <apellido2>Martín</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1019/2009 CACE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Félix</nombre>
+        <apellido1>Lizaguirre</apellido1>
+        <apellido2>Coyarte</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1019/2009 CACE</numRegistro>
+      </victima>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Valdelacasa de Tajo</nombre>
+    <IdProvincia>11</IdProvincia>
+    <ID>601</ID>
+    <latitud>39.72631</latitud>
+    <longitud>-5.281958</longitud>
+    <fosa>
+      <numRegistro>1020/2009 CACE</numRegistro>
+      <denominacionFosa>NO CONSTA</denominacionFosa>
+      <estadoActual>TRASLADADA AL VALLE DE LOS CAÍDOS</estadoActual>
+      <numeroPersonasFosa>3</numeroPersonasFosa>
+      <numeroPersonasExhumadas>3</numeroPersonasExhumadas>
+      <numeroPersonasIdentificadas>3</numeroPersonasIdentificadas>
+      <entidadInformante>Patrimonio Nacional</entidadInformante>
+      <observaciones>Trasladada al Valle de los Caídos con la fecha/s:26/03/1959</observaciones>
+      <IdLocalidad>601</IdLocalidad>
+      <victima>
+        <nombre>Humberto</nombre>
+        <apellido1>Gómez</apellido1>
+        <apellido2>García</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1020/2009 CACE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Francisco</nombre>
+        <apellido1>Arroyo</apellido1>
+        <apellido2>Rodríguez</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1020/2009 CACE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Felipe</nombre>
+        <apellido1>González</apellido1>
+        <apellido2>Martínez</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1020/2009 CACE</numRegistro>
+      </victima>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Villar del Pedroso</nombre>
+    <IdProvincia>11</IdProvincia>
+    <ID>603</ID>
+    <latitud>39.70632</latitud>
+    <longitud>-5.196259</longitud>
+    <fosa>
+      <numRegistro>1021/2009 CACE</numRegistro>
+      <denominacionFosa>NO CONSTA</denominacionFosa>
+      <estadoActual>TRASLADADA AL VALLE DE LOS CAÍDOS</estadoActual>
+      <numeroPersonasFosa>7</numeroPersonasFosa>
+      <numeroPersonasExhumadas>7</numeroPersonasExhumadas>
+      <numeroPersonasIdentificadas>0</numeroPersonasIdentificadas>
+      <entidadInformante>Patrimonio Nacional</entidadInformante>
+      <observaciones>Trasladada al Valle de los Caídos con la fecha/s:26/03/1959</observaciones>
+      <IdLocalidad>603</IdLocalidad>
+      <victima>
+        <nombre>Elías</nombre>
+        <apellido1>Guerra</apellido1>
+        <apellido2>Navarro</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1021/2009 CACE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1021/2009 CACE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1021/2009 CACE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1021/2009 CACE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1021/2009 CACE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1021/2009 CACE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1021/2009 CACE</numRegistro>
+      </victima>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Zorita</nombre>
+    <IdProvincia>11</IdProvincia>
+    <ID>604</ID>
+    <latitud>39.28505</latitud>
+    <longitud>-5.700322</longitud>
+    <fosa>
+      <numRegistro>2568/2015 CACE</numRegistro>
+      <denominacionFosa>Cementerio municipal de Zorita</denominacionFosa>
+      <estadoActual>DESAPARECIDA</estadoActual>
+      <numeroPersonasExhumadas>15</numeroPersonasExhumadas>
+      <numeroPersonasIdentificadas>0</numeroPersonasIdentificadas>
+      <entidadPromotora>Agrupación de familiares</entidadPromotora>
+      <entidadInformante>Junta de Extremadura. Consejería de Cultura y Turismo. Proyecto para la Recuperación de la Memoria Histórica de Extremadura</entidadInformante>
+      <observaciones>La Agrupación de familiares de las víctimas de la represión franquista en Zorita demandó ayuda al PREMHEx para la investigación, localización y exhumación de la fosa donde se encuentran enterradas las víctimas de la represión franquista. Estos individuos fueron fusilados en los días 14 y 17 de septiembre de 1936 en la localidad de Zorita. Según la investigación histórica realizada, el 14 de septiembre de 1936 fueron ejecutadas 6 vecinos de Garcíaz y2 de Madrigalejo; y el 17 del mismo mes fueron fusiladas los 7 restantes.
+La excavación que se realizó en el lugar señalado no dio frutos materiales ya que no fueron localizados los restos en su interior. Pero esto no significa que se errase a la hora de la investigación y posterior exhumación sino que se sigue trabajando para averiguar la posible localización.</observaciones>
+      <IdLocalidad>604</IdLocalidad>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Hinojosa del Duque</nombre>
+    <IdProvincia>17</IdProvincia>
+    <ID>670</ID>
+    <latitud>38.50099</latitud>
+    <longitud>-5.148333</longitud>
+    <fosa>
+      <numRegistro>2443/2011 CORD</numRegistro>
+      <denominacionFosa>Fosa en el Cementerio de Hinojosa del Duque</denominacionFosa>
+      <estadoActual>NO INTERVENIDA</estadoActual>
+      <entidadPromotora>AYUNTAMIENTO</entidadPromotora>
+      <entidadInformante>Consejería de Gobernación y Justicia de la Junta de Andalucía</entidadInformante>
+      <observaciones>No se conoce la ubicación exacta de la fosa aunque, según los testimonios recogidos y registros consultados, numerosas víctimas de Bélmez fueron enterradas en el interior de este cementerio. En este recinto existe un monolito de homenaje a las víctimas en forma de antorcha.</observaciones>
+      <IdLocalidad>670</IdLocalidad>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Peñarroya-Pueblonuevo</nombre>
+    <IdProvincia>17</IdProvincia>
+    <ID>678</ID>
+    <latitud>38.30304</latitud>
+    <longitud>-5.272851</longitud>
+    <fosa>
+      <numRegistro>877/2009 CORD</numRegistro>
+      <denominacionFosa>NO CONSTA</denominacionFosa>
+      <estadoActual>TRASLADADA AL VALLE DE LOS CAÍDOS</estadoActual>
+      <numeroPersonasFosa>3</numeroPersonasFosa>
+      <numeroPersonasExhumadas>3</numeroPersonasExhumadas>
+      <numeroPersonasIdentificadas>3</numeroPersonasIdentificadas>
+      <entidadInformante>Patrimonio Nacional</entidadInformante>
+      <observaciones>Trasladada al Valle de los Caídos con la fecha/s:24/03/1959</observaciones>
+      <IdLocalidad>678</IdLocalidad>
+      <victima>
+        <nombre>Juan de Dios</nombre>
+        <apellido1>García</apellido1>
+        <apellido2>Márquez</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>877/2009 CORD</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Pedro</nombre>
+        <apellido1>Jiménez</apellido1>
+        <apellido2>Suárez</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>877/2009 CORD</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Enrique</nombre>
+        <apellido1>Isidro</apellido1>
+        <apellido2>Romero</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>877/2009 CORD</numRegistro>
+      </victima>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Valsequillo</nombre>
+    <IdProvincia>17</IdProvincia>
+    <ID>682</ID>
+    <latitud>38.40498</latitud>
+    <longitud>-5.35168</longitud>
+    <fosa>
+      <numRegistro>2378/2011 CORD</numRegistro>
+      <denominacionFosa>Fosa en el antiguo cementerio de Valsequillo</denominacionFosa>
+      <estadoActual>EXHUMADA TOTAL</estadoActual>
+      <numeroPersonasExhumadas>230</numeroPersonasExhumadas>
+      <entidadInformante>Consejería de Gobernación y Justicia de la Junta de Andalucía</entidadInformante>
+      <observaciones>Fosa situada en el interior del antiguo cementerio de Valsequillo, hoy abandonado puesto que posteriormente a la guerra se construyó uno justo a la entrada del pueblo, antes de llegar a la vía del tren. 
+El número de víctimas allí enterradas entre fusilamientos y soldados muertos es de 230, pero sé desconoce el número de víctimas enterradas en el cementerio  y dataría desde 1936 hasta 1939.
+Se enterraron a muchas personas en fosas comunes de tamaño rectangular, a lo largo del cementerio y en la parte posterior del mismo, echaban los restos en las fosas junto con la cal y los enterraban, en muchas ocasiones eran personas fallecidas en el frente de Sierra Trapera.</observaciones>
+      <IdLocalidad>682</IdLocalidad>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Arroyomolinos de León</nombre>
+    <IdProvincia>23</IdProvincia>
+    <ID>805</ID>
+    <latitud>38.02604</latitud>
+    <longitud>-6.421104</longitud>
+    <fosa>
+      <numRegistro>2075/2010 HUEL</numRegistro>
+      <denominacionFosa>Fosas en cementerio de Arroyomolinos de León</denominacionFosa>
+      <estadoActual>NO INTERVENIDA</estadoActual>
+      <entidadPromotora>AYUNTAMIENTO</entidadPromotora>
+      <entidadInformante>Consejería de Gobernación y Justicia de la Junta de Andalucía</entidadInformante>
+      <observaciones>Según los informantes, habría dos fosas en el cementerio de Arroyomolinos de León, cada una ubicada junto a los bloques de nichos de cada extremo posterior del cementerio, en las esquinas izquierda y derecha desde la perspectiva de la entrada. Se desconoce el número y procedencia de las víctimas, aunque fundamentalmente las víctimas procederían de Arroyomolinos, Cala y otros pueblos del entorno.</observaciones>
+      <IdLocalidad>805</IdLocalidad>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Cañaveral de León</nombre>
+    <IdProvincia>23</IdProvincia>
+    <ID>812</ID>
+    <latitud>38.01454</latitud>
+    <longitud>-6.527808</longitud>
+    <fosa>
+      <numRegistro>2077/2010 HUEL</numRegistro>
+      <denominacionFosa>Fosa en cementerio de Cañaveral de León</denominacionFosa>
+      <estadoActual>NO INTERVENIDA</estadoActual>
+      <entidadPromotora>AYUNTAMIENTO</entidadPromotora>
+      <entidadInformante>Consejería de Gobernación y Justicia de la Junta de Andalucía</entidadInformante>
+      <observaciones>En Cañaveral de León se conoce una sola fosa que estaría dentro del cementerio, a lo largo del muro lateral izquierdo a la entrada. La fosa esta libre de nichos u otros elementos, en una zona algo descuidada del cementerio. Se estima que pueden estar enterradas en esta fosa unas 40 víctimas procedentes de Cañaveral y otros pueblos del entorno. En 1990 se colocó un monolito en homenaje a las víctimas.</observaciones>
+      <IdLocalidad>812</IdLocalidad>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Cumbres de San Bartolomé</nombre>
+    <IdProvincia>23</IdProvincia>
+    <ID>816</ID>
+    <latitud>38.07691</latitud>
+    <longitud>-6.743336</longitud>
+    <fosa>
+      <numRegistro>2082/2010 HUEL</numRegistro>
+      <denominacionFosa>Fosa en cementerio de Cumbres de San Bartolomé</denominacionFosa>
+      <estadoActual>NO INTERVENIDA</estadoActual>
+      <numeroPersonasExhumadas>14</numeroPersonasExhumadas>
+      <entidadPromotora>Familiares</entidadPromotora>
+      <entidadInformante>Consejería de Gobernación y Justicia de la Junta de Andalucía</entidadInformante>
+      <observaciones>Según las informaciones recibidas, existe una fosa común en el cementerio del pueblo, tal como se accede al recinto, en el extremo superior izquierdo del mismo, que contendría los restos de 13 personas de Cumbres de San Bartolomé y 1 de Cumbres de En medio. En abril de 1980, encima de la fosa, los familiares colocaron una lápida en recuerdo de las víctimas. Hay datos más imprecisos sobre otra fosa en el cementerio, sobre su ubicación, al fondo a la derecha, y sobre las víctimas inhumadas en ella, aunque se dice que podría contener los restos de 280 personas de Cumbres de San Bartolomé, Cumbres Mayores, Higuera de la Sierra y otros pueblos.</observaciones>
+      <IdLocalidad>816</IdLocalidad>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Cumbres Mayores</nombre>
+    <IdProvincia>23</IdProvincia>
+    <ID>817</ID>
+    <latitud>38.0637</latitud>
+    <longitud>-6.647074</longitud>
+    <fosa>
+      <numRegistro>2081/2010 HUEL</numRegistro>
+      <denominacionFosa>Fosa en cementerio de Cumbres Mayores</denominacionFosa>
+      <estadoActual>NO INTERVENIDA</estadoActual>
+      <entidadPromotora>AYUNTAMIENTO</entidadPromotora>
+      <entidadInformante>Consejería de Gobernación y Justicia de la Junta de Andalucía</entidadInformante>
+      <observaciones>Existe una fosa dentro del cementerio de Cumbres Mayores justo delante de la entrada. La fosa se conserva bien siendo el único elemento visible encima de la fosa el monolito homenaje a las víctimas levantado en noviembre de 1.984. Se desconoce el número de víctimas que pudieran estar enterradas en la fosa y su procedencia, aunque fundamentalmente se cree que son de Cumbres Mayores y de los otros pueblos del entorno. En Cumbres Mayores fueron asesinadas 27 personas de las que se estima que la mayor parte están en esta fosa.</observaciones>
+      <IdLocalidad>817</IdLocalidad>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Encinasola</nombre>
+    <IdProvincia>23</IdProvincia>
+    <ID>818</ID>
+    <latitud>38.13522</latitud>
+    <longitud>-6.872141</longitud>
+    <fosa>
+      <numRegistro>2083/2010 HUEL</numRegistro>
+      <denominacionFosa>Fosa en cementerio de Encinasola</denominacionFosa>
+      <estadoActual>NO INTERVENIDA</estadoActual>
+      <numeroPersonasFosa>12</numeroPersonasFosa>
+      <entidadPromotora>AYUNTAMIENTO</entidadPromotora>
+      <entidadInformante>Consejería de Gobernación y Justicia de la Junta de Andalucía</entidadInformante>
+      <observaciones>Existe una fosa dentro del cementerio de Encinasola que se encuentra justo a la izquierda de la entrada. Al parecer, según fuentes informantes la fosa podría albergar los restos de más de 30 víctimas y los nombres de algunas de las víctimas que podrían estar en esta fosa, con parte de los represaliados en Encinasola y víctimas de otros pueblos del entorno.Junto a la fosa hay una tumba con los restos de uno de los asesinados en el pueblo.</observaciones>
+      <IdLocalidad>818</IdLocalidad>
+      <victima>
+        <nombre>Antonio</nombre>
+        <apellido1>Alvarado</apellido1>
+        <apellido2>Rodríguez</apellido2>
+        <sexo>V</sexo>
+        <numRegistro>2083/2010 HUEL</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Diego</nombre>
+        <apellido1>Alvarez</apellido1>
+        <apellido2>Márquez</apellido2>
+        <sexo>V</sexo>
+        <numRegistro>2083/2010 HUEL</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Antonio</nombre>
+        <apellido1>Castro</apellido1>
+        <apellido2>Pérez</apellido2>
+        <sexo>V</sexo>
+        <numRegistro>2083/2010 HUEL</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Manuel</nombre>
+        <apellido1>Delgado</apellido1>
+        <apellido2>Pérez</apellido2>
+        <sexo>V</sexo>
+        <numRegistro>2083/2010 HUEL</numRegistro>
+      </victima>
+      <victima>
+        <nombre>José</nombre>
+        <apellido1>Domínguez</apellido1>
+        <apellido2>López</apellido2>
+        <sexo>V</sexo>
+        <numRegistro>2083/2010 HUEL</numRegistro>
+      </victima>
+      <victima>
+        <nombre>José</nombre>
+        <apellido1>Domínguez</apellido1>
+        <apellido2>Pérez</apellido2>
+        <sexo>V</sexo>
+        <numRegistro>2083/2010 HUEL</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Nemesio</nombre>
+        <apellido1>García</apellido1>
+        <apellido2>Prados</apellido2>
+        <sexo>V</sexo>
+        <numRegistro>2083/2010 HUEL</numRegistro>
+      </victima>
+      <victima>
+        <nombre>José María</nombre>
+        <apellido1>Hermoso</apellido1>
+        <apellido2>Ripol</apellido2>
+        <sexo>V</sexo>
+        <numRegistro>2083/2010 HUEL</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Manuel</nombre>
+        <apellido1>Rodríguez</apellido1>
+        <apellido2>Domínguez</apellido2>
+        <sexo>V</sexo>
+        <numRegistro>2083/2010 HUEL</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Eusebio</nombre>
+        <apellido1>Vázquez</apellido1>
+        <apellido2>López</apellido2>
+        <sexo>V</sexo>
+        <numRegistro>2083/2010 HUEL</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Miguel</nombre>
+        <apellido1>Vázquez</apellido1>
+        <apellido2>Márquez</apellido2>
+        <numRegistro>2083/2010 HUEL</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Andrés</nombre>
+        <apellido1>Vázquez</apellido1>
+        <apellido2>Ochoa</apellido2>
+        <sexo>V</sexo>
+        <numRegistro>2083/2010 HUEL</numRegistro>
+      </victima>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Alanís</nombre>
+    <IdProvincia>43</IdProvincia>
+    <ID>1174</ID>
+    <latitud>38.03748</latitud>
+    <longitud>-5.715293</longitud>
+    <fosa>
+      <numRegistro>2350/2011 SEVI</numRegistro>
+      <denominacionFosa>Fosa 2</denominacionFosa>
+      <tipoFosa>FUSILAMIENTO</tipoFosa>
+      <fechaFosa>01/09/1936</fechaFosa>
+      <estadoActual>NO INTERVENIDA</estadoActual>
+      <numeroPersonasFosa>14</numeroPersonasFosa>
+      <numeroPersonasExhumadas>14</numeroPersonasExhumadas>
+      <numeroPersonasIdentificadas>14</numeroPersonasIdentificadas>
+      <observaciones>En el mes de septiembre u octubre.La segunda fosa (fosa 2), informada por Guillermo Doctor Flores, testigo presencial de su
+existencia, se localiza en la finca ¿Los Coscojales¿, en la carretera Alanís ¿ San Nicolás del
+Puerto S162, Km. 17. Se ubica justo en el límite entre el término municipal de Alanís y San
+Nicolás, dentro del primero. No se trata, en puridad, de una fosa, sino del lugar donde fueron
+asesinados 14 vecinos de San Nicolás del Puerto (Antonio López, José Cabeza Mariscal ¿El de
+la Blanca¿, Pedro Lagares, Carlos Fernández ¿Aserrador¿, Eduardo Carrasco ¿El Tuerto¿, José
+Medina, Paco Bosada, Pedro ¿El Cartero¿, Antonio ¿El Herrero¿ y su hijo, Carlos Cárdenas,
+¿Peón caminero¿, ¿El Boticario¿ y ¿El Mediacabeza¿) en el mes de septiembre u octubre de
+1936. Los cuerpos no fueron enterrados, los dejaron en el lugar a merced de la acción de las
+alimañas. Al más joven de ellos, Pedro
+Lagares, se lo llevaron por gritar ¡Muerte a la
+Guardia Civil! Y fue al único que no
+dispararon a matar, sino que le tiraron a las
+extremidades hasta morir desangrado. Esto se
+sabe por un vecino de un cortijo cercano,
+Rafael Barrada Moreno ¿El Payaso¿, que lo
+escuchó gritar y pedir auxilio durante algunas
+horas hasta morir finalmente sin el socorro de
+nadie. El entonces joven Guillermo Doctor
+Flores, hijo de un ferroviario asesinado en
+Cazalla de la Sierra, pudo ver los cuerpos sin
+vida cuando se dirigía a Alanís con un
+salvoconducto.</observaciones>
+      <IdLocalidad>1174</IdLocalidad>
+      <victima>
+        <nombre>Antonio</nombre>
+        <apellido1>"El herrero" hijo de</apellido1>
+        <sexo>M</sexo>
+        <localidadResidencia>San Nicolás del Puerto</localidadResidencia>
+        <numRegistro>2350/2011 SEVI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Carlos</nombre>
+        <apellido1>Cárdenas</apellido1>
+        <sexo>M</sexo>
+        <localidadResidencia>San Nicolás del Puerto</localidadResidencia>
+        <numRegistro>2350/2011 SEVI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>"Peón</nombre>
+        <apellido1>Caminero"</apellido1>
+        <sexo>M</sexo>
+        <localidadResidencia>San Nicolás del Puerto</localidadResidencia>
+        <numRegistro>2350/2011 SEVI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>"El boticario"</nombre>
+        <apellido1>"El boticario"</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>2350/2011 SEVI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Pedro</nombre>
+        <apellido1>"El Cartero"</apellido1>
+        <sexo>M</sexo>
+        <localidadResidencia>San Nicolás del Puerto</localidadResidencia>
+        <numRegistro>2350/2011 SEVI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Antonio</nombre>
+        <apellido1>"El herrero"</apellido1>
+        <sexo>M</sexo>
+        <localidadResidencia>San Nicolás del Puerto</localidadResidencia>
+        <numRegistro>2350/2011 SEVI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>José</nombre>
+        <apellido1>Cabeza</apellido1>
+        <apellido2>Mariscal</apellido2>
+        <sexo>M</sexo>
+        <localidadResidencia>San Nicolás del Puerto</localidadResidencia>
+        <numRegistro>2350/2011 SEVI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Pedro</nombre>
+        <apellido1>Lagares</apellido1>
+        <sexo>M</sexo>
+        <localidadResidencia>San Nicolás del Puerto</localidadResidencia>
+        <numRegistro>2350/2011 SEVI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Carlos</nombre>
+        <apellido1>Fernández</apellido1>
+        <sexo>M</sexo>
+        <localidadResidencia>San Nicolás del Puerto</localidadResidencia>
+        <numRegistro>2350/2011 SEVI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>"El mediacabeza"</nombre>
+        <sexo>M</sexo>
+        <localidadResidencia>San Nicolás del Puerto</localidadResidencia>
+        <numRegistro>2350/2011 SEVI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Eduardo</nombre>
+        <apellido1>Carrasco</apellido1>
+        <sexo>M</sexo>
+        <localidadResidencia>San Nicolás del Puerto</localidadResidencia>
+        <numRegistro>2350/2011 SEVI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>José</nombre>
+        <apellido1>Medina</apellido1>
+        <sexo>M</sexo>
+        <localidadResidencia>San Nicolás del Puerto</localidadResidencia>
+        <numRegistro>2350/2011 SEVI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Francisco</nombre>
+        <apellido1>Bosada</apellido1>
+        <sexo>M</sexo>
+        <localidadResidencia>San Nicolás del Puerto</localidadResidencia>
+        <numRegistro>2350/2011 SEVI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Antonio</nombre>
+        <apellido1>López</apellido1>
+        <sexo>M</sexo>
+        <localidadResidencia>San Nicolás del Puerto</localidadResidencia>
+        <numRegistro>2350/2011 SEVI</numRegistro>
+      </victima>
+    </fosa>
+    <fosa>
+      <numRegistro>2351/2011 SEVI</numRegistro>
+      <denominacionFosa>Fosa 4 y 5</denominacionFosa>
+      <fechaFosa>19/11/1936</fechaFosa>
+      <estadoActual>NO INTERVENIDA</estadoActual>
+      <numeroPersonasExhumadas>56</numeroPersonasExhumadas>
+      <numeroPersonasIdentificadas>0</numeroPersonasIdentificadas>
+      <entidadPromotora>AYUNTAMIENTO</entidadPromotora>
+      <entidadInformante>Consejería de Gobernación y Justicia de la Junta de Andalucía</entidadInformante>
+      <observaciones>Esta fosa contiene los restos de 56 prisioneros políticos que fallecieron en el accidente ferroviario que tuvo lugar en la estación apeadero de Alanís el 19 de noviembre de 1937. Un convoy (tren nº 5760) cargado con material militar y un transporte de pasajeros, mayoritariamente de prisioneros de guerra vascos, chocó contra otro convoy (tren Nº 5759) que se hallaba estacionado en la vía apartadero de dicha estación. El primero se dirigía a Sevilla procedente de Mérida. Todo parece que los prisioneros eran trasladados a los campos de trabajo del Canal del Viar (S.C. Aranzadi, 2006). Los enterramientos se llevaron a cabo los días 23 y 24 de noviembre de 1937. De las 56 víctimas 31 fueron debidamente identificadas y registradas con sus nombres y apellidos, aunque como se ha podido demostrar décadas después, muchas familias desconocían el paradero de estas personas. El Gobierno Civil de Sevilla informó de estas fosas al Ministerio de Gobernación el 28 de noviembre de 1958 en una Relación de Caídos durante la pasada Guerra de Liberación con la intención, no consumada, de trasladar los restos al llamado Valle de los Caídos (AGA, Interior, IDD (08) 003.002. Caja 44/12118 Legajo 996)
+En 2008 se realizaron algunas catas arqueológicas sin éxito, debido sobre todo, a la transformación que ha sufrido el cementerio en las últimas décadas con la construcción de nuevos nichos y mausoleos en la zona que podrían ocupar esas fosas.</observaciones>
+      <IdLocalidad>1174</IdLocalidad>
+    </fosa>
+    <fosa>
+      <numRegistro>529/2009 SEVI</numRegistro>
+      <denominacionFosa>Fosa 1</denominacionFosa>
+      <tipoFosa>FUSILAMIENTO</tipoFosa>
+      <fechaFosa>08/09/1936</fechaFosa>
+      <estadoActual>EXHUMADA TOTAL</estadoActual>
+      <numeroPersonasFosa>14</numeroPersonasFosa>
+      <numeroPersonasExhumadas>14</numeroPersonasExhumadas>
+      <numeroPersonasIdentificadas>0</numeroPersonasIdentificadas>
+      <entidadInformante>Consejería de Gobernación y Justicia de la Junta de Andalucía</entidadInformante>
+      <observaciones>Localizada en un fondo del cementerio es producto de la represión sobre 14 vecinos de Alanís, asesinados algunos de ellos el 8 de septiembre de 1936. Cuando se realizaban obras de construcción de nuevos nichos en 1983, aparecieron los restos cadavéricos de 14 personas con las manos atadas con alambres en la espalda. Fueron trasladados al osario del cementerio situado en la parte izquierda de este. La fosa, pues, desde entonces, no existe.</observaciones>
+      <IdLocalidad>1174</IdLocalidad>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>529/2009 SEVI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>529/2009 SEVI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>529/2009 SEVI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>529/2009 SEVI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>529/2009 SEVI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>529/2009 SEVI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>529/2009 SEVI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>529/2009 SEVI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>529/2009 SEVI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>529/2009 SEVI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>529/2009 SEVI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>529/2009 SEVI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>529/2009 SEVI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>529/2009 SEVI</numRegistro>
+      </victima>
+    </fosa>
+    <fosa>
+      <numRegistro>530/2009 SEVI</numRegistro>
+      <denominacionFosa>Fosa en la finca "Los Coscojales"</denominacionFosa>
+      <tipoFosa>FUSILAMIENTO</tipoFosa>
+      <fechaFosa>08/09/1936</fechaFosa>
+      <estadoActual>DESAPARECIDA</estadoActual>
+      <numeroPersonasFosa>14</numeroPersonasFosa>
+      <numeroPersonasExhumadas>14</numeroPersonasExhumadas>
+      <numeroPersonasIdentificadas>14</numeroPersonasIdentificadas>
+      <entidadInformante>Consejería de Gobernación y Justicia de la Junta de Andalucía</entidadInformante>
+      <observaciones>Informada por Guillermo Doctor Flores, testigo presencial de su existencia, se localiza en la finca Los Coscojales, en la carretera Alanís, San Nicolás del Puerto S162, Km. 17. Se ubica justo en el límite entre el término municipal de Alanís y San 
+Nicolás, dentro del primero. No se trata, en puridad, de una fosa, sino del lugar donde fueron asesinados 14 vecinos de San Nicolás del Puerto (Antonio López, José Cabeza Mariscal "El de la Blanca", Pedro Lagares, Carlos Fernández "El Aserrador", Eduardo Carrasco "El Tuerto", José Medina, Paco Bosada, Pedro "El Cartero", Antonio "El Herrero" y su hijo, Carlos Cárdenas,
+"El Peón Caminero", "El Boticario" y "El Mediacabeza") en el mes de septiembre u octubre de 1936. Los cuerpos no fueron enterrados, los dejaron en el lugar a merced de la acción de las alimañas. Al más joven de ellos, Pedro Lagares, se lo llevaron por gritar ¡Muerte a la Guardia Civil! y fue al único que no dispararon a matar, sino que le tiraron a las extremidades hasta morir desangrado. Esto se sabe por un vecino de un cortijo cercano, Rafael Barrada Moreno "El Payaso", que lo escuchó gritar y pedir auxilio durante algunas horas hasta morir finalmente sin el socorro de nadie. El entonces joven Guillermo Doctor Flores, hijo de un ferroviario asesinado en Cazalla de la Sierra, pudo ver los cuerpos sin vida cuando se dirigía a Alanís con un salvoconducto.</observaciones>
+      <IdLocalidad>1174</IdLocalidad>
+      <victima>
+        <nombre>José</nombre>
+        <apellido1>Cabeza</apellido1>
+        <apellido2>Mariscal</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>530/2009 SEVI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Antonio</nombre>
+        <apellido1>López</apellido1>
+        <apellido2>Desconocido</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>530/2009 SEVI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Pedro</nombre>
+        <apellido1>Lagares</apellido1>
+        <apellido2>Desconocido</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>530/2009 SEVI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Carlos</nombre>
+        <apellido1>Cárdenas</apellido1>
+        <apellido2>Desconocido</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>530/2009 SEVI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>José</nombre>
+        <apellido1>Medina</apellido1>
+        <apellido2>Desconocido</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>530/2009 SEVI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Fracisco</nombre>
+        <apellido1>Bosada</apellido1>
+        <apellido2>Desconocido</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>530/2009 SEVI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Antonio</nombre>
+        <apellido1>Desconocido</apellido1>
+        <apellido2>"El Herrero"</apellido2>
+        <sexo>M</sexo>
+        <otrosDatos>Alias "El Herrero"</otrosDatos>
+        <numRegistro>530/2009 SEVI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Eduardo</nombre>
+        <apellido1>Carrasco</apellido1>
+        <apellido2>"El Tuerto"</apellido2>
+        <sexo>M</sexo>
+        <otrosDatos>Alias "El Tuerto"</otrosDatos>
+        <numRegistro>530/2009 SEVI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Antonio</nombre>
+        <apellido1>Desconocido</apellido1>
+        <apellido2>"El Hijo del Herrero"</apellido2>
+        <sexo>M</sexo>
+        <otrosDatos>Alias "El Hijo del Herrero"</otrosDatos>
+        <numRegistro>530/2009 SEVI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <apellido2>"El Peón Caminero"</apellido2>
+        <sexo>M</sexo>
+        <otrosDatos>Alias "El Peón Caminero"</otrosDatos>
+        <numRegistro>530/2009 SEVI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <apellido2>"El Boticario"</apellido2>
+        <sexo>M</sexo>
+        <otrosDatos>Alias "El Boticario"</otrosDatos>
+        <numRegistro>530/2009 SEVI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <apellido2>"El Mediacabeza"</apellido2>
+        <sexo>M</sexo>
+        <otrosDatos>Alias "El Mediacabeza"</otrosDatos>
+        <numRegistro>530/2009 SEVI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Carlos</nombre>
+        <apellido1>Fernández</apellido1>
+        <apellido2>"El Aserrador"</apellido2>
+        <sexo>M</sexo>
+        <otrosDatos>Alias "Aserrador"</otrosDatos>
+        <numRegistro>530/2009 SEVI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Pedro</nombre>
+        <apellido1>Desconocido</apellido1>
+        <apellido2>"El Cartero"</apellido2>
+        <sexo>M</sexo>
+        <otrosDatos>Alias "El Cartero"</otrosDatos>
+        <numRegistro>530/2009 SEVI</numRegistro>
+      </victima>
+    </fosa>
+    <fosa>
+      <numRegistro>531/2009 SEVI</numRegistro>
+      <denominacionFosa>Fosa de la Fuente Pilarejos</denominacionFosa>
+      <tipoFosa>FUSILAMIENTO</tipoFosa>
+      <estadoActual>NO INTERVENIDA</estadoActual>
+      <numeroPersonasExhumadas>5</numeroPersonasExhumadas>
+      <numeroPersonasIdentificadas>0</numeroPersonasIdentificadas>
+      <entidadInformante>Consejería de Gobernación y Justicia de la Junta de Andalucía</entidadInformante>
+      <observaciones>Se localiza en la carretera de Alanís a Guadalcanal, a unos doscientos metros de la rotonda de entrada a Alanís, justo en un montículo dentro de una finca colindante con la carretera. Se le conoce como fosa de la Fuente Pilarejos. Contendría los restos de 4 ó 5 individuos de procedencia e identidad desconocida, fusilados en el verano de 1936 tras un control de carreteras.</observaciones>
+      <IdLocalidad>1174</IdLocalidad>
+    </fosa>
+    <fosa>
+      <numRegistro>532/2009 SEVI</numRegistro>
+      <denominacionFosa>Fosa guerrillera nº 1 en el Cementerio de Alanís</denominacionFosa>
+      <tipoFosa>GUERRILLERA</tipoFosa>
+      <fechaFosa>04/12/1941</fechaFosa>
+      <estadoActual>NO INTERVENIDA</estadoActual>
+      <numeroPersonasFosa>1</numeroPersonasFosa>
+      <numeroPersonasExhumadas>1</numeroPersonasExhumadas>
+      <numeroPersonasIdentificadas>1</numeroPersonasIdentificadas>
+      <entidadInformante>Consejería de Gobernación y Justicia de la Junta de Andalucía</entidadInformante>
+      <observaciones>Se tiene conocimiento gracias a una información facilitada por José Mª García Márquez a partir de una documentación, para una investigación todavía en curso, recabada en el Archivo del Tribunal Militar Territorial Segundo de Sevilla. Ambas fosas son individuales y pertenecen a guerrilleros antifranquistas que fueron muertos tras un encuentro con la Guardia Civil en 1941. En una (fosa 6) se hallarían los restos de Cipriano Diéguez Bella "Perrero de Azuaga", de la CNT que fue enterrado en el cementerio de Alanís el 4 de diciembre de 1941. La diligencia de enterramiento dice: Once pasos a la entrada, once pasos al naciente, 32 del poniente, 17 al norte y 42 al sur. Llevando puesto chaqueta y pantalón de pana negra, camisa a rayas, camiseta y botas enterizas de becerro con tartera.
+Al igual que las fosas anteriores este terreno ha sido muy transforado en las últimas décadas y es posible que hayan sido expoliadas o hayan quedado debajo de la construcción de nuevos nichos.</observaciones>
+      <IdLocalidad>1174</IdLocalidad>
+      <victima>
+        <nombre>Cipriano</nombre>
+        <apellido1>Diéguez</apellido1>
+        <apellido2>Bella</apellido2>
+        <sexo>M</sexo>
+        <fechaInhumacion>04/12/1941</fechaInhumacion>
+        <numRegistro>532/2009 SEVI</numRegistro>
+      </victima>
+    </fosa>
+    <fosa>
+      <numRegistro>533/2009 SEVI</numRegistro>
+      <denominacionFosa>Fosa 7</denominacionFosa>
+      <tipoFosa>GUERRILLERA</tipoFosa>
+      <fechaFosa>04/12/1941</fechaFosa>
+      <estadoActual>NO INTERVENIDA</estadoActual>
+      <numeroPersonasFosa>1</numeroPersonasFosa>
+      <numeroPersonasExhumadas>1</numeroPersonasExhumadas>
+      <numeroPersonasIdentificadas>1</numeroPersonasIdentificadas>
+      <entidadInformante>Consejería de Gobernación y Justicia de la Junta de Andalucía</entidadInformante>
+      <observaciones>El 6 de diciembre, se encuentra otro cadáver en las Navas Bajas, en término de Alanís, con un disparo en la cabeza y pérdida de masa encefálica, con entrada por el parietal derecho y salida por el izquierdo, según el informe forense. la víctima era de Malcocinado. Lo entierran el día 7 a la derecha de la otra fosa guerrillera en el cementerio de Alanís.
+Al igual que las fosas anteriores este terreno ha sido  muy transformado en las últimas décadas y es posible que hayan sido expoliadas o hayan quedado debajo de la construcción de nuevos nichos.</observaciones>
+      <IdLocalidad>1174</IdLocalidad>
+      <victima>
+        <nombre>José</nombre>
+        <apellido1>Rubio</apellido1>
+        <apellido2>Martínez</apellido2>
+        <sexo>M</sexo>
+        <fechaInhumacion>07/12/1941</fechaInhumacion>
+        <numRegistro>533/2009 SEVI</numRegistro>
+      </victima>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Guadalcanal</nombre>
+    <IdProvincia>43</IdProvincia>
+    <ID>1196</ID>
+    <latitud>38.09198</latitud>
+    <longitud>-5.821165</longitud>
+    <fosa>
+      <numRegistro>2187/2010 SEVI</numRegistro>
+      <denominacionFosa>Fosa en el Cementerio de Guadalcana</denominacionFosa>
+      <estadoActual>NO INTERVENIDA</estadoActual>
+      <numeroPersonasFosa>4</numeroPersonasFosa>
+      <numeroPersonasExhumadas>7</numeroPersonasExhumadas>
+      <numeroPersonasIdentificadas>4</numeroPersonasIdentificadas>
+      <entidadInformante>Consejería de Gobernación y Justicia de la Junta de Andalucía</entidadInformante>
+      <observaciones>Se cree que la fosa estaría ocupada por unos siete individuos de Guadalcanal y de Ahillones (Badajoz) que fueron asesinados el 22 ó 23 de agosto de 1936.</observaciones>
+      <IdLocalidad>1196</IdLocalidad>
+      <victima>
+        <nombre>José Nicolás</nombre>
+        <apellido1>García</apellido1>
+        <apellido2>Díaz</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>2187/2010 SEVI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Andrés</nombre>
+        <apellido1>Maldonado</apellido1>
+        <apellido2>Montero</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>2187/2010 SEVI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Máximo</nombre>
+        <apellido1>González</apellido1>
+        <apellido2>Mariscal</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>2187/2010 SEVI</numRegistro>
+      </victima>
+      <victima>
+        <nombre>"El Juez"</nombre>
+        <sexo>M</sexo>
+        <numRegistro>2187/2010 SEVI</numRegistro>
+      </victima>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Alcañizo</nombre>
+    <IdProvincia>47</IdProvincia>
+    <ID>1338</ID>
+    <latitud>39.90467</latitud>
+    <longitud>-5.105713</longitud>
+    <fosa>
+      <numRegistro>2412/2011 TOLE</numRegistro>
+      <denominacionFosa>Fosa en la 'Huerta de Tomás Alegria'</denominacionFosa>
+      <estadoActual>EXHUMADA TOTAL</estadoActual>
+      <numeroPersonasFosa>5</numeroPersonasFosa>
+      <numeroPersonasExhumadas>5</numeroPersonasExhumadas>
+      <numeroPersonasIdentificadas>5</numeroPersonasIdentificadas>
+      <entidadPromotora>Familiares</entidadPromotora>
+      <entidadInformante>Foro por la Memoria</entidadInformante>
+      <observaciones>La fosa se situa en el término municipal de Alcañizo (Toledo), a las afueras del núcleo urbano, a escasos metros al Oeste de la antigua carretera de Alcañizo y a poco más de 20 metros al Este de la actual carretera TO-7141, la cual une esta población con la Autovía A-5/E-90. Se buscaban los restos de cinco jornaleros republicanos asesinados en 1936. La exhumación se llevó a cabo en mayo de 2008 recuperándose los restos de, al menos tres víctimas con evidentes signos de muerte violenta.</observaciones>
+      <IdLocalidad>1338</IdLocalidad>
+      <victima>
+        <nombre>Angel</nombre>
+        <apellido1>Otero</apellido1>
+        <apellido2>Alonso</apellido2>
+        <sexo>V</sexo>
+        <numRegistro>2412/2011 TOLE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Cecilio</nombre>
+        <apellido1>Otero</apellido1>
+        <apellido2>Hernández</apellido2>
+        <otrosDatos>conocido como "tío Gato"</otrosDatos>
+        <numRegistro>2412/2011 TOLE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Silverio</nombre>
+        <apellido1>Sánchez</apellido1>
+        <apellido2>Muñoz</apellido2>
+        <sexo>V</sexo>
+        <numRegistro>2412/2011 TOLE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Gregorio</nombre>
+        <apellido1>Pascual</apellido1>
+        <apellido2>García</apellido2>
+        <sexo>V</sexo>
+        <numRegistro>2412/2011 TOLE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Epifanio</nombre>
+        <apellido1>Pascual</apellido1>
+        <apellido2>García</apellido2>
+        <sexo>V</sexo>
+        <numRegistro>2412/2011 TOLE</numRegistro>
+      </victima>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Alcolea de Tajo</nombre>
+    <IdProvincia>47</IdProvincia>
+    <ID>1339</ID>
+    <latitud>39.80831</latitud>
+    <longitud>-5.149076</longitud>
+    <fosa>
+      <numRegistro>446/2009 TOLE</numRegistro>
+      <denominacionFosa>Fosas en Alcolea del Tajo</denominacionFosa>
+      <tipoFosa>FUSILAMIENTO</tipoFosa>
+      <estadoActual>EXHUMADA TOTAL</estadoActual>
+      <entidadInformante>Asociación para la Recuperación de la Memoria Histórica de Cuenca</entidadInformante>
+      <observaciones>14 Cuerpos exhumados y trasladados al cementerio</observaciones>
+      <IdLocalidad>1339</IdLocalidad>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Calzada de Oropesa</nombre>
+    <IdProvincia>47</IdProvincia>
+    <ID>1340</ID>
+    <latitud>39.89803</latitud>
+    <longitud>-5.278959</longitud>
+    <fosa>
+      <numRegistro>2198/2010 TOLE</numRegistro>
+      <denominacionFosa>Fosa en el paraje de Las Zorreras</denominacionFosa>
+      <tipoFosa>FUSILAMIENTO</tipoFosa>
+      <fechaFosa>25/11/1936</fechaFosa>
+      <estadoActual>EXHUMADA TOTAL</estadoActual>
+      <numeroPersonasFosa>7</numeroPersonasFosa>
+      <numeroPersonasExhumadas>7</numeroPersonasExhumadas>
+      <numeroPersonasIdentificadas>0</numeroPersonasIdentificadas>
+      <entidadPromotora>Familiares / ARMH</entidadPromotora>
+      <entidadInformante>Asociación para la Recuperación de la Memoria Histórica</entidadInformante>
+      <observaciones>En el paraje de Las Zorreras, del término municipal de Calzada de Oropesa, se ha localizado esta fosa común con los restos de siete vecinos de Las Ventas de San Julián. Las víctimas fueron fusiladas en la madrugada del 25 de noviembre de 1936 después de haber sido retenidas en el cuartel de la Guardia Civil durante catorce días. Las tareas de prospección de la zona, localización de la fosa y exhumación de los restos se llevaron a cabo durante los primeros días de noviembre de 2010.</observaciones>
+      <IdLocalidad>1340</IdLocalidad>
+      <victima>
+        <nombre>Alberto</nombre>
+        <apellido1>García</apellido1>
+        <apellido2>Simón</apellido2>
+        <sexo>M</sexo>
+        <localidadResidencia>Ventas de San Julián, Las</localidadResidencia>
+        <fechaFallecimiento>25/11/1936</fechaFallecimiento>
+        <numRegistro>2198/2010 TOLE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Manuel</nombre>
+        <apellido1>Gutierrez</apellido1>
+        <apellido2>Castaño</apellido2>
+        <sexo>M</sexo>
+        <localidadResidencia>Ventas de San Julián, Las</localidadResidencia>
+        <fechaFallecimiento>25/11/1936</fechaFallecimiento>
+        <numRegistro>2198/2010 TOLE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Antolín</nombre>
+        <apellido1>Gutierrez</apellido1>
+        <apellido2>Castaño</apellido2>
+        <sexo>M</sexo>
+        <localidadResidencia>Ventas de San Julián, Las</localidadResidencia>
+        <fechaFallecimiento>25/11/1936</fechaFallecimiento>
+        <numRegistro>2198/2010 TOLE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Germán</nombre>
+        <apellido1>Sarro</apellido1>
+        <apellido2>García</apellido2>
+        <sexo>M</sexo>
+        <localidadResidencia>Ventas de San Julián, Las</localidadResidencia>
+        <fechaFallecimiento>25/11/1936</fechaFallecimiento>
+        <numRegistro>2198/2010 TOLE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Francisco</nombre>
+        <apellido1>Herreruela</apellido1>
+        <apellido2>Arroyo</apellido2>
+        <sexo>M</sexo>
+        <localidadResidencia>Ventas de San Julián, Las</localidadResidencia>
+        <fechaFallecimiento>25/11/1936</fechaFallecimiento>
+        <numRegistro>2198/2010 TOLE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Lorenzo</nombre>
+        <apellido1>Polo</apellido1>
+        <apellido2>Hernández</apellido2>
+        <sexo>M</sexo>
+        <localidadResidencia>Ventas de San Julián, Las</localidadResidencia>
+        <fechaFallecimiento>25/11/1936</fechaFallecimiento>
+        <numRegistro>2198/2010 TOLE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Enemesio</nombre>
+        <apellido1>Hernández</apellido1>
+        <apellido2>Alvarez</apellido2>
+        <sexo>M</sexo>
+        <localidadResidencia>Ventas de San Julián, Las</localidadResidencia>
+        <fechaFallecimiento>25/11/1936</fechaFallecimiento>
+        <numRegistro>2198/2010 TOLE</numRegistro>
+      </victima>
+    </fosa>
+  </localidad>
+</zona>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<zona>
+  <centro>39 4</centro>
+  <localidad>
+    <nombre>Campos</nombre>
+    <IdProvincia>25</IdProvincia>
+    <ID>901</ID>
+    <latitud>39.42727</latitud>
+    <longitud>3.021843</longitud>
+    <fosa>
+      <numRegistro>1189/2009 BALE</numRegistro>
+      <denominacionFosa>NO CONSTA</denominacionFosa>
+      <estadoActual>TRASLADADA AL VALLE DE LOS CAÍDOS</estadoActual>
+      <numeroPersonasFosa>1</numeroPersonasFosa>
+      <numeroPersonasExhumadas>1</numeroPersonasExhumadas>
+      <numeroPersonasIdentificadas>1</numeroPersonasIdentificadas>
+      <entidadInformante>Patrimonio Nacional</entidadInformante>
+      <observaciones>Trasladada al Valle de los Caídos con la fecha/s:26/05/1959</observaciones>
+      <IdLocalidad>901</IdLocalidad>
+      <victima>
+        <nombre>Lorenzo</nombre>
+        <apellido1>Amas</apellido1>
+        <apellido2>Fiver</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1189/2009 BALE</numRegistro>
+      </victima>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Porreres</nombre>
+    <IdProvincia>25</IdProvincia>
+    <ID>904</ID>
+    <latitud>39.51733</latitud>
+    <longitud>3.023831</longitud>
+    <fosa>
+      <numRegistro>1191/2009 BALE</numRegistro>
+      <denominacionFosa>NO CONSTA</denominacionFosa>
+      <estadoActual>TRASLADADA AL VALLE DE LOS CAÍDOS</estadoActual>
+      <numeroPersonasFosa>2</numeroPersonasFosa>
+      <numeroPersonasExhumadas>2</numeroPersonasExhumadas>
+      <numeroPersonasIdentificadas>2</numeroPersonasIdentificadas>
+      <entidadInformante>Patrimonio Nacional</entidadInformante>
+      <observaciones>Trasladada al Valle de los Caídos con la fecha/s:26/05/1959</observaciones>
+      <IdLocalidad>904</IdLocalidad>
+      <victima>
+        <nombre>Rafael</nombre>
+        <apellido1>Barceló</apellido1>
+        <apellido2>Vaquez</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1191/2009 BALE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Lorenzo</nombre>
+        <apellido1>Roll</apellido1>
+        <apellido2>Herra</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1191/2009 BALE</numRegistro>
+      </victima>
+    </fosa>
+  </localidad>
+</zona>

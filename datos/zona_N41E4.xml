@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<zona>
+  <centro>41 4</centro>
+  <localidad>
+    <nombre>Sant Feliu de Guíxols</nombre>
+    <IdProvincia>19</IdProvincia>
+    <ID>13</ID>
+    <latitud>41.78058</latitud>
+    <longitud>3.030733</longitud>
+    <fosa>
+      <numRegistro>1045/2009 GERO</numRegistro>
+      <denominacionFosa>NO CONSTA</denominacionFosa>
+      <estadoActual>TRASLADADA AL VALLE DE LOS CAÍDOS</estadoActual>
+      <numeroPersonasFosa>1</numeroPersonasFosa>
+      <numeroPersonasExhumadas>1</numeroPersonasExhumadas>
+      <numeroPersonasIdentificadas>1</numeroPersonasIdentificadas>
+      <entidadInformante>Patrimonio Nacional</entidadInformante>
+      <observaciones>Trasladada al Valle de los Caídos con la fecha/s:26/03/1959</observaciones>
+      <IdLocalidad>13</IdLocalidad>
+      <victima>
+        <nombre>Victoriano</nombre>
+        <apellido1>Jesús</apellido1>
+        <apellido2>Vélez</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1045/2009 GERO</numRegistro>
+      </victima>
+    </fosa>
+    <fosa>
+      <numRegistro>2223/2010 GERO</numRegistro>
+      <denominacionFosa>Fosa en el Cementerio de Sant Feliu de Guíxols</denominacionFosa>
+      <estadoActual>NO INTERVENIDA</estadoActual>
+      <entidadPromotora>Dirección General de Memoria Democrática</entidadPromotora>
+      <entidadInformante>Dirección General de Memoria Democrática. Generalitat de Catalunya</entidadInformante>
+      <observaciones>El listado mencionado que se conserva en el Ayuntamiento, "Relación de los militares enterrados en el cementerio de esta ciudad durante los días 4 y 5 de febrero de 1939, segun ficha de identificación depositadas junto al cadáver" se compone de 34 nombres, la mayoría de ellos italianos y todos ellos pertenecientes a las "Flechas Azules" de la División Littorio. La fecha de la muerte de todos ellos son los días 4 y 5 de febrero, días en los que la población fue ocupada por las tropas franquistas, que encontraron cierta resistencia por parte de los soldados republicanos, y el documento especifico que cada uno de ellos tiene una botella con su identificación junto al cadáver. Es lógico pensar que si hubo 34 muertos por parte de las tropas rebeldes también las hubiera por parte de las republicanas, por lo tanto no se puede descartar la existencia de otra fosa en el cementerio con soldados en este caso republicanos y de fosas por los alrededores de la población, aunque a día de hoy no estén localizadas.</observaciones>
+      <IdLocalidad>13</IdLocalidad>
+    </fosa>
+  </localidad>
+</zona>

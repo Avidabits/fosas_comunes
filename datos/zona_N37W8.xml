@@ -1,0 +1,655 @@
+<?xml version="1.0" encoding="utf-8"?>
+<zona>
+  <centro>37 -8</centro>
+  <localidad>
+    <nombre>San Bartolomé de la Torre</nombre>
+    <IdProvincia>23</IdProvincia>
+    <ID>3</ID>
+    <latitud>37.44596</latitud>
+    <longitud>-7.106683</longitud>
+    <fosa>
+      <numRegistro>2062/2010 HUEL</numRegistro>
+      <denominacionFosa>Fosa 1 en Cementerio de San Bartolomé de la Torre</denominacionFosa>
+      <estadoActual>NO INTERVENIDA</estadoActual>
+      <numeroPersonasExhumadas>15</numeroPersonasExhumadas>
+      <entidadPromotora>AYUNTAMIENTO</entidadPromotora>
+      <entidadInformante>Consejería de Gobernación y Justicia de la Junta de Andalucía</entidadInformante>
+      <observaciones>En el interior del cementerio de esta localidad se localizarían dos fosas, esta primera fosa está situada en la parte posterior del mismo, entre dos bloques de nichos exentos, donde reposarían los restos de, al menos, quince víctimas de San Bartolomé y de Gibraleón. En la puerta del cementerio, en febrero de 2006, se colocó un monolito en homenaje a las víctimas de la Guerra Civil.</observaciones>
+      <IdLocalidad>3</IdLocalidad>
+    </fosa>
+    <fosa>
+      <numRegistro>2063/2010 HUEL</numRegistro>
+      <denominacionFosa>Fosa 2 en Cementerio de San Bartolomé de la Torre</denominacionFosa>
+      <estadoActual>NO INTERVENIDA</estadoActual>
+      <numeroPersonasFosa>10</numeroPersonasFosa>
+      <numeroPersonasExhumadas>10</numeroPersonasExhumadas>
+      <numeroPersonasIdentificadas>10</numeroPersonasIdentificadas>
+      <entidadPromotora>AYUNTAMIENTO</entidadPromotora>
+      <entidadInformante>Consejería de Gobernación y Justicia de la Junta de Andalucía</entidadInformante>
+      <observaciones>En el interior del cementerio de esta localidad existen dos fosas; esta segunda fosa se encuentra cerca de la parte final del muro lateral derecho, junto al pequeño bloque de nichos exento situado paralelo al muro posterior. Allí estarían enterrados 10 vecinos de San Bartolomé (8 hombres y 2 mujeres) fusilados en la segunda mitad de agosto de 1.936, parece ser que las mujeres fueron enterradas en el centro y cuatro hombres a cada lado. En la puerta del cementerio, en febrero de 2006, se colocó un monolito en homenaje a las víctimas de la Guerra Civil.</observaciones>
+      <IdLocalidad>3</IdLocalidad>
+      <victima>
+        <nombre>Gabriel</nombre>
+        <apellido1>Arazo</apellido1>
+        <apellido2>Eugenio</apellido2>
+        <sexo>M</sexo>
+        <otrosDatos>Fusilado en Agosto de 1936</otrosDatos>
+        <numRegistro>2063/2010 HUEL</numRegistro>
+      </victima>
+      <victima>
+        <nombre>José</nombre>
+        <apellido1>Cárdeno</apellido1>
+        <apellido2>Ruiz</apellido2>
+        <sexo>M</sexo>
+        <otrosDatos>Fusilado en Agosto de 1936</otrosDatos>
+        <numRegistro>2063/2010 HUEL</numRegistro>
+      </victima>
+      <victima>
+        <nombre>José</nombre>
+        <apellido1>González</apellido1>
+        <apellido2>Fernández</apellido2>
+        <sexo>M</sexo>
+        <otrosDatos>Fusilado en Agosto de 1936</otrosDatos>
+        <numRegistro>2063/2010 HUEL</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Diego</nombre>
+        <apellido1>Martín</apellido1>
+        <apellido2>Martín</apellido2>
+        <sexo>M</sexo>
+        <otrosDatos>Fusilado en Agosto de 1936</otrosDatos>
+        <numRegistro>2063/2010 HUEL</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Dolores</nombre>
+        <apellido1>Moro</apellido1>
+        <apellido2>Pérez</apellido2>
+        <sexo>F</sexo>
+        <otrosDatos>Fusilada en Agosto de 1936</otrosDatos>
+        <numRegistro>2063/2010 HUEL</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Reyes</nombre>
+        <apellido1>Moro</apellido1>
+        <apellido2>Santana</apellido2>
+        <sexo>F</sexo>
+        <otrosDatos>Fusilada en agosto de 1936</otrosDatos>
+        <numRegistro>2063/2010 HUEL</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Bartolomé</nombre>
+        <apellido1>Moreno</apellido1>
+        <apellido2>Calcón</apellido2>
+        <sexo>M</sexo>
+        <otrosDatos>Fusilado en Agosto de 1936</otrosDatos>
+        <numRegistro>2063/2010 HUEL</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Manuel</nombre>
+        <apellido1>Santana</apellido1>
+        <apellido2>Peña</apellido2>
+        <sexo>M</sexo>
+        <otrosDatos>Fusilado en Agosto de 1936</otrosDatos>
+        <numRegistro>2063/2010 HUEL</numRegistro>
+      </victima>
+      <victima>
+        <nombre>José</nombre>
+        <apellido1>Santos</apellido1>
+        <apellido2>Laborda</apellido2>
+        <sexo>M</sexo>
+        <otrosDatos>Fusilado en Agosto de 1936</otrosDatos>
+        <numRegistro>2063/2010 HUEL</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Manuel</nombre>
+        <apellido1>Aguilar</apellido1>
+        <apellido2>García</apellido2>
+        <sexo>M</sexo>
+        <otrosDatos>Fusilados en Agosto del 36</otrosDatos>
+        <numRegistro>2063/2010 HUEL</numRegistro>
+      </victima>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Villanueva de los Castillejos</nombre>
+    <IdProvincia>23</IdProvincia>
+    <ID>92</ID>
+    <latitud>37.50046</latitud>
+    <longitud>-7.272443</longitud>
+    <fosa>
+      <numRegistro>2067/2010 HUEL</numRegistro>
+      <denominacionFosa>Fosa 2 en cementerio de Villanueva de los Castillejos</denominacionFosa>
+      <fechaFosa>20/09/1937</fechaFosa>
+      <estadoActual>NO INTERVENIDA</estadoActual>
+      <numeroPersonasExhumadas>20</numeroPersonasExhumadas>
+      <entidadInformante>Consejería de Gobernación y Justicia de la Junta de Andalucía</entidadInformante>
+      <observaciones>Existe otra fosa en el cementerio de Villanueva, entrando a la derecha, casi enfrente de la situación de la fosa con 10 vecinos del pueblo, donde nos dicen que hay víctimas que pueden ser de Villablanca, de Lepe o de Ayamonte, lo que se sabe es que eran de gente de pueblos de la costa. En la fosa estarían enterrados los restos de unas 20 personas que un camión llevó a Castillejos en Julio de 1.937. Actualmente en la superficie hay un jardín con árboles.</observaciones>
+      <IdLocalidad>92</IdLocalidad>
+    </fosa>
+    <fosa>
+      <numRegistro>2068/2010 HUEL</numRegistro>
+      <denominacionFosa>Fosa 1 en cementerio de Villanueva de los Castillejos</denominacionFosa>
+      <fechaFosa>20/09/1937</fechaFosa>
+      <estadoActual>NO INTERVENIDA</estadoActual>
+      <numeroPersonasFosa>10</numeroPersonasFosa>
+      <numeroPersonasExhumadas>10</numeroPersonasExhumadas>
+      <entidadPromotora>AYUNTAMIENTO</entidadPromotora>
+      <entidadInformante>Consejería de Gobernación y Justicia de la Junta de Andalucía</entidadInformante>
+      <observaciones>En Villanueva de los Castillejos fueron represaliadas más de 20 personas, de las cuales 10 están enterradas en el cementerio de Castillejos, entrando a la izquierda. Estas 10 personas (8 hombres y 2 mujeres), fusilados el 20 de septiembre de1.937, tienen un homenaje, con todos los nombres de las víctimas, en forma de lápida colocada por el pueblo en 1980, justo encima de la ubicación de la fosa. Las víctimas fueron fusiladas en la finca Los Murtales.</observaciones>
+      <IdLocalidad>92</IdLocalidad>
+      <victima>
+        <nombre>Angela</nombre>
+        <apellido1>Madera</apellido1>
+        <apellido2>Faustino</apellido2>
+        <sexo>F</sexo>
+        <fechaFallecimiento>20/09/1937</fechaFallecimiento>
+        <numRegistro>2068/2010 HUEL</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Catalina</nombre>
+        <apellido1>Rodríguez</apellido1>
+        <apellido2>Correa</apellido2>
+        <sexo>F</sexo>
+        <fechaFallecimiento>20/09/1937</fechaFallecimiento>
+        <numRegistro>2068/2010 HUEL</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Manuel</nombre>
+        <apellido1>Rivero</apellido1>
+        <apellido2>Ponce</apellido2>
+        <sexo>M</sexo>
+        <fechaFallecimiento>20/09/1937</fechaFallecimiento>
+        <numRegistro>2068/2010 HUEL</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Manuel</nombre>
+        <apellido1>Ponce</apellido1>
+        <apellido2>Ruíz</apellido2>
+        <sexo>M</sexo>
+        <fechaFallecimiento>20/09/1937</fechaFallecimiento>
+        <numRegistro>2068/2010 HUEL</numRegistro>
+      </victima>
+      <victima>
+        <nombre>José</nombre>
+        <apellido1>Martín</apellido1>
+        <apellido2>Rodriguez</apellido2>
+        <sexo>M</sexo>
+        <fechaFallecimiento>20/09/1937</fechaFallecimiento>
+        <numRegistro>2068/2010 HUEL</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Jacobo</nombre>
+        <apellido1>Fernández</apellido1>
+        <apellido2>Pérez</apellido2>
+        <sexo>M</sexo>
+        <fechaFallecimiento>20/09/1937</fechaFallecimiento>
+        <numRegistro>2068/2010 HUEL</numRegistro>
+      </victima>
+      <victima>
+        <nombre>José</nombre>
+        <apellido1>Cortada</apellido1>
+        <apellido2>Gómez</apellido2>
+        <sexo>M</sexo>
+        <fechaFallecimiento>20/09/1937</fechaFallecimiento>
+        <numRegistro>2068/2010 HUEL</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Juan</nombre>
+        <apellido1>González</apellido1>
+        <apellido2>Pérez</apellido2>
+        <sexo>M</sexo>
+        <fechaFallecimiento>20/09/1937</fechaFallecimiento>
+        <numRegistro>2068/2010 HUEL</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Francisco</nombre>
+        <apellido1>Galán</apellido1>
+        <apellido2>Sánchez</apellido2>
+        <sexo>M</sexo>
+        <fechaFallecimiento>20/09/1937</fechaFallecimiento>
+        <numRegistro>2068/2010 HUEL</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Andrés</nombre>
+        <apellido1>González</apellido1>
+        <apellido2>Limón</apellido2>
+        <sexo>M</sexo>
+        <fechaFallecimiento>20/09/1937</fechaFallecimiento>
+        <numRegistro>2068/2010 HUEL</numRegistro>
+      </victima>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Cabezas Rubias</nombre>
+    <IdProvincia>23</IdProvincia>
+    <ID>184</ID>
+    <latitud>37.7265</latitud>
+    <longitud>-7.087451</longitud>
+    <fosa>
+      <numRegistro>1268/2009 HUEL</numRegistro>
+      <denominacionFosa>NO CONSTA</denominacionFosa>
+      <estadoActual>TRASLADADA AL VALLE DE LOS CAÍDOS</estadoActual>
+      <numeroPersonasFosa>1</numeroPersonasFosa>
+      <numeroPersonasExhumadas>1</numeroPersonasExhumadas>
+      <numeroPersonasIdentificadas>1</numeroPersonasIdentificadas>
+      <entidadInformante>Patrimonio Nacional</entidadInformante>
+      <observaciones>Trasladada al Valle de los Caídos con la fecha/s:05/12/1963</observaciones>
+      <IdLocalidad>184</IdLocalidad>
+      <victima>
+        <nombre>Antonio</nombre>
+        <apellido1>del Pino</apellido1>
+        <apellido2>Iribarne</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1268/2009 HUEL</numRegistro>
+      </victima>
+    </fosa>
+    <fosa>
+      <numRegistro>2055/2010 HUEL</numRegistro>
+      <denominacionFosa>Fosas en el cementerio de Cabezas Rubias</denominacionFosa>
+      <estadoActual>NO INTERVENIDA</estadoActual>
+      <entidadPromotora>AYUNTAMIENTO</entidadPromotora>
+      <entidadInformante>Consejería de Gobernación y Justicia de la Junta de Andalucía</entidadInformante>
+      <observaciones>En el interior del cementerio de esta localidad está localizada una fosa con los restos varios vecinos fusilados, se ubica frente a la puerta de entrada delante de los nichos del fondo, donde se colocó una pequeña peana sobre la fosa como señalización de la misma. En una reforma del camposanto, en 1981, se construyó un bloque de nichos perpendicular al muro del fondo, a la izquierda según se entra, y al parecer al construir los cimientos de dicho bloque se sacaron muchos restos humanos que podrían corresponder a otra fosa de víctimas de la Guerra Civil.</observaciones>
+      <IdLocalidad>184</IdLocalidad>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Rosal de la Frontera</nombre>
+    <IdProvincia>23</IdProvincia>
+    <ID>432</ID>
+    <latitud>37.9678</latitud>
+    <longitud>-7.220527</longitud>
+    <fosa>
+      <numRegistro>2091/2010 HUEL</numRegistro>
+      <denominacionFosa>Fosa 1 en cementerio de Rosal de la Frontera</denominacionFosa>
+      <estadoActual>NO INTERVENIDA</estadoActual>
+      <entidadInformante>Consejería de Gobernación y Justicia de la Junta de Andalucía</entidadInformante>
+      <observaciones>En el cementerio de este pueblo están localizadas dos fosas. La primera de estas fosas estaría cerca del extremo derecho posterior del cementerio, pegada al muro, y se identifica fácilmente por una especie de arriate que la delimita de los nichos circundantes. Además, justo encima de la fosa, existe una placa de homenaje a las víctimas, colocada gracias a una colecta vecinal en agosto de 1988. Se piensa que el número de víctimas que ocuparían esa fosa rondaría las 200 personas, procedentes de Rosal y pueblos cercanos.</observaciones>
+      <IdLocalidad>432</IdLocalidad>
+    </fosa>
+    <fosa>
+      <numRegistro>2092/2010 HUEL</numRegistro>
+      <denominacionFosa>Fosa 2 en cementerio de Rosal de la Frontera</denominacionFosa>
+      <estadoActual>NO INTERVENIDA</estadoActual>
+      <entidadPromotora>AYUNTAMIENTO</entidadPromotora>
+      <entidadInformante>Consejería de Gobernación y Justicia de la Junta de Andalucía</entidadInformante>
+      <observaciones>En el cementerio de este pueblo están localizadas dos fosas. La segunda de ellas se situaría paralela y pegada al muro  posterior del recinto, donde actualmente hay construidos unos nichos, casi en el frente de la cancela de entrada, y un poco a la izquierda del pasillo que nos introduce al cementerio. Se cree que pudiera haber enterradas unas 150 personas, procedentes de Rosal y de los pueblos vecinos.</observaciones>
+      <IdLocalidad>432</IdLocalidad>
+    </fosa>
+    <fosa>
+      <numRegistro>2093/2010 HUEL</numRegistro>
+      <denominacionFosa>Fosa en el paraje 'Los Pajaritos'</denominacionFosa>
+      <estadoActual>NO INTERVENIDA</estadoActual>
+      <entidadInformante>Consejería de Gobernación y Justicia de la Junta de Andalucía</entidadInformante>
+      <observaciones>Se ha informado de la posible existencia de fosas en el campo circundante al núcleo urbano de Rosal de la Frontera. Una fosa de la que se tendría seguridad en cuanto a su ubicación es la que se encuentra en el paraje conocido como ¿Los pajaritos¿ en la salida del km. 74 de la A-495 (Rosal-La Palma). Podrían estar enterradas 3 personas que se escondían en una cueva y fueron asesinadas al ser descubiertos. Está marcada sobre el terreno con un montón de piedras pintadas de color blanco.</observaciones>
+      <IdLocalidad>432</IdLocalidad>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Alosno</nombre>
+    <IdProvincia>23</IdProvincia>
+    <ID>802</ID>
+    <latitud>37.54936</latitud>
+    <longitud>-7.115428</longitud>
+    <fosa>
+      <numRegistro>2370/2011 HUEL</numRegistro>
+      <denominacionFosa>Fosas en los cementerios de Alosno y de Tharsis</denominacionFosa>
+      <estadoActual>DESAPARECIDA</estadoActual>
+      <entidadInformante>Consejería de Gobernación y Justicia de la Junta de Andalucía</entidadInformante>
+      <observaciones>Parece ser que en el cementerio de Alosno habrían existido cuatro fosas comunes y una en el cementerio de Tharsis, de las que actualmente no quedaría rastro pues los cuerpos enterrados se sacaron por la remodelación que hubo a primeros de los años 80, tanto en Alosno como en Tharsis. Al parecer unos pocos restos fueron reclamados y los que no, la mayor parte, se incineraron. Se sabe que cerca del extremo anterior izquierdo estaba una fosa con las 21 víctimas de La Puebla. Hacia el lado derecho, y ya más introducidos en el cementerio se hallaría otra con 12 víctimas de Alosno (fusilados en los muros del cementerio), algo más arriba otra con 7 u 8 personas indeterminadas, y el resto de víctimas estarían diseminados por el cementerio ya en sitios más inexactos. Una fosa, sin conocerse el lugar concreto, estaba ubicada dentro del cementerio de Tharsis, donde al menos hubo 4 personas (2 de Alosno y 2 de Tharsis) pero, probablemente, esta fosa ya no existe por las profundas remodelaciones de este cementerio.</observaciones>
+      <IdLocalidad>802</IdLocalidad>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Ayamonte</nombre>
+    <IdProvincia>23</IdProvincia>
+    <ID>806</ID>
+    <latitud>37.21466</latitud>
+    <longitud>-7.409819</longitud>
+    <fosa>
+      <numRegistro>2043/2010 HUEL</numRegistro>
+      <denominacionFosa>Fosa en el cementerio de Ayamonte</denominacionFosa>
+      <estadoActual>NO INTERVENIDA</estadoActual>
+      <entidadPromotora>AYUNTAMIENTO</entidadPromotora>
+      <entidadInformante>Consejería de Gobernación y Justicia de la Junta de Andalucía</entidadInformante>
+      <observaciones>Según la información recibida, había varias fosas diseminadas en el cementerio de Ayamonte pero estas fosas fueron exhumadas en los años 80 y, posteriormente, enterraron todos los restos juntos en la zona central del cementerio bajo una lápida conmemorativa a las víctimas. Se piensa que en esta fosa, además de los naturales de Ayamonte, debe haber personas de otros pueblos del entorno de la costa llegando a la cifra de cien víctimas. Muchas de estas víctimas habrían sido fusiladas en el Puente de Pedraza, en la carretera a Villablanca, y en el cruce de la carretera de Ayamonte hacia Villablanca.</observaciones>
+      <IdLocalidad>806</IdLocalidad>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Cartaya</nombre>
+    <IdProvincia>23</IdProvincia>
+    <ID>813</ID>
+    <latitud>37.28314</latitud>
+    <longitud>-7.154979</longitud>
+    <fosa>
+      <numRegistro>2045/2010 HUEL</numRegistro>
+      <denominacionFosa>Fosa en el antiguo cementerio de Cartaya</denominacionFosa>
+      <estadoActual>DESAPARECIDA</estadoActual>
+      <entidadPromotora>AYUNTAMIENTO</entidadPromotora>
+      <entidadInformante>Consejería de Gobernación y Justicia de la Junta de Andalucía</entidadInformante>
+      <observaciones>Según la información recibida, existió una fosa dentro de lo que fue el antiguo cementerio, ya derribado, en el lugar que hoy ocupa el Polígono Industrial Villajulia. Se sabe que, antes de ser derribado el cementerio en los años 80, unas personas de Lepe
+exhumaron, entre los años 77 y 80, unos restos de represaliados que fueron trasladados a un nicho en el cementerio
+de Lepe con una placa homenaje con los nombres de 13 personas.</observaciones>
+      <IdLocalidad>813</IdLocalidad>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Isla Cristina</nombre>
+    <IdProvincia>23</IdProvincia>
+    <ID>823</ID>
+    <latitud>37.19943</latitud>
+    <longitud>-7.325246</longitud>
+    <fosa>
+      <numRegistro>2048/2010 HUEL</numRegistro>
+      <denominacionFosa>Fosa del cementerio de Isla Cristina</denominacionFosa>
+      <estadoActual>NO INTERVENIDA</estadoActual>
+      <numeroPersonasFosa>27</numeroPersonasFosa>
+      <entidadPromotora>AYUNTAMIENTO</entidadPromotora>
+      <entidadInformante>Consejería de Gobernación y Justicia de la Junta de Andalucía</entidadInformante>
+      <observaciones>La fosa del cementerio de Isla Cristina se encuentra en la esquina inferior izquierda entrando por la primera de las dos puertas de las que consta el cementerio, junto al muro lateral izquierdo y pegada a los nichos que en la actualidad se encuentran allí. Al parecer, según fuentes informantes, en esta fosa habría al menos 22 víctimas del municipio, aunque se supone que debe haber más y los nombres de las víctimas que podrían estar en esta fosa .</observaciones>
+      <IdLocalidad>823</IdLocalidad>
+      <victima>
+        <nombre>Cayetano</nombre>
+        <apellido1>Alemán</apellido1>
+        <apellido2>Elias</apellido2>
+        <sexo>V</sexo>
+        <numRegistro>2048/2010 HUEL</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Manuel</nombre>
+        <apellido1>Rodríguez</apellido1>
+        <apellido2>González</apellido2>
+        <sexo>V</sexo>
+        <numRegistro>2048/2010 HUEL</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Rafael</nombre>
+        <apellido1>Zambrano</apellido1>
+        <apellido2>Romero</apellido2>
+        <sexo>V</sexo>
+        <numRegistro>2048/2010 HUEL</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Felipe</nombre>
+        <apellido1>Lorenzo</apellido1>
+        <apellido2>Ambrosio</apellido2>
+        <sexo>V</sexo>
+        <numRegistro>2048/2010 HUEL</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Juan</nombre>
+        <apellido1>Santana</apellido1>
+        <apellido2>Martín</apellido2>
+        <sexo>V</sexo>
+        <numRegistro>2048/2010 HUEL</numRegistro>
+      </victima>
+      <victima>
+        <nombre>José</nombre>
+        <apellido1>García</apellido1>
+        <apellido2>Pereira</apellido2>
+        <sexo>V</sexo>
+        <numRegistro>2048/2010 HUEL</numRegistro>
+      </victima>
+      <victima>
+        <nombre>José</nombre>
+        <apellido1>Salomón</apellido1>
+        <apellido2>Fernández</apellido2>
+        <sexo>V</sexo>
+        <numRegistro>2048/2010 HUEL</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Alfonso</nombre>
+        <apellido1>Jiménez</apellido1>
+        <apellido2>Vaca</apellido2>
+        <sexo>V</sexo>
+        <numRegistro>2048/2010 HUEL</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Miguel</nombre>
+        <apellido1>Rodríguez</apellido1>
+        <apellido2>Ponche</apellido2>
+        <sexo>V</sexo>
+        <numRegistro>2048/2010 HUEL</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Manuel</nombre>
+        <apellido1>Díaz</apellido1>
+        <apellido2>Folch</apellido2>
+        <sexo>V</sexo>
+        <numRegistro>2048/2010 HUEL</numRegistro>
+      </victima>
+      <victima>
+        <nombre>José</nombre>
+        <apellido1>Feria</apellido1>
+        <apellido2>Rodríguez</apellido2>
+        <sexo>V</sexo>
+        <numRegistro>2048/2010 HUEL</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Juan</nombre>
+        <apellido1>Rufo</apellido1>
+        <apellido2>Rubio</apellido2>
+        <sexo>V</sexo>
+        <numRegistro>2048/2010 HUEL</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Blas</nombre>
+        <apellido1>Vázquez</apellido1>
+        <apellido2>Mendoza</apellido2>
+        <sexo>V</sexo>
+        <numRegistro>2048/2010 HUEL</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Manuel</nombre>
+        <apellido1>Rodríguez</apellido1>
+        <apellido2>Beltran</apellido2>
+        <numRegistro>2048/2010 HUEL</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Antonio</nombre>
+        <apellido1>Albarrán</apellido1>
+        <apellido2>Pérez</apellido2>
+        <sexo>V</sexo>
+        <numRegistro>2048/2010 HUEL</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Antonio</nombre>
+        <apellido1>Rodríguez</apellido1>
+        <apellido2>Beltrán</apellido2>
+        <sexo>V</sexo>
+        <numRegistro>2048/2010 HUEL</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Manuel</nombre>
+        <apellido1>Gómez</apellido1>
+        <apellido2>Neto</apellido2>
+        <sexo>V</sexo>
+        <numRegistro>2048/2010 HUEL</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Sebastián José</nombre>
+        <apellido1>García</apellido1>
+        <apellido2>Cabeza</apellido2>
+        <sexo>V</sexo>
+        <numRegistro>2048/2010 HUEL</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Antonio</nombre>
+        <apellido1>Salcedo</apellido1>
+        <apellido2>Vergara</apellido2>
+        <sexo>V</sexo>
+        <numRegistro>2048/2010 HUEL</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Manuel</nombre>
+        <apellido1>Rodríguez</apellido1>
+        <apellido2>Gómez</apellido2>
+        <sexo>V</sexo>
+        <numRegistro>2048/2010 HUEL</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Mariano</nombre>
+        <apellido1>Ordóñez</apellido1>
+        <apellido2>Jareno</apellido2>
+        <sexo>V</sexo>
+        <numRegistro>2048/2010 HUEL</numRegistro>
+      </victima>
+      <victima>
+        <nombre>José</nombre>
+        <apellido1>Delgado</apellido1>
+        <apellido2>Escribano</apellido2>
+        <sexo>V</sexo>
+        <numRegistro>2048/2010 HUEL</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Serafín</nombre>
+        <apellido1>Soler</apellido1>
+        <apellido2>Zarandieta</apellido2>
+        <sexo>V</sexo>
+        <numRegistro>2048/2010 HUEL</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Antonio</nombre>
+        <apellido1>Ruiz</apellido1>
+        <apellido2>Lorenzo</apellido2>
+        <sexo>V</sexo>
+        <numRegistro>2048/2010 HUEL</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Trinidad</nombre>
+        <apellido1>Prieto</apellido1>
+        <apellido2>García</apellido2>
+        <sexo>V</sexo>
+        <numRegistro>2048/2010 HUEL</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Antonio</nombre>
+        <apellido1>Grao</apellido1>
+        <apellido2>Vázquez</apellido2>
+        <sexo>V</sexo>
+        <numRegistro>2048/2010 HUEL</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Manuel</nombre>
+        <apellido1>López</apellido1>
+        <apellido2>Aguilera</apellido2>
+        <sexo>V</sexo>
+        <numRegistro>2048/2010 HUEL</numRegistro>
+      </victima>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Lepe</nombre>
+    <IdProvincia>23</IdProvincia>
+    <ID>825</ID>
+    <latitud>37.25432</latitud>
+    <longitud>-7.203348</longitud>
+    <fosa>
+      <numRegistro>2049/2010 HUEL</numRegistro>
+      <denominacionFosa>Fosa en cementerio de Lepe</denominacionFosa>
+      <estadoActual>NO INTERVENIDA</estadoActual>
+      <entidadPromotora>Familiares</entidadPromotora>
+      <entidadInformante>Consejería de Gobernación y Justicia de la Junta de Andalucía</entidadInformante>
+      <observaciones>La fosa común estaría dentro del cementerio, junto a una de las naves, en la parte central del mismo. En ella estarían enterradas unas 70 u 80 personas entre naturales de Lepe, Isla Cristina y otros municipios de la costa. También se puede ver, justo encima de la fosa, una placa con los nombres de algunos vecinos de Lepe, cuyos restos se encuentran allí enterrados, y que fueron exhumados del cementerio de Cartaya a finales de los años 70.</observaciones>
+      <IdLocalidad>825</IdLocalidad>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Paymogo</nombre>
+    <IdProvincia>23</IdProvincia>
+    <ID>837</ID>
+    <latitud>37.74063</latitud>
+    <longitud>-7.345994</longitud>
+    <fosa>
+      <numRegistro>2395/2011 HUEL</numRegistro>
+      <denominacionFosa>Fosa en el cementerio de Paymogo</denominacionFosa>
+      <estadoActual>NO INTERVENIDA</estadoActual>
+      <entidadPromotora>AYUNTAMIENTO</entidadPromotora>
+      <entidadInformante>Consejería de Gobernación y Justicia de la Junta de Andalucía</entidadInformante>
+      <observaciones>Según los testimonios recogidos, en el cementerio de esta localidad existe, al menos, una fosa donde están enterradas personas de fuera de Paymogo, conociéndose el dato de que algunos eran de Santa Bárbara de Casa, se cree que al menos serían 4 las víctimas. Eran fusilados en los muros del cementerio y enterrados en su interior, pero sin conocerse el lugar exacto del enterramiento. El cementerio no ha sufrido importantes modificaciones. A la antigua «Cruz de los Caídos» puesta por el franquismo a sus víctimas, se le ha añadido un placa, ya en años de democracia, en la que se guarda memoria a todas las víctimas de la Guerra Civil.</observaciones>
+      <IdLocalidad>837</IdLocalidad>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Puebla de Guzmán</nombre>
+    <IdProvincia>23</IdProvincia>
+    <ID>838</ID>
+    <latitud>37.61144</latitud>
+    <longitud>-7.245831</longitud>
+    <fosa>
+      <numRegistro>2061/2010 HUEL</numRegistro>
+      <denominacionFosa>Fosas en el cementerio de Puebla de Guzmán</denominacionFosa>
+      <estadoActual>NO INTERVENIDA</estadoActual>
+      <entidadPromotora>AYUNTAMIENTO</entidadPromotora>
+      <entidadInformante>Consejería de Gobernación y Justicia de la Junta de Andalucía</entidadInformante>
+      <observaciones>Según las fuentes consultadas, en el cementerio de esta localidad se localizarían cuatro fosas. Fosa 1: Situada debajo y junto a los nichos del fondo, sería la más grande ya que va de muro a muro. Se dice que ponían a los hombres al borde la fosa para que cayeran dentro al fusilarlos. Al parecer está ocupada por víctimas de San Silvestre, entre otros muchos.  Fosa 2: Está situada junto a una pila, al fondo en la esquina derecha y por debajo del muro. Se especula con que haya víctimas de Paymogo. Fosa 3: Muy profunda, con unos 3 metros de ancho y bastante larga, y situada justo en el centro del cementerio. En esta fosa podría haber más de cuarenta víctimas de La Puebla. Fosa 4: Situada al fondo del cementerio a la izquierda, en tierra baldía. Se desconoce número y procedencia de las víctimas.</observaciones>
+      <IdLocalidad>838</IdLocalidad>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>San Silvestre de Guzmán</nombre>
+    <IdProvincia>23</IdProvincia>
+    <ID>841</ID>
+    <latitud>37.3884</latitud>
+    <longitud>-7.350305</longitud>
+    <fosa>
+      <numRegistro>2064/2010 HUEL</numRegistro>
+      <denominacionFosa>Fosas en cementerio de San Silvestre de Guzmán</denominacionFosa>
+      <estadoActual>NO INTERVENIDA</estadoActual>
+      <entidadPromotora>AYUNTAMIENTO</entidadPromotora>
+      <entidadInformante>Consejería de Gobernación y Justicia de la Junta de Andalucía</entidadInformante>
+      <observaciones>En el cementerio de esta localidad existe una lápida justo a la entrada del recinto, en la esquina inferior derecha, colocada en 1981, que homenajea a los 22 fusilados del pueblo. Justo debajo se encontraría una de las fosas con 7 u 8 personas de San Silvestre. Al parecer, en el cementerio podría existir otra fosa al pie de la lápida homenaje antes citada, con dos mujeres y entre 3 y 4 hombres de Ayamonte, enterrados posteriormente al uso de la primera fosa.</observaciones>
+      <IdLocalidad>841</IdLocalidad>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Sanlúcar de Guadiana</nombre>
+    <IdProvincia>23</IdProvincia>
+    <ID>842</ID>
+    <latitud>37.47318</latitud>
+    <longitud>-7.467861</longitud>
+    <fosa>
+      <numRegistro>2065/2010 HUEL</numRegistro>
+      <denominacionFosa>Fosa en cementerio de Sanlúcar de Guadiana</denominacionFosa>
+      <fechaFosa>30/07/1936</fechaFosa>
+      <estadoActual>DESAPARECIDA</estadoActual>
+      <numeroPersonasExhumadas>12</numeroPersonasExhumadas>
+      <entidadPromotora>AYUNTAMIENTO</entidadPromotora>
+      <entidadInformante>Consejería de Gobernación y Justicia de la Junta de Andalucía</entidadInformante>
+      <observaciones>En este pueblo fusilaron a 12 personas que fueron enterradas detrás del cementerio viejo. Al parecer los detuvieron el mismo día de la entrada de las tropas, 29 de julio de 1936, fusilados al día siguiente, y enterrados justo detrás del cementerio. La mencionada fosa, con las sucesivas ampliaciones, ha quedado dentro del cementerio, y una parte de ella está cubierta por una calle de nichos y el muro exterior.</observaciones>
+      <IdLocalidad>842</IdLocalidad>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Santa Bárbara de Casa</nombre>
+    <IdProvincia>23</IdProvincia>
+    <ID>844</ID>
+    <latitud>37.79655</latitud>
+    <longitud>-7.188633</longitud>
+    <fosa>
+      <numRegistro>2396/2011 HUEL</numRegistro>
+      <denominacionFosa>Fosas del antiguo cementerio de Santa Bárbara</denominacionFosa>
+      <estadoActual>DESAPARECIDA</estadoActual>
+      <entidadInformante>Consejería de Gobernación y Justicia de la Junta de Andalucía</entidadInformante>
+      <observaciones>Según la entidad informante, existieron dos fosas en lo que fue el antiguo cementerio, actualmente el solar es un campo de futbol. Cuando el cementerio fue derribado, en los años 80, se encontraron muchos restos en una gran fosa, aún con cal viva. Se dice que podía haber entre 15 y 20 víctimas. A unos metros de esta fosa, había otra de dimensiones menores. Todos estos restos óseos, junto a los no reclamados del cementerio, fueron llevados al osario del nuevo cementerio.</observaciones>
+      <IdLocalidad>844</IdLocalidad>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Villanueva de las Cruces</nombre>
+    <IdProvincia>23</IdProvincia>
+    <ID>849</ID>
+    <latitud>37.62762</latitud>
+    <longitud>-7.024521</longitud>
+    <fosa>
+      <numRegistro>2069/2010 HUEL</numRegistro>
+      <denominacionFosa>Fosa en cementerio de Villanueva de las Cruces</denominacionFosa>
+      <estadoActual>DESAPARECIDA</estadoActual>
+      <entidadPromotora>AYUNTAMIENTO</entidadPromotora>
+      <entidadInformante>Consejería de Gobernación y Justicia de la Junta de Andalucía</entidadInformante>
+      <observaciones>En esta localidad existe una fosa donde estaba ubicado el antiguo cementerio, y en la actualidad está edificada una pequeña ermita, en uno de los cerros que rodean el pueblo. La fosa se ubicaría en el borde derecho del porche de la mencionada ermita, junto a un poyete, donde podrían estar enterrados dos vecinos del pueblo y dos hombres de Tharsis.</observaciones>
+      <IdLocalidad>849</IdLocalidad>
+    </fosa>
+  </localidad>
+</zona>

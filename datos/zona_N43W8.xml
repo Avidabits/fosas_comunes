@@ -1,0 +1,2387 @@
+<?xml version="1.0" encoding="utf-8"?>
+<zona>
+  <centro>43 -8</centro>
+  <localidad>
+    <nombre>San Tirso de Abres</nombre>
+    <IdProvincia>6</IdProvincia>
+    <ID>11</ID>
+    <latitud>43.409</latitud>
+    <longitud>-7.143</longitud>
+    <fosa>
+      <numRegistro>1971/2010 ASTU</numRegistro>
+      <denominacionFosa>Fosa en el Barrio de la Carretera</denominacionFosa>
+      <estadoActual>EXHUMADA TOTAL</estadoActual>
+      <entidadInformante>Principado de Asturias. Consejería de Bienestar Social y Vivienda.</entidadInformante>
+      <IdLocalidad>11</IdLocalidad>
+    </fosa>
+    <fosa>
+      <numRegistro>1972/2010 ASTU</numRegistro>
+      <denominacionFosa>Fosa de El Pacio (Chao)</denominacionFosa>
+      <estadoActual>NO INTERVENIDA</estadoActual>
+      <entidadInformante>Principado de Asturias. Consejería de Bienestar Social y Vivienda.</entidadInformante>
+      <IdLocalidad>11</IdLocalidad>
+    </fosa>
+    <fosa>
+      <numRegistro>1973/2010 ASTU</numRegistro>
+      <denominacionFosa>Fosa de Villaoruz</denominacionFosa>
+      <estadoActual>NO INTERVENIDA</estadoActual>
+      <entidadInformante>Principado de Asturias. Consejería de Bienestar Social y Vivienda.</entidadInformante>
+      <IdLocalidad>11</IdLocalidad>
+    </fosa>
+    <fosa>
+      <numRegistro>247/2009 ASTU</numRegistro>
+      <denominacionFosa>Fosa del Cementerio de San Tirso de Abres</denominacionFosa>
+      <tipoFosa>FUSILAMIENTO</tipoFosa>
+      <estadoActual>NO INTERVENIDA</estadoActual>
+      <numeroPersonasExhumadas>0</numeroPersonasExhumadas>
+      <numeroPersonasIdentificadas>0</numeroPersonasIdentificadas>
+      <entidadInformante>Principado de Asturias. Consejería de Bienestar Social y Vivienda.</entidadInformante>
+      <IdLocalidad>11</IdLocalidad>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Vegadeo</nombre>
+    <IdProvincia>6</IdProvincia>
+    <ID>80</ID>
+    <latitud>43.46476</latitud>
+    <longitud>-7.05106</longitud>
+    <fosa>
+      <numRegistro>1989/2010 ASTU</numRegistro>
+      <denominacionFosa>Fosa de Meirón</denominacionFosa>
+      <estadoActual>NO INTERVENIDA</estadoActual>
+      <entidadInformante>Principado de Asturias. Consejería de Bienestar Social y Vivienda.</entidadInformante>
+      <IdLocalidad>80</IdLocalidad>
+    </fosa>
+    <fosa>
+      <numRegistro>308/2009 ASTU</numRegistro>
+      <denominacionFosa>Fosa en el Cementerio de Vegadeo</denominacionFosa>
+      <tipoFosa>FUSILAMIENTO</tipoFosa>
+      <estadoActual>NO INTERVENIDA</estadoActual>
+      <numeroPersonasExhumadas>0</numeroPersonasExhumadas>
+      <numeroPersonasIdentificadas>0</numeroPersonasIdentificadas>
+      <entidadInformante>Principado de Asturias. Consejería de Bienestar Social y Vivienda.</entidadInformante>
+      <IdLocalidad>80</IdLocalidad>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Castropol</nombre>
+    <IdProvincia>6</IdProvincia>
+    <ID>221</ID>
+    <latitud>43.52812</latitud>
+    <longitud>-7.030118</longitud>
+    <fosa>
+      <numRegistro>60/2009 ASTU</numRegistro>
+      <denominacionFosa>Fosa en el Cementerio de Castropol</denominacionFosa>
+      <tipoFosa>FUSILAMIENTO</tipoFosa>
+      <estadoActual>NO INTERVENIDA</estadoActual>
+      <numeroPersonasExhumadas>0</numeroPersonasExhumadas>
+      <numeroPersonasIdentificadas>0</numeroPersonasIdentificadas>
+      <entidadInformante>Principado de Asturias. Consejería de Bienestar Social y Vivienda.</entidadInformante>
+      <observaciones>Número indeterminado de víctimas</observaciones>
+      <IdLocalidad>221</IdLocalidad>
+    </fosa>
+    <fosa>
+      <numRegistro>61/2009 ASTU</numRegistro>
+      <denominacionFosa>Cementerio de Barres (Figueras)</denominacionFosa>
+      <tipoFosa>FUSILAMIENTO</tipoFosa>
+      <estadoActual>NO INTERVENIDA</estadoActual>
+      <numeroPersonasExhumadas>0</numeroPersonasExhumadas>
+      <numeroPersonasIdentificadas>0</numeroPersonasIdentificadas>
+      <entidadInformante>Principado de Asturias. Consejería de Bienestar Social y Vivienda.</entidadInformante>
+      <observaciones>Número indeterminado de víctimas</observaciones>
+      <IdLocalidad>221</IdLocalidad>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Mondariz</nombre>
+    <IdProvincia>39</IdProvincia>
+    <ID>350</ID>
+    <latitud>42.23425</latitud>
+    <longitud>-8.455334</longitud>
+    <fosa>
+      <numRegistro>1088/2009 PONT</numRegistro>
+      <denominacionFosa>NO CONSTA</denominacionFosa>
+      <estadoActual>TRASLADADA AL VALLE DE LOS CAÍDOS</estadoActual>
+      <numeroPersonasFosa>4</numeroPersonasFosa>
+      <numeroPersonasExhumadas>4</numeroPersonasExhumadas>
+      <numeroPersonasIdentificadas>4</numeroPersonasIdentificadas>
+      <entidadInformante>Patrimonio Nacional</entidadInformante>
+      <observaciones>Trasladada al Valle de los Caídos con la fecha/s:27/03/1959</observaciones>
+      <IdLocalidad>350</IdLocalidad>
+      <victima>
+        <nombre>Manuel</nombre>
+        <apellido1>Piñeiro</apellido1>
+        <apellido2>Zuñiga</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1088/2009 PONT</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Domingo</nombre>
+        <apellido1>Peramo</apellido1>
+        <apellido2>Muñes</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1088/2009 PONT</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Fernando</nombre>
+        <apellido1>Rubio</apellido1>
+        <apellido2>Estévez</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1088/2009 PONT</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Manuel</nombre>
+        <apellido1>Pérez</apellido1>
+        <apellido2>Besado</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1088/2009 PONT</numRegistro>
+      </victima>
+    </fosa>
+    <fosa>
+      <numRegistro>1093/2009 PONT</numRegistro>
+      <denominacionFosa>Balneario</denominacionFosa>
+      <estadoActual>TRASLADADA AL VALLE DE LOS CAÍDOS</estadoActual>
+      <numeroPersonasFosa>21</numeroPersonasFosa>
+      <numeroPersonasExhumadas>21</numeroPersonasExhumadas>
+      <numeroPersonasIdentificadas>21</numeroPersonasIdentificadas>
+      <entidadInformante>Patrimonio Nacional</entidadInformante>
+      <observaciones>Trasladada al Valle de los Caídos con la fecha/s:27/03/1959</observaciones>
+      <IdLocalidad>350</IdLocalidad>
+      <victima>
+        <nombre>Julio</nombre>
+        <apellido1>Rodríguez</apellido1>
+        <apellido2>Rodríguez</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1093/2009 PONT</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Manuel</nombre>
+        <apellido1>Rivera</apellido1>
+        <apellido2>Gómez</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1093/2009 PONT</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Eustaquio</nombre>
+        <apellido1>Fernández</apellido1>
+        <apellido2>Galilea</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1093/2009 PONT</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Valentín</nombre>
+        <apellido1>Alonso</apellido1>
+        <apellido2>Përez</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1093/2009 PONT</numRegistro>
+      </victima>
+      <victima>
+        <nombre>José</nombre>
+        <apellido1>Fernández</apellido1>
+        <apellido2>Espinedo</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1093/2009 PONT</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Jesús</nombre>
+        <apellido1>Andrés</apellido1>
+        <apellido2>García</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1093/2009 PONT</numRegistro>
+      </victima>
+      <victima>
+        <nombre>José</nombre>
+        <apellido1>Barros</apellido1>
+        <apellido2>Fuentes</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1093/2009 PONT</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Juan</nombre>
+        <apellido1>Fernández</apellido1>
+        <apellido2>Sánchez</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1093/2009 PONT</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Valentín</nombre>
+        <apellido1>Mateos</apellido1>
+        <apellido2>Marina</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1093/2009 PONT</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Victoriano</nombre>
+        <apellido1>Ortiz</apellido1>
+        <apellido2>Merchones</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1093/2009 PONT</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Pedro</nombre>
+        <apellido1>Méndez</apellido1>
+        <apellido2>Fuentes</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1093/2009 PONT</numRegistro>
+      </victima>
+      <victima>
+        <nombre>José</nombre>
+        <apellido1>Arregui</apellido1>
+        <apellido2>Laso</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1093/2009 PONT</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Luis</nombre>
+        <apellido1>Jerez</apellido1>
+        <apellido2>Sanmiguel</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1093/2009 PONT</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Luis</nombre>
+        <apellido1>Martín</apellido1>
+        <apellido2>Sanjuan</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1093/2009 PONT</numRegistro>
+      </victima>
+      <victima>
+        <nombre>José</nombre>
+        <apellido1>Iglesias</apellido1>
+        <apellido2>García</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1093/2009 PONT</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Claudio</nombre>
+        <apellido1>Benito</apellido1>
+        <apellido2>Fernández</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1093/2009 PONT</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Egidio</nombre>
+        <apellido1>Levoreiro</apellido1>
+        <apellido2>González</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1093/2009 PONT</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Antonio</nombre>
+        <apellido1>Lavandeira</apellido1>
+        <apellido2>Lago</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1093/2009 PONT</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Manuel</nombre>
+        <apellido1>Ursugia</apellido1>
+        <apellido2>Gutiérrez</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1093/2009 PONT</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Cecilio</nombre>
+        <apellido1>Ruiz</apellido1>
+        <apellido2>Loizaga</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1093/2009 PONT</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Jesús</nombre>
+        <apellido1>Domínguez</apellido1>
+        <apellido2>Sanpedro</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1093/2009 PONT</numRegistro>
+      </victima>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Aranga</nombre>
+    <IdProvincia>1</IdProvincia>
+    <ID>438</ID>
+    <latitud>43.23333</latitud>
+    <longitud>-8.016667</longitud>
+    <fosa>
+      <numRegistro>2321/2011 CORU</numRegistro>
+      <denominacionFosa>Fosa en el Cementerio de Vilarraso</denominacionFosa>
+      <estadoActual>NO INTERVENIDA</estadoActual>
+      <numeroPersonasFosa>13</numeroPersonasFosa>
+      <numeroPersonasExhumadas>35</numeroPersonasExhumadas>
+      <entidadPromotora>Comisión para la Recuperación de Memoria Histórica da Coruña (CRMH Coruña)</entidadPromotora>
+      <entidadInformante>Proyecto de Investigación Interuniversitario As Vítimas, Os Nomes, As Voces</entidadInformante>
+      <observaciones>En el cementerio de Vilarraso, parroquia del concejo de Aranga, está referenciada una fosa donde están enterradas personas asesinadas en diversas fechas durante el periodo 1936-1938. Es la única fosa situada en territorio gallego que contiene restos de personas cuya procedencia es muy distante, a veces de distintas provincias. Se estima que puede albergar restos de unas 35 víctimas. En julio de 2011 se colocó un monolito en homenaje a las víctimas.</observaciones>
+      <IdLocalidad>438</IdLocalidad>
+      <victima>
+        <nombre>Florentino</nombre>
+        <apellido1>Rodríguez</apellido1>
+        <apellido2>Palacios</apellido2>
+        <sexo>V</sexo>
+        <numRegistro>2321/2011 CORU</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Daniel</nombre>
+        <apellido1>Fernández</apellido1>
+        <apellido2>López</apellido2>
+        <sexo>V</sexo>
+        <numRegistro>2321/2011 CORU</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Cesáreo</nombre>
+        <apellido1>Méndez</apellido1>
+        <apellido2>Vázquez</apellido2>
+        <sexo>V</sexo>
+        <numRegistro>2321/2011 CORU</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Juan</nombre>
+        <apellido1>Marey</apellido1>
+        <apellido2>Díaz</apellido2>
+        <sexo>V</sexo>
+        <numRegistro>2321/2011 CORU</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Domingo Antonio</nombre>
+        <apellido1>Varcárcel</apellido1>
+        <apellido2>Guitián</apellido2>
+        <sexo>V</sexo>
+        <numRegistro>2321/2011 CORU</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Manuel</nombre>
+        <apellido1>Lafuente</apellido1>
+        <apellido2>Lilles</apellido2>
+        <sexo>V</sexo>
+        <numRegistro>2321/2011 CORU</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Mercedes</nombre>
+        <apellido1>Romero</apellido1>
+        <apellido2>Abella</apellido2>
+        <sexo>F</sexo>
+        <numRegistro>2321/2011 CORU</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Juan</nombre>
+        <apellido1>Pérez</apellido1>
+        <apellido2>Rey</apellido2>
+        <sexo>V</sexo>
+        <numRegistro>2321/2011 CORU</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Benito</nombre>
+        <apellido1>Díaz</apellido1>
+        <apellido2>Pereira</apellido2>
+        <sexo>V</sexo>
+        <numRegistro>2321/2011 CORU</numRegistro>
+      </victima>
+      <victima>
+        <nombre>José Luis</nombre>
+        <apellido1>González</apellido1>
+        <apellido2>Ledo</apellido2>
+        <sexo>V</sexo>
+        <numRegistro>2321/2011 CORU</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Camilo</nombre>
+        <apellido1>Fernández</apellido1>
+        <apellido2>Rodríguez</apellido2>
+        <sexo>V</sexo>
+        <numRegistro>2321/2011 CORU</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Fernando</nombre>
+        <apellido1>Arias</apellido1>
+        <apellido2>Rodríguez</apellido2>
+        <sexo>V</sexo>
+        <numRegistro>2321/2011 CORU</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Cipriano</nombre>
+        <apellido1>Amor</apellido1>
+        <apellido2>Sánchez</apellido2>
+        <sexo>V</sexo>
+        <numRegistro>2321/2011 CORU</numRegistro>
+      </victima>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Capela, A</nombre>
+    <IdProvincia>1</IdProvincia>
+    <ID>439</ID>
+    <latitud>42.69293</latitud>
+    <longitud>-8.792709</longitud>
+    <fosa>
+      <numRegistro>2320/2011 CORU</numRegistro>
+      <denominacionFosa>Fosa en el Cementerio de A Capela</denominacionFosa>
+      <fechaFosa>19/08/1936</fechaFosa>
+      <estadoActual>EXHUMADA TOTAL</estadoActual>
+      <numeroPersonasFosa>3</numeroPersonasFosa>
+      <numeroPersonasExhumadas>3</numeroPersonasExhumadas>
+      <numeroPersonasIdentificadas>3</numeroPersonasIdentificadas>
+      <entidadPromotora>Asociación para la Recuperación de la Memoria Histórica</entidadPromotora>
+      <entidadInformante>Proyecto de Investigación Interuniversitario As Vítimas, Os Nomes, As Voces</entidadInformante>
+      <observaciones>En 2008 se exhumó esta fosa común existente en el recinto del cementerio de A Capela. En ese lugar habían sido enterrados tres hombres fusilados en agosto de 1936.</observaciones>
+      <IdLocalidad>439</IdLocalidad>
+      <victima>
+        <nombre>Manuel</nombre>
+        <apellido1>Franco</apellido1>
+        <apellido2>Bermúdez</apellido2>
+        <sexo>M</sexo>
+        <edad>36</edad>
+        <numRegistro>2320/2011 CORU</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Francisco</nombre>
+        <apellido1>Guerreiro</apellido1>
+        <apellido2>Guerreiro</apellido2>
+        <sexo>M</sexo>
+        <edad>43</edad>
+        <otrosDatos>Era Concejal del frente Popular.</otrosDatos>
+        <numRegistro>2320/2011 CORU</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Joaquín</nombre>
+        <apellido1>Antón</apellido1>
+        <apellido2>Rodeiro</apellido2>
+        <sexo>M</sexo>
+        <edad>27</edad>
+        <numRegistro>2320/2011 CORU</numRegistro>
+      </victima>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Ortoño</nombre>
+    <IdProvincia>1</IdProvincia>
+    <ID>440</ID>
+    <latitud>42.8469375</latitud>
+    <longitud>-8.6436974</longitud>
+    <fosa>
+      <numRegistro>2319/2011 CORU</numRegistro>
+      <denominacionFosa>Fosa en el Cementerio de Ortoño</denominacionFosa>
+      <estadoActual>EXHUMADA TOTAL</estadoActual>
+      <numeroPersonasFosa>6</numeroPersonasFosa>
+      <numeroPersonasExhumadas>6</numeroPersonasExhumadas>
+      <numeroPersonasIdentificadas>6</numeroPersonasIdentificadas>
+      <entidadPromotora>Asociación para la Recuperación de la Memoria Histórica</entidadPromotora>
+      <entidadInformante>Proyecto de Investigación Interuniversitario As Vítimas, Os Nomes, As Voces</entidadInformante>
+      <observaciones>En el recinto del cementerio de Ortoño estaba localizada, sin señalizar, una fosa que contenía los restos de seis personas asesinadas conocidas como "Os homiños de Boimorto". Aparecieron muertos en agosto de 1936 en la de Curva de Batans, en ese lugar se colocó el año 2006 una placa conmemorativa. La exhumación de la fosa se realizó en 2007.</observaciones>
+      <IdLocalidad>440</IdLocalidad>
+      <victima>
+        <nombre>Ramón</nombre>
+        <apellido1>Enjamio</apellido1>
+        <apellido2>Pombo</apellido2>
+        <sexo>V</sexo>
+        <numRegistro>2319/2011 CORU</numRegistro>
+      </victima>
+      <victima>
+        <nombre>José</nombre>
+        <apellido1>Torjo</apellido1>
+        <apellido2>García</apellido2>
+        <sexo>V</sexo>
+        <numRegistro>2319/2011 CORU</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Juan</nombre>
+        <apellido1>Martínez</apellido1>
+        <apellido2>Bao</apellido2>
+        <sexo>V</sexo>
+        <numRegistro>2319/2011 CORU</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Isidro</nombre>
+        <apellido1>Filloy</apellido1>
+        <apellido2>López</apellido2>
+        <sexo>V</sexo>
+        <numRegistro>2319/2011 CORU</numRegistro>
+      </victima>
+      <victima>
+        <nombre>José</nombre>
+        <apellido1>Barreiro</apellido1>
+        <apellido2>Pérez</apellido2>
+        <sexo>V</sexo>
+        <numRegistro>2319/2011 CORU</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Manuel</nombre>
+        <apellido1>Espiñeira</apellido1>
+        <apellido2>López</apellido2>
+        <sexo>V</sexo>
+        <numRegistro>2319/2011 CORU</numRegistro>
+      </victima>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Pino, O</nombre>
+    <IdProvincia>1</IdProvincia>
+    <ID>441</ID>
+    <latitud>42.98462</latitud>
+    <longitud>-8.313807</longitud>
+    <fosa>
+      <numRegistro>1330/2009 CORU</numRegistro>
+      <denominacionFosa>Fosas de O Amenal</denominacionFosa>
+      <tipoFosa>FUSILAMIENTO</tipoFosa>
+      <estadoActual>EXHUMADA TOTAL</estadoActual>
+      <numeroPersonasFosa>5</numeroPersonasFosa>
+      <numeroPersonasExhumadas>5</numeroPersonasExhumadas>
+      <numeroPersonasIdentificadas>3</numeroPersonasIdentificadas>
+      <entidadPromotora>Familiares en colaboración con la Asociación para la Recuperación de la Memoria Histórica</entidadPromotora>
+      <entidadInformante>Sociedad de Ciencias Aranzadi</entidadInformante>
+      <observaciones>Los testimonios hablaban que el lugar de fusilamiento se localizaba en un camino perpendicular a la carretera N-547, en las inmediaciones del aeropuerto de Lavacolla, en un pareja conocido como Agra da Vila. Se conocía la existencia de dos fosas comunes donde habrían sido enterrados cinco hombres, que en el momento de su muerte pertenecían a la corporación municipal. Una de las fosas no pudo ser localizada; sin embargo, se localizó la segunda fosa de la que se pudieron recuperar los restos de tres víctimas, en buen estado de conservación. Al parecer, del enterramientos de las víctimas se encargaron vecinos de la aldea de Amenal, y las fosas fueron cuidadas y respetadas hasta hace 20 años. La fosa se excavó entre el 28 de agosto y el 2 de septiembre de 2007. Los restos de las tres víctimas, una vez identificadas, van a ser entregados a sus familiares en junio de 2012.</observaciones>
+      <IdLocalidad>441</IdLocalidad>
+      <victima>
+        <nombre>Isidro</nombre>
+        <apellido1>Filloy</apellido1>
+        <apellido2>López</apellido2>
+        <sexo>V</sexo>
+        <edad>46</edad>
+        <numRegistro>1330/2009 CORU</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Andrés</nombre>
+        <apellido1>Filloy</apellido1>
+        <apellido2>López</apellido2>
+        <sexo>V</sexo>
+        <edad>18</edad>
+        <numRegistro>1330/2009 CORU</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Ramón</nombre>
+        <apellido1>Vázquez</apellido1>
+        <apellido2>Garea</apellido2>
+        <sexo>V</sexo>
+        <edad>50</edad>
+        <numRegistro>1330/2009 CORU</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Caitán</nombre>
+        <apellido1>García</apellido1>
+        <apellido2>Vázquez</apellido2>
+        <edad>42</edad>
+        <numRegistro>1330/2009 CORU</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Ramón</nombre>
+        <apellido1>Sánchez</apellido1>
+        <apellido2>Rapela</apellido2>
+        <sexo>V</sexo>
+        <edad>34</edad>
+        <numRegistro>1330/2009 CORU</numRegistro>
+      </victima>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Pontes de García Rodríguez, As</nombre>
+    <IdProvincia>1</IdProvincia>
+    <ID>442</ID>
+    <latitud>43.44582</latitud>
+    <longitud>-7.849446</longitud>
+    <fosa>
+      <numRegistro>1329/2009 CORU</numRegistro>
+      <denominacionFosa>Fosa en el cementerio de As Pontes</denominacionFosa>
+      <tipoFosa>FUSILAMIENTO</tipoFosa>
+      <fechaFosa>14/08/1936</fechaFosa>
+      <estadoActual>EXHUMADA TOTAL</estadoActual>
+      <numeroPersonasFosa>4</numeroPersonasFosa>
+      <numeroPersonasExhumadas>4</numeroPersonasExhumadas>
+      <numeroPersonasIdentificadas>4</numeroPersonasIdentificadas>
+      <entidadPromotora>Familiares</entidadPromotora>
+      <entidadInformante>Sociedad de Ciencias Aranzadi</entidadInformante>
+      <observaciones>En agosto de 2006 se exhumó esta fosa localizada en el cementerio de As Pontes. Allí fueron enterradas cuatro víctimas: un matrimonio y sus dos hijos, que fueron detenidos y asesinados en agosto de 1936, tras saquear su vivienda en As Barrosas. Los restos fueron entregados a los familiares.</observaciones>
+      <IdLocalidad>442</IdLocalidad>
+      <victima>
+        <nombre>José</nombre>
+        <apellido1>Ramos</apellido1>
+        <apellido2>Ferreriro</apellido2>
+        <sexo>M</sexo>
+        <edad>21</edad>
+        <fechaFallecimiento>14/08/1936</fechaFallecimiento>
+        <fechaInhumacion>14/08/1936</fechaInhumacion>
+        <fechaExhumación>23/08/2006</fechaExhumación>
+        <numRegistro>1329/2009 CORU</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Manuel</nombre>
+        <apellido1>Ramos</apellido1>
+        <apellido2>Ferreiro</apellido2>
+        <sexo>M</sexo>
+        <edad>28</edad>
+        <fechaFallecimiento>14/08/1936</fechaFallecimiento>
+        <fechaInhumacion>14/08/1936</fechaInhumacion>
+        <fechaExhumación>23/08/2006</fechaExhumación>
+        <numRegistro>1329/2009 CORU</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Juana</nombre>
+        <apellido1>Ferreiro</apellido1>
+        <apellido2>Rodriguez</apellido2>
+        <sexo>F</sexo>
+        <edad>59</edad>
+        <fechaFallecimiento>14/08/1936</fechaFallecimiento>
+        <fechaInhumacion>14/08/1936</fechaInhumacion>
+        <fechaExhumación>23/08/2006</fechaExhumación>
+        <numRegistro>1329/2009 CORU</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Manuel</nombre>
+        <apellido1>Ramos</apellido1>
+        <apellido2>Fernandez</apellido2>
+        <sexo>M</sexo>
+        <edad>65</edad>
+        <otrosDatos>Era Teniente de Alcalde del Ayuntamiento de As Pontes</otrosDatos>
+        <fechaFallecimiento>14/08/1936</fechaFallecimiento>
+        <fechaInhumacion>14/08/1936</fechaInhumacion>
+        <fechaExhumación>23/08/2006</fechaExhumación>
+        <numRegistro>1329/2009 CORU</numRegistro>
+      </victima>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Valdoviño</nombre>
+    <IdProvincia>1</IdProvincia>
+    <ID>443</ID>
+    <latitud>43.6</latitud>
+    <longitud>-8.133056</longitud>
+    <fosa>
+      <numRegistro>2318/2011 CORU</numRegistro>
+      <denominacionFosa>Fosa en la playa de Frouxeira</denominacionFosa>
+      <estadoActual>NO INTERVENIDA</estadoActual>
+      <numeroPersonasFosa>4</numeroPersonasFosa>
+      <numeroPersonasExhumadas>4</numeroPersonasExhumadas>
+      <numeroPersonasIdentificadas>4</numeroPersonasIdentificadas>
+      <entidadPromotora>Proyecto de Investigación Interuniversitario As Vítimas, Os Nomes, As Voces</entidadPromotora>
+      <entidadInformante>Proyecto de Investigación Interuniversitario As Vítimas, Os Nomes, As Voces</entidadInformante>
+      <observaciones>Según la entidad informante, hay referencias de la existencia de una fosa común donde habrían sido enterradas cuatro hombres en la zona conocida como A Rotonda, en la playa de A Fruoxeira. Las víctimas fueron asesinadas en el mismo lugar en el que fueron enterradas en febrero de 1938.</observaciones>
+      <IdLocalidad>443</IdLocalidad>
+      <victima>
+        <nombre>Modesto</nombre>
+        <apellido1>Del Rio</apellido1>
+        <apellido2>Polo</apellido2>
+        <sexo>V</sexo>
+        <numRegistro>2318/2011 CORU</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Jesús</nombre>
+        <apellido1>Miño</apellido1>
+        <apellido2>Lourido</apellido2>
+        <sexo>V</sexo>
+        <numRegistro>2318/2011 CORU</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Alejandro</nombre>
+        <apellido1>Porto</apellido1>
+        <apellido2>Leis</apellido2>
+        <sexo>V</sexo>
+        <numRegistro>2318/2011 CORU</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Avelino</nombre>
+        <apellido1>Landeira</apellido1>
+        <apellido2>Maneiros</apellido2>
+        <sexo>V</sexo>
+        <numRegistro>2318/2011 CORU</numRegistro>
+      </victima>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Vilarmaior</nombre>
+    <IdProvincia>1</IdProvincia>
+    <ID>444</ID>
+    <latitud>43.34461</latitud>
+    <longitud>-8.15395</longitud>
+    <fosa>
+      <numRegistro>2489/2011 CORU</numRegistro>
+      <denominacionFosa>Fosa en cementerio de San Pedro de Grandal</denominacionFosa>
+      <tipoFosa>FUSILAMIENTO</tipoFosa>
+      <fechaFosa>11/09/1937</fechaFosa>
+      <estadoActual>EXHUMADA TOTAL</estadoActual>
+      <numeroPersonasExhumadas>5</numeroPersonasExhumadas>
+      <entidadPromotora>Familiares / ARMH</entidadPromotora>
+      <entidadInformante>Comisión pola Recuperación da Memoria Histórica da Coruña (CRMH)</entidadInformante>
+      <observaciones>En octubre de 2011 se han realizado labores de exhumación de una fosa común localizada detrás de la iglesia de San Pedro donde, al parecer, fueron enterrados los cuerpos de cinco víctimas fusiladas en septiembre de 1936. Se da la circunstancia de que han desaparecido del libro parroquial de defunciones las páginas de los meses de julio a diciembre de 1936. Hasta el momento se han encontrado dos esqueletos, a metro y medio de profundidad, en paralelo al antiguo muro del camposanto, y huesos dispersos de otros dos cuerpos.</observaciones>
+      <IdLocalidad>444</IdLocalidad>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Argomoso</nombre>
+    <IdProvincia>31</IdProvincia>
+    <ID>990</ID>
+    <latitud>43.4074369</latitud>
+    <longitud>-7.3553799</longitud>
+    <fosa>
+      <numRegistro>2016/2010 LUGO</numRegistro>
+      <denominacionFosa>Fosa de Argomoso</denominacionFosa>
+      <fechaFosa>20/09/1936</fechaFosa>
+      <estadoActual>EXHUMADA TOTAL</estadoActual>
+      <numeroPersonasFosa>1</numeroPersonasFosa>
+      <numeroPersonasExhumadas>1</numeroPersonasExhumadas>
+      <numeroPersonasIdentificadas>1</numeroPersonasIdentificadas>
+      <entidadInformante>Asociación para la Recuperación de la Memoria Histórica</entidadInformante>
+      <observaciones>La fosa se encuentra localizada en el exterior del cementerio de Argomoso, una parroquia de Mondoñedo. La exhumación se realizó en junio de 2009 recuperándose los restos de una víctima, vecino de Ove-Ribadeo, que fue sacado a punta de pistola de su casa, logró huir tras recibir algunos disparos y estuvo escondido durante varios días, al final fue asesinado delante del edificio de la escuela rural de Argomoso.</observaciones>
+      <IdLocalidad>990</IdLocalidad>
+      <victima>
+        <nombre>José Antonio</nombre>
+        <apellido1>Díaz</apellido1>
+        <apellido2>Alvarez</apellido2>
+        <sexo>M</sexo>
+        <fechaFallecimiento>20/09/1936</fechaFallecimiento>
+        <fechaExhumación>18/06/2009</fechaExhumación>
+        <numRegistro>2016/2010 LUGO</numRegistro>
+      </victima>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Baralla</nombre>
+    <IdProvincia>31</IdProvincia>
+    <ID>991</ID>
+    <latitud>42.89286</latitud>
+    <longitud>-7.253127</longitud>
+    <fosa>
+      <numRegistro>2477/2011 LUGO</numRegistro>
+      <denominacionFosa>Fosa en cementerio de Recesende</denominacionFosa>
+      <tipoFosa>GUERRILLERA</tipoFosa>
+      <fechaFosa>04/04/1946</fechaFosa>
+      <estadoActual>DESAPARECIDA</estadoActual>
+      <numeroPersonasFosa>2</numeroPersonasFosa>
+      <numeroPersonasExhumadas>2</numeroPersonasExhumadas>
+      <numeroPersonasIdentificadas>2</numeroPersonasIdentificadas>
+      <entidadInformante>Asociación para la Recuperación de la Memoria Histórica</entidadInformante>
+      <observaciones>En el cementerio de Recesende, parroquia del municipio lucense de Baralla, está referenciada una fosa que acogería los restos de dos guerilleros antifranquistas. El propio cura de la parroquia dejó registrado el enterramiento de los dos cadáveres el 4 de abril de 1946 a dos metros de la esquina norte posterior de la iglesia y pegado a la pared norte del cementerio. Probablemente, la fosa habría desaparecido y los cuerpos trasladados a un osario por la ampliación de la necrópolis. Las víctimas eran dos molitantes del PCE que llegaron a Lugo en 1941 para establecer contactos con grupos guerrilleros, fueron detenidos en 1943 y estuvieron dos meses en prisión; luego se echaron al monte hasta que el 4 de abril de 1946 murieron en enfrentamiento con la Guardia Civil.</observaciones>
+      <IdLocalidad>991</IdLocalidad>
+      <victima>
+        <nombre>Leandro</nombre>
+        <apellido1>Llorente</apellido1>
+        <apellido2>Navarro</apellido2>
+        <sexo>M</sexo>
+        <otrosDatos>Conocido como Pepe el Madrileño</otrosDatos>
+        <fechaFallecimiento>04/04/1946</fechaFallecimiento>
+        <numRegistro>2477/2011 LUGO</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Obdulio</nombre>
+        <apellido1>Naves</apellido1>
+        <apellido2>Fernández</apellido2>
+        <sexo>M</sexo>
+        <otrosDatos>Conocido como Obdulio El Asturiano</otrosDatos>
+        <fechaFallecimiento>04/04/1946</fechaFallecimiento>
+        <numRegistro>2477/2011 LUGO</numRegistro>
+      </victima>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Barreiros</nombre>
+    <IdProvincia>31</IdProvincia>
+    <ID>992</ID>
+    <latitud>43.53333</latitud>
+    <longitud>-7.233333</longitud>
+    <fosa>
+      <numRegistro>971/2009 LUGO</numRegistro>
+      <denominacionFosa>NO CONSTA</denominacionFosa>
+      <estadoActual>TRASLADADA AL VALLE DE LOS CAÍDOS</estadoActual>
+      <numeroPersonasFosa>1</numeroPersonasFosa>
+      <numeroPersonasExhumadas>1</numeroPersonasExhumadas>
+      <numeroPersonasIdentificadas>1</numeroPersonasIdentificadas>
+      <entidadInformante>Patrimonio Nacional</entidadInformante>
+      <observaciones>Trasladada al Valle de los Caídos con la fecha/s:24/03/1959</observaciones>
+      <IdLocalidad>992</IdLocalidad>
+      <victima>
+        <nombre>Armando</nombre>
+        <apellido1>Cabanas</apellido1>
+        <apellido2>Hernández</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>971/2009 LUGO</numRegistro>
+      </victima>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Bóveda</nombre>
+    <IdProvincia>31</IdProvincia>
+    <ID>993</ID>
+    <latitud>42.62622</latitud>
+    <longitud>-7.479327</longitud>
+    <fosa>
+      <numRegistro>2529/2012 LUGO</numRegistro>
+      <denominacionFosa>Fosas en cementerio de Teilán</denominacionFosa>
+      <tipoFosa>GUERRILLERA</tipoFosa>
+      <estadoActual>EXHUMADA PARCIAL</estadoActual>
+      <numeroPersonasFosa>2</numeroPersonasFosa>
+      <numeroPersonasExhumadas>2</numeroPersonasExhumadas>
+      <numeroPersonasIdentificadas>2</numeroPersonasIdentificadas>
+      <entidadPromotora>Familaires / ARMH</entidadPromotora>
+      <entidadInformante>Asociación para la Recuperación de la Memoria Histórica</entidadInformante>
+      <observaciones>En el cementerio de Teilán, localidad del concejo de Bóveda, se han localizado junto al muro dos fosas contiguas donde fueron enterrados los restos de dos guerrilleros que en junio de 1949 fueron abatidos en un tiroteo en el monte de Remesar. El autor de los disparos, al parecer, era un "infiltrado" entre los guerrilleros. De momento, y a solicitud de sus familiares, sólo se ha exhumado a una de las víctimas. También se ha intentado localizar el cuerpo de un tercer guerrillero que huyó malherido tras el tiroteo y murió en el monte, siendo enterrado después en otro lugar del camposanto.</observaciones>
+      <IdLocalidad>993</IdLocalidad>
+      <victima>
+        <nombre>Manuel</nombre>
+        <apellido1>Fernández</apellido1>
+        <apellido2>Soto</apellido2>
+        <sexo>M</sexo>
+        <localidadNacimiento>Mugardos</localidadNacimiento>
+        <otrosDatos>Conocido como "Coronel Benito"</otrosDatos>
+        <numRegistro>2529/2012 LUGO</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Bernardo</nombre>
+        <apellido1>Alvarez</apellido1>
+        <apellido2>Trabajo</apellido2>
+        <sexo>M</sexo>
+        <localidadNacimiento>Bembibre</localidadNacimiento>
+        <otrosDatos>Conocido como "Gasta"</otrosDatos>
+        <fechaFallecimiento>22/06/1949</fechaFallecimiento>
+        <numRegistro>2529/2012 LUGO</numRegistro>
+      </victima>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Cereixido</nombre>
+    <IdProvincia>31</IdProvincia>
+    <ID>995</ID>
+    <latitud>42.4642942</latitud>
+    <longitud>-7.143863</longitud>
+    <fosa>
+      <numRegistro>2328/2011 LUGO</numRegistro>
+      <denominacionFosa>Fosa de Cereixido</denominacionFosa>
+      <estadoActual>EXHUMADA TOTAL</estadoActual>
+      <numeroPersonasFosa>6</numeroPersonasFosa>
+      <numeroPersonasExhumadas>6</numeroPersonasExhumadas>
+      <numeroPersonasIdentificadas>6</numeroPersonasIdentificadas>
+      <entidadPromotora>Asociación para la Recuperación de la Memoria Histórica</entidadPromotora>
+      <entidadInformante>Proyecto de Investigación Interuniversitario As Vítimas, Os Nomes, As Voces</entidadInformante>
+      <observaciones>En octubre de 2008 se llevó a cabo la exhumación de una fosa común al lado de la iglesia de Cereixido, fuera de la zona que ocupa el cementerio parroquial. Se recuperaron los restos de seis víctimas aunque, debido al mal estado de conservación de los huesos y a que la fosa fue removida después de la guerra por unas obras en la iglesia, no han podido determinarse las identidades exactas. De acuerdo con las familias, sus restos fueron incinerados  y enterrados en un acto de homenaje en el cementerio de A Rúa.</observaciones>
+      <IdLocalidad>995</IdLocalidad>
+      <victima>
+        <nombre>Manuel</nombre>
+        <apellido1>Feás</apellido1>
+        <apellido2>Alvarez</apellido2>
+        <sexo>V</sexo>
+        <numRegistro>2328/2011 LUGO</numRegistro>
+      </victima>
+      <victima>
+        <nombre>José</nombre>
+        <apellido1>Díaz</apellido1>
+        <apellido2>González</apellido2>
+        <sexo>V</sexo>
+        <numRegistro>2328/2011 LUGO</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Germán</nombre>
+        <apellido1>Fernández</apellido1>
+        <apellido2>Prada</apellido2>
+        <sexo>V</sexo>
+        <numRegistro>2328/2011 LUGO</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Manuel</nombre>
+        <apellido1>Fernández</apellido1>
+        <apellido2>Delgado</apellido2>
+        <sexo>V</sexo>
+        <numRegistro>2328/2011 LUGO</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Ovidio</nombre>
+        <apellido1>Rodríguez</apellido1>
+        <apellido2>López</apellido2>
+        <sexo>V</sexo>
+        <numRegistro>2328/2011 LUGO</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Aureliano</nombre>
+        <apellido1>Rodríguez</apellido1>
+        <apellido2>Arias</apellido2>
+        <sexo>V</sexo>
+        <numRegistro>2328/2011 LUGO</numRegistro>
+      </victima>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Cervo</nombre>
+    <IdProvincia>31</IdProvincia>
+    <ID>996</ID>
+    <latitud>43.68209</latitud>
+    <longitud>-7.44769</longitud>
+    <fosa>
+      <numRegistro>1202/2009 LUGO</numRegistro>
+      <denominacionFosa>NO CONSTA</denominacionFosa>
+      <estadoActual>TRASLADADA AL VALLE DE LOS CAÍDOS</estadoActual>
+      <numeroPersonasFosa>1</numeroPersonasFosa>
+      <numeroPersonasExhumadas>1</numeroPersonasExhumadas>
+      <numeroPersonasIdentificadas>1</numeroPersonasIdentificadas>
+      <entidadInformante>Patrimonio Nacional</entidadInformante>
+      <observaciones>Trasladada al Valle de los Caídos con la fecha/s:26/05/1959</observaciones>
+      <IdLocalidad>996</IdLocalidad>
+      <victima>
+        <nombre>José</nombre>
+        <apellido1>Balseino</apellido1>
+        <apellido2>Valle</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1202/2009 LUGO</numRegistro>
+      </victima>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Cortapezas</nombre>
+    <IdProvincia>31</IdProvincia>
+    <ID>997</ID>
+    <latitud>42.81</latitud>
+    <longitud>-7.63</longitud>
+    <fosa>
+      <numRegistro>2325/2011 LUGO</numRegistro>
+      <denominacionFosa>Fosa en Cortapezas</denominacionFosa>
+      <fechaFosa>29/10/1936</fechaFosa>
+      <estadoActual>EXHUMADA TOTAL</estadoActual>
+      <numeroPersonasFosa>2</numeroPersonasFosa>
+      <numeroPersonasExhumadas>2</numeroPersonasExhumadas>
+      <numeroPersonasIdentificadas>2</numeroPersonasIdentificadas>
+      <entidadPromotora>Asociación para la Recuperación de la Memoria Histórica</entidadPromotora>
+      <entidadInformante>Proyecto de Investigación Interuniversitario As Vítimas, Os Nomes, As Voces</entidadInformante>
+      <observaciones>En agosto de 2005 se llevó a cabo la exhumación de una fosa localizada en lo que entonces era atrio de la capilla, actualmente cementerio de Cortapezas. Se recuperaron los restos de dos hombres, uno de ellos alcalde solcialista de Castro do Rei, asesinados a finales de octubre de 1936 en el margen derecho de la carretera de Lugo a Portomarín.</observaciones>
+      <IdLocalidad>997</IdLocalidad>
+      <victima>
+        <nombre>Severino</nombre>
+        <apellido1>Rivas</apellido1>
+        <apellido2>Barja</apellido2>
+        <sexo>M</sexo>
+        <edad>61</edad>
+        <fechaNacimiento>13/09/1975</fechaNacimiento>
+        <otrosDatos>Alcalde socialista de Castro do Rei</otrosDatos>
+        <fechaFallecimiento>29/10/1936</fechaFallecimiento>
+        <numRegistro>2325/2011 LUGO</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Víctor</nombre>
+        <apellido1>Dorrego</apellido1>
+        <apellido2>Queizán</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>2325/2011 LUGO</numRegistro>
+      </victima>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Guitiriz</nombre>
+    <IdProvincia>31</IdProvincia>
+    <ID>998</ID>
+    <latitud>43.18174</latitud>
+    <longitud>-7.900185</longitud>
+    <fosa>
+      <numRegistro>2487/2011 LUGO</numRegistro>
+      <denominacionFosa>Fosa en cementerio de Santa Mariña de Lagostelle</denominacionFosa>
+      <estadoActual>NO INTERVENIDA</estadoActual>
+      <numeroPersonasExhumadas>6</numeroPersonasExhumadas>
+      <entidadInformante>Proyecto de Investigación Interuniversitario As Vítimas, Os Nomes, As Voces</entidadInformante>
+      <observaciones>Según la entidad informante, en el cementerio de Santa Mariña de Lagostelle, localidad del concejo de Guitiriz, existe una fosa común en la que estarían enterradas de 6 a 8 personas que habrían sido asesinadas en la carretera nacional de Coruña a Madrid. En julio de 2011 se ha instalado una placa en homenaje a las víctimas.</observaciones>
+      <IdLocalidad>998</IdLocalidad>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Incio, O</nombre>
+    <IdProvincia>31</IdProvincia>
+    <ID>999</ID>
+    <latitud>42.64861</latitud>
+    <longitud>-7.33</longitud>
+    <fosa>
+      <numRegistro>2322/2011 LUGO</numRegistro>
+      <denominacionFosa>Fosa en O Incio</denominacionFosa>
+      <fechaFosa>11/09/1936</fechaFosa>
+      <estadoActual>NO INTERVENIDA</estadoActual>
+      <numeroPersonasFosa>1</numeroPersonasFosa>
+      <numeroPersonasExhumadas>1</numeroPersonasExhumadas>
+      <numeroPersonasIdentificadas>1</numeroPersonasIdentificadas>
+      <entidadPromotora>Proyecto de Investigación Interuniversitario As Vítimas, Os Nomes, As Voces</entidadPromotora>
+      <entidadInformante>Proyecto de Investigación Interuniversitario As Vítimas, Os Nomes, As Voces</entidadInformante>
+      <observaciones>En el exterior del cementerio viejo de O Incio se tiene referencia de la existencia de una fosa en la que habría sido enterrado un hombre, asesinado en septiembre de 1936 en el kilómetro 11 de la carretera de Bóveda a O Incio, paraje conocido como Casilla da Serra de Eirexalba.</observaciones>
+      <IdLocalidad>999</IdLocalidad>
+      <victima>
+        <nombre>Manuel</nombre>
+        <apellido1>Díaz</apellido1>
+        <apellido2>González</apellido2>
+        <sexo>V</sexo>
+        <numRegistro>2322/2011 LUGO</numRegistro>
+      </victima>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Lugo</nombre>
+    <IdProvincia>31</IdProvincia>
+    <ID>1000</ID>
+    <latitud>43.01208</latitud>
+    <longitud>-7.555851</longitud>
+    <fosa>
+      <numRegistro>970/2009 LUGO</numRegistro>
+      <denominacionFosa>NO CONSTA</denominacionFosa>
+      <estadoActual>TRASLADADA AL VALLE DE LOS CAÍDOS</estadoActual>
+      <numeroPersonasFosa>7</numeroPersonasFosa>
+      <numeroPersonasExhumadas>7</numeroPersonasExhumadas>
+      <numeroPersonasIdentificadas>7</numeroPersonasIdentificadas>
+      <entidadInformante>Patrimonio Nacional</entidadInformante>
+      <observaciones>Trasladada al Valle de los Caídos con la fecha/s:24/03/1959,02/07/1960</observaciones>
+      <IdLocalidad>1000</IdLocalidad>
+      <victima>
+        <nombre>Francisco</nombre>
+        <apellido1>Blanco</apellido1>
+        <apellido2>López</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>970/2009 LUGO</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Enrique</nombre>
+        <apellido1>Colmenares</apellido1>
+        <apellido2>Doval</apellido2>
+        <sexo>M</sexo>
+        <otrosDatos>A</otrosDatos>
+        <numRegistro>970/2009 LUGO</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Alfonso</nombre>
+        <apellido1>Yáñez</apellido1>
+        <apellido2>Abuión</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>970/2009 LUGO</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Severino</nombre>
+        <apellido1>Rodríguez</apellido1>
+        <apellido2>Vázquez</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>970/2009 LUGO</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Plácido</nombre>
+        <apellido1>Vega</apellido1>
+        <apellido2>Otero</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>970/2009 LUGO</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Eugenio</nombre>
+        <apellido1>García</apellido1>
+        <apellido2>Picado</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>970/2009 LUGO</numRegistro>
+      </victima>
+      <victima>
+        <nombre>José Mª</nombre>
+        <apellido1>Vega</apellido1>
+        <apellido2>López</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>970/2009 LUGO</numRegistro>
+      </victima>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Mondoñedo</nombre>
+    <IdProvincia>31</IdProvincia>
+    <ID>1001</ID>
+    <latitud>43.4281</latitud>
+    <longitud>-7.362851</longitud>
+    <fosa>
+      <numRegistro>2330/2011 LUGO</numRegistro>
+      <denominacionFosa>Fosas en el Cementerio de Mondoñedo</denominacionFosa>
+      <fechaFosa>12/09/1936</fechaFosa>
+      <estadoActual>DESAPARECIDA</estadoActual>
+      <numeroPersonasFosa>5</numeroPersonasFosa>
+      <numeroPersonasExhumadas>5</numeroPersonasExhumadas>
+      <numeroPersonasIdentificadas>5</numeroPersonasIdentificadas>
+      <entidadPromotora>Asociación para la Recuperación de la Memoria Histórica</entidadPromotora>
+      <entidadInformante>Proyecto de Investigación Interuniversitario As Vítimas, Os Nomes, As Voces</entidadInformante>
+      <observaciones>Según las investigaciones realizadas, en septiembre de 1936 una camioneta con cinco presos salió de la cárcel de Ribadeo. Fueron llevados hasta un lugar de la carretera N-634, conocido como As Voltas de Prado, cerca de Mondoñedo, y allí fusilados. Los cuerpos fueron encontrados al día siguiente por vecinos del lugar que bajaban con carros de leña hacia Mondoñedo. Las cinco víctimas fueron enterradas en fosas individuales alineadas. En agosto de 2009 se realizaron trabajos de prospección para localizar estas fosas; sin embargo, los resultados fueron negativos puesto que estas fosas pueden haber sido alteradas por numerosos enterramientos posteriores. Parece ser que la familia de una de las víctimas recuperó sus rerstos en los años 40.</observaciones>
+      <IdLocalidad>1001</IdLocalidad>
+      <victima>
+        <nombre>Enrique</nombre>
+        <apellido1>Navarrete</apellido1>
+        <apellido2>García</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>2330/2011 LUGO</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Florencio</nombre>
+        <apellido1>Carballo</apellido1>
+        <apellido2>Novegil</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>2330/2011 LUGO</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Antonio Mª</nombre>
+        <apellido1>Martínez</apellido1>
+        <apellido2>López</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>2330/2011 LUGO</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Andrés</nombre>
+        <apellido1>Vale</apellido1>
+        <apellido2>Blanco</apellido2>
+        <sexo>V</sexo>
+        <numRegistro>2330/2011 LUGO</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Bruno</nombre>
+        <apellido1>Martínez</apellido1>
+        <apellido2>Fernánde</apellido2>
+        <sexo>M</sexo>
+        <otrosDatos>Su familia pudo recuperar el cadáver en 1943.</otrosDatos>
+        <numRegistro>2330/2011 LUGO</numRegistro>
+      </victima>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Muras</nombre>
+    <IdProvincia>31</IdProvincia>
+    <ID>1002</ID>
+    <latitud>43.46788</latitud>
+    <longitud>-7.723003</longitud>
+    <fosa>
+      <numRegistro>1087/2009 LUGO</numRegistro>
+      <denominacionFosa>NO CONSTA</denominacionFosa>
+      <estadoActual>TRASLADADA AL VALLE DE LOS CAÍDOS</estadoActual>
+      <numeroPersonasFosa>1</numeroPersonasFosa>
+      <numeroPersonasExhumadas>1</numeroPersonasExhumadas>
+      <numeroPersonasIdentificadas>1</numeroPersonasIdentificadas>
+      <entidadInformante>Patrimonio Nacional</entidadInformante>
+      <observaciones>Trasladada al Valle de los Caídos con la fecha/s:27/03/1959</observaciones>
+      <IdLocalidad>1002</IdLocalidad>
+      <victima>
+        <nombre>Ramón</nombre>
+        <apellido1>López</apellido1>
+        <apellido2>Durán</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1087/2009 LUGO</numRegistro>
+      </victima>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Portomarín</nombre>
+    <IdProvincia>31</IdProvincia>
+    <ID>1003</ID>
+    <latitud>42.80775</latitud>
+    <longitud>-7.615518</longitud>
+    <fosa>
+      <numRegistro>2156/2010 LUGO</numRegistro>
+      <denominacionFosa>Fosa en exterior del cementerio de San Mamede do Rio</denominacionFosa>
+      <fechaFosa>30/08/1936</fechaFosa>
+      <estadoActual>EXHUMADA TOTAL</estadoActual>
+      <numeroPersonasFosa>1</numeroPersonasFosa>
+      <numeroPersonasExhumadas>1</numeroPersonasExhumadas>
+      <numeroPersonasIdentificadas>1</numeroPersonasIdentificadas>
+      <entidadPromotora>Familiar</entidadPromotora>
+      <entidadInformante>Asociación para la Recuperación de la Memoria Histórica</entidadInformante>
+      <observaciones>Esta fosa estaba ubicada en la parte exterior del cementerio de la parroquia de San Mamede do Rio, en el Concello de Portomarín. A finales de agosto de 2010 se ha exhumado el cadáver de una víctima, vecino del núcleo de Fraialde, en la localidad de Pol, que fue sacado de su domicilio el 30 de agosto de 1936.</observaciones>
+      <IdLocalidad>1003</IdLocalidad>
+      <victima>
+        <nombre>José Antonio</nombre>
+        <apellido1>Rivas</apellido1>
+        <apellido2>Carballés</apellido2>
+        <sexo>M</sexo>
+        <fechaExhumación>27/08/2010</fechaExhumación>
+        <numRegistro>2156/2010 LUGO</numRegistro>
+      </victima>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Quiroga</nombre>
+    <IdProvincia>31</IdProvincia>
+    <ID>1004</ID>
+    <latitud>42.47597</latitud>
+    <longitud>-7.271719</longitud>
+    <fosa>
+      <numRegistro>820/2009 LUGO</numRegistro>
+      <denominacionFosa>NO CONSTA</denominacionFosa>
+      <estadoActual>TRASLADADA AL VALLE DE LOS CAÍDOS</estadoActual>
+      <numeroPersonasFosa>1</numeroPersonasFosa>
+      <numeroPersonasExhumadas>1</numeroPersonasExhumadas>
+      <numeroPersonasIdentificadas>1</numeroPersonasIdentificadas>
+      <entidadInformante>Patrimonio Nacional</entidadInformante>
+      <observaciones>Trasladada al Valle de los Caídos con la fecha/s:21/03/1959</observaciones>
+      <IdLocalidad>1004</IdLocalidad>
+      <victima>
+        <nombre>Vicente</nombre>
+        <apellido1>Díaz</apellido1>
+        <apellido2>Nogueira</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>820/2009 LUGO</numRegistro>
+      </victima>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Remeite</nombre>
+    <IdProvincia>31</IdProvincia>
+    <ID>1005</ID>
+    <latitud>42.45</latitud>
+    <longitud>-7.31</longitud>
+    <fosa>
+      <numRegistro>2329/2011 LUGO</numRegistro>
+      <denominacionFosa>Fosa de Remeite</denominacionFosa>
+      <estadoActual>NO INTERVENIDA</estadoActual>
+      <numeroPersonasFosa>1</numeroPersonasFosa>
+      <entidadPromotora>Proyecto de Investigación Interuniversitario As Vítimas, Os Nomes, As Voces</entidadPromotora>
+      <entidadInformante>Proyecto de Investigación Interuniversitario As Vítimas, Os Nomes, As Voces</entidadInformante>
+      <observaciones>La víctima fué asesina y enterrada en el mismo lugar el año 1937</observaciones>
+      <IdLocalidad>1005</IdLocalidad>
+      <victima>
+        <nombre>Amador</nombre>
+        <apellido1>Torres</apellido1>
+        <apellido2>Torres</apellido2>
+        <sexo>V</sexo>
+        <numRegistro>2329/2011 LUGO</numRegistro>
+      </victima>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Samos</nombre>
+    <IdProvincia>31</IdProvincia>
+    <ID>1006</ID>
+    <latitud>42.73054</latitud>
+    <longitud>-7.325293</longitud>
+    <fosa>
+      <numRegistro>973/2009 LUGO</numRegistro>
+      <denominacionFosa>NO CONSTA</denominacionFosa>
+      <estadoActual>TRASLADADA AL VALLE DE LOS CAÍDOS</estadoActual>
+      <numeroPersonasFosa>1</numeroPersonasFosa>
+      <numeroPersonasExhumadas>1</numeroPersonasExhumadas>
+      <numeroPersonasIdentificadas>1</numeroPersonasIdentificadas>
+      <entidadInformante>Patrimonio Nacional</entidadInformante>
+      <observaciones>Trasladada al Valle de los Caídos con la fecha/s:24/03/1959</observaciones>
+      <IdLocalidad>1006</IdLocalidad>
+      <victima>
+        <nombre>Segundo</nombre>
+        <apellido1>Díaz</apellido1>
+        <apellido2>Toirán</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>973/2009 LUGO</numRegistro>
+      </victima>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Seoane do Courel</nombre>
+    <IdProvincia>31</IdProvincia>
+    <ID>1007</ID>
+    <latitud>42.6403448</latitud>
+    <longitud>-7.1525493</longitud>
+    <fosa>
+      <numRegistro>2323/2011 LUGO</numRegistro>
+      <denominacionFosa>Fosa en Seoane do Caurel</denominacionFosa>
+      <fechaFosa>10/08/1936</fechaFosa>
+      <estadoActual>NO INTERVENIDA</estadoActual>
+      <numeroPersonasFosa>1</numeroPersonasFosa>
+      <numeroPersonasExhumadas>1</numeroPersonasExhumadas>
+      <numeroPersonasIdentificadas>1</numeroPersonasIdentificadas>
+      <entidadPromotora>Proyecto de Investigación Interuniversitario As Vítimas, Os Nomes, As Voces</entidadPromotora>
+      <entidadInformante>Proyecto de Investigación Interuniversitario As Vítimas, Os Nomes, As Voces</entidadInformante>
+      <observaciones>En el exterior del cementerio de Seoane, parroquia de Folgoso, existe una fosa en la que habría sido enterrado un hombre asesinado en Teixeira en agosto de 1936.</observaciones>
+      <IdLocalidad>1007</IdLocalidad>
+      <victima>
+        <nombre>Manuel</nombre>
+        <apellido1>Cela</apellido1>
+        <apellido2>Macía</apellido2>
+        <sexo>V</sexo>
+        <numRegistro>2323/2011 LUGO</numRegistro>
+      </victima>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Triacastela</nombre>
+    <IdProvincia>31</IdProvincia>
+    <ID>1008</ID>
+    <latitud>42.75665</latitud>
+    <longitud>-7.240443</longitud>
+    <fosa>
+      <numRegistro>2133/2010 LUGO</numRegistro>
+      <denominacionFosa>Fosa de Vilavella</denominacionFosa>
+      <tipoFosa>GUERRILLERA</tipoFosa>
+      <fechaFosa>12/11/1943</fechaFosa>
+      <estadoActual>EXHUMADA TOTAL</estadoActual>
+      <numeroPersonasFosa>3</numeroPersonasFosa>
+      <numeroPersonasExhumadas>3</numeroPersonasExhumadas>
+      <numeroPersonasIdentificadas>3</numeroPersonasIdentificadas>
+      <entidadPromotora>Familiares / ARMH</entidadPromotora>
+      <entidadInformante>Asociación para la Recuperación de la Memoria Histórica</entidadInformante>
+      <observaciones>La fosa se encuentra en la parte exterior del presbiterio de la iglesia de Vilavella, una de las parroquias del municipio de Triacastela. Allí fueron enterrados tres guerrilleros muertos en un enfrentamiento con la Guardia Civil. Formaban parte de un grupo de maquis que quedó cercado el 12 de noviembre de 1943 en el entorno de la aldea de Villavella, tres de ellos murieron y otro resultó herido aunque consiguió huir. La Guardia Civil expuso al público los cadáveres por lo que los vecinos recordaban el episodio y el lugar donde fueron enterrados. La exhumación se ha realizado en agosto de 2010.</observaciones>
+      <IdLocalidad>1008</IdLocalidad>
+      <victima>
+        <nombre>Pedro</nombre>
+        <apellido1>Voces</apellido1>
+        <apellido2>Canóniga</apellido2>
+        <sexo>M</sexo>
+        <otrosDatos>Conocido como "Pitacega"</otrosDatos>
+        <numRegistro>2133/2010 LUGO</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Antonio</nombre>
+        <apellido1>Vega</apellido1>
+        <apellido2>Guerrero</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>2133/2010 LUGO</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Félix</nombre>
+        <apellido1>Yañez</apellido1>
+        <apellido2>González</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>2133/2010 LUGO</numRegistro>
+      </victima>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Vicedo, O</nombre>
+    <IdProvincia>31</IdProvincia>
+    <ID>1009</ID>
+    <latitud>43.73336</latitud>
+    <longitud>-7.672058</longitud>
+    <fosa>
+      <numRegistro>2327/2011 LUGO</numRegistro>
+      <denominacionFosa>Fosa Monte A Penela</denominacionFosa>
+      <tipoFosa>GUERRILLERA</tipoFosa>
+      <fechaFosa>20/08/1937</fechaFosa>
+      <estadoActual>EXHUMADA TOTAL</estadoActual>
+      <numeroPersonasFosa>2</numeroPersonasFosa>
+      <numeroPersonasExhumadas>2</numeroPersonasExhumadas>
+      <numeroPersonasIdentificadas>2</numeroPersonasIdentificadas>
+      <entidadPromotora>Asociación para la Recuperación de la Memoria Histórica</entidadPromotora>
+      <entidadInformante>Proyecto de Investigación Interuniversitario As Vítimas, Os Nomes, As Voces</entidadInformante>
+      <observaciones>En agosto de 2005 se llevo a cabo la exhumación de una fosa en el paraje Folgueiro, en el monte A Penela, de la que se recuperaron los restos de dos hombres que, al parecer, habían escapado al monte desde el comienzo de la guerra. Las víctimas fueron asesinadas y enterradas en el mismo lugar el 20 de agosto de 1937, aunque según otras fuentessu muerte se produjo en 1939. La fosa tenía forma cuadrangular y se encontraba en una depresión del terreno.</observaciones>
+      <IdLocalidad>1009</IdLocalidad>
+      <victima>
+        <nombre>Emilio</nombre>
+        <apellido1>Rios</apellido1>
+        <apellido2>Martínez</apellido2>
+        <sexo>V</sexo>
+        <numRegistro>2327/2011 LUGO</numRegistro>
+      </victima>
+      <victima>
+        <nombre>José</nombre>
+        <apellido1>Fernández</apellido1>
+        <apellido2>Rolle</apellido2>
+        <sexo>V</sexo>
+        <numRegistro>2327/2011 LUGO</numRegistro>
+      </victima>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Bola, A</nombre>
+    <IdProvincia>37</IdProvincia>
+    <ID>1112</ID>
+    <latitud>42.152</latitud>
+    <longitud>-7.915448</longitud>
+    <fosa>
+      <numRegistro>2337/2011 OREN</numRegistro>
+      <denominacionFosa>NO CONSTA</denominacionFosa>
+      <estadoActual>EXHUMADA PARCIAL</estadoActual>
+      <IdLocalidad>1112</IdLocalidad>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Campobecerros</nombre>
+    <IdProvincia>37</IdProvincia>
+    <ID>1113</ID>
+    <latitud>42.06</latitud>
+    <longitud>-7.33</longitud>
+    <fosa>
+      <numRegistro>2332/2011 OREN</numRegistro>
+      <denominacionFosa>Fosa do Lombo do Barco</denominacionFosa>
+      <fechaFosa>20/08/1936</fechaFosa>
+      <estadoActual>NO INTERVENIDA</estadoActual>
+      <numeroPersonasFosa>1</numeroPersonasFosa>
+      <numeroPersonasExhumadas>3</numeroPersonasExhumadas>
+      <numeroPersonasIdentificadas>1</numeroPersonasIdentificadas>
+      <entidadPromotora>Proyecto de Investigación Interuniversitario As Vítimas, Os Nomes, As Voces</entidadPromotora>
+      <entidadInformante>Proyecto de Investigación Interuniversitario As Vítimas, Os Nomes, As Voces</entidadInformante>
+      <observaciones>Según la entidad informante, la fosa está situada a la orilla de la pista de servicio de las obras de la vía férrea entre Campobecerros y Portocamba. Al parecer, en agosto de 1936 fueron asesinados tres trabajadores portugueses; uno de ellos quedó enterrado en este lugar y los otros dos fueron enterrados en el exterior del cementerio de Santiago de Campobecerros, aunque este último enterramiento pudo quedar cubierto por una hilera de nicho construidos posteriormente.</observaciones>
+      <IdLocalidad>1113</IdLocalidad>
+      <victima>
+        <nombre>Antonio</nombre>
+        <apellido1>Ribeiro</apellido1>
+        <apellido2>Desconocido</apellido2>
+        <sexo>V</sexo>
+        <numRegistro>2332/2011 OREN</numRegistro>
+      </victima>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Fornelos de Cova</nombre>
+    <IdProvincia>37</IdProvincia>
+    <ID>1115</ID>
+    <latitud>42.2</latitud>
+    <longitud>-7.1</longitud>
+    <fosa>
+      <numRegistro>2334/2011 OREN</numRegistro>
+      <denominacionFosa>Fosa en el Cementerio de Fornelo de Cova</denominacionFosa>
+      <estadoActual>DESAPARECIDA</estadoActual>
+      <numeroPersonasFosa>1</numeroPersonasFosa>
+      <numeroPersonasExhumadas>1</numeroPersonasExhumadas>
+      <numeroPersonasIdentificadas>1</numeroPersonasIdentificadas>
+      <entidadPromotora>Asociación para la Recuperación de la Memoria Histórica</entidadPromotora>
+      <entidadInformante>Proyecto de Investigación Interuniversitario As Vítimas, Os Nomes, As Voces</entidadInformante>
+      <observaciones>En 2010 se realizaron trabajos de excavación para localizar los restos de una persona pero, según parece, la fosa quedó cubierta por unas obras en el recinto.</observaciones>
+      <IdLocalidad>1115</IdLocalidad>
+      <victima>
+        <nombre>Saturnino</nombre>
+        <apellido1>Rodríguez</apellido1>
+        <apellido2>Desconocido</apellido2>
+        <sexo>V</sexo>
+        <numRegistro>2334/2011 OREN</numRegistro>
+      </victima>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Pentes</nombre>
+    <IdProvincia>37</IdProvincia>
+    <ID>1116</ID>
+    <latitud>42.01</latitud>
+    <longitud>-7.17</longitud>
+    <fosa>
+      <numRegistro>2333/2011 OREN</numRegistro>
+      <denominacionFosa>Fosa de Poula do Martiño</denominacionFosa>
+      <estadoActual>DESAPARECIDA</estadoActual>
+      <numeroPersonasFosa>1</numeroPersonasFosa>
+      <numeroPersonasExhumadas>2</numeroPersonasExhumadas>
+      <numeroPersonasIdentificadas>1</numeroPersonasIdentificadas>
+      <entidadPromotora>Proyecto de Investigación Interuniversitario As Vítimas, Os Nomes, As Voces</entidadPromotora>
+      <entidadInformante>Proyecto de Investigación Interuniversitario As Vítimas, Os Nomes, As Voces</entidadInformante>
+      <observaciones>En una finca particular se encontraría el enterramiento de dos personas muertas en el verano de 1936. Sin embargo, parece ser que la fosa habría quedado cubierta por las obras realizadas en la autopista de las Rias Baixas.</observaciones>
+      <IdLocalidad>1116</IdLocalidad>
+      <victima>
+        <nombre>José Luis</nombre>
+        <apellido1>Bouzas</apellido1>
+        <apellido2>Fernández</apellido2>
+        <sexo>V</sexo>
+        <numRegistro>2333/2011 OREN</numRegistro>
+      </victima>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Sorga</nombre>
+    <IdProvincia>37</IdProvincia>
+    <ID>1117</ID>
+    <latitud>42.07</latitud>
+    <longitud>-7.59</longitud>
+    <fosa>
+      <numRegistro>2338/2011 OREN</numRegistro>
+      <denominacionFosa>Fosa en el Cementerio de Sorga</denominacionFosa>
+      <estadoActual>EXHUMADA PARCIAL</estadoActual>
+      <numeroPersonasFosa>3</numeroPersonasFosa>
+      <numeroPersonasExhumadas>8</numeroPersonasExhumadas>
+      <numeroPersonasIdentificadas>3</numeroPersonasIdentificadas>
+      <entidadPromotora>Familiares</entidadPromotora>
+      <entidadInformante>Proyecto de Investigación Interuniversitario As Vítimas, Os Nomes, As Voces</entidadInformante>
+      <observaciones>En el cementerio de Sorga, municipio de la parroquia de A Bola, existe una fosa sin señalizar. Parece ser que allí fueron enterradas 8 víctimas que habían sido asesinadas en el Alto de Forriolo. Se conoce la identidad de tres de ellas. En 1981 la familia de una de las víctimas logró recuperar sus restos, que fueron trasladados al cementerio de Poulo-Gomesende.</observaciones>
+      <IdLocalidad>1117</IdLocalidad>
+      <victima>
+        <nombre>Eduardo</nombre>
+        <apellido1>Villot</apellido1>
+        <apellido2>Canal</apellido2>
+        <sexo>V</sexo>
+        <numRegistro>2338/2011 OREN</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Celso</nombre>
+        <apellido1>Pérez</apellido1>
+        <apellido2>Enríquez</apellido2>
+        <sexo>V</sexo>
+        <numRegistro>2338/2011 OREN</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Gumersindo</nombre>
+        <apellido1>Araújo</apellido1>
+        <apellido2>Sousa</apellido2>
+        <sexo>V</sexo>
+        <numRegistro>2338/2011 OREN</numRegistro>
+      </victima>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Baiona</nombre>
+    <IdProvincia>39</IdProvincia>
+    <ID>1139</ID>
+    <latitud>42.11809</latitud>
+    <longitud>-8.84958</longitud>
+    <fosa>
+      <numRegistro>2315/2011 PONT</numRegistro>
+      <denominacionFosa>Fosa en el Cementerio de Baiona</denominacionFosa>
+      <fechaFosa>16/10/1936</fechaFosa>
+      <estadoActual>DESAPARECIDA</estadoActual>
+      <numeroPersonasFosa>9</numeroPersonasFosa>
+      <numeroPersonasExhumadas>9</numeroPersonasExhumadas>
+      <entidadPromotora>Instituto de Estudios Miñoranos (IEM) e Asociación Volta dos Nove</entidadPromotora>
+      <entidadInformante>Proyecto de Investigación Interuniversitario As Vítimas, Os Nomes, As Voces</entidadInformante>
+      <observaciones>En abril de 2009 se realizaron labores de exhumación de una fosa común en el cementerio de Baiona. La fosa estaba situada a la derecha de la antigua entrada al cementerio aunque, después de su ampliación, quedó a la izquierda de la entrada actual. Se intentaba recuperar los restos de nueve víctimas, asesinadas en octubre de 1936 en el monte Cabo Silleiro, en la carretera de Pontevedra a Camposancos; desde entonces ese lugar se conoció como la Curva de los nueve. Se descubrieron muchos restos óseos mezclados; según testimonios orales recogidos, varios familiares de estas víctimas recibieron restos exhumados de la fosa en el año 1941. En el año 2009 se colocó en el lugar una placa conmemorativa de homenaje a las víctimas.</observaciones>
+      <IdLocalidad>1139</IdLocalidad>
+      <victima>
+        <nombre>Felicísimo Antonio</nombre>
+        <apellido1>Pérez</apellido1>
+        <apellido2>Pérez</apellido2>
+        <sexo>V</sexo>
+        <numRegistro>2315/2011 PONT</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Modesto</nombre>
+        <apellido1>Fernández</apellido1>
+        <apellido2>Rodríguez</apellido2>
+        <sexo>V</sexo>
+        <numRegistro>2315/2011 PONT</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Generoso</nombre>
+        <apellido1>Valverde</apellido1>
+        <apellido2>Iglesias</apellido2>
+        <sexo>V</sexo>
+        <numRegistro>2315/2011 PONT</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Manuel</nombre>
+        <apellido1>Barbosa</apellido1>
+        <apellido2>Durán</apellido2>
+        <sexo>V</sexo>
+        <numRegistro>2315/2011 PONT</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Manuel</nombre>
+        <apellido1>Aballe</apellido1>
+        <apellido2>Domínguez</apellido2>
+        <sexo>V</sexo>
+        <numRegistro>2315/2011 PONT</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Elias Alejandro</nombre>
+        <apellido1>Gonda</apellido1>
+        <apellido2>Alonso</apellido2>
+        <sexo>V</sexo>
+        <numRegistro>2315/2011 PONT</numRegistro>
+      </victima>
+      <victima>
+        <nombre>José</nombre>
+        <apellido1>Rodríguez</apellido1>
+        <apellido2>González</apellido2>
+        <sexo>V</sexo>
+        <numRegistro>2315/2011 PONT</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Fidel</nombre>
+        <apellido1>Leyenda</apellido1>
+        <apellido2>Rodríguez</apellido2>
+        <sexo>V</sexo>
+        <numRegistro>2315/2011 PONT</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Manuel Francisco</nombre>
+        <apellido1>Lijo</apellido1>
+        <apellido2>Pérez</apellido2>
+        <sexo>V</sexo>
+        <numRegistro>2315/2011 PONT</numRegistro>
+      </victima>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Barro</nombre>
+    <IdProvincia>39</IdProvincia>
+    <ID>1140</ID>
+    <latitud>42.525</latitud>
+    <longitud>-8.647223</longitud>
+    <fosa>
+      <numRegistro>1772/2010 PONT</numRegistro>
+      <denominacionFosa>Fosa en cementerio de Curro</denominacionFosa>
+      <tipoFosa>FUSILAMIENTO</tipoFosa>
+      <fechaFosa>15/09/1936</fechaFosa>
+      <estadoActual>EXHUMADA TOTAL</estadoActual>
+      <numeroPersonasFosa>2</numeroPersonasFosa>
+      <numeroPersonasExhumadas>2</numeroPersonasExhumadas>
+      <numeroPersonasIdentificadas>2</numeroPersonasIdentificadas>
+      <entidadPromotora>Asociación para la Recuperación de la Memoria Histórica</entidadPromotora>
+      <entidadInformante>Asociación para la Recuperación de la Memoria Histórica</entidadInformante>
+      <observaciones>A mediados de septiembre de 1936, unos vecinos de Corbillón que iban a la feria de Pontevedra encontraron a dos personas acribilladas a balazos en una curva de la carretera que une Villagarcía con Lérez. Los vecinos de Curro los recogieron y los enterraron en una fosa situada extramuros de la iglesia. La exhumación fue acometida en octubre de 2009 y, una vez identificados, los restos han sido entregados a sus familiares el 19 de marzo de 2010.</observaciones>
+      <IdLocalidad>1140</IdLocalidad>
+      <victima>
+        <nombre>Castor</nombre>
+        <apellido1>Cordal</apellido1>
+        <apellido2>Garrido</apellido2>
+        <sexo>M</sexo>
+        <edad>27</edad>
+        <profesion>electricista</profesion>
+        <otrosDatos>Vinculado al sindicato CNT</otrosDatos>
+        <fechaFallecimiento>15/09/1936</fechaFallecimiento>
+        <fechaExhumación>22/10/2009</fechaExhumación>
+        <numRegistro>1772/2010 PONT</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Ramón</nombre>
+        <apellido1>Barreiro</apellido1>
+        <apellido2>Rodriguez</apellido2>
+        <sexo>M</sexo>
+        <edad>19</edad>
+        <profesion>periodista</profesion>
+        <fechaFallecimiento>15/09/1936</fechaFallecimiento>
+        <fechaExhumación>22/10/2009</fechaExhumación>
+        <numRegistro>1772/2010 PONT</numRegistro>
+      </victima>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Cerdedo</nombre>
+    <IdProvincia>39</IdProvincia>
+    <ID>1141</ID>
+    <latitud>42.53204</latitud>
+    <longitud>-8.391931</longitud>
+    <fosa>
+      <numRegistro>1092/2009 PONT</numRegistro>
+      <denominacionFosa>NO CONSTA</denominacionFosa>
+      <estadoActual>TRASLADADA AL VALLE DE LOS CAÍDOS</estadoActual>
+      <numeroPersonasFosa>1</numeroPersonasFosa>
+      <numeroPersonasExhumadas>1</numeroPersonasExhumadas>
+      <numeroPersonasIdentificadas>1</numeroPersonasIdentificadas>
+      <entidadInformante>Patrimonio Nacional</entidadInformante>
+      <observaciones>Trasladada al Valle de los Caídos con la fecha/s:27/03/1959</observaciones>
+      <IdLocalidad>1141</IdLocalidad>
+      <victima>
+        <nombre>Luis</nombre>
+        <apellido1>Gutiérrez</apellido1>
+        <apellido2>Torres</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1092/2009 PONT</numRegistro>
+      </victima>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Cotobade</nombre>
+    <IdProvincia>39</IdProvincia>
+    <ID>1142</ID>
+    <latitud>42.46667</latitud>
+    <longitud>-8.466667</longitud>
+    <fosa>
+      <numRegistro>2313/2011 PONT</numRegistro>
+      <denominacionFosa>Fosa en el Cementerio de Tenorio</denominacionFosa>
+      <fechaFosa>09/11/1936</fechaFosa>
+      <estadoActual>DESAPARECIDA</estadoActual>
+      <numeroPersonasFosa>11</numeroPersonasFosa>
+      <entidadPromotora>Asociación para la Recuperación de la Memoria Histórica</entidadPromotora>
+      <entidadInformante>Proyecto de Investigación Interuniversitario As Vítimas, Os Nomes, As Voces</entidadInformante>
+      <observaciones>En San Pedro de Tenorio, parroquia del concejo de Cotobade, existía una fosa común en el recinto del cementerio donde habían sido enterrados once hombres asesinados el 9 de noviembre de 1936. Las víctimas eran seis vecinos de Lalín y cinco de Arbo; eran presos republicanos en la isla de San Simón que fueron sacados con el pretexto de ser trasladados a la prisión de Ponte Candelas; al llegar a la Volta do Couto les bajaron y abrieron fuego contra ellos. Sin embargo, la ampliación del cementerio con la construcción de una hilera de nichos hace cuatro décadas dañó la fosa, siendo depositados en el osario los restos encontrados, mezclados y revueltos, sin posibilidad de identificación.</observaciones>
+      <IdLocalidad>1142</IdLocalidad>
+      <victima>
+        <nombre>Luis</nombre>
+        <apellido1>Frade</apellido1>
+        <apellido2>Pazos</apellido2>
+        <sexo>V</sexo>
+        <numRegistro>2313/2011 PONT</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Jose Luis</nombre>
+        <apellido1>Bermúdez</apellido1>
+        <apellido2>Desconocido</apellido2>
+        <sexo>V</sexo>
+        <numRegistro>2313/2011 PONT</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Ramiro</nombre>
+        <apellido1>Granja</apellido1>
+        <apellido2>González</apellido2>
+        <sexo>V</sexo>
+        <numRegistro>2313/2011 PONT</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Luis</nombre>
+        <apellido1>Varela</apellido1>
+        <apellido2>Sobrado</apellido2>
+        <sexo>V</sexo>
+        <numRegistro>2313/2011 PONT</numRegistro>
+      </victima>
+      <victima>
+        <nombre>José María</nombre>
+        <apellido1>Montouto</apellido1>
+        <apellido2>Rodríguez</apellido2>
+        <sexo>V</sexo>
+        <numRegistro>2313/2011 PONT</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Eliseo</nombre>
+        <apellido1>Garra</apellido1>
+        <apellido2>Lalín</apellido2>
+        <sexo>V</sexo>
+        <numRegistro>2313/2011 PONT</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Alfonso</nombre>
+        <apellido1>Alonso</apellido1>
+        <apellido2>Portugués</apellido2>
+        <sexo>V</sexo>
+        <numRegistro>2313/2011 PONT</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Telmo</nombre>
+        <apellido1>Rodríguez</apellido1>
+        <apellido2>Alonso</apellido2>
+        <sexo>V</sexo>
+        <numRegistro>2313/2011 PONT</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Juan</nombre>
+        <apellido1>Alonso</apellido1>
+        <apellido2>Pérez</apellido2>
+        <sexo>V</sexo>
+        <numRegistro>2313/2011 PONT</numRegistro>
+      </victima>
+      <victima>
+        <nombre>José</nombre>
+        <apellido1>Gómez</apellido1>
+        <apellido2>Sampayo</apellido2>
+        <sexo>V</sexo>
+        <numRegistro>2313/2011 PONT</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Antonio</nombre>
+        <apellido1>Picallo</apellido1>
+        <apellido2>Buela</apellido2>
+        <sexo>V</sexo>
+        <numRegistro>2313/2011 PONT</numRegistro>
+      </victima>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Filgueiras</nombre>
+    <IdProvincia>39</IdProvincia>
+    <ID>1143</ID>
+    <latitud>42.62</latitud>
+    <longitud>-8.44</longitud>
+    <fosa>
+      <numRegistro>2309/2011 PONT</numRegistro>
+      <denominacionFosa>Fosas a orillas del río en Filgueiras</denominacionFosa>
+      <estadoActual>NO INTERVENIDA</estadoActual>
+      <numeroPersonasExhumadas>2</numeroPersonasExhumadas>
+      <entidadPromotora>Proyecto de Investigación Interuniversitario As Vítimas, Os Nomes, As Voces</entidadPromotora>
+      <entidadInformante>Proyecto de Investigación Interuniversitario As Vítimas, Os Nomes, As Voces</entidadInformante>
+      <observaciones>Dos fosas situadas en la ribera del río Miño en Filgueiras, donde estarían enterradas una persona en cada una; se desconoce si los cuerpos llegaron allí arrastrados por la aguas del rio. Otra fosa, en la entrada del cementerio y de la iglesia parroquial, ha sido exhumada en diciembre de 2011 recuperándose los restos de una mujer.</observaciones>
+      <IdLocalidad>1143</IdLocalidad>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Ponteareas</nombre>
+    <IdProvincia>39</IdProvincia>
+    <ID>1144</ID>
+    <latitud>42.17637</latitud>
+    <longitud>-8.502382</longitud>
+    <fosa>
+      <numRegistro>1357/2009 PONT</numRegistro>
+      <denominacionFosa>Fosa en el Cementerio de Areas</denominacionFosa>
+      <estadoActual>EXHUMADA TOTAL</estadoActual>
+      <numeroPersonasFosa>5</numeroPersonasFosa>
+      <numeroPersonasExhumadas>5</numeroPersonasExhumadas>
+      <entidadPromotora>Familiares / Sociedad de Ciencias Aranzadi</entidadPromotora>
+      <entidadInformante>Sociedad de Ciencias Aranzadi</entidadInformante>
+      <observaciones>En el año 1937 fueron detenidos cinco hombres, naturales de O Porriñon, y trasladados a la curva de una carretera cercana a la iglesia donde fueron asesinados. Después fueron enterrados en una fosa que se encontraba en la parte trasera de la iglesia de Areas y que era una zona de paso entre la iglesias y el antiguo cementerio, es decir, en el camino, dato que además de aportarlo por la familia, lo corroboró el párroco. La fosa fue exhumada por la ARMH en 2007, recuperándose los restos de las cinco víctimas. Los restos fueron entregados a los familiares en el año 2009.</observaciones>
+      <IdLocalidad>1144</IdLocalidad>
+      <victima>
+        <nombre>Serafín</nombre>
+        <apellido1>Rodríguez</apellido1>
+        <apellido2>Desconocido</apellido2>
+        <sexo>V</sexo>
+        <edad>45</edad>
+        <numRegistro>1357/2009 PONT</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Manuel</nombre>
+        <apellido1>Pérez</apellido1>
+        <apellido2>Vila</apellido2>
+        <sexo>V</sexo>
+        <edad>56</edad>
+        <numRegistro>1357/2009 PONT</numRegistro>
+      </victima>
+      <victima>
+        <nombre>José</nombre>
+        <apellido1>Ramírez</apellido1>
+        <apellido2>Vila</apellido2>
+        <sexo>V</sexo>
+        <edad>39</edad>
+        <numRegistro>1357/2009 PONT</numRegistro>
+      </victima>
+      <victima>
+        <nombre>José</nombre>
+        <apellido1>Rodríguez</apellido1>
+        <apellido2>Carrera</apellido2>
+        <sexo>V</sexo>
+        <edad>41</edad>
+        <numRegistro>1357/2009 PONT</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Sarturnino</nombre>
+        <apellido1>Vila</apellido1>
+        <apellido2>Quiroga</apellido2>
+        <sexo>V</sexo>
+        <edad>59</edad>
+        <numRegistro>1357/2009 PONT</numRegistro>
+      </victima>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Pontevedra</nombre>
+    <IdProvincia>39</IdProvincia>
+    <ID>1145</ID>
+    <latitud>42.43362</latitud>
+    <longitud>-8.648053</longitud>
+    <fosa>
+      <numRegistro>1091/2009 PONT</numRegistro>
+      <denominacionFosa>NO CONSTA</denominacionFosa>
+      <estadoActual>TRASLADADA AL VALLE DE LOS CAÍDOS</estadoActual>
+      <numeroPersonasFosa>7</numeroPersonasFosa>
+      <numeroPersonasExhumadas>7</numeroPersonasExhumadas>
+      <numeroPersonasIdentificadas>6</numeroPersonasIdentificadas>
+      <entidadInformante>Patrimonio Nacional</entidadInformante>
+      <observaciones>Trasladada al Valle de los Caídos con la fecha/s:27/03/1959</observaciones>
+      <IdLocalidad>1145</IdLocalidad>
+      <victima>
+        <nombre>Benito</nombre>
+        <apellido1>Pardo</apellido1>
+        <apellido2>Méndez</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1091/2009 PONT</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Manuel</nombre>
+        <apellido1>Toro</apellido1>
+        <apellido2>García</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1091/2009 PONT</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Francisco</nombre>
+        <apellido1>Rodríguez</apellido1>
+        <apellido2>Bote</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1091/2009 PONT</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Vicente Manuel</nombre>
+        <apellido1>Losada</apellido1>
+        <apellido2>Arnejo</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1091/2009 PONT</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1091/2009 PONT</numRegistro>
+      </victima>
+      <victima>
+        <nombre>José</nombre>
+        <apellido1>López</apellido1>
+        <apellido2>Álvarez</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1091/2009 PONT</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Alfonso</nombre>
+        <apellido1>del Minguillón</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1091/2009 PONT</numRegistro>
+      </victima>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Porriño, O</nombre>
+    <IdProvincia>39</IdProvincia>
+    <ID>1146</ID>
+    <latitud>42.16036</latitud>
+    <longitud>-8.619299</longitud>
+    <fosa>
+      <numRegistro>2312/2011 PONT</numRegistro>
+      <denominacionFosa>Fosa en San Salvador de Budiño</denominacionFosa>
+      <fechaFosa>21/11/1936</fechaFosa>
+      <estadoActual>NO INTERVENIDA</estadoActual>
+      <numeroPersonasFosa>4</numeroPersonasFosa>
+      <entidadPromotora>AMH do 36 de Ponteareas</entidadPromotora>
+      <entidadInformante>Proyecto de Investigación Interuniversitario As Vítimas, Os Nomes, As Voces</entidadInformante>
+      <observaciones>La fosa está situada en el camino de entrada al cementerio de San Salvador de Budiño. Allí estarían enterrados los cuerpos de cuatro canteros de la parroquia de A Picoña, en Salceda de Caselas, que fueron asesinados en noviembre de 1936 en la carretera de O Porriño a Tui. Parece ser que las víctimas eran activistas del movimiento agrario del sur de Pontevedra.</observaciones>
+      <IdLocalidad>1146</IdLocalidad>
+      <victima>
+        <nombre>Benito</nombre>
+        <apellido1>Antonio</apellido1>
+        <apellido2>Cabaleiro</apellido2>
+        <sexo>M</sexo>
+        <edad>29</edad>
+        <numRegistro>2312/2011 PONT</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Gabriel</nombre>
+        <apellido1>Besteiro</apellido1>
+        <apellido2>Rodríguez</apellido2>
+        <sexo>M</sexo>
+        <edad>38</edad>
+        <numRegistro>2312/2011 PONT</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Manuel</nombre>
+        <apellido1>Domínguez</apellido1>
+        <apellido2>Desconocido</apellido2>
+        <sexo>M</sexo>
+        <edad>28</edad>
+        <numRegistro>2312/2011 PONT</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Angel</nombre>
+        <apellido1>Cabaleiro</apellido1>
+        <apellido2>Desconocido</apellido2>
+        <sexo>M</sexo>
+        <edad>45</edad>
+        <numRegistro>2312/2011 PONT</numRegistro>
+      </victima>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Salceda de Caselas</nombre>
+    <IdProvincia>39</IdProvincia>
+    <ID>1148</ID>
+    <latitud>42.10196</latitud>
+    <longitud>-8.558377</longitud>
+    <fosa>
+      <numRegistro>1090/2009 PONT</numRegistro>
+      <denominacionFosa>NO CONSTA</denominacionFosa>
+      <estadoActual>TRASLADADA AL VALLE DE LOS CAÍDOS</estadoActual>
+      <numeroPersonasFosa>1</numeroPersonasFosa>
+      <numeroPersonasExhumadas>1</numeroPersonasExhumadas>
+      <numeroPersonasIdentificadas>1</numeroPersonasIdentificadas>
+      <entidadInformante>Patrimonio Nacional</entidadInformante>
+      <observaciones>Trasladada al Valle de los Caídos con la fecha/s:27/03/1959</observaciones>
+      <IdLocalidad>1148</IdLocalidad>
+      <victima>
+        <nombre>Ángel</nombre>
+        <apellido1>Lorente</apellido1>
+        <apellido2>Pérez</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1090/2009 PONT</numRegistro>
+      </victima>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>San Andrés de Xeve</nombre>
+    <IdProvincia>39</IdProvincia>
+    <ID>1149</ID>
+    <latitud>42.4624001</latitud>
+    <longitud>-8.5870974</longitud>
+    <fosa>
+      <numRegistro>2310/2011 PONT</numRegistro>
+      <denominacionFosa>Fosa de Xeve</denominacionFosa>
+      <fechaFosa>12/11/1936</fechaFosa>
+      <estadoActual>NO INTERVENIDA</estadoActual>
+      <numeroPersonasFosa>6</numeroPersonasFosa>
+      <numeroPersonasExhumadas>6</numeroPersonasExhumadas>
+      <entidadPromotora>Proyecto de Investigación Interuniversitario As Vítimas, Os Nomes, As Voces</entidadPromotora>
+      <entidadInformante>Proyecto de Investigación Interuniversitario As Vítimas, Os Nomes, As Voces</entidadInformante>
+      <observaciones>Entre el cementerio y la iglesia parroquial, existe una fosa común donde habrían sido enterrados seis hombres, asesinados en noviembre de 1936 en un descampado en el cruce con la carretera de Xeve a Campo Lameiro.</observaciones>
+      <IdLocalidad>1149</IdLocalidad>
+      <victima>
+        <nombre>José</nombre>
+        <apellido1>Romero</apellido1>
+        <apellido2>Castiñeira</apellido2>
+        <sexo>V</sexo>
+        <numRegistro>2310/2011 PONT</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Eduardo</nombre>
+        <apellido1>García</apellido1>
+        <apellido2>Santos</apellido2>
+        <sexo>V</sexo>
+        <numRegistro>2310/2011 PONT</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Angel</nombre>
+        <apellido1>Rial</apellido1>
+        <apellido2>Vidal</apellido2>
+        <sexo>V</sexo>
+        <numRegistro>2310/2011 PONT</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Alberto</nombre>
+        <apellido1>Casal</apellido1>
+        <apellido2>Dozo</apellido2>
+        <sexo>V</sexo>
+        <numRegistro>2310/2011 PONT</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Gumersindo</nombre>
+        <apellido1>González</apellido1>
+        <apellido2>González</apellido2>
+        <sexo>V</sexo>
+        <numRegistro>2310/2011 PONT</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Antonio</nombre>
+        <apellido1>Fariña</apellido1>
+        <apellido2>Duque</apellido2>
+        <sexo>V</sexo>
+        <numRegistro>2310/2011 PONT</numRegistro>
+      </victima>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Tameiga</nombre>
+    <IdProvincia>39</IdProvincia>
+    <ID>1150</ID>
+    <latitud>42.19</latitud>
+    <longitud>-8.64</longitud>
+    <fosa>
+      <numRegistro>2316/2011 PONT</numRegistro>
+      <denominacionFosa>Fosa de Tameiga</denominacionFosa>
+      <estadoActual>DESAPARECIDA</estadoActual>
+      <numeroPersonasFosa>22</numeroPersonasFosa>
+      <numeroPersonasExhumadas>22</numeroPersonasExhumadas>
+      <entidadPromotora>Proyecto de Investigación Interuniversitario As Vítimas, Os Nomes, As Voces</entidadPromotora>
+      <entidadInformante>Proyecto de Investigación Interuniversitario As Vítimas, Os Nomes, As Voces</entidadInformante>
+      <observaciones>La fosa estaba situada en las proximidades del cementerio; es una de las pocas fosas de galicia que fue utilizada en distintas fechas para enterramientos sucesivos. Una posterior ampliación y construcción de nichos en el cementerio hizo desaparecer la fosa. En septiembre de 2008 fue inaugurado en sus proximidades un monumento en memoria de los represalidados del Concello de Mos, con 22 nombres de víctimas.</observaciones>
+      <IdLocalidad>1150</IdLocalidad>
+      <victima>
+        <nombre>Ramiro</nombre>
+        <apellido1>Fernández</apellido1>
+        <apellido2>Lata</apellido2>
+        <sexo>V</sexo>
+        <numRegistro>2316/2011 PONT</numRegistro>
+      </victima>
+      <victima>
+        <nombre>José</nombre>
+        <apellido1>Pérez</apellido1>
+        <apellido2>Alvarez</apellido2>
+        <sexo>V</sexo>
+        <numRegistro>2316/2011 PONT</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Alfonso</nombre>
+        <apellido1>Argibay</apellido1>
+        <apellido2>Domínguez</apellido2>
+        <sexo>V</sexo>
+        <numRegistro>2316/2011 PONT</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Gustavo</nombre>
+        <apellido1>Táboas</apellido1>
+        <apellido2>Desconocido</apellido2>
+        <sexo>V</sexo>
+        <numRegistro>2316/2011 PONT</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Alejandro</nombre>
+        <apellido1>Del Rio</apellido1>
+        <apellido2>Alvarez</apellido2>
+        <sexo>V</sexo>
+        <numRegistro>2316/2011 PONT</numRegistro>
+      </victima>
+      <victima>
+        <nombre>José</nombre>
+        <apellido1>Pérez</apellido1>
+        <apellido2>Juanatey</apellido2>
+        <sexo>V</sexo>
+        <numRegistro>2316/2011 PONT</numRegistro>
+      </victima>
+      <victima>
+        <nombre>José María</nombre>
+        <apellido1>Maneiro</apellido1>
+        <apellido2>Pereira</apellido2>
+        <sexo>V</sexo>
+        <numRegistro>2316/2011 PONT</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Benigno</nombre>
+        <apellido1>Sánchez</apellido1>
+        <apellido2>Vilas</apellido2>
+        <sexo>V</sexo>
+        <numRegistro>2316/2011 PONT</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Isidoro</nombre>
+        <apellido1>Roque</apellido1>
+        <apellido2>Lusquiños</apellido2>
+        <sexo>V</sexo>
+        <numRegistro>2316/2011 PONT</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Antonio</nombre>
+        <apellido1>Pérez</apellido1>
+        <apellido2>Fernández</apellido2>
+        <sexo>V</sexo>
+        <numRegistro>2316/2011 PONT</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Emilio</nombre>
+        <apellido1>Bello</apellido1>
+        <apellido2>Coto</apellido2>
+        <sexo>V</sexo>
+        <numRegistro>2316/2011 PONT</numRegistro>
+      </victima>
+      <victima>
+        <nombre>José</nombre>
+        <apellido1>Amoedo</apellido1>
+        <apellido2>Puentes</apellido2>
+        <sexo>V</sexo>
+        <numRegistro>2316/2011 PONT</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Manuel</nombre>
+        <apellido1>Maquieira</apellido1>
+        <apellido2>Solla</apellido2>
+        <sexo>V</sexo>
+        <numRegistro>2316/2011 PONT</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Adolfo</nombre>
+        <apellido1>Monroy</apellido1>
+        <apellido2>Figueroa</apellido2>
+        <sexo>V</sexo>
+        <numRegistro>2316/2011 PONT</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Enrique</nombre>
+        <apellido1>Gómez</apellido1>
+        <apellido2>Desconocido</apellido2>
+        <sexo>V</sexo>
+        <numRegistro>2316/2011 PONT</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Enrique</nombre>
+        <apellido1>Ramos</apellido1>
+        <apellido2>Rodríguez</apellido2>
+        <sexo>V</sexo>
+        <numRegistro>2316/2011 PONT</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Hermenegildo</nombre>
+        <apellido1>Andrés</apellido1>
+        <apellido2>Castro</apellido2>
+        <sexo>V</sexo>
+        <numRegistro>2316/2011 PONT</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Aurelio</nombre>
+        <apellido1>Souto</apellido1>
+        <apellido2>Blanco</apellido2>
+        <sexo>V</sexo>
+        <numRegistro>2316/2011 PONT</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Antonio</nombre>
+        <apellido1>Cerqueira</apellido1>
+        <apellido2>Pousada</apellido2>
+        <sexo>V</sexo>
+        <numRegistro>2316/2011 PONT</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Benjamín</nombre>
+        <apellido1>Pazos</apellido1>
+        <apellido2>Fernández</apellido2>
+        <sexo>V</sexo>
+        <numRegistro>2316/2011 PONT</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Angel</nombre>
+        <apellido1>Matilde</apellido1>
+        <apellido2>Migueles</apellido2>
+        <sexo>V</sexo>
+        <numRegistro>2316/2011 PONT</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Angel</nombre>
+        <apellido1>Rodríguez</apellido1>
+        <apellido2>Rivas</apellido2>
+        <sexo>V</sexo>
+        <numRegistro>2316/2011 PONT</numRegistro>
+      </victima>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Vigo</nombre>
+    <IdProvincia>39</IdProvincia>
+    <ID>1151</ID>
+    <latitud>42.23136</latitud>
+    <longitud>-8.712447</longitud>
+    <fosa>
+      <numRegistro>1089/2009 PONT</numRegistro>
+      <denominacionFosa>NO CONSTA</denominacionFosa>
+      <estadoActual>TRASLADADA AL VALLE DE LOS CAÍDOS</estadoActual>
+      <numeroPersonasFosa>2</numeroPersonasFosa>
+      <numeroPersonasExhumadas>2</numeroPersonasExhumadas>
+      <numeroPersonasIdentificadas>2</numeroPersonasIdentificadas>
+      <entidadInformante>Patrimonio Nacional</entidadInformante>
+      <observaciones>Trasladada al Valle de los Caídos con la fecha/s:27/03/1959,30/05/1960</observaciones>
+      <IdLocalidad>1151</IdLocalidad>
+      <victima>
+        <nombre>Luis</nombre>
+        <apellido1>Colleso</apellido1>
+        <apellido2>Docampo</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1089/2009 PONT</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Armando</nombre>
+        <apellido1>Vázquez</apellido1>
+        <apellido2>Taboelle</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1089/2009 PONT</numRegistro>
+      </victima>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Vilagarcía de Arousa</nombre>
+    <IdProvincia>39</IdProvincia>
+    <ID>1152</ID>
+    <latitud>42.59387</latitud>
+    <longitud>-8.765963</longitud>
+    <fosa>
+      <numRegistro>2017/2010 PONT</numRegistro>
+      <denominacionFosa>Fosa en el Cementerio de Cornazo</denominacionFosa>
+      <fechaFosa>12/11/1938</fechaFosa>
+      <estadoActual>EXHUMADA TOTAL</estadoActual>
+      <numeroPersonasFosa>2</numeroPersonasFosa>
+      <numeroPersonasExhumadas>2</numeroPersonasExhumadas>
+      <numeroPersonasIdentificadas>1</numeroPersonasIdentificadas>
+      <entidadInformante>Asociación para la Recuperación de la Memoria Histórica</entidadInformante>
+      <observaciones>Esta fosa localizada en Cornazo, una de las parroquias de Vilagarcía de Arousa, fue intervenida en septiembre de 2009 recuperándose los restos de un hombre que fue fusilado en Lobeira el 12 de noviembre de 1938 por sus ideales comunistas. Los familiares de otra víctima, también fusilada en el mismo lugar y fecha, exhumaron la fosa y recuperaron su cadáver a comienzos de 1940, trasladando el cuerpo a su localidad natal O Grove.</observaciones>
+      <IdLocalidad>1152</IdLocalidad>
+      <victima>
+        <nombre>Manuel</nombre>
+        <apellido1>Alvarez</apellido1>
+        <apellido2>Silva</apellido2>
+        <sexo>M</sexo>
+        <fechaFallecimiento>12/11/1938</fechaFallecimiento>
+        <numRegistro>2017/2010 PONT</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Perfecto</nombre>
+        <apellido1>Allo</apellido1>
+        <apellido2>Sabor</apellido2>
+        <sexo>V</sexo>
+        <numRegistro>2017/2010 PONT</numRegistro>
+      </victima>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Xinzo</nombre>
+    <IdProvincia>39</IdProvincia>
+    <ID>1153</ID>
+    <latitud>42.34</latitud>
+    <longitud>-8.04</longitud>
+    <fosa>
+      <numRegistro>2317/2011 PONT</numRegistro>
+      <denominacionFosa>Fosa en el antiguo cementerio de Xinzo</denominacionFosa>
+      <tipoFosa>FUSILAMIENTO</tipoFosa>
+      <fechaFosa>05/04/1937</fechaFosa>
+      <estadoActual>EXHUMADA TOTAL</estadoActual>
+      <numeroPersonasFosa>17</numeroPersonasFosa>
+      <numeroPersonasExhumadas>17</numeroPersonasExhumadas>
+      <numeroPersonasIdentificadas>17</numeroPersonasIdentificadas>
+      <entidadPromotora>ARMH, AMH do 36 de Ponteareas, AMH do 36 de Vigo e Memoria Historíca 28 de Agosto de Cangas</entidadPromotora>
+      <entidadInformante>Proyecto de Investigación Interuniversitario As Vítimas, Os Nomes, As Voces</entidadInformante>
+      <observaciones>El espacio existente junto al atrio de la iglesia de Santa Mariña de Xinzo, en el concejo de Ponteareas, fue utilizado antaño como cementerio parroquial. En mayo de 2008 se levantó la pequeña capa de hormigón que cubría la zona para tratar de localizar los restos de varias víctimas de la comarca de Morrazo, entre ellas, ocho personas ejecutadas en abril de 1937 cuyos cadáveres aparecieron el pinar do Foxo, a 3 km. de Xinzo. En una de las esquinas de la iglesia se localizó un pozo con restos óseos que había sido utilizado como osario y se inspeccionó un área junto a una fosa séptica; en el momento de su construcción en los años noventa ya aparecieron restos que fueron trasladados a un osario del nuevo cementerio de Xinzo. Ahora han vuelto a aflorar restos esqueléticos que podrían corresponder, al menos, a ocho personas. Los restos recuperados, entre los que pudiera haber restos de personas inhumadas con anterioridad en el cementerio parroquial, por decisión de los familiares de los desaparecidos, fueron depositados en un nicho conjunto en el cementerio de Pereiro (Vigo).</observaciones>
+      <IdLocalidad>1153</IdLocalidad>
+      <victima>
+        <nombre>Serafín</nombre>
+        <apellido1>Chaves</apellido1>
+        <apellido2>Bispo</apellido2>
+        <sexo>V</sexo>
+        <numRegistro>2317/2011 PONT</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Manuel</nombre>
+        <apellido1>Cividanes</apellido1>
+        <apellido2>Desconocido</apellido2>
+        <sexo>V</sexo>
+        <numRegistro>2317/2011 PONT</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Angel</nombre>
+        <apellido1>Rodal</apellido1>
+        <apellido2>Blanco</apellido2>
+        <sexo>V</sexo>
+        <numRegistro>2317/2011 PONT</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Clemente</nombre>
+        <apellido1>Calvar</apellido1>
+        <apellido2>Solla</apellido2>
+        <sexo>V</sexo>
+        <numRegistro>2317/2011 PONT</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Manuel</nombre>
+        <apellido1>Quintas</apellido1>
+        <apellido2>Figueroa</apellido2>
+        <sexo>V</sexo>
+        <numRegistro>2317/2011 PONT</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Herminio</nombre>
+        <apellido1>González</apellido1>
+        <apellido2>Covelo</apellido2>
+        <sexo>V</sexo>
+        <numRegistro>2317/2011 PONT</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Benjamín</nombre>
+        <apellido1>Malvar</apellido1>
+        <apellido2>García</apellido2>
+        <sexo>V</sexo>
+        <numRegistro>2317/2011 PONT</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Luis</nombre>
+        <apellido1>Duarte</apellido1>
+        <apellido2>Pedrosa</apellido2>
+        <sexo>V</sexo>
+        <numRegistro>2317/2011 PONT</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Benigno</nombre>
+        <apellido1>Rocha</apellido1>
+        <apellido2>Saavedra</apellido2>
+        <sexo>V</sexo>
+        <numRegistro>2317/2011 PONT</numRegistro>
+      </victima>
+      <victima>
+        <nombre>José</nombre>
+        <apellido1>Miranda</apellido1>
+        <apellido2>Desconocido</apellido2>
+        <sexo>V</sexo>
+        <numRegistro>2317/2011 PONT</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <numRegistro>2317/2011 PONT</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Francisco</nombre>
+        <apellido1>Aldao</apellido1>
+        <apellido2>Gallego</apellido2>
+        <sexo>V</sexo>
+        <numRegistro>2317/2011 PONT</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Antonio</nombre>
+        <apellido1>Baz</apellido1>
+        <apellido2>Rodríguez</apellido2>
+        <sexo>V</sexo>
+        <numRegistro>2317/2011 PONT</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Manuel</nombre>
+        <apellido1>Alvarez</apellido1>
+        <apellido2>Pereira</apellido2>
+        <sexo>V</sexo>
+        <numRegistro>2317/2011 PONT</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Perfecto</nombre>
+        <apellido1>Méndez</apellido1>
+        <apellido2>Pastoriza</apellido2>
+        <sexo>V</sexo>
+        <numRegistro>2317/2011 PONT</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Antonio</nombre>
+        <apellido1>Pérez</apellido1>
+        <apellido2>Pérez</apellido2>
+        <sexo>V</sexo>
+        <numRegistro>2317/2011 PONT</numRegistro>
+      </victima>
+      <victima>
+        <nombre>José Augusto</nombre>
+        <apellido1>Pereira</apellido1>
+        <apellido2>Rocha</apellido2>
+        <sexo>V</sexo>
+        <numRegistro>2317/2011 PONT</numRegistro>
+      </victima>
+    </fosa>
+  </localidad>
+</zona>

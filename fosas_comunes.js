@@ -127,6 +127,15 @@ function zona(latitud, longitud, listaLocalidades)
         }
         return null;// esto es que no ha encontrado ninguna 
      };//buscaLocalidadEnEntorno
+     
+    this.puntoEnZona=function(latitudPunto, longitudPunto)
+    {  // cambiar siempre de forma consistente con generazonas.jsx
+        if (latitud > (latitudZona +1)) return false;
+        if (latitud <= (latitudZona -1)) return false ;
+        if (longitud > (longitudZona +1)) return false;
+        if (longitud <=(longitudZona-1)) return false;
+        return true;    
+    } //zona.puntoEnZona
     
 }//zona
 
@@ -283,16 +292,51 @@ function nombreFicheroMarcadores()
   return "datos/localidades_con_fosa.xml";
 }
 
+var LATITUD_INICIAL=43;
+var LATITUD_FINAL=27;
+var DECREMENTO_LATITUD=-2;
+var LONGITUD_INICIAL=-18;
+var LONGITUD_FINAL=4;
+var INCREMENTO_LONGITUD=2;
+
 function nombreFicheroZona(latitud, longitud)
 {
-    // TODO: lo primero necesitarmos saber que fichero pedir,
-    // si hacemos una cuadricula de 20Km de lado, podemos nombrar los ficheros a patir de
-    // la latitud y longitud en la que estamos centrados.
-    // todo esto es para evitar usar un servidor activo. 
-    // return "datos/propuesta_formato.xml";
-    return "datos/zona_completa.xml";
-}
+    // los ficheros de zona estan normalizados y se generan con la 
+    // latitud y longitud de bucle principal del script generazonas.jsx
+    
+    // Las latitudes centrales de zonas son enteros impares.
+    // para asignar los numeros frontera, en el caso de las latitudes, la latitud superior
+    // pertenece a la zona de latitud un grado inferior. 
+    // Ejemplos: latitud 44 sería de la zona 43, latitud 42, sería de la zona 41.
+   
+    var latitudEntera=Math.floor(latitud);
+    var latitudZona=latitudEntera;
+    var esLatitudPar=((latitudEntera%2)==0);
+    var esLatitudEntera=(latitudEntera==latitud);
+    if (esLatitudEntera && esLatitudPar) latitudZona=latitudEntera-1;
+    else if (esLatitudPar) latitudZona=latitudEntera+1;
+    else latitudZona=latitudEntera;
+    
+        // TODO: REVISAR VALORES FRONTERA
+    // en el caso de las longitudes las zonas estan centradas en longitudes pares
+    var longitudEntera=Math.floor(longitud);
+    var longitudZona=longitudEntera; // valor por defecto
+    var esLongitudPar=((longitudEntera%2)==0);
+    var esLongitudEntera=(longitudEntera==longitud);
 
+    if (esLongitudEntera && !esLongitudPar) longitudZona=longitudEntera-1;
+    else if (!esLongitudPar) longitudZona=longitudEntera+1;
+    else longitudZona=longitudEntera;
+    
+    var nombreFichero="datos/zona_"; //TODO: revisar si cero es N/S E/W
+    if (latitudZona>=0) nombreFichero+="N"+latitudZona;
+    else nombreFichero+="S"+Math.abs(latitudZona);
+    if (longitudZona>=0) nombreFichero+="E"+longitudZona;
+    else nombreFichero+="W"+Math.abs (longitudZona);
+    nombreFichero+=".xml";
+    return nombreFichero;
+
+ }
 
 function cambiaPosicion(newLatitud, newLongitud)
 {
@@ -304,20 +348,27 @@ function cambiaPosicion(newLatitud, newLongitud)
     console.log("CambiaPosicion: "+ newLatitud+","+newLongitud);
     if (miZona.localidadActual)
     {   // si ya hay una localidad actual, y seguimos en el entorno, no hacemos nada
-        if (miZona.localidadActual.puntoEnEntorno(newLatitud, newLongitud)) return;
+        if (miZona.localidadActual.puntoEnEntorno(newLatitud, newLongitud)) 
+               return;
     }
     
-    //solo cambiaremos la localidad actual si encontramos otra en el entorno del punto
-    // para eso no queda mas remedio que recorrer todas las localidades de la zona
-    var localidadActual=miZona.buscaLocalidadEnEntorno(newLatitud, newLongitud);
-    if (localidadActual){ 
-       //necesitamos cambiar la localidad actual.
-       //if(miZona.localidadActual) miZona.localidadActual.desanimaMarcadores();
-       miZona.localidadActual=localidadActual;
-       //miZona.localidadActual.animaMarcadores();
-       habla(miZona.localidadActual.generaSpeech());
-    }
-    //TODO: aun podría ser el caso un cambio de zona, que por el momento no vamos a tratar
+    // SI EL PUNTO ESTA EN LA ZONA, BUSCAMOS LOCALIDAD EN ENTORNO
+    if (miZona.puntoEnZona(newLatitud, newLongitud))
+    {
+        var localidadActual=miZona.buscaLocalidadEnEntorno(newLatitud, newLongitud);
+        if (localidadActual){ 
+           //necesitamos cambiar la localidad actual.
+           //if(miZona.localidadActual) miZona.localidadActual.desanimaMarcadores();
+           miZona.localidadActual=localidadActual;
+           //miZona.localidadActual.animaMarcadores();
+           habla(miZona.localidadActual.generaSpeech());
+        }
+     } else {
+          // el punto ni siquiera está en la zona. hay que cargar zona nueva de forma asincrona.
+          // y esperar a que la nueva geolocalizacion vuelva a llamar a esta funcion
+          asyncCargaXMLZona(newLatitud, newLongitud);
+     }
+       
 
 }//function cambiaPosicion
 
@@ -363,20 +414,34 @@ function puntoEnCirculo(puntoLat, puntoLong, circuloLat, circuloLong, circuloRad
 /////////////////////////////////////////////////////////////////
 ///// SONIDO SINTETICO
 function habla(text) {
+
+    window.speechSynthesis.cancel(); //hacer que pare la anterior locución si es que había
     // Create a new instance of SpeechSynthesisUtterance.
 	var msg = new SpeechSynthesisUtterance();
-  
-    // Set the text.
-	msg.text = text;
-  
-    // Set the attributes.
-	msg.volume = 1.0;
+    msg.text = text;
+   	msg.volume = 1.0;
 	msg.rate = 1.0;
 	msg.pitch = 1.0;
   
     // uso la voz que mejor funciona sin conexión -native- para optimizar el consumo de datos
-	msg.voice = speechSynthesis.getVoices().filter(function(voice) { return voice.name == "native"; })[0];
-	console.log(msg); 
-    window.speechSynthesis.cancel(); //hacer que pare la anterior locución si es que había
-	window.speechSynthesis.speak(msg);
+	//msg.voice = window.speechSynthesis.getVoices().filter(function(voice) { return voice.name == "native"; })[0];
+    // TODO: NINGUNA DE ESTAS FORMAS DE ASIGNAR LA VOZ FUNCIONA REALMENTE, VER QUE PASA msg.voice sigue siendo null
+    // podría ser un problema de inicializacion, que se resolviera cargando mas tarde el mensaje
+    var listaVoces= speechSynthesis.getVoices();
+    console.log("extrayendo lista voces");
+    console.log(listaVoces);
+    console.log(listaVoces.length);
+    console.log(listaVoces[0]);
+
+    for (var i=0; i<listaVoces.length; i++)
+    {
+       if (listaVoces[i].localService) {
+          msg.voice=listaVoces[i];
+          console.log(listaVoces[i]);
+          break;   
+       }
+    }
+   
+    console.log(msg); 
+    	window.speechSynthesis.speak(msg);
 }

@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<zona>
+  <centro>29 -18</centro>
+  <localidad>
+    <nombre>Fuencaliente de la Palma</nombre>
+    <IdProvincia>41</IdProvincia>
+    <ID>262</ID>
+    <latitud>28.4885</latitud>
+    <longitud>-17.84942</longitud>
+    <fosa>
+      <numRegistro>2415/2011 TENE</numRegistro>
+      <denominacionFosa>Fosa en la vaguada del Alcalde</denominacionFosa>
+      <tipoFosa>FUSILAMIENTO</tipoFosa>
+      <estadoActual>EXHUMADA TOTAL</estadoActual>
+      <numeroPersonasFosa>5</numeroPersonasFosa>
+      <entidadInformante>Agrupación de Familiares de Desaparecidos de La Palma</entidadInformante>
+      <observaciones>En el año 1994, en el pinar de Fuencaliente, municipio de la isla de La Palma, a iniciativa de familiares de uno de los desaparecidos se recuperaron los restos de cinco personas que fueron ejecutadas en los primeros meses de la Guerra Civil, entre noviembre de 1936 y marzo de 1937. La fosa se localizaba en el paraje conocido como Vaguada del Alcalde, a unos 100 metros por encima de la carretera LP-1 que une Santa Cruz de La Palma y Fuencaliente, en un punto intermedio entre los Km. 24 y 25. Como referencia para su localización se utiliza la presencia de un gran pino denominado popularmente como el "Pino del Consuelo", situado en la margen derecha de la carretera que marca el punto desde donde se debe ascender. Tras el hallazgo de los restos, se notificó a las autoridades (Juzgado de Instrucción 2 de Llanos de Aridane, y Guardía Civil) y se realizó la exhumación. Una vez identificadas las víctimas, los restos fueron entregados a sus familiares.</observaciones>
+      <IdLocalidad>262</IdLocalidad>
+      <victima>
+        <nombre>Francisco</nombre>
+        <apellido1>Rodríguez</apellido1>
+        <apellido2>Betancor</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>2415/2011 TENE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>José</nombre>
+        <apellido1>Ruperto</apellido1>
+        <apellido2>León</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>2415/2011 TENE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Antonio</nombre>
+        <apellido1>Fernández</apellido1>
+        <apellido2>Acosta</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>2415/2011 TENE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Manuel</nombre>
+        <apellido1>Peña</apellido1>
+        <apellido2>Desconocido</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>2415/2011 TENE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Antonio</nombre>
+        <apellido1>Hernández</apellido1>
+        <apellido2>González</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>2415/2011 TENE</numRegistro>
+      </victima>
+    </fosa>
+    <fosa>
+      <numRegistro>2416/2011 TENE</numRegistro>
+      <denominacionFosa>Fosa de los 13 de Fuencaliente</denominacionFosa>
+      <estadoActual>EXHUMADA TOTAL</estadoActual>
+      <numeroPersonasFosa>13</numeroPersonasFosa>
+      <numeroPersonasExhumadas>13</numeroPersonasExhumadas>
+      <numeroPersonasIdentificadas>13</numeroPersonasIdentificadas>
+      <entidadInformante>Agrupación de Familiares de Desaparecidos de La Palma</entidadInformante>
+      <observaciones>En el pinar de Fuencaliente, municipio de la isla de La Palma, cerca de la Fosa de la Vaguada del Alcalde (exhumada en 1994) se localizó otra fosa común en el año 2005, donde se creía que podían haber sido enterrados un grupo de desaparecidos conocido como "los 13 de Fuencaliente", detenidos en enero de 1937 y encarcelados en el Cuartel de San Francisco, para posteriormente ser llevados a algún punto del pinar para ser ejecutados. En septiembre de 2006, con autorización judicial y la colaboración de la Consejería de Cultura y Patrimonio y del Cabildo de La Palma, se realizó la exhumación de restos de 6 víctimas. En 2007, en la parte inferior de la vaguada se localizaron los restos de otras 2 víctimas. Se dispone de un listado de las trece personas desaparecidas.</observaciones>
+      <IdLocalidad>262</IdLocalidad>
+      <victima>
+        <nombre>Miguel</nombre>
+        <apellido1>Hernández</apellido1>
+        <apellido2>Hernández</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>2416/2011 TENE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Floreal</nombre>
+        <apellido1>Rodríguez</apellido1>
+        <apellido2>Pérez</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>2416/2011 TENE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Víctor</nombre>
+        <apellido1>Ferraz</apellido1>
+        <apellido2>Armas</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>2416/2011 TENE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Sabino</nombre>
+        <apellido1>Pérez</apellido1>
+        <apellido2>García</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>2416/2011 TENE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Dionisio</nombre>
+        <apellido1>Hernández</apellido1>
+        <apellido2>Hernández</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>2416/2011 TENE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Vidal</nombre>
+        <apellido1>Felipe</apellido1>
+        <apellido2>Hernández</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>2416/2011 TENE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Antonio</nombre>
+        <apellido1>Hernández</apellido1>
+        <apellido2>Guerra</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>2416/2011 TENE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Eustaquio</nombre>
+        <apellido1>Rodríguez</apellido1>
+        <apellido2>Cabrera</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>2416/2011 TENE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Manuel</nombre>
+        <apellido1>Camacho</apellido1>
+        <apellido2>Lorenzo</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>2416/2011 TENE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Dionisio</nombre>
+        <apellido1>Hernández</apellido1>
+        <apellido2>Cabrera</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>2416/2011 TENE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Aniceto</nombre>
+        <apellido1>Rodríguez</apellido1>
+        <apellido2>Pérez</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>2416/2011 TENE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Segundo</nombre>
+        <apellido1>Rodríguez</apellido1>
+        <apellido2>Pérez</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>2416/2011 TENE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Angel</nombre>
+        <apellido1>Hernández</apellido1>
+        <apellido2>Hernández</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>2416/2011 TENE</numRegistro>
+      </victima>
+    </fosa>
+  </localidad>
+</zona>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<zona>
+  <centro>39 -8</centro>
+  <localidad>
+    <nombre>Alburquerque</nombre>
+    <IdProvincia>8</IdProvincia>
+    <ID>506</ID>
+    <latitud>39.21936</latitud>
+    <longitud>-7.001317</longitud>
+    <fosa>
+      <numRegistro>362/2009 BADA</numRegistro>
+      <denominacionFosa>Fosa común de la mina Valdihuelo</denominacionFosa>
+      <tipoFosa>REPRESALIA EN RETAGUARDIA</tipoFosa>
+      <estadoActual>EXHUMADA TOTAL</estadoActual>
+      <entidadPromotora>Asociación para la Recuperación de la Memoria Histórica de Extremadura</entidadPromotora>
+      <entidadInformante>Junta de Extremadura. Consejería de Cultura y Turismo. Proyecto para la Recuperación de la Memoria Histórica de Extremadura</entidadInformante>
+      <observaciones>Los restos humanos hallados en esta fosa, un pozo minero de 12 metros de profundidad, fueron exhumados en verano de 2003, mezclados con muchísimos huesos de animales que habían sido arrojados encima de las víctimas. Los estudios historiográficos y paleopatológicos no han sido capaces de determinar con exactitud a cuantas personas pertenecían. La clasificación y separación de los restos necesitó más de dos años y nunca fue posible practicar las pruebas de ADN para la identificación de las víctimas debido al deterioro de los huesos. En esta mina fueron enterradas numerosas víctimas de Alburquerque, Villar del Rey y San Vicente de Alcántara. En diciembre de 2008 fueron incinerados los restos que correspondían a 16 cuerpos y fueron entregados a representantes de esos tres municipios.</observaciones>
+      <IdLocalidad>506</IdLocalidad>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Alconchel</nombre>
+    <IdProvincia>8</IdProvincia>
+    <ID>507</ID>
+    <latitud>38.51668</latitud>
+    <longitud>-7.070871</longitud>
+    <fosa>
+      <numRegistro>2276/2010 BADA</numRegistro>
+      <denominacionFosa>Fosas de Alconchel</denominacionFosa>
+      <estadoActual>EXHUMADA TOTAL</estadoActual>
+      <entidadInformante>Junta de Extremadura. Consejería de Cultura y Turismo. Proyecto para la Recuperación de la Memoria Histórica de Extremadura</entidadInformante>
+      <observaciones>En septiembre de 1981 se adopta un acuerdo municipal para exhumar los restos de las víctimas del franquismo y erigir un mausoleo en su memoria. La mayoria de estas víctimas se encontraban enterradas en dos fosas comunes perfectamente localizadas según los testimonios del pueblo.</observaciones>
+      <IdLocalidad>507</IdLocalidad>
+    </fosa>
+  </localidad>
+</zona>

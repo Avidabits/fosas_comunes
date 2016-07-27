@@ -1,0 +1,1777 @@
+<?xml version="1.0" encoding="utf-8"?>
+<zona>
+  <centro>41 -6</centro>
+  <localidad>
+    <nombre>Villasbuenas de Gata</nombre>
+    <IdProvincia>11</IdProvincia>
+    <ID>100</ID>
+    <latitud>40.1794</latitud>
+    <longitud>-6.625679</longitud>
+    <fosa>
+      <numRegistro>2288/2010 CACE</numRegistro>
+      <denominacionFosa>Fosas en el paraje La Charca de la Gitana</denominacionFosa>
+      <estadoActual>EXHUMADA TOTAL</estadoActual>
+      <entidadInformante>Junta de Extremadura. Consejería de Cultura y Turismo. Proyecto para la Recuperación de la Memoria Histórica de Extremadura</entidadInformante>
+      <observaciones>En la localidad de Villasbuenas de Gata se han localizado varias fosas cerca de la carretera Ex-205, que llega desde Hoyos y continúa hasta Santibañez. En el paraje conocido como La Charca de la Gitana, junto a un olivo, los testimonios hablaban del enterramiento de cuatro víctimas. Parece ser que una de las víctimas, alcalde republicano del pueblo, fue exhumada por su hijo y enterrado en el cementerio. De otra víctima, hermano del anterior, no se han encontrado restos  aunque se sospecha que las obras de ampliación y reforma de la carretera puedan haber cubierto su enterramiento. Las prospecciones realizadas han localizado dos fosas que contenían los restos de una mujer (conocida como "la cubana" por haber emigrado allí) y de un jóven.</observaciones>
+      <IdLocalidad>100</IdLocalidad>
+    </fosa>
+    <fosa>
+      <numRegistro>2289/2010 CACE</numRegistro>
+      <denominacionFosa>Fosa en el paraje Los Romeros</denominacionFosa>
+      <tipoFosa>FUSILAMIENTO</tipoFosa>
+      <fechaFosa>28/09/1936</fechaFosa>
+      <estadoActual>EXHUMADA TOTAL</estadoActual>
+      <numeroPersonasFosa>2</numeroPersonasFosa>
+      <numeroPersonasIdentificadas>2</numeroPersonasIdentificadas>
+      <entidadInformante>Junta de Extremadura. Consejería de Cultura y Turismo. Proyecto para la Recuperación de la Memoria Histórica de Extremadura</entidadInformante>
+      <observaciones>En la localidad de Villasbuenas de Gata se han localizado varias fosas cerca de la carretera Ex-205, que llega desde Hoyos y continúa hasta Santibañez. En el paraje conocido como Los Romeros se ha localizado una fosa con los restos de dos hombres, vecinos del pueblo salmantino de Robleda, apenas a 20 km de Villasbuenas. Fueron llevados allí para ser asesinados el 28 de septiembre de 1936.</observaciones>
+      <IdLocalidad>100</IdLocalidad>
+      <victima>
+        <nombre>José</nombre>
+        <apellido1>Prieto</apellido1>
+        <apellido2>Martín</apellido2>
+        <sexo>M</sexo>
+        <edad>29</edad>
+        <localidadResidencia>Robleda</localidadResidencia>
+        <profesion>transportista</profesion>
+        <otrosDatos>Conocido con el apodo de "Camioneto", por llevar y traer mercancias en un camión y por tener un socio en Villasbuenas al que dejaba algunos productos para que éste los vendiera.</otrosDatos>
+        <fechaFallecimiento>28/09/1936</fechaFallecimiento>
+        <numRegistro>2289/2010 CACE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Eduardo</nombre>
+        <apellido1>Gutierrez</apellido1>
+        <apellido2>Roncero</apellido2>
+        <sexo>M</sexo>
+        <edad>29</edad>
+        <localidadResidencia>Robleda</localidadResidencia>
+        <numRegistro>2289/2010 CACE</numRegistro>
+      </victima>
+    </fosa>
+    <fosa>
+      <numRegistro>2290/2010 CACE</numRegistro>
+      <denominacionFosa>Fosa en el paraje Los Barrancos</denominacionFosa>
+      <tipoFosa>FUSILAMIENTO</tipoFosa>
+      <estadoActual>EXHUMADA TOTAL</estadoActual>
+      <entidadInformante>Junta de Extremadura. Consejería de Cultura y Turismo. Proyecto para la Recuperación de la Memoria Histórica de Extremadura</entidadInformante>
+      <observaciones>En la localidad de Villasbuenas de Gata se han localizado varias fosas cerca de la carretera Ex-205, que llega desde Hoyos y continúa hasta Santibañez. En el paraje conocido como Los Barrancos, cerca de La Fatela, existe otra fosa en la que se han recuperados dos cuerpos, uno de ellos con los pies rodeados por un alambre. Se piensa que las víctimas pudieran ser dos hermanos que procedían de San Martín de Trevejo.</observaciones>
+      <IdLocalidad>100</IdLocalidad>
+    </fosa>
+    <fosa>
+      <numRegistro>2291/2010 CACE</numRegistro>
+      <denominacionFosa>Fosa en el paraje valle Horno</denominacionFosa>
+      <estadoActual>EXHUMADA TOTAL</estadoActual>
+      <entidadInformante>Junta de Extremadura. Consejería de Cultura y Turismo. Proyecto para la Recuperación de la Memoria Histórica de Extremadura</entidadInformante>
+      <observaciones>También en las cercanías de la carretera Ex-205 que pasa por esta localidad, en el paraje conocido como Valle Horno, se ha localizado otra fosa de la que se han exhumado los restos de un hombre. Se cree que la víctima era el padre de los dos hermanos cuyos cuerpos se recuperaron en la fosa del paraje de Los Barrancos, y que su muerte ocurrió años después, en 1941, al llegar al pueblo haciendo preguntas sobre el lugar en que pudieran estar enterrados sus hijos.</observaciones>
+      <IdLocalidad>100</IdLocalidad>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Candeleda</nombre>
+    <IdProvincia>7</IdProvincia>
+    <ID>199</ID>
+    <latitud>40.15509</latitud>
+    <longitud>-5.239784</longitud>
+    <fosa>
+      <numRegistro>1806/2010 AVIL</numRegistro>
+      <denominacionFosa>Fosa en el paraje de 'La Cuesta del Avión'</denominacionFosa>
+      <tipoFosa>REPRESALIA EN RETAGUARDIA</tipoFosa>
+      <fechaFosa>05/10/1936</fechaFosa>
+      <estadoActual>EXHUMADA TOTAL</estadoActual>
+      <numeroPersonasFosa>7</numeroPersonasFosa>
+      <numeroPersonasExhumadas>7</numeroPersonasExhumadas>
+      <numeroPersonasIdentificadas>7</numeroPersonasIdentificadas>
+      <entidadPromotora>Familiares / ARMH</entidadPromotora>
+      <entidadInformante>Asociación para la Recuperación de la Memoria Histórica</entidadInformante>
+      <observaciones>La fosa se encuentra a pocos metros de la carretera en el paraje de "la Cuesta del Avión" y su existencia se conoció por el testimonio de un pastor que presenció el enterramiento de las víctimas cuando tenía 12 años. Las víctimas eran siete vecinos de la cercana localidad de Poyales del Hoyo que fueron asesinados de un tiro en la cabeza. Por deseo de los familiares, las víctimas fueron enterradas dignamente de forma conjunta en una sepultura facilitada por el Ayuntamiento de Pyales del Hoyo. Se da la circunstancia de que las prospecciones y catas fueron llevadas a cabo en enero de 2010 por Foro por la Memoria y la exhumación ha sido finalmente acometida el 16 mayo de 2010 por la Asociación para la Recuperación de la Memoria Histórica.</observaciones>
+      <IdLocalidad>199</IdLocalidad>
+      <victima>
+        <nombre>Régulo</nombre>
+        <apellido1>Martín</apellido1>
+        <apellido2>Plaza</apellido2>
+        <sexo>M</sexo>
+        <edad>36</edad>
+        <otrosDatos>Hijo de otra de las víctimas: Francisco Martín Vélez</otrosDatos>
+        <fechaFallecimiento>05/10/1936</fechaFallecimiento>
+        <fechaExhumación>17/05/2010</fechaExhumación>
+        <numRegistro>1806/2010 AVIL</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Francisco</nombre>
+        <apellido1>Martín</apellido1>
+        <apellido2>Vélez</apellido2>
+        <sexo>M</sexo>
+        <edad>69</edad>
+        <fechaFallecimiento>05/10/1936</fechaFallecimiento>
+        <fechaExhumación>17/05/2010</fechaExhumación>
+        <numRegistro>1806/2010 AVIL</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Ceferino</nombre>
+        <apellido1>Gómez</apellido1>
+        <apellido2>Díaz</apellido2>
+        <sexo>M</sexo>
+        <edad>82</edad>
+        <fechaFallecimiento>05/10/1936</fechaFallecimiento>
+        <fechaExhumación>17/05/2010</fechaExhumación>
+        <numRegistro>1806/2010 AVIL</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Tomasa</nombre>
+        <apellido1>Peña, de la</apellido1>
+        <apellido2>García</apellido2>
+        <sexo>F</sexo>
+        <edad>62</edad>
+        <fechaFallecimiento>05/10/1936</fechaFallecimiento>
+        <fechaExhumación>17/05/2010</fechaExhumación>
+        <numRegistro>1806/2010 AVIL</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Emilio</nombre>
+        <apellido1>García</apellido1>
+        <apellido2>Hornillo</apellido2>
+        <sexo>M</sexo>
+        <edad>34</edad>
+        <fechaFallecimiento>05/10/1936</fechaFallecimiento>
+        <fechaExhumación>17/05/2010</fechaExhumación>
+        <numRegistro>1806/2010 AVIL</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Tomás</nombre>
+        <apellido1>Retamal</apellido1>
+        <apellido2>Vicente</apellido2>
+        <sexo>M</sexo>
+        <edad>33</edad>
+        <fechaFallecimiento>05/10/1936</fechaFallecimiento>
+        <fechaExhumación>17/05/2010</fechaExhumación>
+        <numRegistro>1806/2010 AVIL</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Benjamín</nombre>
+        <apellido1>Gómez</apellido1>
+        <apellido2>Peña, de la</apellido2>
+        <sexo>M</sexo>
+        <edad>24</edad>
+        <otrosDatos>Hijo de Ceferino y Tomasa, también enterrados en la fosa</otrosDatos>
+        <fechaFallecimiento>05/10/1936</fechaFallecimiento>
+        <fechaExhumación>17/05/2010</fechaExhumación>
+        <numRegistro>1806/2010 AVIL</numRegistro>
+      </victima>
+    </fosa>
+    <fosa>
+      <numRegistro>2341/2011 AVIL</numRegistro>
+      <denominacionFosa>Fosa en la curva del Esparragal</denominacionFosa>
+      <tipoFosa>FUSILAMIENTO</tipoFosa>
+      <fechaFosa>29/12/1936</fechaFosa>
+      <estadoActual>EXHUMADA TOTAL</estadoActual>
+      <numeroPersonasFosa>3</numeroPersonasFosa>
+      <numeroPersonasExhumadas>3</numeroPersonasExhumadas>
+      <numeroPersonasIdentificadas>3</numeroPersonasIdentificadas>
+      <entidadPromotora>Familiares / ARMH / Sociedad de Ciencias Aranzadi</entidadPromotora>
+      <entidadInformante>Sociedad de Ciencias Aranzadi</entidadInformante>
+      <observaciones>La fosa está situada a las afueras de Candeleda, en dirección a Poyales del Hoyo, en el paraje conocido por los vecinos como "la curva del esparragal", en un camino hoy asfaltado que sale a la izquierda de la carretera C-501. El 29 de diciembre de 1936 un retén de Falange sacó de sus domicilios a cuatro mujeres de Poyales y las montaron en una camioneta hasta ese lugar. Unos metros antes, obligaron a la menor de ellas a bajarse y volver andando. Las tres mujeres restantes fueron fusiladas en el talud izquierdo del camino y abandonadas allí, hasta que un vecino las enterró en el lado opuesto a donde se produjo el fusilamiento. Los restos de las tres mujeres fueron exhumados en octubre de 2002 y enterrados en una sepultura cedida por el Ayuntamiento de Poyales del Hoyo.</observaciones>
+      <IdLocalidad>199</IdLocalidad>
+      <victima>
+        <nombre>Virtudes</nombre>
+        <apellido1>De la Puente</apellido1>
+        <apellido2>Pérez</apellido2>
+        <sexo>F</sexo>
+        <edad>53</edad>
+        <localidadResidencia>Poyales del Hoyo</localidadResidencia>
+        <numRegistro>2341/2011 AVIL</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Pilar</nombre>
+        <apellido1>Espinosa</apellido1>
+        <apellido2>Carrasco</apellido2>
+        <sexo>F</sexo>
+        <edad>43</edad>
+        <localidadResidencia>Poyales del Hoyo</localidadResidencia>
+        <numRegistro>2341/2011 AVIL</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Valeriana</nombre>
+        <apellido1>Granada</apellido1>
+        <sexo>F</sexo>
+        <edad>26</edad>
+        <localidadResidencia>Poyales del Hoyo</localidadResidencia>
+        <numRegistro>2341/2011 AVIL</numRegistro>
+      </victima>
+    </fosa>
+    <fosa>
+      <numRegistro>708/2009 AVIL</numRegistro>
+      <denominacionFosa>Fosa en la Pradera de los Carreteros</denominacionFosa>
+      <estadoActual>NO INTERVENIDA</estadoActual>
+      <numeroPersonasFosa>1</numeroPersonasFosa>
+      <numeroPersonasExhumadas>5</numeroPersonasExhumadas>
+      <entidadPromotora>Foro por la Memoria</entidadPromotora>
+      <entidadInformante>Foro por la Memoria</entidadInformante>
+      <observaciones>La fosa estaría ubicada en el paraje conocido como la Pradera de los Carreteros, en el Km 3 de la C-501. Se cree que podría contener los restos de 4 ó 5 personas muertas violentamente en agosto de 1936.</observaciones>
+      <IdLocalidad>199</IdLocalidad>
+      <victima>
+        <nombre>Nazario</nombre>
+        <apellido1>Martínez</apellido1>
+        <apellido2>Guerra</apellido2>
+        <sexo>M</sexo>
+        <fechaFallecimiento>01/08/1936</fechaFallecimiento>
+        <numRegistro>708/2009 AVIL</numRegistro>
+      </victima>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Ferreruela</nombre>
+    <IdProvincia>51</IdProvincia>
+    <ID>256</ID>
+    <latitud>41.76718</latitud>
+    <longitud>-6.071509</longitud>
+    <fosa>
+      <numRegistro>821/2009 ZAMO</numRegistro>
+      <denominacionFosa>NO CONSTA</denominacionFosa>
+      <estadoActual>TRASLADADA AL VALLE DE LOS CAÍDOS</estadoActual>
+      <numeroPersonasFosa>1</numeroPersonasFosa>
+      <numeroPersonasExhumadas>1</numeroPersonasExhumadas>
+      <numeroPersonasIdentificadas>1</numeroPersonasIdentificadas>
+      <entidadInformante>Patrimonio Nacional</entidadInformante>
+      <observaciones>Trasladada al Valle de los Caídos con la fecha/s:22/03/1959</observaciones>
+      <IdLocalidad>256</IdLocalidad>
+      <victima>
+        <nombre>Vicente</nombre>
+        <apellido1>Álvarez</apellido1>
+        <apellido2>Narciso</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>821/2009 ZAMO</numRegistro>
+      </victima>
+    </fosa>
+    <fosa>
+      <numRegistro>822/2009 ZAMO</numRegistro>
+      <denominacionFosa>Sesnández de Tábara</denominacionFosa>
+      <estadoActual>TRASLADADA AL VALLE DE LOS CAÍDOS</estadoActual>
+      <numeroPersonasFosa>1</numeroPersonasFosa>
+      <numeroPersonasExhumadas>1</numeroPersonasExhumadas>
+      <numeroPersonasIdentificadas>1</numeroPersonasIdentificadas>
+      <entidadInformante>Patrimonio Nacional</entidadInformante>
+      <observaciones>Trasladada al Valle de los Caídos con la fecha/s:22/03/1959</observaciones>
+      <IdLocalidad>256</IdLocalidad>
+      <victima>
+        <nombre>Domingo</nombre>
+        <apellido1>Ratón</apellido1>
+        <apellido2>Ratón</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>822/2009 ZAMO</numRegistro>
+      </victima>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Navalcán</nombre>
+    <IdProvincia>47</IdProvincia>
+    <ID>368</ID>
+    <latitud>40.06983</latitud>
+    <longitud>-5.092264</longitud>
+    <fosa>
+      <numRegistro>2160/2010 TOLE</numRegistro>
+      <denominacionFosa>Fosas en parajes Dehesa Nueva y Cañada de Calabazas</denominacionFosa>
+      <tipoFosa>FUSILAMIENTO</tipoFosa>
+      <estadoActual>EXHUMADA TOTAL</estadoActual>
+      <numeroPersonasFosa>6</numeroPersonasFosa>
+      <numeroPersonasExhumadas>6</numeroPersonasExhumadas>
+      <numeroPersonasIdentificadas>6</numeroPersonasIdentificadas>
+      <entidadPromotora>Asociación para la Recuperación de la Memoria Histórica / Sociedad de Ciencias Aranzadi</entidadPromotora>
+      <entidadInformante>Asociación para la Recuperación de la Memoria Histórica</entidadInformante>
+      <observaciones>En agosto de 2006 fueron exhumadas dos fosas en los parajes de la Dehesa Nueva y la Cañada de Calabazas, cerca de otra fosa exhumada en Parrillas, recuperándose los restos de cinco víctimas; tres en una fosa y dos en otra. La cantidad de restos hallada ha sido escasa debido a la acidez de la tierra y del agua en esa zona. Para el mes de octubre de 2010 está previsto realizar un acto simbólico para devolver los restos a sus familias.</observaciones>
+      <IdLocalidad>368</IdLocalidad>
+      <victima>
+        <nombre>Joaquín</nombre>
+        <apellido1>Sánchez</apellido1>
+        <apellido2>Urdiales</apellido2>
+        <sexo>M</sexo>
+        <edad>38</edad>
+        <otrosDatos>pertenecía a la familia "Matancha"</otrosDatos>
+        <numRegistro>2160/2010 TOLE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Juan</nombre>
+        <apellido1>García</apellido1>
+        <apellido2>Blanco</apellido2>
+        <sexo>M</sexo>
+        <edad>41</edad>
+        <otrosDatos>perteneciente a la familia "Repica"</otrosDatos>
+        <numRegistro>2160/2010 TOLE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>José</nombre>
+        <apellido1>Cepeda</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>2160/2010 TOLE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Gregorio</nombre>
+        <apellido1>Muñoz</apellido1>
+        <sexo>M</sexo>
+        <edad>30</edad>
+        <otrosDatos>de la familia "Pirollo"</otrosDatos>
+        <numRegistro>2160/2010 TOLE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Lázaro</nombre>
+        <apellido1>Rodríguez</apellido1>
+        <apellido2>Muñoz</apellido2>
+        <sexo>M</sexo>
+        <edad>30</edad>
+        <numRegistro>2160/2010 TOLE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Mariano</nombre>
+        <apellido1>Rodríguez</apellido1>
+        <apellido2>Muñoz</apellido2>
+        <sexo>M</sexo>
+        <edad>27</edad>
+        <numRegistro>2160/2010 TOLE</numRegistro>
+      </victima>
+    </fosa>
+    <fosa>
+      <numRegistro>540/2009 TOLE</numRegistro>
+      <denominacionFosa>Dentro de la Dehesa de Navalcán</denominacionFosa>
+      <tipoFosa>REPRESALIA EN RETAGUARDIA</tipoFosa>
+      <numeroPersonasExhumadas>2</numeroPersonasExhumadas>
+      <numeroPersonasIdentificadas>1</numeroPersonasIdentificadas>
+      <entidadInformante>Foro por la Memoria</entidadInformante>
+      <observaciones>Término municipal de Navalcán (Toledo), a la altura del km. 11/12 de la carretera TO-1291, dentro de la llamada Dehesa de Navalcán (sentido dirección derecha). La fosa fue intervenida a petición el nieto.Al parecer no se encuentran los restos.</observaciones>
+      <IdLocalidad>368</IdLocalidad>
+    </fosa>
+    <fosa>
+      <numRegistro>541/2009 TOLE</numRegistro>
+      <denominacionFosa>Fosa bajo las aguas del pantano de Navalcán</denominacionFosa>
+      <tipoFosa>REPRESALIA EN RETAGUARDIA</tipoFosa>
+      <estadoActual>DESAPARECIDA</estadoActual>
+      <numeroPersonasExhumadas>1</numeroPersonasExhumadas>
+      <entidadInformante>Foro por la Memoria</entidadInformante>
+      <observaciones>En el termino municipal de Navalcán (Toledo), carretera TO-1291 - km. 12/13, en el pantano de Navalcán, en la antigua carretera hoy bajo las aguas de dicho pantano se tiene noticas de la existencia de una fosa donde fue enterrado un hombre. Dadas las condiciones es prácticamente imposible la intervención.</observaciones>
+      <IdLocalidad>368</IdLocalidad>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Salamanca</nombre>
+    <IdProvincia>40</IdProvincia>
+    <ID>437</ID>
+    <latitud>40.96497</latitud>
+    <longitud>-5.663047</longitud>
+    <fosa>
+      <numRegistro>1198/2009 SALA</numRegistro>
+      <denominacionFosa>NO CONSTA</denominacionFosa>
+      <estadoActual>TRASLADADA AL VALLE DE LOS CAÍDOS</estadoActual>
+      <numeroPersonasFosa>5</numeroPersonasFosa>
+      <numeroPersonasExhumadas>5</numeroPersonasExhumadas>
+      <numeroPersonasIdentificadas>5</numeroPersonasIdentificadas>
+      <entidadInformante>Patrimonio Nacional</entidadInformante>
+      <observaciones>Trasladada al Valle de los Caídos con la fecha/s:26/05/1959</observaciones>
+      <IdLocalidad>437</IdLocalidad>
+      <victima>
+        <nombre>Jesús</nombre>
+        <apellido1>Moro</apellido1>
+        <apellido2>Hernández</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1198/2009 SALA</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Victorio</nombre>
+        <apellido1>Rodríguez</apellido1>
+        <apellido2>Corral</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1198/2009 SALA</numRegistro>
+      </victima>
+      <victima>
+        <nombre>José</nombre>
+        <apellido1>Prieto</apellido1>
+        <apellido2>Barragués</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1198/2009 SALA</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Aquilino</nombre>
+        <apellido1>Rollán</apellido1>
+        <apellido2>Blazques</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1198/2009 SALA</numRegistro>
+      </victima>
+      <victima>
+        <nombre>José</nombre>
+        <apellido1>García</apellido1>
+        <apellido2>García</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1198/2009 SALA</numRegistro>
+      </victima>
+    </fosa>
+    <fosa>
+      <numRegistro>792/2009 SALA</numRegistro>
+      <denominacionFosa>NO CONSTA</denominacionFosa>
+      <estadoActual>TRASLADADA AL VALLE DE LOS CAÍDOS</estadoActual>
+      <numeroPersonasFosa>1</numeroPersonasFosa>
+      <numeroPersonasExhumadas>1</numeroPersonasExhumadas>
+      <numeroPersonasIdentificadas>1</numeroPersonasIdentificadas>
+      <entidadInformante>Patrimonio Nacional</entidadInformante>
+      <observaciones>Trasladada al Valle de los Caídos con la fecha/s:18/03/1959</observaciones>
+      <IdLocalidad>437</IdLocalidad>
+      <victima>
+        <nombre>Lisardo</nombre>
+        <apellido1>Sánchez</apellido1>
+        <apellido2>y Sánchez</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>792/2009 SALA</numRegistro>
+      </victima>
+    </fosa>
+    <fosa>
+      <numRegistro>2600/2015 SALA</numRegistro>
+      <denominacionFosa>La Orbada</denominacionFosa>
+      <estadoActual>EXHUMADA TOTAL</estadoActual>
+      <numeroPersonasExhumadas>3</numeroPersonasExhumadas>
+      <numeroPersonasIdentificadas>0</numeroPersonasIdentificadas>
+      <entidadPromotora>ASOCIACION SALAMANCA POR LA MEMORIA Y LA JUSTICIA</entidadPromotora>
+      <entidadInformante>Sociedad de Ciencias Aranzadi</entidadInformante>
+      <IdLocalidad>437</IdLocalidad>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Arenal, El</nombre>
+    <IdProvincia>7</IdProvincia>
+    <ID>485</ID>
+    <latitud>40.26487</latitud>
+    <longitud>-5.087197</longitud>
+    <fosa>
+      <numRegistro>1771/2010 AVIL</numRegistro>
+      <denominacionFosa>Fosa en El Arenal</denominacionFosa>
+      <tipoFosa>FUSILAMIENTO</tipoFosa>
+      <fechaFosa>01/11/1936</fechaFosa>
+      <estadoActual>EXHUMADA TOTAL</estadoActual>
+      <numeroPersonasFosa>3</numeroPersonasFosa>
+      <numeroPersonasExhumadas>3</numeroPersonasExhumadas>
+      <numeroPersonasIdentificadas>3</numeroPersonasIdentificadas>
+      <entidadInformante>Foro por la Memoria</entidadInformante>
+      <observaciones>En octubre de 2003 se exhumó una fosa en la que estaban enterrados los restos de tres vecinos de El Arenal, un matrimonio  y un cuñado. Parece ser que fueron fusilados el 1 de noviembre de 1936 en el paraje denominado "Alto de la Mesa" y sus cuerpos abandonados en el lugar. Su propia familia los recogíó y pudo enterrarlos en una finca de su propiedad, sin poder llevarlos al cementerio. Por ello, siempre se conocieron sus identidades y el lugar donde estaban los restos. Tras su exhumación han sido enterrados de nuevo en el cementerio de la localidad.</observaciones>
+      <IdLocalidad>485</IdLocalidad>
+      <victima>
+        <nombre>Juana</nombre>
+        <apellido1>Chozas</apellido1>
+        <apellido2>Chozas</apellido2>
+        <sexo>F</sexo>
+        <fechaFallecimiento>01/11/1936</fechaFallecimiento>
+        <numRegistro>1771/2010 AVIL</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Julián</nombre>
+        <apellido1>Palomo</apellido1>
+        <apellido2>Chinarro</apellido2>
+        <sexo>M</sexo>
+        <fechaFallecimiento>01/11/1936</fechaFallecimiento>
+        <numRegistro>1771/2010 AVIL</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Mariano</nombre>
+        <apellido1>Cortazar</apellido1>
+        <apellido2>Navarro</apellido2>
+        <sexo>M</sexo>
+        <fechaFallecimiento>01/11/1936</fechaFallecimiento>
+        <numRegistro>1771/2010 AVIL</numRegistro>
+      </victima>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Arenas de San Pedro</nombre>
+    <IdProvincia>7</IdProvincia>
+    <ID>486</ID>
+    <latitud>40.20872</latitud>
+    <longitud>-5.091141</longitud>
+    <fosa>
+      <numRegistro>840/2009 AVIL</numRegistro>
+      <denominacionFosa>NO CONSTA</denominacionFosa>
+      <estadoActual>TRASLADADA AL VALLE DE LOS CAÍDOS</estadoActual>
+      <numeroPersonasFosa>3</numeroPersonasFosa>
+      <numeroPersonasExhumadas>4</numeroPersonasExhumadas>
+      <numeroPersonasIdentificadas>4</numeroPersonasIdentificadas>
+      <entidadInformante>Patrimonio Nacional</entidadInformante>
+      <observaciones>Trasladada al Valle de los Caídos con la fecha/s:23/03/1959</observaciones>
+      <IdLocalidad>486</IdLocalidad>
+      <victima>
+        <nombre>Federico</nombre>
+        <apellido1>Fernández</apellido1>
+        <apellido2>González</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>840/2009 AVIL</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Luis</nombre>
+        <apellido1>Fernández</apellido1>
+        <apellido2>González</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>840/2009 AVIL</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Manuel</nombre>
+        <apellido1>Macios</apellido1>
+        <apellido2>Sánchez</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>840/2009 AVIL</numRegistro>
+      </victima>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Cepeda la Mora</nombre>
+    <IdProvincia>7</IdProvincia>
+    <ID>492</ID>
+    <latitud>40.45761</latitud>
+    <longitud>-5.048178</longitud>
+    <fosa>
+      <numRegistro>851/2009 AVIL</numRegistro>
+      <denominacionFosa>NO CONSTA</denominacionFosa>
+      <estadoActual>TRASLADADA AL VALLE DE LOS CAÍDOS</estadoActual>
+      <numeroPersonasFosa>4</numeroPersonasFosa>
+      <numeroPersonasExhumadas>4</numeroPersonasExhumadas>
+      <numeroPersonasIdentificadas>0</numeroPersonasIdentificadas>
+      <entidadInformante>Patrimonio Nacional</entidadInformante>
+      <observaciones>Trasladada al Valle de los Caídos con la fecha/s:23/03/1959</observaciones>
+      <IdLocalidad>492</IdLocalidad>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>851/2009 AVIL</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>851/2009 AVIL</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>851/2009 AVIL</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>851/2009 AVIL</numRegistro>
+      </victima>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Flores de Ávila</nombre>
+    <IdProvincia>7</IdProvincia>
+    <ID>494</ID>
+    <latitud>40.93462</latitud>
+    <longitud>-5.078152</longitud>
+    <fosa>
+      <numRegistro>845/2009 AVIL</numRegistro>
+      <denominacionFosa>NO CONSTA</denominacionFosa>
+      <estadoActual>TRASLADADA AL VALLE DE LOS CAÍDOS</estadoActual>
+      <numeroPersonasFosa>1</numeroPersonasFosa>
+      <numeroPersonasExhumadas>1</numeroPersonasExhumadas>
+      <numeroPersonasIdentificadas>1</numeroPersonasIdentificadas>
+      <entidadInformante>Patrimonio Nacional</entidadInformante>
+      <observaciones>Trasladada al Valle de los Caídos con la fecha/s:23/03/1959</observaciones>
+      <IdLocalidad>494</IdLocalidad>
+      <victima>
+        <nombre>Guillermo</nombre>
+        <apellido1>García</apellido1>
+        <apellido2>Rodríguez</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>845/2009 AVIL</numRegistro>
+      </victima>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Hornillo, El</nombre>
+    <IdProvincia>7</IdProvincia>
+    <ID>498</ID>
+    <latitud>40.24966</latitud>
+    <longitud>-5.104175</longitud>
+    <fosa>
+      <numRegistro>846/2009 AVIL</numRegistro>
+      <denominacionFosa>NO CONSTA</denominacionFosa>
+      <estadoActual>TRASLADADA AL VALLE DE LOS CAÍDOS</estadoActual>
+      <numeroPersonasFosa>1</numeroPersonasFosa>
+      <numeroPersonasExhumadas>1</numeroPersonasExhumadas>
+      <numeroPersonasIdentificadas>1</numeroPersonasIdentificadas>
+      <entidadInformante>Patrimonio Nacional</entidadInformante>
+      <observaciones>Trasladada al Valle de los Caídos con la fecha/s:23/03/1959</observaciones>
+      <IdLocalidad>498</IdLocalidad>
+      <victima>
+        <nombre>Generoso</nombre>
+        <apellido1>Pérez</apellido1>
+        <apellido2>Blázquez</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>846/2009 AVIL</numRegistro>
+      </victima>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Hoyos del Collado</nombre>
+    <IdProvincia>7</IdProvincia>
+    <ID>499</ID>
+    <latitud>40.35938</latitud>
+    <longitud>-5.201206</longitud>
+    <fosa>
+      <numRegistro>852/2009 AVIL</numRegistro>
+      <denominacionFosa>NO CONSTA</denominacionFosa>
+      <estadoActual>TRASLADADA AL VALLE DE LOS CAÍDOS</estadoActual>
+      <numeroPersonasFosa>3</numeroPersonasFosa>
+      <numeroPersonasExhumadas>3</numeroPersonasExhumadas>
+      <numeroPersonasIdentificadas>0</numeroPersonasIdentificadas>
+      <entidadInformante>Patrimonio Nacional</entidadInformante>
+      <observaciones>Trasladada al Valle de los Caídos con la fecha/s:23/03/1959</observaciones>
+      <IdLocalidad>499</IdLocalidad>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>852/2009 AVIL</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>852/2009 AVIL</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>852/2009 AVIL</numRegistro>
+      </victima>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Hoyos del Espino</nombre>
+    <IdProvincia>7</IdProvincia>
+    <ID>500</ID>
+    <latitud>40.35726</latitud>
+    <longitud>-5.173525</longitud>
+    <fosa>
+      <numRegistro>853/2009 AVIL</numRegistro>
+      <denominacionFosa>NO CONSTA</denominacionFosa>
+      <estadoActual>TRASLADADA AL VALLE DE LOS CAÍDOS</estadoActual>
+      <numeroPersonasFosa>2</numeroPersonasFosa>
+      <numeroPersonasExhumadas>2</numeroPersonasExhumadas>
+      <numeroPersonasIdentificadas>0</numeroPersonasIdentificadas>
+      <entidadInformante>Patrimonio Nacional</entidadInformante>
+      <observaciones>Trasladada al Valle de los Caídos con la fecha/s:23/03/1959</observaciones>
+      <IdLocalidad>500</IdLocalidad>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>853/2009 AVIL</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>853/2009 AVIL</numRegistro>
+      </victima>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Santa Cruz del Valle</nombre>
+    <IdProvincia>7</IdProvincia>
+    <ID>504</ID>
+    <latitud>40.25078</latitud>
+    <longitud>-5.003672</longitud>
+    <fosa>
+      <numRegistro>2518/2012 AVIL</numRegistro>
+      <denominacionFosa>Fosa en el paraje Pradera de lo Alto</denominacionFosa>
+      <tipoFosa>FUSILAMIENTO</tipoFosa>
+      <fechaFosa>19/09/1936</fechaFosa>
+      <estadoActual>NO INTERVENIDA</estadoActual>
+      <numeroPersonasFosa>5</numeroPersonasFosa>
+      <numeroPersonasExhumadas>5</numeroPersonasExhumadas>
+      <numeroPersonasIdentificadas>5</numeroPersonasIdentificadas>
+      <entidadPromotora>Foro por la Memoria del Valle del Tiétar y La Vera</entidadPromotora>
+      <entidadInformante>Foro por la Memoria</entidadInformante>
+      <observaciones>En el paraje de Pradera de lo Alto de la localidad de Santa Cruz del Valle, se encuentra localizada de una fosa común que alberga los restos de cinco hombres que fueron fusilados el 19 de septiembre de 1936. El lugar de ubicación de esta fosa siempre ha estado señalizado y dignificado por los familiares de las víctimas y está prevista la construcción de un memorial en homenaje a las víctimas allí enterradas.</observaciones>
+      <IdLocalidad>504</IdLocalidad>
+      <victima>
+        <nombre>José</nombre>
+        <apellido1>Pizarro</apellido1>
+        <apellido2>Hernández</apellido2>
+        <sexo>M</sexo>
+        <edad>62</edad>
+        <profesion>guarda forestal</profesion>
+        <otrosDatos>Natural de Zamora</otrosDatos>
+        <fechaFallecimiento>19/09/1936</fechaFallecimiento>
+        <numRegistro>2518/2012 AVIL</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Victor</nombre>
+        <apellido1>Jiménez</apellido1>
+        <apellido2>De la Iglesia</apellido2>
+        <sexo>M</sexo>
+        <edad>51</edad>
+        <profesion>labrador</profesion>
+        <otrosDatos>Casado y con seis hijos. Su hijo Agustín también está enterrado en la fosa.</otrosDatos>
+        <fechaFallecimiento>19/09/1936</fechaFallecimiento>
+        <numRegistro>2518/2012 AVIL</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Agustín</nombre>
+        <apellido1>Jiménez</apellido1>
+        <apellido2>Barbado</apellido2>
+        <sexo>M</sexo>
+        <edad>21</edad>
+        <otrosDatos>Hijo de Victor Jiménez, también enterrado en la fosa.</otrosDatos>
+        <fechaFallecimiento>19/09/1936</fechaFallecimiento>
+        <numRegistro>2518/2012 AVIL</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Santiago</nombre>
+        <apellido1>Jiménez</apellido1>
+        <apellido2>García</apellido2>
+        <sexo>M</sexo>
+        <edad>27</edad>
+        <profesion>jornalero</profesion>
+        <otrosDatos>Casado y con un hijo de 7 meses cuando fue fusilado.</otrosDatos>
+        <fechaFallecimiento>19/09/1936</fechaFallecimiento>
+        <numRegistro>2518/2012 AVIL</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Ladislao</nombre>
+        <apellido1>Jiménez</apellido1>
+        <apellido2>Sánchez</apellido2>
+        <sexo>M</sexo>
+        <edad>27</edad>
+        <profesion>jornalero</profesion>
+        <otrosDatos>Casado y con una hija de un año cuando fue fusilado.</otrosDatos>
+        <fechaFallecimiento>19/09/1936</fechaFallecimiento>
+        <numRegistro>2518/2012 AVIL</numRegistro>
+      </victima>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Cuacos de Yuste</nombre>
+    <IdProvincia>11</IdProvincia>
+    <ID>593</ID>
+    <latitud>40.10612</latitud>
+    <longitud>-5.722965</longitud>
+    <fosa>
+      <numRegistro>2563/2015 CACE</numRegistro>
+      <denominacionFosa>Cementerio Municipal de Cuacos de Yuste</denominacionFosa>
+      <estadoActual>EXHUMADA TOTAL</estadoActual>
+      <numeroPersonasFosa>1</numeroPersonasFosa>
+      <numeroPersonasExhumadas>1</numeroPersonasExhumadas>
+      <numeroPersonasIdentificadas>1</numeroPersonasIdentificadas>
+      <entidadPromotora>Familiares</entidadPromotora>
+      <entidadInformante>Junta de Extremadura. Consejería de Cultura y Turismo. Proyecto para la Recuperación de la Memoria Histórica de Extremadura</entidadInformante>
+      <observaciones>Cándido González Romero, natural de Aldeanueva de la Vera y vecino de Cuacos fue fusilado por la guardia civil tras la aplicación de la ley de fugas el 7 de marzo de 1946 tras ser detenido junto con una convecina y un médico del pueblo por dar cobijo y ayuda a un guerrillero. El cadáver fue trasladado al cementerio de la localidad de Cuacos y lo enterraron en una fosa junto a la pared derecha de la entrada.</observaciones>
+      <IdLocalidad>593</IdLocalidad>
+      <victima>
+        <nombre>CANDIDO</nombre>
+        <apellido1>GONZALEZ</apellido1>
+        <apellido2>ROMERO</apellido2>
+        <sexo>M</sexo>
+        <localidadNacimiento>Aldeanueva de la Vera</localidadNacimiento>
+        <localidadResidencia>Cuacos de Yuste</localidadResidencia>
+        <fechaFallecimiento>07/03/1946</fechaFallecimiento>
+        <numRegistro>2563/2015 CACE</numRegistro>
+      </victima>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Plasencia</nombre>
+    <IdProvincia>11</IdProvincia>
+    <ID>597</ID>
+    <latitud>40.0305</latitud>
+    <longitud>-6.088251</longitud>
+    <fosa>
+      <numRegistro>1025/2009 CACE</numRegistro>
+      <denominacionFosa>NO CONSTA</denominacionFosa>
+      <estadoActual>TRASLADADA AL VALLE DE LOS CAÍDOS</estadoActual>
+      <numeroPersonasFosa>2</numeroPersonasFosa>
+      <numeroPersonasExhumadas>2</numeroPersonasExhumadas>
+      <numeroPersonasIdentificadas>2</numeroPersonasIdentificadas>
+      <entidadInformante>Patrimonio Nacional</entidadInformante>
+      <observaciones>Trasladada al Valle de los Caídos con la fecha/s:26/03/1959,20/04/1967</observaciones>
+      <IdLocalidad>597</IdLocalidad>
+      <victima>
+        <nombre>Guillermo</nombre>
+        <apellido1>Urbano</apellido1>
+        <apellido2>Corricho</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1025/2009 CACE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Felipe</nombre>
+        <apellido1>González</apellido1>
+        <apellido2>Vidal</apellido2>
+        <sexo>M</sexo>
+        <otrosDatos>I 5º</otrosDatos>
+        <numRegistro>1025/2009 CACE</numRegistro>
+      </victima>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Pozuelo de Zarzón</nombre>
+    <IdProvincia>11</IdProvincia>
+    <ID>598</ID>
+    <latitud>40.14914</latitud>
+    <longitud>-6.415245</longitud>
+    <fosa>
+      <numRegistro>368/2009 CACE</numRegistro>
+      <denominacionFosa>Fosa común en el cementerio civil de Pozuelo de Zarzón</denominacionFosa>
+      <tipoFosa>GUERRILLERA</tipoFosa>
+      <fechaFosa>01/08/1946</fechaFosa>
+      <estadoActual>EXHUMADA TOTAL</estadoActual>
+      <numeroPersonasFosa>6</numeroPersonasFosa>
+      <numeroPersonasExhumadas>6</numeroPersonasExhumadas>
+      <numeroPersonasIdentificadas>4</numeroPersonasIdentificadas>
+      <entidadPromotora>Consejeria de Cultura Junta de Extremadura / Sociedad Aranzadi</entidadPromotora>
+      <entidadInformante>Junta de Extremadura. Consejería de Cultura y Turismo. Proyecto para la Recuperación de la Memoria Histórica de Extremadura</entidadInformante>
+      <observaciones>Se recuperaron los restos de seis guerrilleros muertos en agosto de 1946 en un enfrentamiento con la Guardia Civil. Tras la muerte de un guerrillero, la Guardia Civil quiso capturar a la partida de "El Compadre", quien actuaba por los macizos montañosos de la Sierra de Gata. Siguieron a un enlace que les suministraba víveres y localizaron su campamento, en un paraje conocido como "Canchales de Ramón", sorprendidos mientras comían se produjo el enfrentamiento y la muerte de seis guerrilleros. Sus cuerpos fueron trasladados a la puerta de la iglesia de Pozuelo donde quedaron expuestos como medida de disuasión para el resto de la población; más tarde fueron enterrados en esta fosa del cementerio. La fosa, cuadrángular de 1,40 x 1,90 metros, fue exhumada el día 21 de diciembre de 2007, bajo la dirección técnica de la Sociedad de Ciencias Aranzadi. Hasta la fecha se ha conseguido la identificación fehaciente de cuatro de las víctimas.</observaciones>
+      <IdLocalidad>598</IdLocalidad>
+      <victima>
+        <nombre>Celestino</nombre>
+        <apellido1>Martín</apellido1>
+        <apellido2>Pérez</apellido2>
+        <sexo>M</sexo>
+        <edad>35</edad>
+        <otrosDatos>Celestino Martín Pérez alias "Compadre"</otrosDatos>
+        <fechaFallecimiento>01/01/1945</fechaFallecimiento>
+        <fechaInhumacion>01/01/1945</fechaInhumacion>
+        <fechaExhumación>21/12/2007</fechaExhumación>
+        <numRegistro>368/2009 CACE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Justo</nombre>
+        <apellido1>Vega</apellido1>
+        <apellido2>Miguel</apellido2>
+        <sexo>M</sexo>
+        <edad>35</edad>
+        <otrosDatos>Justo Vega Miguel, alias "Secreto"</otrosDatos>
+        <fechaFallecimiento>01/01/1945</fechaFallecimiento>
+        <fechaInhumacion>01/01/1945</fechaInhumacion>
+        <fechaExhumación>21/12/2007</fechaExhumación>
+        <numRegistro>368/2009 CACE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Pedro</nombre>
+        <apellido1>Pérez</apellido1>
+        <apellido2>Álvarez</apellido2>
+        <sexo>M</sexo>
+        <edad>36</edad>
+        <otrosDatos>Pedro Pérez älvarez, alias "Cantares"</otrosDatos>
+        <fechaFallecimiento>01/01/1945</fechaFallecimiento>
+        <fechaInhumacion>01/01/1945</fechaInhumacion>
+        <fechaExhumación>21/12/2007</fechaExhumación>
+        <numRegistro>368/2009 CACE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desiderio</nombre>
+        <apellido1>Iglesias</apellido1>
+        <apellido2>Puerta</apellido2>
+        <sexo>M</sexo>
+        <edad>21</edad>
+        <otrosDatos>Desiderio Iglesias Puerta alias"Amable"</otrosDatos>
+        <fechaFallecimiento>01/01/1945</fechaFallecimiento>
+        <fechaInhumacion>01/01/1945</fechaInhumacion>
+        <fechaExhumación>21/12/2007</fechaExhumación>
+        <numRegistro>368/2009 CACE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Anselmo</nombre>
+        <apellido1>Martín</apellido1>
+        <apellido2>García</apellido2>
+        <sexo>M</sexo>
+        <edad>48</edad>
+        <otrosDatos>Anselmo Martín García alias "El Peine"</otrosDatos>
+        <fechaFallecimiento>01/01/1945</fechaFallecimiento>
+        <fechaInhumacion>01/01/1945</fechaInhumacion>
+        <fechaExhumación>21/12/2007</fechaExhumación>
+        <numRegistro>368/2009 CACE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Silverio</nombre>
+        <apellido1>Plaza</apellido1>
+        <apellido2>Rodriguez</apellido2>
+        <sexo>M</sexo>
+        <edad>44</edad>
+        <otrosDatos>SilverioPlaza Rodriguez alias"Dispuesto" era el enlace con el grupo guerrillero</otrosDatos>
+        <fechaFallecimiento>01/01/1945</fechaFallecimiento>
+        <fechaInhumacion>01/01/1945</fechaInhumacion>
+        <fechaExhumación>21/12/2007</fechaExhumación>
+        <numRegistro>368/2009 CACE</numRegistro>
+      </victima>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Valverde de la Vera</nombre>
+    <IdProvincia>11</IdProvincia>
+    <ID>602</ID>
+    <latitud>40.1233</latitud>
+    <longitud>-5.494221</longitud>
+    <fosa>
+      <numRegistro>2414/2011 CACE</numRegistro>
+      <denominacionFosa>Fosa en el paraje 'Las palomas'</denominacionFosa>
+      <fechaFosa>02/10/1936</fechaFosa>
+      <estadoActual>EXHUMADA TOTAL</estadoActual>
+      <numeroPersonasFosa>3</numeroPersonasFosa>
+      <numeroPersonasExhumadas>3</numeroPersonasExhumadas>
+      <numeroPersonasIdentificadas>3</numeroPersonasIdentificadas>
+      <entidadInformante>Sociedad de Ciencias Aranzadi</entidadInformante>
+      <observaciones>Esta fosa está ubicada en las proximidades de la carretera EX-203 Kilómetro 69,8 del término municipal de Valverde de la Vera (Cáceres), en un terreno particular próximo a la cuneta. Según los testimonios aportados, dos vecinos de Villanueva de la Vera fueron detenidos en la madrugada del día 2 de octubre de 1936 en sus propios domicilios. Fueron secuestrados y conducidos al punto kilométrico antes mencionado, también llevaron allí a un joven detenido días antes. En aquel lugar fueron cruelmente torturados y asesinados, dejando sus cuerpos en la cuneta. A la mañana siguiente fueron enterrados en el mismo lugar por vecinos de Valverde de la Vera. La humedad del terreno ha descompuesto los restos osteológicos enterrados, recuperándose varias suelas de calzado pertenecientes a tres personas.</observaciones>
+      <IdLocalidad>602</IdLocalidad>
+      <victima>
+        <nombre>Teodoro</nombre>
+        <apellido1>Tornero</apellido1>
+        <apellido2>Fernández</apellido2>
+        <sexo>M</sexo>
+        <edad>28</edad>
+        <localidadNacimiento>Villanueva de la Vera</localidadNacimiento>
+        <profesion>Jornalero</profesion>
+        <otrosDatos>Miembro del Partido Socialista y del Ateneo Obrero</otrosDatos>
+        <numRegistro>2414/2011 CACE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Lorenzo</nombre>
+        <apellido1>Cordero</apellido1>
+        <apellido2>Ramos</apellido2>
+        <sexo>M</sexo>
+        <edad>42</edad>
+        <localidadNacimiento>Villanueva de la Vera</localidadNacimiento>
+        <profesion>Jornalero</profesion>
+        <otrosDatos>Militante del Partido Socialista y vocal del Comité Local</otrosDatos>
+        <numRegistro>2414/2011 CACE</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Gregorio</nombre>
+        <apellido1>Recio</apellido1>
+        <apellido2>Marcos</apellido2>
+        <sexo>M</sexo>
+        <edad>17</edad>
+        <localidadNacimiento>Villanueva de la Vera</localidadNacimiento>
+        <localidadResidencia>Madrigal de la Vera</localidadResidencia>
+        <profesion>Jornalero</profesion>
+        <numRegistro>2414/2011 CACE</numRegistro>
+      </victima>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Campillo, El</nombre>
+    <IdProvincia>23</IdProvincia>
+    <ID>811</ID>
+    <latitud>41.25804</latitud>
+    <longitud>-5.014209</longitud>
+    <fosa>
+      <numRegistro>2056/2010 HUEL</numRegistro>
+      <denominacionFosa>Fosa en cementerio de El Campillo</denominacionFosa>
+      <estadoActual>NO INTERVENIDA</estadoActual>
+      <entidadPromotora>AYUNTAMIENTO</entidadPromotora>
+      <entidadInformante>Consejería de Gobernación y Justicia de la Junta de Andalucía</entidadInformante>
+      <observaciones>Según la información suministrada, la mayoría de las víctimas de la represión en este pueblo están enterradas en el propio cementerio de El Campillo, en una enorme fosa que se encuentra en la parte derecha una vez se entra en el cementerio, y que se extiende hasta el muro lateral del mismo lado. Es presumible que en esta fosa también haya personas de otros pueblos, personas que fueron fusiladas en la puerta del cementerio. En uno de los extremos de la fosa se colocó en 1981 una placa como homenaje a las víctimas.</observaciones>
+      <IdLocalidad>811</IdLocalidad>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Aldeadávila de la Ribera</nombre>
+    <IdProvincia>40</IdProvincia>
+    <ID>1154</ID>
+    <latitud>41.21826</latitud>
+    <longitud>-6.620032</longitud>
+    <fosa>
+      <numRegistro>785/2009 SALA</numRegistro>
+      <denominacionFosa>NO CONSTA</denominacionFosa>
+      <estadoActual>TRASLADADA AL VALLE DE LOS CAÍDOS</estadoActual>
+      <numeroPersonasFosa>1</numeroPersonasFosa>
+      <numeroPersonasExhumadas>1</numeroPersonasExhumadas>
+      <numeroPersonasIdentificadas>1</numeroPersonasIdentificadas>
+      <entidadInformante>Patrimonio Nacional</entidadInformante>
+      <observaciones>Trasladada al Valle de los Caídos con la fecha/s:18/03/1959</observaciones>
+      <IdLocalidad>1154</IdLocalidad>
+      <victima>
+        <nombre>Joaquín</nombre>
+        <apellido1>González</apellido1>
+        <apellido2>Martín</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>785/2009 SALA</numRegistro>
+      </victima>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Béjar</nombre>
+    <IdProvincia>40</IdProvincia>
+    <ID>1155</ID>
+    <latitud>40.38356</latitud>
+    <longitud>-5.766045</longitud>
+    <fosa>
+      <numRegistro>787/2009 SALA</numRegistro>
+      <denominacionFosa>NO CONSTA</denominacionFosa>
+      <estadoActual>TRASLADADA AL VALLE DE LOS CAÍDOS</estadoActual>
+      <numeroPersonasFosa>1</numeroPersonasFosa>
+      <numeroPersonasExhumadas>1</numeroPersonasExhumadas>
+      <numeroPersonasIdentificadas>1</numeroPersonasIdentificadas>
+      <entidadInformante>Patrimonio Nacional</entidadInformante>
+      <observaciones>Trasladada al Valle de los Caídos con la fecha/s:18/03/1959</observaciones>
+      <IdLocalidad>1155</IdLocalidad>
+      <victima>
+        <nombre>Manuel</nombre>
+        <apellido1>González</apellido1>
+        <apellido2>González</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>787/2009 SALA</numRegistro>
+      </victima>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Castillejo de Martín Viejo</nombre>
+    <IdProvincia>40</IdProvincia>
+    <ID>1156</ID>
+    <latitud>40.70037</latitud>
+    <longitud>-6.645669</longitud>
+    <fosa>
+      <numRegistro>1862/2010 SALA</numRegistro>
+      <denominacionFosa>Fosa en Castillejo de Martín Viejo</denominacionFosa>
+      <tipoFosa>FUSILAMIENTO</tipoFosa>
+      <fechaFosa>16/12/1936</fechaFosa>
+      <estadoActual>EXHUMADA TOTAL</estadoActual>
+      <numeroPersonasFosa>6</numeroPersonasFosa>
+      <numeroPersonasExhumadas>6</numeroPersonasExhumadas>
+      <numeroPersonasIdentificadas>6</numeroPersonasIdentificadas>
+      <entidadInformante>Asociación para la Recuperación de la Memoria Histórica</entidadInformante>
+      <observaciones>En junio de 2010 se hallaron en una fosa común en la localidad de Castillejo de Martín Viejo los restos de seis civiles asesinados a finales de 1936 que, al parecer, podrían tratarse de los últimos "paseados" de Ciudad Rodrigo. El 16 de diciembre de 1936 fueron fusilados siete personas en la finca de Rábida, junto a Pedrotoro, cerca de Ciudad Rodrigo. Uno de los cadáveres fue retirado de este enterramiento y trasladado por sus familiares a Béjar, en cuyo cementerio fue enterrado el 24-12-1936. Estas ejecuciones y el traslado del cuerpo de una de las víctimas dió lugar a una investigación judicial. El temor de los ejecutores de los fusilamientos hizo que, días después, levantaran la primera fosa y llevasen los cadáveres a la fosa ahora descubierta.</observaciones>
+      <IdLocalidad>1156</IdLocalidad>
+      <victima>
+        <nombre>Avelino</nombre>
+        <apellido1>Martín</apellido1>
+        <apellido2>Cascón</apellido2>
+        <sexo>V</sexo>
+        <numRegistro>1862/2010 SALA</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Evaristo</nombre>
+        <apellido1>Pino</apellido1>
+        <apellido2>Castaño</apellido2>
+        <sexo>V</sexo>
+        <numRegistro>1862/2010 SALA</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Olegario</nombre>
+        <apellido1>Niño</apellido1>
+        <apellido2>Caballero</apellido2>
+        <sexo>V</sexo>
+        <numRegistro>1862/2010 SALA</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Alfredo</nombre>
+        <apellido1>Miguel</apellido1>
+        <apellido2>Plaza</apellido2>
+        <sexo>V</sexo>
+        <numRegistro>1862/2010 SALA</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Emilio</nombre>
+        <apellido1>Martín</apellido1>
+        <apellido2>Donoso</apellido2>
+        <sexo>V</sexo>
+        <numRegistro>1862/2010 SALA</numRegistro>
+      </victima>
+      <victima>
+        <nombre>José María</nombre>
+        <apellido1>Sevillano</apellido1>
+        <apellido2>Piñero</apellido2>
+        <sexo>V</sexo>
+        <numRegistro>1862/2010 SALA</numRegistro>
+      </victima>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Ciudad Rodrigo</nombre>
+    <IdProvincia>40</IdProvincia>
+    <ID>1157</ID>
+    <latitud>40.59715</latitud>
+    <longitud>-6.522775</longitud>
+    <fosa>
+      <numRegistro>2456/2011 SALA</numRegistro>
+      <denominacionFosa>Fosa de los 14 de Fuenteguinaldo</denominacionFosa>
+      <fechaFosa>08/10/1936</fechaFosa>
+      <estadoActual>EXHUMADA TOTAL</estadoActual>
+      <numeroPersonasFosa>14</numeroPersonasFosa>
+      <numeroPersonasExhumadas>14</numeroPersonasExhumadas>
+      <numeroPersonasIdentificadas>14</numeroPersonasIdentificadas>
+      <entidadPromotora>Familiares / ARMH</entidadPromotora>
+      <entidadInformante>Asociación para la Recuperación de la Memoria Histórica</entidadInformante>
+      <observaciones>El 8 de octubre de 1936 catorce vecinos de Fuenteguinaldo fueron detenidos y llevados a la cárcel de Ciudad Rodrigo, luego fueron llevados al paraje de La Yugada de Cantarranas donde fueron fusilados y enterrados. Tras muchos intentos para su localización, el 10 de octubre de 2006 la fosa fue hallada, realizándose la exhumación en noviembre. Los restos óseos se encontraban en un deficiente estado de conservación por las labores de cultivo y por la acidez del terreno. Despúes los restos fueron entregados a sus familiares y enterrados en el cementerio de Fuenteguinaldo, donde se ha instalado una placa de homenaje con sus nombres.</observaciones>
+      <IdLocalidad>1157</IdLocalidad>
+      <victima>
+        <nombre>Timoteo</nombre>
+        <apellido1>Feliciano</apellido1>
+        <apellido2>Mateo</apellido2>
+        <sexo>M</sexo>
+        <edad>29</edad>
+        <localidadResidencia>Fuenteguinaldo</localidadResidencia>
+        <fechaFallecimiento>08/10/1936</fechaFallecimiento>
+        <numRegistro>2456/2011 SALA</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Evaristo</nombre>
+        <apellido1>Sánchez</apellido1>
+        <apellido2>Pérez</apellido2>
+        <sexo>M</sexo>
+        <edad>27</edad>
+        <localidadResidencia>Fuenteguinaldo</localidadResidencia>
+        <fechaFallecimiento>08/10/1936</fechaFallecimiento>
+        <numRegistro>2456/2011 SALA</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Ramón</nombre>
+        <apellido1>Castaño</apellido1>
+        <apellido2>Durán</apellido2>
+        <sexo>M</sexo>
+        <edad>24</edad>
+        <localidadResidencia>Fuenteguinaldo</localidadResidencia>
+        <fechaFallecimiento>08/10/1936</fechaFallecimiento>
+        <numRegistro>2456/2011 SALA</numRegistro>
+      </victima>
+      <victima>
+        <nombre>José</nombre>
+        <apellido1>Alfonso</apellido1>
+        <apellido2>González</apellido2>
+        <sexo>M</sexo>
+        <edad>36</edad>
+        <localidadResidencia>Fuenteguinaldo</localidadResidencia>
+        <fechaFallecimiento>08/10/1936</fechaFallecimiento>
+        <numRegistro>2456/2011 SALA</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Juan</nombre>
+        <apellido1>Valiente</apellido1>
+        <apellido2>Salvador</apellido2>
+        <sexo>M</sexo>
+        <edad>32</edad>
+        <localidadResidencia>Fuenteguinaldo</localidadResidencia>
+        <fechaFallecimiento>08/10/1936</fechaFallecimiento>
+        <numRegistro>2456/2011 SALA</numRegistro>
+      </victima>
+      <victima>
+        <nombre>León</nombre>
+        <apellido1>Herrero</apellido1>
+        <apellido2>Galán</apellido2>
+        <sexo>M</sexo>
+        <edad>37</edad>
+        <localidadResidencia>Fuenteguinaldo</localidadResidencia>
+        <fechaFallecimiento>08/10/1936</fechaFallecimiento>
+        <numRegistro>2456/2011 SALA</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Valentín</nombre>
+        <apellido1>Rodolfo</apellido1>
+        <apellido2>Expósito</apellido2>
+        <sexo>M</sexo>
+        <edad>42</edad>
+        <localidadResidencia>Fuenteguinaldo</localidadResidencia>
+        <fechaFallecimiento>08/10/1936</fechaFallecimiento>
+        <numRegistro>2456/2011 SALA</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Pacífico José</nombre>
+        <apellido1>Flores</apellido1>
+        <sexo>M</sexo>
+        <edad>34</edad>
+        <localidadResidencia>Fuenteguinaldo</localidadResidencia>
+        <fechaFallecimiento>08/10/1936</fechaFallecimiento>
+        <numRegistro>2456/2011 SALA</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Simón</nombre>
+        <apellido1>Moleiro</apellido1>
+        <apellido2>Herrero</apellido2>
+        <sexo>M</sexo>
+        <edad>30</edad>
+        <localidadResidencia>Fuenteguinaldo</localidadResidencia>
+        <fechaFallecimiento>08/10/1936</fechaFallecimiento>
+        <numRegistro>2456/2011 SALA</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Bartolomé</nombre>
+        <apellido1>Mateos</apellido1>
+        <apellido2>Alonso</apellido2>
+        <sexo>M</sexo>
+        <edad>34</edad>
+        <localidadResidencia>Fuenteguinaldo</localidadResidencia>
+        <fechaFallecimiento>08/10/1936</fechaFallecimiento>
+        <numRegistro>2456/2011 SALA</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Alejandro</nombre>
+        <apellido1>Zato</apellido1>
+        <apellido2>Salicio</apellido2>
+        <sexo>M</sexo>
+        <edad>26</edad>
+        <localidadResidencia>Fuenteguinaldo</localidadResidencia>
+        <fechaFallecimiento>08/10/1936</fechaFallecimiento>
+        <numRegistro>2456/2011 SALA</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Nicolás</nombre>
+        <apellido1>Sánchez</apellido1>
+        <apellido2>Martín</apellido2>
+        <sexo>M</sexo>
+        <edad>30</edad>
+        <localidadResidencia>Fuenteguinaldo</localidadResidencia>
+        <fechaFallecimiento>08/10/1936</fechaFallecimiento>
+        <numRegistro>2456/2011 SALA</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Agapito</nombre>
+        <apellido1>Carreño</apellido1>
+        <apellido2>González</apellido2>
+        <sexo>M</sexo>
+        <edad>36</edad>
+        <localidadResidencia>Fuenteguinaldo</localidadResidencia>
+        <fechaFallecimiento>08/10/1936</fechaFallecimiento>
+        <numRegistro>2456/2011 SALA</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Matías</nombre>
+        <apellido1>Mendo</apellido1>
+        <sexo>M</sexo>
+        <edad>33</edad>
+        <localidadResidencia>Fuenteguinaldo</localidadResidencia>
+        <fechaFallecimiento>08/10/1936</fechaFallecimiento>
+        <numRegistro>2456/2011 SALA</numRegistro>
+      </victima>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Fuenterroble de Salvatierra</nombre>
+    <IdProvincia>40</IdProvincia>
+    <ID>1158</ID>
+    <latitud>40.56471</latitud>
+    <longitud>-5.733921</longitud>
+    <fosa>
+      <numRegistro>788/2009 SALA</numRegistro>
+      <denominacionFosa>NO CONSTA</denominacionFosa>
+      <estadoActual>TRASLADADA AL VALLE DE LOS CAÍDOS</estadoActual>
+      <numeroPersonasFosa>1</numeroPersonasFosa>
+      <numeroPersonasExhumadas>1</numeroPersonasExhumadas>
+      <numeroPersonasIdentificadas>1</numeroPersonasIdentificadas>
+      <entidadInformante>Patrimonio Nacional</entidadInformante>
+      <observaciones>Trasladada al Valle de los Caídos con la fecha/s:18/03/1959</observaciones>
+      <IdLocalidad>1158</IdLocalidad>
+      <victima>
+        <nombre>Germán</nombre>
+        <apellido1>Gutiérrez</apellido1>
+        <apellido2>Benito</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>788/2009 SALA</numRegistro>
+      </victima>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Guijuelo</nombre>
+    <IdProvincia>40</IdProvincia>
+    <ID>1159</ID>
+    <latitud>40.55514</latitud>
+    <longitud>-5.673656</longitud>
+    <fosa>
+      <numRegistro>789/2009 SALA</numRegistro>
+      <denominacionFosa>NO CONSTA</denominacionFosa>
+      <estadoActual>TRASLADADA AL VALLE DE LOS CAÍDOS</estadoActual>
+      <numeroPersonasFosa>1</numeroPersonasFosa>
+      <numeroPersonasExhumadas>1</numeroPersonasExhumadas>
+      <numeroPersonasIdentificadas>1</numeroPersonasIdentificadas>
+      <entidadInformante>Patrimonio Nacional</entidadInformante>
+      <observaciones>Trasladada al Valle de los Caídos con la fecha/s:18/03/1959</observaciones>
+      <IdLocalidad>1159</IdLocalidad>
+      <victima>
+        <nombre>Joaquín</nombre>
+        <apellido1>Rodríguez</apellido1>
+        <apellido2>Martín</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>789/2009 SALA</numRegistro>
+      </victima>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Pelabravo</nombre>
+    <IdProvincia>40</IdProvincia>
+    <ID>1160</ID>
+    <latitud>40.93669</latitud>
+    <longitud>-5.578127</longitud>
+    <fosa>
+      <numRegistro>2453/2011 SALA</numRegistro>
+      <denominacionFosa>Fosa de Pelabravo</denominacionFosa>
+      <estadoActual>EXHUMADA TOTAL</estadoActual>
+      <numeroPersonasFosa>14</numeroPersonasFosa>
+      <numeroPersonasExhumadas>14</numeroPersonasExhumadas>
+      <numeroPersonasIdentificadas>10</numeroPersonasIdentificadas>
+      <entidadInformante>Asociación Memoria y Justicia de Salamanca</entidadInformante>
+      <observaciones>En marzo de 2007 se realizaron los trabajos de exhumación de una fosa en Pelabravo, recuperándose los restos de catorce víctimas ejecutadas en agosto de 1936 y enterradas en el lado izquierdo de la carretera de Salamanca a Alba de Tormes, junto al monte Gargabete. Los restos fueron llevados a un nicho del cementerio de Nuevo Naharros, pedanía de Pelabravo, donde se realizó un acto de homenaje. En enero de 2010 el Juzgado de Instrucción nº 1 de Salamanca acordó el sobreseimiento y archivo de las dilgencias abiertas por los enterramientos de Pelabravo.</observaciones>
+      <IdLocalidad>1160</IdLocalidad>
+      <victima>
+        <nombre>Rafael</nombre>
+        <apellido1>Rodríguez</apellido1>
+        <apellido2>Pérez</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>2453/2011 SALA</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Agustín</nombre>
+        <apellido1>Rodríguez</apellido1>
+        <apellido2>Pérez</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>2453/2011 SALA</numRegistro>
+      </victima>
+      <victima>
+        <nombre>David</nombre>
+        <apellido1>Alonso</apellido1>
+        <apellido2>Blanco</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>2453/2011 SALA</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Luís</nombre>
+        <apellido1>Crespo</apellido1>
+        <apellido2>Regalado</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>2453/2011 SALA</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Cayetano</nombre>
+        <apellido1>Herrero</apellido1>
+        <apellido2>Díez</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>2453/2011 SALA</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Baldomero</nombre>
+        <apellido1>Pérez</apellido1>
+        <apellido2>Pérez</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>2453/2011 SALA</numRegistro>
+      </victima>
+      <victima>
+        <nombre>desconocido</nombre>
+        <apellido1>desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>2453/2011 SALA</numRegistro>
+      </victima>
+      <victima>
+        <nombre>desconocido</nombre>
+        <apellido1>desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>2453/2011 SALA</numRegistro>
+      </victima>
+      <victima>
+        <nombre>desconocido</nombre>
+        <apellido1>desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>2453/2011 SALA</numRegistro>
+      </victima>
+      <victima>
+        <nombre>desconocido</nombre>
+        <apellido1>desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>2453/2011 SALA</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Eduardo</nombre>
+        <apellido1>Mateos</apellido1>
+        <apellido2>Rodríguez</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>2453/2011 SALA</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Juan Manuel</nombre>
+        <apellido1>Manjón</apellido1>
+        <apellido2>Hernández</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>2453/2011 SALA</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Gregorio</nombre>
+        <apellido1>Moñita</apellido1>
+        <apellido2>Martín</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>2453/2011 SALA</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Gabriel</nombre>
+        <apellido1>Martín</apellido1>
+        <apellido2>Martín</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>2453/2011 SALA</numRegistro>
+      </victima>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Peñaranda de Bracamonte</nombre>
+    <IdProvincia>40</IdProvincia>
+    <ID>1161</ID>
+    <latitud>40.90394</latitud>
+    <longitud>-5.202896</longitud>
+    <fosa>
+      <numRegistro>790/2009 SALA</numRegistro>
+      <denominacionFosa>NO CONSTA</denominacionFosa>
+      <estadoActual>TRASLADADA AL VALLE DE LOS CAÍDOS</estadoActual>
+      <numeroPersonasFosa>1</numeroPersonasFosa>
+      <numeroPersonasExhumadas>1</numeroPersonasExhumadas>
+      <numeroPersonasIdentificadas>1</numeroPersonasIdentificadas>
+      <entidadInformante>Patrimonio Nacional</entidadInformante>
+      <observaciones>Trasladada al Valle de los Caídos con la fecha/s:18/03/1959</observaciones>
+      <IdLocalidad>1161</IdLocalidad>
+      <victima>
+        <nombre>Isidro</nombre>
+        <apellido1>Andrés</apellido1>
+        <apellido2>Sastre</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>790/2009 SALA</numRegistro>
+      </victima>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Parrillas</nombre>
+    <IdProvincia>47</IdProvincia>
+    <ID>1350</ID>
+    <latitud>40.06106</latitud>
+    <longitud>-5.063858</longitud>
+    <fosa>
+      <numRegistro>2413/2011 TOLE</numRegistro>
+      <denominacionFosa>Fosa en Los Rollones</denominacionFosa>
+      <estadoActual>EXHUMADA TOTAL</estadoActual>
+      <entidadInformante>Asociación para la Recuperación de la Memoria Histórica</entidadInformante>
+      <observaciones>En este lugar y según fuentes informantes fueron enterradas tres personas en fosas individuales. Se realizaron una serie de zanjas comprobando que habían sido roturados con posterioridad al año 1936. Se localizaron algunas esquirlas de huesos dispersas que parecen haber sido removidas en labores agrícolas. En el paraje de"la suerte del tío Pedro", en una de las zanjas, aparecieron tres fragmentos de hueso de los que dos pertenecen a cráneo y que presumiblemente corresponden a un individuo adulto joven.</observaciones>
+      <IdLocalidad>1350</IdLocalidad>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Nava del Rey</nombre>
+    <IdProvincia>49</IdProvincia>
+    <ID>1387</ID>
+    <latitud>41.33257</latitud>
+    <longitud>-5.079111</longitud>
+    <fosa>
+      <numRegistro>95/2009 VALL</numRegistro>
+      <denominacionFosa>Fosa en el pinar de la Nava</denominacionFosa>
+      <estadoActual>EXHUMADA TOTAL</estadoActual>
+      <numeroPersonasFosa>4</numeroPersonasFosa>
+      <numeroPersonasExhumadas>4</numeroPersonasExhumadas>
+      <entidadPromotora>ARMH VALLADOLID</entidadPromotora>
+      <entidadInformante>Asociación Recuperación Memoria Histórica de Valladolid</entidadInformante>
+      <observaciones>En diciembre de 2002 y febrero de 2003 se realizaron dos intervenciones para recuperar los restos de varias víctimas que habían sido enterradas en una fosa existente en el pinar de la Nava. El enterramiento se encontraba en la ladera de un camino, transitado por vehículos agrícolas, por lo que los restos estaban muy dispersos y en algunos casos destruídos. En principio, parecían restos de 4 personas, pero en el laboratorio ha quedado acreditado que pertenecían a tres víctimas.</observaciones>
+      <IdLocalidad>1387</IdLocalidad>
+      <victima>
+        <nombre>HILARIO BERNARDO</nombre>
+        <apellido1>GONZALEZ</apellido1>
+        <apellido2>GONZALEZ</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>95/2009 VALL</numRegistro>
+      </victima>
+      <victima>
+        <nombre>ANTONIO</nombre>
+        <apellido1>LOSADA</apellido1>
+        <apellido2>MARTIN</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>95/2009 VALL</numRegistro>
+      </victima>
+      <victima>
+        <nombre>LEONCIO</nombre>
+        <apellido1>PUERTAS</apellido1>
+        <apellido2>OJEDA</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>95/2009 VALL</numRegistro>
+      </victima>
+      <victima>
+        <nombre>FRANCISCO</nombre>
+        <apellido1>DEL VALLE</apellido1>
+        <apellido2>GARCIA</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>95/2009 VALL</numRegistro>
+      </victima>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Velilla</nombre>
+    <IdProvincia>49</IdProvincia>
+    <ID>1392</ID>
+    <latitud>41.55871</latitud>
+    <longitud>-5.004748</longitud>
+    <fosa>
+      <numRegistro>102/2009 VALL</numRegistro>
+      <denominacionFosa>CERCA DEL CEMENTERIO</denominacionFosa>
+      <tipoFosa>REPRESALIA EN RETAGUARDIA</tipoFosa>
+      <fechaFosa>18/08/1936</fechaFosa>
+      <estadoActual>EXHUMADA TOTAL</estadoActual>
+      <numeroPersonasFosa>3</numeroPersonasFosa>
+      <numeroPersonasExhumadas>3</numeroPersonasExhumadas>
+      <numeroPersonasIdentificadas>3</numeroPersonasIdentificadas>
+      <entidadPromotora>ARMH VALLADOLID</entidadPromotora>
+      <entidadInformante>Asociación Recuperación Memoria Histórica de Valladolid</entidadInformante>
+      <observaciones>GUARDIA CIVILES Y FALANGISTAS QUE PASABAN HACIA MEDINA DE RIOSECO DETUVIERON A LOS TRES HOMBRES Y EN UN CAMIÓN LOS LLEVARON A LAS AFUERAS DE VELILLA. A 300 METROS EN DIRECCIÓN A MEDINA LES DISPARARON. SUS CUERPOS FUERON ENTERRADOS POR UN FAMILIAR Y UN AMIGO, A MENOS DE 100 METROS DEL CEMENTERIO. EN AGOSTO DE 2003 FUERON  EXHUMADOS LOS CUERPOS DE 3 HOMBRES (PADRE Y DOS HIJOS), PROCEDENTES DE TORRELOBATON, DONDE FUERON ENTERRADOS SEMANAS DESPUÉS JUNTO A SU MUJER Y MADRE.</observaciones>
+      <IdLocalidad>1392</IdLocalidad>
+      <victima>
+        <nombre>RAFAEL</nombre>
+        <apellido1>CORTIJO</apellido1>
+        <sexo>M</sexo>
+        <profesion>PASTOR</profesion>
+        <otrosDatos>CONCEJAL EN VELILLA EN LAS ELECCIONES DE FEBRERO DE 1936</otrosDatos>
+        <fechaFallecimiento>18/08/1936</fechaFallecimiento>
+        <fechaExhumación>23/08/2003</fechaExhumación>
+        <numRegistro>102/2009 VALL</numRegistro>
+      </victima>
+      <victima>
+        <nombre>ZÓSIMO</nombre>
+        <apellido1>CORTIJO</apellido1>
+        <sexo>M</sexo>
+        <edad>24</edad>
+        <fechaFallecimiento>18/08/1936</fechaFallecimiento>
+        <fechaExhumación>23/08/2003</fechaExhumación>
+        <numRegistro>102/2009 VALL</numRegistro>
+      </victima>
+      <victima>
+        <nombre>FELIPE</nombre>
+        <apellido1>CORTIJO</apellido1>
+        <sexo>M</sexo>
+        <edad>19</edad>
+        <fechaFallecimiento>18/08/1936</fechaFallecimiento>
+        <fechaExhumación>23/08/2003</fechaExhumación>
+        <numRegistro>102/2009 VALL</numRegistro>
+      </victima>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Villabrágima</nombre>
+    <IdProvincia>49</IdProvincia>
+    <ID>1393</ID>
+    <latitud>41.82352</latitud>
+    <longitud>-5.11295</longitud>
+    <fosa>
+      <numRegistro>130/2009 VALL</numRegistro>
+      <denominacionFosa>Fosa en el Monte de San Luis</denominacionFosa>
+      <tipoFosa>FUSILAMIENTO</tipoFosa>
+      <fechaFosa>01/08/1936</fechaFosa>
+      <estadoActual>EXHUMADA TOTAL</estadoActual>
+      <numeroPersonasFosa>1</numeroPersonasFosa>
+      <numeroPersonasExhumadas>1</numeroPersonasExhumadas>
+      <numeroPersonasIdentificadas>1</numeroPersonasIdentificadas>
+      <entidadPromotora>ARMH VALLADOLID</entidadPromotora>
+      <entidadInformante>Asociación Recuperación Memoria Histórica de Valladolid</entidadInformante>
+      <observaciones>En agosto de 2006 fueron exhumados los restos de un hombre al que, tras ser ejecutado, arrojaron a una antigua mina de caolín en el monte de San Luís. En principio, el cadáver fue cubierto con alguna piedra y luego la mina fue cegada con escombro. Los restos fueron localizados a cuatro metros de profundida.</observaciones>
+      <IdLocalidad>1393</IdLocalidad>
+      <victima>
+        <nombre>Evaristo</nombre>
+        <apellido1>Vicente</apellido1>
+        <apellido2>Sánchez</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>130/2009 VALL</numRegistro>
+      </victima>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Benegiles</nombre>
+    <IdProvincia>51</IdProvincia>
+    <ID>1412</ID>
+    <latitud>41.62679</latitud>
+    <longitud>-5.63523</longitud>
+    <fosa>
+      <numRegistro>1361/2009 ZAMO</numRegistro>
+      <denominacionFosa>Fosa en el cementerio Municipal de 'Santo Tomás'</denominacionFosa>
+      <fechaFosa>15/10/1936</fechaFosa>
+      <estadoActual>EXHUMADA TOTAL</estadoActual>
+      <numeroPersonasFosa>3</numeroPersonasFosa>
+      <numeroPersonasExhumadas>3</numeroPersonasExhumadas>
+      <numeroPersonasIdentificadas>3</numeroPersonasIdentificadas>
+      <entidadPromotora>Familiares / ARMH / Sociedad de Ciencias Aranzadi</entidadPromotora>
+      <entidadInformante>Sociedad de Ciencias Aranzadi</entidadInformante>
+      <observaciones>El 14 de octubre de 1936 tres vecinos de la localidad fueron detenidos y llevados a casa del alcalde, después fueron conducidos hasta un lugar llamado "El Refoyo", a un kilómetro del pueblo en sentido hacia Zamora, donde fueron ejecutados. Los cuerpos permanecieron toda la noche a la intemperie y al día siguiente fueron llevados en un carro hasta el cementerio para ser enterrados en una fosa (Sepultura nº 8 de la fila nº 13 del Cuartel 1 del cementerio Municipal de "Santo Tomás"). La exhumación se llevó a cabo en julio de 2004 y se recuperaron los restos de las tres víctimas.</observaciones>
+      <IdLocalidad>1412</IdLocalidad>
+      <victima>
+        <nombre>Tomás</nombre>
+        <apellido1>Martín</apellido1>
+        <apellido2>Castro</apellido2>
+        <sexo>M</sexo>
+        <edad>33</edad>
+        <fechaFallecimiento>14/10/1936</fechaFallecimiento>
+        <fechaInhumacion>15/10/1936</fechaInhumacion>
+        <fechaExhumación>18/07/2004</fechaExhumación>
+        <numRegistro>1361/2009 ZAMO</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Restituto</nombre>
+        <apellido1>Santos</apellido1>
+        <apellido2>Vara</apellido2>
+        <sexo>M</sexo>
+        <edad>45</edad>
+        <fechaFallecimiento>14/10/1936</fechaFallecimiento>
+        <fechaInhumacion>15/10/1936</fechaInhumacion>
+        <fechaExhumación>18/07/2004</fechaExhumación>
+        <numRegistro>1361/2009 ZAMO</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Salvador</nombre>
+        <apellido1>Villar</apellido1>
+        <apellido2>Torio</apellido2>
+        <sexo>M</sexo>
+        <fechaNacimiento>31/08/1998</fechaNacimiento>
+        <fechaFallecimiento>14/10/1936</fechaFallecimiento>
+        <fechaInhumacion>15/10/1936</fechaInhumacion>
+        <fechaExhumación>18/07/2004</fechaExhumación>
+        <numRegistro>1361/2009 ZAMO</numRegistro>
+      </victima>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Camarzana de Tera</nombre>
+    <IdProvincia>51</IdProvincia>
+    <ID>1413</ID>
+    <latitud>41.99437</latitud>
+    <longitud>-6.029578</longitud>
+    <fosa>
+      <numRegistro>2019/2010 ZAMO</numRegistro>
+      <denominacionFosa>Fosa de Santa Marta de Tera</denominacionFosa>
+      <estadoActual>EXHUMADA TOTAL</estadoActual>
+      <numeroPersonasFosa>7</numeroPersonasFosa>
+      <numeroPersonasExhumadas>7</numeroPersonasExhumadas>
+      <numeroPersonasIdentificadas>7</numeroPersonasIdentificadas>
+      <entidadPromotora>Familiares / ARMH</entidadPromotora>
+      <entidadInformante>Asociación para la Recuperación de la Memoria Histórica</entidadInformante>
+      <observaciones>En esta fosa de la localidad de Santa Marta de Tera, perteneciente al municipio de Camarzana de Tera, se realizaron en distintas fechas de 1936 los enterramientos de dos grupos de víctimas. Según las investigaciones, un grupo de tres víctimas procedía de Destriana (León) que habían sido detenidos el 22 de agosto de 1936; y otro grupo de cuatro víctimas procedían de Benavente (Zamora) quienes tras su detención fueron llevados a la cárcel de Puebla de Sanabria, de allí en octubre de 1936 son llevados en un camión a Santa Marta. La fosa se encuentra junto a la iglesia, a los pies de la puerta del cementerio. Se trata de la primera fosa que se ha exhumado, en junio de 2009, con autorización y supervisión judicial tras la inhibición del Juzgado Central de Instrucción nº 5 de la Audiencia Nacional a favor de los Juzgados de Instrucción de los lugares donde estuvieran localizadas las fosas.</observaciones>
+      <IdLocalidad>1413</IdLocalidad>
+      <victima>
+        <nombre>Baltasar</nombre>
+        <apellido1>Carbajo</apellido1>
+        <apellido2>Vidales</apellido2>
+        <sexo>M</sexo>
+        <edad>28</edad>
+        <numRegistro>2019/2010 ZAMO</numRegistro>
+      </victima>
+      <victima>
+        <nombre>José Vitorio</nombre>
+        <apellido1>Villalibre</apellido1>
+        <apellido2>Toral</apellido2>
+        <sexo>M</sexo>
+        <edad>39</edad>
+        <numRegistro>2019/2010 ZAMO</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Baltasar</nombre>
+        <apellido1>Valderrey</apellido1>
+        <apellido2>Turrado</apellido2>
+        <sexo>M</sexo>
+        <edad>42</edad>
+        <numRegistro>2019/2010 ZAMO</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Victor</nombre>
+        <apellido1>Calvo</apellido1>
+        <apellido2>Sáez</apellido2>
+        <sexo>M</sexo>
+        <profesion>contable</profesion>
+        <numRegistro>2019/2010 ZAMO</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Andrés</nombre>
+        <apellido1>Castaño</apellido1>
+        <apellido2>Fernández</apellido2>
+        <sexo>M</sexo>
+        <profesion>barrendero</profesion>
+        <numRegistro>2019/2010 ZAMO</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Clemente</nombre>
+        <apellido1>López</apellido1>
+        <apellido2>Hernández</apellido2>
+        <sexo>M</sexo>
+        <profesion>jornalero</profesion>
+        <numRegistro>2019/2010 ZAMO</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Modesto</nombre>
+        <apellido1>Rodriguez</apellido1>
+        <apellido2>Vecino</apellido2>
+        <sexo>M</sexo>
+        <profesion>dependiente</profesion>
+        <numRegistro>2019/2010 ZAMO</numRegistro>
+      </victima>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Faramontanos de Tábara</nombre>
+    <IdProvincia>51</IdProvincia>
+    <ID>1414</ID>
+    <latitud>41.83649</latitud>
+    <longitud>-5.888256</longitud>
+    <fosa>
+      <numRegistro>2021/2010 ZAMO</numRegistro>
+      <denominacionFosa>Fosa de Faramontanos de Tábara</denominacionFosa>
+      <estadoActual>EXHUMADA TOTAL</estadoActual>
+      <numeroPersonasExhumadas>12</numeroPersonasExhumadas>
+      <entidadInformante>Asociación para la Recuperación de la Memoria Histórica</entidadInformante>
+      <observaciones>En noviembre de 2008 se realizaron tareas de exhumación en esta fosa para recuperar los restos de doce leoneses estudiantes de Magisterio represaliados. La historia de estas víctimas tiene una estrecha relación con las víctimas, también estudiantes, de la fosa de Albires (León). La investigación partió del testimonio de un lugareño al que obligaron a dar tierra los paseados: doce cuerpos, seis hombre y seis mujeres- con ropas que no correspondían en aquella época a gentes campesinas. Todos procedían de la zona de Valderas.</observaciones>
+      <IdLocalidad>1414</IdLocalidad>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Perilla de Castro</nombre>
+    <IdProvincia>51</IdProvincia>
+    <ID>1417</ID>
+    <latitud>41.7263</latitud>
+    <longitud>-5.876451</longitud>
+    <fosa>
+      <numRegistro>823/2009 ZAMO</numRegistro>
+      <denominacionFosa>NO CONSTA</denominacionFosa>
+      <estadoActual>TRASLADADA AL VALLE DE LOS CAÍDOS</estadoActual>
+      <numeroPersonasFosa>1</numeroPersonasFosa>
+      <numeroPersonasExhumadas>1</numeroPersonasExhumadas>
+      <numeroPersonasIdentificadas>1</numeroPersonasIdentificadas>
+      <entidadInformante>Patrimonio Nacional</entidadInformante>
+      <observaciones>Trasladada al Valle de los Caídos con la fecha/s:22/03/1959</observaciones>
+      <IdLocalidad>1417</IdLocalidad>
+      <victima>
+        <nombre>Manuel</nombre>
+        <apellido1>Blanco</apellido1>
+        <apellido2>Pérez</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>823/2009 ZAMO</numRegistro>
+      </victima>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Toro</nombre>
+    <IdProvincia>51</IdProvincia>
+    <ID>1418</ID>
+    <latitud>41.52636</latitud>
+    <longitud>-5.394857</longitud>
+    <fosa>
+      <numRegistro>2479/2011 ZAMO</numRegistro>
+      <denominacionFosa>Fosas en el Cementerio de Toro</denominacionFosa>
+      <estadoActual>NO INTERVENIDA</estadoActual>
+      <numeroPersonasExhumadas>200</numeroPersonasExhumadas>
+      <entidadInformante>Asociación para la Recuperación de la Memoria Histórica</entidadInformante>
+      <observaciones>En el cementerio de Toro se tiene noticia de la existencia de numerosas fosas comunes en las que fueron enterradas muchas personas que fueron fusiladas tras ser llevadas allí desde las cárceles de Zamora o de Toro, ubicada entonces en el Alcazar. Según los archivos y registros consultados podrían haber sido enterradas más de 200 personas. Ya en 1988 se recuperaron cuatro cuerpos tras reconocer sus familiares varios objetos personales. En los años 80 otra de las fosas fue destruida a causa de obras de ampliación del recinto. A principios de 2007 se llevó a cabo la exhumación de una fosa de la que se recuperaron los cadáveres de tres fusilados.</observaciones>
+      <IdLocalidad>1418</IdLocalidad>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Villanueva del Campo</nombre>
+    <IdProvincia>51</IdProvincia>
+    <ID>1419</ID>
+    <latitud>41.98658</latitud>
+    <longitud>-5.404984</longitud>
+    <fosa>
+      <numRegistro>1211/2009 ZAMO</numRegistro>
+      <denominacionFosa>NO CONSTA</denominacionFosa>
+      <estadoActual>TRASLADADA AL VALLE DE LOS CAÍDOS</estadoActual>
+      <numeroPersonasFosa>1</numeroPersonasFosa>
+      <numeroPersonasExhumadas>1</numeroPersonasExhumadas>
+      <numeroPersonasIdentificadas>1</numeroPersonasIdentificadas>
+      <entidadInformante>Patrimonio Nacional</entidadInformante>
+      <observaciones>Trasladada al Valle de los Caídos con la fecha/s:15/01/1960</observaciones>
+      <IdLocalidad>1419</IdLocalidad>
+      <victima>
+        <nombre>Mariano</nombre>
+        <apellido1>del Amo</apellido1>
+        <apellido2>Asensio</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1211/2009 ZAMO</numRegistro>
+      </victima>
+    </fosa>
+  </localidad>
+</zona>

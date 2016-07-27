@@ -1,0 +1,2987 @@
+<?xml version="1.0" encoding="utf-8"?>
+<zona>
+  <centro>37 -2</centro>
+  <localidad>
+    <nombre>Almería</nombre>
+    <IdProvincia>5</IdProvincia>
+    <ID>130</ID>
+    <latitud>36.84016</latitud>
+    <longitud>-2.467922</longitud>
+    <fosa>
+      <numRegistro>1069/2009 ALME</numRegistro>
+      <denominacionFosa>NO CONSTA</denominacionFosa>
+      <estadoActual>TRASLADADA AL VALLE DE LOS CAÍDOS</estadoActual>
+      <numeroPersonasFosa>73</numeroPersonasFosa>
+      <numeroPersonasExhumadas>73</numeroPersonasExhumadas>
+      <numeroPersonasIdentificadas>73</numeroPersonasIdentificadas>
+      <entidadInformante>Patrimonio Nacional</entidadInformante>
+      <observaciones>Trasladada al Valle de los Caídos con la fecha/s:26/03/1959,27/01/1961,16/02/1962,10/02/1963,12/02/1964,13/05/1968</observaciones>
+      <IdLocalidad>130</IdLocalidad>
+      <victima>
+        <nombre>José</nombre>
+        <apellido1>Álvarez</apellido1>
+        <apellido2>Ladrón de Gevara</apellido2>
+        <sexo>M</sexo>
+        <otrosDatos>I 5º</otrosDatos>
+        <numRegistro>1069/2009 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Indalecio</nombre>
+        <apellido1>Rubio</apellido1>
+        <apellido2>Medina</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1069/2009 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Rafael</nombre>
+        <apellido1>Salazar</apellido1>
+        <apellido2>Cervantes</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1069/2009 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Jesús</nombre>
+        <apellido1>Salazar</apellido1>
+        <apellido2>Ruiz</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1069/2009 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Mariano</nombre>
+        <apellido1>Sánchez</apellido1>
+        <apellido2>Egea</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1069/2009 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>José</nombre>
+        <apellido1>Gómez</apellido1>
+        <apellido2>Matarín</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1069/2009 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Florencio</nombre>
+        <apellido1>López</apellido1>
+        <apellido2>Egea</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1069/2009 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Juan</nombre>
+        <apellido1>Padilla</apellido1>
+        <apellido2>Rodríguez</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1069/2009 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Enrique</nombre>
+        <apellido1>Rodríguez</apellido1>
+        <apellido2>Tortosa</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1069/2009 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>José</nombre>
+        <apellido1>Tapia</apellido1>
+        <apellido2>Díaz de Villachica</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1069/2009 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Enrique</nombre>
+        <apellido1>Alonso</apellido1>
+        <apellido2>Paniagua</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1069/2009 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Trinidad</nombre>
+        <apellido1>Alonso</apellido1>
+        <apellido2>Martínez</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1069/2009 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Emilio</nombre>
+        <apellido1>Paniagua</apellido1>
+        <apellido2>Porras</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1069/2009 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>José</nombre>
+        <apellido1>Paniagua</apellido1>
+        <apellido2>Porras</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1069/2009 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Bartolomé</nombre>
+        <apellido1>Caparrós</apellido1>
+        <apellido2>García</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1069/2009 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Juan José</nombre>
+        <apellido1>Ega</apellido1>
+        <apellido2>Rodríguez</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1069/2009 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Pedro</nombre>
+        <apellido1>Meca</apellido1>
+        <apellido2>Moreno</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1069/2009 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Agustín</nombre>
+        <apellido1>Navarro</apellido1>
+        <apellido2>Iniesta</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1069/2009 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Antonio</nombre>
+        <apellido1>Lorca</apellido1>
+        <apellido2>Muñoz</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1069/2009 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Manuel</nombre>
+        <apellido1>Navarro</apellido1>
+        <apellido2>Martínez</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1069/2009 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Antonio</nombre>
+        <apellido1>González</apellido1>
+        <apellido2>San Juán</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1069/2009 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Felipe</nombre>
+        <apellido1>Pérez</apellido1>
+        <apellido2>Díaz</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1069/2009 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Andrés</nombre>
+        <apellido1>Iniesta</apellido1>
+        <apellido2>Egea</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1069/2009 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Francisco</nombre>
+        <apellido1>Gómez</apellido1>
+        <apellido2>Matarín</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1069/2009 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Francisco</nombre>
+        <apellido1>Garrido</apellido1>
+        <apellido2>Padilla</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1069/2009 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>José</nombre>
+        <apellido1>Garrido</apellido1>
+        <apellido2>Pérez</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1069/2009 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>José</nombre>
+        <apellido1>Gómez</apellido1>
+        <apellido2>de Haro</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1069/2009 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Fernando</nombre>
+        <apellido1>González</apellido1>
+        <apellido2>Ros</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1069/2009 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Antonio</nombre>
+        <apellido1>Gutiérrez</apellido1>
+        <apellido2>Callejón</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1069/2009 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Antonio</nombre>
+        <apellido1>Alcázar</apellido1>
+        <apellido2>López</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1069/2009 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Carmelo</nombre>
+        <apellido1>Coronel</apellido1>
+        <apellido2>Jiménez</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1069/2009 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Juan</nombre>
+        <apellido1>Aliaga</apellido1>
+        <apellido2>Rodríguez</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1069/2009 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Domingo</nombre>
+        <apellido1>Sánchez</apellido1>
+        <apellido2>Quevedo</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1069/2009 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Pedro Antonio</nombre>
+        <apellido1>Almécija</apellido1>
+        <apellido2>Morales</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1069/2009 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Andrés</nombre>
+        <apellido1>Campoy</apellido1>
+        <apellido2>Gallardo</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1069/2009 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Domingo</nombre>
+        <apellido1>Campoy</apellido1>
+        <apellido2>Galvano</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1069/2009 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>José</nombre>
+        <apellido1>Cano</apellido1>
+        <apellido2>García</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1069/2009 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Pedro</nombre>
+        <apellido1>Castillo</apellido1>
+        <apellido2>Márquez</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1069/2009 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Ginés</nombre>
+        <apellido1>Céspedes</apellido1>
+        <apellido2>Jerez</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1069/2009 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Miguel</nombre>
+        <apellido1>Cubillo</apellido1>
+        <apellido2>Giménez</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1069/2009 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Amancio</nombre>
+        <apellido1>Sandín</apellido1>
+        <apellido2>Fernández</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1069/2009 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Juan</nombre>
+        <apellido1>Lara</apellido1>
+        <apellido2>Padilla</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1069/2009 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>José</nombre>
+        <apellido1>Minas</apellido1>
+        <apellido2>Minas</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1069/2009 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>José</nombre>
+        <apellido1>Moreno</apellido1>
+        <apellido2>González</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1069/2009 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Juan</nombre>
+        <apellido1>Palenzuela</apellido1>
+        <apellido2>Abad</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1069/2009 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Juan</nombre>
+        <apellido1>Ramírez</apellido1>
+        <apellido2>Chacón</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1069/2009 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Dionisio</nombre>
+        <apellido1>Sánchez</apellido1>
+        <apellido2>Martínez</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1069/2009 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Manuel</nombre>
+        <apellido1>Sánchez</apellido1>
+        <apellido2>Sánchez</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1069/2009 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Francisco</nombre>
+        <apellido1>Alonso</apellido1>
+        <apellido2>Rodríguez</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1069/2009 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Modesto</nombre>
+        <apellido1>Acosta</apellido1>
+        <apellido2>Cañavate</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1069/2009 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Antonio</nombre>
+        <apellido1>Agüero</apellido1>
+        <apellido2>Fernández</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1069/2009 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Federico</nombre>
+        <apellido1>Bueno</apellido1>
+        <apellido2>Villapizan</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1069/2009 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Tomás</nombre>
+        <apellido1>Cuadra</apellido1>
+        <apellido2>Valverde</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1069/2009 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Francisco</nombre>
+        <apellido1>Fernández</apellido1>
+        <apellido2>Barón</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1069/2009 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Luis</nombre>
+        <apellido1>Fernández</apellido1>
+        <apellido2>Barón</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1069/2009 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Alfonso</nombre>
+        <apellido1>Fernández</apellido1>
+        <apellido2>Vivancos</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1069/2009 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Francisco</nombre>
+        <apellido1>García</apellido1>
+        <apellido2>Martínez</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1069/2009 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Rafael</nombre>
+        <apellido1>García</apellido1>
+        <apellido2>Roca</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1069/2009 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Sebastián</nombre>
+        <apellido1>Godoy</apellido1>
+        <apellido2>Alcázar</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1069/2009 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Nicolás</nombre>
+        <apellido1>Gómez del Mercado</apellido1>
+        <apellido2>Giménez</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1069/2009 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Juan</nombre>
+        <apellido1>Goncora</apellido1>
+        <apellido2>López</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1069/2009 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Juan</nombre>
+        <apellido1>Jurado</apellido1>
+        <apellido2>Clemente</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1069/2009 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>José</nombre>
+        <apellido1>Sagnez</apellido1>
+        <apellido2>Martínez</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1069/2009 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Antonio</nombre>
+        <apellido1>Manzano</apellido1>
+        <apellido2>Catilla</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1069/2009 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Antonio</nombre>
+        <apellido1>Martínez</apellido1>
+        <apellido2>Fernández</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1069/2009 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Antonio</nombre>
+        <apellido1>Martínez</apellido1>
+        <apellido2>López</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1069/2009 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Antonio</nombre>
+        <apellido1>Megías</apellido1>
+        <apellido2>del Castillo</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1069/2009 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Gregorio</nombre>
+        <apellido1>Morales</apellido1>
+        <apellido2>Membrivas</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1069/2009 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Luis</nombre>
+        <apellido1>Pérez de Percebal</apellido1>
+        <apellido2>y Moral</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1069/2009 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Juan</nombre>
+        <apellido1>Pérez de Percebal</apellido1>
+        <apellido2>y Moral</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1069/2009 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>José Mª</nombre>
+        <apellido1>Pérez de Percebal</apellido1>
+        <apellido2>Sánchez</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1069/2009 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Luis</nombre>
+        <apellido1>Pérez de Percebal</apellido1>
+        <apellido2>Sánchez</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1069/2009 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Salvador</nombre>
+        <apellido1>Aguilar</apellido1>
+        <apellido2>Martínez</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>1069/2009 ALME</numRegistro>
+      </victima>
+    </fosa>
+    <fosa>
+      <numRegistro>1193/2009 ALME</numRegistro>
+      <denominacionFosa>NO CONSTA</denominacionFosa>
+      <estadoActual>TRASLADADA AL VALLE DE LOS CAÍDOS</estadoActual>
+      <numeroPersonasFosa>1</numeroPersonasFosa>
+      <numeroPersonasExhumadas>1</numeroPersonasExhumadas>
+      <numeroPersonasIdentificadas>1</numeroPersonasIdentificadas>
+      <entidadInformante>Patrimonio Nacional</entidadInformante>
+      <observaciones>Trasladada al Valle de los Caídos con la fecha/s:24/10/1975</observaciones>
+      <IdLocalidad>130</IdLocalidad>
+      <victima>
+        <nombre>José</nombre>
+        <apellido1>Hernández</apellido1>
+        <apellido2>Navarro</apellido2>
+        <sexo>M</sexo>
+        <otrosDatos>Coman 1º</otrosDatos>
+        <numRegistro>1193/2009 ALME</numRegistro>
+      </victima>
+    </fosa>
+    <fosa>
+      <numRegistro>1793/2010 ALME</numRegistro>
+      <denominacionFosa>Fosas en el Cementerio de San José y Santa Adela</denominacionFosa>
+      <tipoFosa>FUSILAMIENTO</tipoFosa>
+      <estadoActual>NO INTERVENIDA</estadoActual>
+      <numeroPersonasFosa>180</numeroPersonasFosa>
+      <entidadInformante>Consejería de Gobernación y Justicia de la Junta de Andalucía</entidadInformante>
+      <observaciones>Una vez terminada la Guerra Civil se produce una gran represión en la provincia de Almería a través de los Consejos de Guerra, entre 1939 y 1947 más de 370 personas fueron fusiladas. En el cementerio de Almería se encuentran referenciadas numerosas fosas, al menos siete zonas de enterramiento, en el primer recinto, a la derecha de la puerta de acceso, aunque las obras realizadas y la construcción de nichos ha alterado notablemente el aspecto del recinto y resulta casi imposible localizar las fosa comunes. Según algunos testimonios, como consecuencia de las obras realizadas, los restos de alguna de las víctimas fueron recuperados por familiares y los demás restos fueron llevados a un osario común, del que también se desconoce su ubicación.</observaciones>
+      <IdLocalidad>130</IdLocalidad>
+      <victima>
+        <nombre>José</nombre>
+        <apellido1>Manchón</apellido1>
+        <apellido2>Carrillo</apellido2>
+        <sexo>M</sexo>
+        <edad>48</edad>
+        <profesion>panadero</profesion>
+        <otrosDatos>Afiliado al PSOE, Alcalde de Garrucha en 1931. Condenado por sentencia de 26 de enero de 1943; enterrado en la fosa 133, serie 4ª, 1er recinto.</otrosDatos>
+        <fechaFallecimiento>27/04/1943</fechaFallecimiento>
+        <fechaInhumacion>27/04/1943</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Antonio</nombre>
+        <apellido1>Manuel</apellido1>
+        <apellido2>López</apellido2>
+        <sexo>M</sexo>
+        <edad>62</edad>
+        <profesion>jornalero</profesion>
+        <otrosDatos>Miembro de la tripulación del buque-prisión "Capitán Segarra" Condenado por sentencia de 27 de noviembre de 1942; enterrado en la fosa 133, serie 4ª, 1er recinto.</otrosDatos>
+        <fechaFallecimiento>27/04/1943</fechaFallecimiento>
+        <fechaInhumacion>27/04/1943</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Miguel</nombre>
+        <apellido1>Molina</apellido1>
+        <apellido2>Quesada</apellido2>
+        <sexo>M</sexo>
+        <edad>33</edad>
+        <profesion>peluquero</profesion>
+        <otrosDatos>condenado por sentencia de 27 de junio de 1940; enterrado en la fosa 64, serie 1ª, 1er recinto.</otrosDatos>
+        <fechaFallecimiento>29/01/1941</fechaFallecimiento>
+        <fechaInhumacion>29/01/1941</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Victoriano</nombre>
+        <apellido1>García</apellido1>
+        <apellido2>González</apellido2>
+        <sexo>M</sexo>
+        <edad>25</edad>
+        <profesion>chofer</profesion>
+        <otrosDatos>condenado por sentencia de 24 de junio de 1940; enterrado en la fosa 64, serie 1ª, 1er recinto.</otrosDatos>
+        <fechaFallecimiento>29/01/1941</fechaFallecimiento>
+        <fechaInhumacion>29/01/1941</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Amador</nombre>
+        <apellido1>Bonachera</apellido1>
+        <apellido2>García</apellido2>
+        <sexo>M</sexo>
+        <edad>31</edad>
+        <profesion>molinero</profesion>
+        <otrosDatos>condenado por sentencia de 24 de junio de 1940; enterrado en la fosa 64, serie 1ª, 1er recinto.</otrosDatos>
+        <fechaFallecimiento>29/01/1941</fechaFallecimiento>
+        <fechaInhumacion>29/01/1941</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Miguel</nombre>
+        <apellido1>Herrada</apellido1>
+        <apellido2>Ruiz</apellido2>
+        <sexo>M</sexo>
+        <edad>29</edad>
+        <profesion>jornalero</profesion>
+        <otrosDatos>condenado por sentencia de 4 de julio de 1940; enterrado en la fosa 64, serie 1ª, 1er recinto.</otrosDatos>
+        <fechaFallecimiento>29/01/1941</fechaFallecimiento>
+        <fechaInhumacion>29/01/1941</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Antonio</nombre>
+        <apellido1>Jiménez</apellido1>
+        <apellido2>González</apellido2>
+        <sexo>M</sexo>
+        <edad>32</edad>
+        <profesion>jornalero</profesion>
+        <otrosDatos>enterrado en la fosa 64, serie 1ª, 1er recinto.</otrosDatos>
+        <fechaFallecimiento>29/01/1941</fechaFallecimiento>
+        <fechaInhumacion>29/01/1941</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>José</nombre>
+        <apellido1>Medina</apellido1>
+        <apellido2>Moya</apellido2>
+        <sexo>M</sexo>
+        <edad>38</edad>
+        <profesion>obrero</profesion>
+        <otrosDatos>condenado por sentencia de 21 de julio de 1939; enterrado en la fosa 76, serie 1ª, 1er recinto.</otrosDatos>
+        <fechaFallecimiento>18/01/1941</fechaFallecimiento>
+        <fechaInhumacion>18/01/1941</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Melitón</nombre>
+        <apellido1>Soler</apellido1>
+        <apellido2>Belmonte</apellido2>
+        <sexo>M</sexo>
+        <edad>34</edad>
+        <profesion>pescador</profesion>
+        <otrosDatos>condenado por sentencia de 2 de diciembre de 1940; enterrado en la fosa 76, serie 1ª, 1er recinto.</otrosDatos>
+        <fechaFallecimiento>18/01/1941</fechaFallecimiento>
+        <fechaInhumacion>18/01/1941</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>José</nombre>
+        <apellido1>Fernández</apellido1>
+        <apellido2>Martín</apellido2>
+        <sexo>M</sexo>
+        <edad>37</edad>
+        <profesion>mecánico naval</profesion>
+        <otrosDatos>condenado por sentencia de 21 de febrero de 1940; enterrado en la fosa 76, serie 1ª, 1er recinto.</otrosDatos>
+        <fechaFallecimiento>18/01/1941</fechaFallecimiento>
+        <fechaInhumacion>18/01/1941</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>José</nombre>
+        <apellido1>González</apellido1>
+        <apellido2>Hera de</apellido2>
+        <sexo>M</sexo>
+        <edad>58</edad>
+        <profesion>obrero</profesion>
+        <otrosDatos>enterrado en la fosa 76, serie 1ª, 1er recinto.</otrosDatos>
+        <fechaFallecimiento>18/01/1941</fechaFallecimiento>
+        <fechaInhumacion>18/01/1941</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Francisco</nombre>
+        <apellido1>Pérez</apellido1>
+        <apellido2>Contreras</apellido2>
+        <sexo>M</sexo>
+        <edad>45</edad>
+        <profesion>propietario</profesion>
+        <otrosDatos>condenado por sentencia de 3 de junio de1939.</otrosDatos>
+        <fechaFallecimiento>24/07/1940</fechaFallecimiento>
+        <fechaInhumacion>24/07/1940</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Francisco</nombre>
+        <apellido1>Aguila del</apellido1>
+        <apellido2>Aguilera</apellido2>
+        <sexo>M</sexo>
+        <edad>25</edad>
+        <profesion>confitero</profesion>
+        <otrosDatos>condenado por sentencia de 15 de febrero de 1941</otrosDatos>
+        <fechaFallecimiento>06/03/1941</fechaFallecimiento>
+        <fechaInhumacion>06/03/1941</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Juan</nombre>
+        <apellido1>Aguila del</apellido1>
+        <apellido2>Aguilera</apellido2>
+        <sexo>M</sexo>
+        <edad>28</edad>
+        <profesion>chofer</profesion>
+        <otrosDatos>condenado por sentencia de 15 de febrero de 1941</otrosDatos>
+        <fechaFallecimiento>06/03/1941</fechaFallecimiento>
+        <fechaInhumacion>06/03/1941</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Juan</nombre>
+        <apellido1>Sánchez</apellido1>
+        <apellido2>Parra</apellido2>
+        <sexo>M</sexo>
+        <edad>34</edad>
+        <profesion>jornalero</profesion>
+        <otrosDatos>condenado por sentencia de  24 de enero de 1941; enterrado en la fosa 77, serie 1ª, 1er recinto.</otrosDatos>
+        <fechaFallecimiento>26/03/1941</fechaFallecimiento>
+        <fechaInhumacion>26/03/1941</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Antonio</nombre>
+        <apellido1>Abad</apellido1>
+        <apellido2>Jaen</apellido2>
+        <sexo>M</sexo>
+        <edad>35</edad>
+        <profesion>jornalero</profesion>
+        <otrosDatos>condenado por sentencia de 14 de febrero de 1941; enterrado en la fosa 84, serie 1ª, 1er recinto.</otrosDatos>
+        <fechaFallecimiento>29/04/1941</fechaFallecimiento>
+        <fechaInhumacion>29/04/1941</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Juan</nombre>
+        <apellido1>Tijeras</apellido1>
+        <apellido2>Cruz</apellido2>
+        <sexo>M</sexo>
+        <edad>44</edad>
+        <otrosDatos>enterrado en la fosa 85, serie 1ª, 1er recinto.</otrosDatos>
+        <fechaFallecimiento>01/05/1941</fechaFallecimiento>
+        <fechaInhumacion>01/05/1941</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Manuel</nombre>
+        <apellido1>Torres</apellido1>
+        <apellido2>Mateos</apellido2>
+        <sexo>M</sexo>
+        <edad>29</edad>
+        <profesion>jornalero</profesion>
+        <otrosDatos>condenado por sentencia de 18 de diciembre de 1939; enterrado en la fosa 85, serie 1ª, 1er recinto.</otrosDatos>
+        <fechaFallecimiento>01/05/1941</fechaFallecimiento>
+        <fechaInhumacion>01/05/1941</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Gregorio</nombre>
+        <apellido1>Artero</apellido1>
+        <apellido2>Belmonte</apellido2>
+        <sexo>M</sexo>
+        <edad>32</edad>
+        <profesion>jornalero</profesion>
+        <otrosDatos>condenado por sentencia de 18 de diciembre de 1939; enterrado en la fosa 85, serie 1ª, 1er recinto.</otrosDatos>
+        <fechaFallecimiento>01/05/1941</fechaFallecimiento>
+        <fechaInhumacion>01/05/1941</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Miguel</nombre>
+        <apellido1>Vizcaíno</apellido1>
+        <apellido2>Boraza</apellido2>
+        <sexo>M</sexo>
+        <edad>23</edad>
+        <profesion>jornalero</profesion>
+        <otrosDatos>condenado por sentencia de 18 de diciembre de 1939; enterrado en la fosa 85, serie 1ª, 1er recinto.</otrosDatos>
+        <fechaFallecimiento>01/05/1941</fechaFallecimiento>
+        <fechaInhumacion>01/05/1941</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Miguel</nombre>
+        <apellido1>González</apellido1>
+        <apellido2>Castro</apellido2>
+        <sexo>M</sexo>
+        <edad>23</edad>
+        <profesion>jornalero</profesion>
+        <otrosDatos>condenado por sentencia de 18 de diciembre de 1939; enterrado en la fosa 85, serie 1ª, 1er recinto.</otrosDatos>
+        <fechaFallecimiento>01/05/1941</fechaFallecimiento>
+        <fechaInhumacion>01/05/1941</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Francisco</nombre>
+        <apellido1>Lucas</apellido1>
+        <apellido2>Ocaña</apellido2>
+        <sexo>M</sexo>
+        <edad>53</edad>
+        <profesion>abogado</profesion>
+        <otrosDatos>condenado por sentencia de 21 de julio de 1939; enterrado en la fosa 85, serie 1ª, 1er recinto.</otrosDatos>
+        <fechaFallecimiento>09/05/1941</fechaFallecimiento>
+        <fechaInhumacion>09/05/1941</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Francisco</nombre>
+        <apellido1>Cañadas</apellido1>
+        <apellido2>Ponce</apellido2>
+        <sexo>M</sexo>
+        <edad>28</edad>
+        <profesion>dependiente</profesion>
+        <otrosDatos>condenado por sentencia de 22 de enero de 1941; enterrado en la fosa 85, serie 1ª, 1er recinto.</otrosDatos>
+        <fechaFallecimiento>20/05/1941</fechaFallecimiento>
+        <fechaInhumacion>20/05/1941</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>José</nombre>
+        <apellido1>Campos</apellido1>
+        <apellido2>Chercos</apellido2>
+        <sexo>M</sexo>
+        <edad>38</edad>
+        <profesion>ebanista</profesion>
+        <otrosDatos>Condenado por sentencia de 16 de febrero de 1943; enterrado en la fosa 133, serie 4ª, 1er recinto.</otrosDatos>
+        <fechaFallecimiento>25/05/1943</fechaFallecimiento>
+        <fechaInhumacion>25/05/1943</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Pedro</nombre>
+        <apellido1>Molina</apellido1>
+        <apellido2>Quesada</apellido2>
+        <sexo>M</sexo>
+        <edad>35</edad>
+        <profesion>jornalero</profesion>
+        <otrosDatos>Condenado por sentencia de 25 de febrero de 1943; enterrado en la fosa 133, serie 4ª, 1er recinto.</otrosDatos>
+        <fechaFallecimiento>25/05/1943</fechaFallecimiento>
+        <fechaInhumacion>25/05/1943</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>José</nombre>
+        <apellido1>Torres</apellido1>
+        <apellido2>García</apellido2>
+        <sexo>M</sexo>
+        <edad>31</edad>
+        <profesion>mecánico</profesion>
+        <otrosDatos>Condenado por sentencia de 28 de mayo de 1943; enterrado en la fosa 122, serie 5ª, 1er recinto.</otrosDatos>
+        <fechaFallecimiento>27/07/1943</fechaFallecimiento>
+        <fechaInhumacion>27/07/1943</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Juan José</nombre>
+        <apellido1>Bado</apellido1>
+        <apellido2>Laguna</apellido2>
+        <sexo>M</sexo>
+        <edad>36</edad>
+        <profesion>jornalero</profesion>
+        <otrosDatos>Condenado por sentencia de 12 de abril de 1943; enterrado en la fosa 122, serie 5ª, 1er recinto.</otrosDatos>
+        <fechaFallecimiento>27/07/1943</fechaFallecimiento>
+        <fechaInhumacion>27/07/1943</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Eduardo</nombre>
+        <apellido1>Cortés</apellido1>
+        <apellido2>Cortés</apellido2>
+        <sexo>M</sexo>
+        <edad>50</edad>
+        <profesion>guardia civil</profesion>
+        <fechaFallecimiento>26/02/1944</fechaFallecimiento>
+        <fechaInhumacion>26/02/1944</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Francisco</nombre>
+        <apellido1>Rodriguez</apellido1>
+        <apellido2>Folgoso</apellido2>
+        <sexo>M</sexo>
+        <edad>27</edad>
+        <profesion>mecánico</profesion>
+        <otrosDatos>enterrado en la fosa 122, serie 5ª, 1er recinto.</otrosDatos>
+        <fechaFallecimiento>28/03/1944</fechaFallecimiento>
+        <fechaInhumacion>28/03/1944</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Manuel</nombre>
+        <apellido1>Morales</apellido1>
+        <apellido2>Gibaja</apellido2>
+        <sexo>M</sexo>
+        <edad>35</edad>
+        <profesion>carrero</profesion>
+        <otrosDatos>Condenado por bandolerismo, sentencia de 25 de octubre de 1943; enterrado en la fosa 122, serie 5ª, 1er recinto.</otrosDatos>
+        <fechaFallecimiento>28/03/1944</fechaFallecimiento>
+        <fechaInhumacion>28/03/1944</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Andrés</nombre>
+        <apellido1>Morales</apellido1>
+        <apellido2>Gibaja</apellido2>
+        <sexo>M</sexo>
+        <edad>33</edad>
+        <profesion>jornalero</profesion>
+        <otrosDatos>Condenado por bandolerismo, sentencia de 25 de octubre de 1943; enterrado en la fosa 122, serie 5ª, 1er recinto.</otrosDatos>
+        <fechaFallecimiento>28/03/1944</fechaFallecimiento>
+        <fechaInhumacion>28/03/1944</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Juan</nombre>
+        <apellido1>Muley</apellido1>
+        <apellido2>Collado</apellido2>
+        <sexo>M</sexo>
+        <edad>36</edad>
+        <profesion>carrero</profesion>
+        <otrosDatos>Condenado por bandolerismo, sentencia de 25 de octubre de 1943; enterrado en la fosa 122, serie 5ª, 1er recinto.</otrosDatos>
+        <fechaFallecimiento>28/03/1944</fechaFallecimiento>
+        <fechaInhumacion>28/03/1944</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Juan</nombre>
+        <apellido1>Sánchez</apellido1>
+        <apellido2>Martínez</apellido2>
+        <sexo>M</sexo>
+        <edad>40</edad>
+        <profesion>carrero</profesion>
+        <otrosDatos>Condenado por bandolerismo, sentencia de 25 de octubre de 1943; enterrado en la fosa 122, serie 5ª, 1er recinto.</otrosDatos>
+        <fechaFallecimiento>28/03/1944</fechaFallecimiento>
+        <fechaInhumacion>28/03/1944</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Gabriel</nombre>
+        <apellido1>García</apellido1>
+        <apellido2>Torres</apellido2>
+        <sexo>M</sexo>
+        <edad>32</edad>
+        <profesion>minero</profesion>
+        <otrosDatos>condenado por sentencia de 26 de julio de 1943; enterrado en la fosa 122, serie 5ª, 1er recinto.</otrosDatos>
+        <fechaFallecimiento>22/04/1944</fechaFallecimiento>
+        <fechaInhumacion>22/04/1944</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Ramón</nombre>
+        <apellido1>Cerro</apellido1>
+        <apellido2>Suárez</apellido2>
+        <sexo>M</sexo>
+        <edad>29</edad>
+        <profesion>guardia civil</profesion>
+        <otrosDatos>enterrado en la fosa 42, serie 6ª, lugar 2 del 1er recinto.</otrosDatos>
+        <fechaFallecimiento>05/05/1944</fechaFallecimiento>
+        <fechaInhumacion>05/05/1944</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Juan</nombre>
+        <apellido1>Fernández</apellido1>
+        <apellido2>Rodríguez</apellido2>
+        <sexo>M</sexo>
+        <edad>36</edad>
+        <profesion>obrero</profesion>
+        <otrosDatos>condenado por sentencia de 21 de junio de 1943; enterrado en la fosa 122, serie 5ª, 1er recinto.</otrosDatos>
+        <fechaFallecimiento>25/05/1944</fechaFallecimiento>
+        <fechaInhumacion>25/05/1944</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Antonio</nombre>
+        <apellido1>Alonso</apellido1>
+        <apellido2>Fornieles</apellido2>
+        <sexo>M</sexo>
+        <edad>43</edad>
+        <profesion>ferroviario</profesion>
+        <otrosDatos>condenado por sentencia de 8 de abril de 1943; enterrado en la fosa 122, serie 5ª, 1er recinto.</otrosDatos>
+        <fechaFallecimiento>25/05/1944</fechaFallecimiento>
+        <fechaInhumacion>25/05/1944</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Blas</nombre>
+        <apellido1>Martínez</apellido1>
+        <apellido2>Gallardo</apellido2>
+        <sexo>M</sexo>
+        <edad>29</edad>
+        <profesion>jornalero</profesion>
+        <otrosDatos>enterrado en la fosa 94, serie 56ª, 1er recinto.</otrosDatos>
+        <fechaFallecimiento>22/06/1944</fechaFallecimiento>
+        <fechaInhumacion>22/06/1944</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>José Mª</nombre>
+        <apellido1>Campoy</apellido1>
+        <apellido2>Barón</apellido2>
+        <sexo>M</sexo>
+        <edad>34</edad>
+        <profesion>jornalero</profesion>
+        <otrosDatos>condenado por sentencia de 6 de mayo de 1943; enterrado en la fosa 94, serie 6ª, 1er recinto.</otrosDatos>
+        <fechaFallecimiento>22/06/1944</fechaFallecimiento>
+        <fechaInhumacion>22/06/1944</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>José</nombre>
+        <apellido1>Fernández</apellido1>
+        <apellido2>Castellón</apellido2>
+        <sexo>M</sexo>
+        <edad>45</edad>
+        <profesion>jornalero</profesion>
+        <otrosDatos>condenado por sentencia de 6 de mayo de 1943; enterrado en la fosa 94, serie 6ª, 1er recinto.</otrosDatos>
+        <fechaFallecimiento>22/06/1944</fechaFallecimiento>
+        <fechaInhumacion>22/06/1944</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>José</nombre>
+        <apellido1>Muñoz</apellido1>
+        <apellido2>Guerrero</apellido2>
+        <sexo>M</sexo>
+        <edad>39</edad>
+        <profesion>jornalero</profesion>
+        <otrosDatos>condenado por sentencia de 6 de mayo de 1943; enterrado en la fosa 94, serie 6ª, 1er recinto.</otrosDatos>
+        <fechaFallecimiento>22/06/1944</fechaFallecimiento>
+        <fechaInhumacion>22/06/1944</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Miguel</nombre>
+        <apellido1>Ramos</apellido1>
+        <apellido2>Castaño</apellido2>
+        <sexo>M</sexo>
+        <edad>26</edad>
+        <profesion>jornalero</profesion>
+        <otrosDatos>condenado por sentencia de 6 de mayo de 1943; enterrado en la fosa 94, serie 6ª, 1er recinto.</otrosDatos>
+        <fechaFallecimiento>22/06/1944</fechaFallecimiento>
+        <fechaInhumacion>22/06/1944</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Francisco</nombre>
+        <apellido1>Collado</apellido1>
+        <apellido2>Muñoz</apellido2>
+        <sexo>M</sexo>
+        <edad>39</edad>
+        <profesion>corredor</profesion>
+        <otrosDatos>condenado por sentencia de 6 de mayo de 1943; enterrado en la fosa 94, serie 6ª, 1er recinto.</otrosDatos>
+        <fechaFallecimiento>22/06/1944</fechaFallecimiento>
+        <fechaInhumacion>22/06/1944</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Manuel</nombre>
+        <apellido1>Pérez</apellido1>
+        <apellido2>Berenguer</apellido2>
+        <sexo>M</sexo>
+        <edad>38</edad>
+        <profesion>jornalero</profesion>
+        <otrosDatos>condenado por bandolerismo, sentencia de 21 de mayo de1945; enterrado en la fosa 68, serie 7ª, 1er recinto.</otrosDatos>
+        <fechaFallecimiento>17/07/1945</fechaFallecimiento>
+        <fechaInhumacion>17/07/1945</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Manuel</nombre>
+        <apellido1>Sánchez</apellido1>
+        <apellido2>Ramón</apellido2>
+        <sexo>M</sexo>
+        <edad>40</edad>
+        <profesion>barrilero</profesion>
+        <otrosDatos>condenado por sentencia de 20 de mayo de 1943.</otrosDatos>
+        <fechaFallecimiento>22/08/1944</fechaFallecimiento>
+        <fechaInhumacion>22/08/1944</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Pedro</nombre>
+        <apellido1>Ortells</apellido1>
+        <apellido2>Bernat</apellido2>
+        <sexo>M</sexo>
+        <edad>46</edad>
+        <profesion>carrero</profesion>
+        <otrosDatos>condenado por sentencia de 27 de octubre de 1943; enterrado en la fosa 94, serie 6ª, 1er recinto.</otrosDatos>
+        <fechaFallecimiento>22/08/1944</fechaFallecimiento>
+        <fechaInhumacion>22/08/1944</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Antonio</nombre>
+        <apellido1>Caruda</apellido1>
+        <apellido2>Cruz</apellido2>
+        <sexo>M</sexo>
+        <edad>36</edad>
+        <profesion>jornalero</profesion>
+        <otrosDatos>enterrado en la fosa 94, serie 6ª, 1er recinto.</otrosDatos>
+        <fechaFallecimiento>17/10/1944</fechaFallecimiento>
+        <fechaInhumacion>17/10/1944</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Esteban</nombre>
+        <apellido1>López</apellido1>
+        <apellido2>Romero</apellido2>
+        <sexo>M</sexo>
+        <edad>56</edad>
+        <profesion>jornalero</profesion>
+        <otrosDatos>condenado por bandolerismo, sentencia de 28 de abril de1944; enterrado en la fosa 94, serie 6ª, 1er recinto.</otrosDatos>
+        <fechaFallecimiento>17/10/1944</fechaFallecimiento>
+        <fechaInhumacion>17/10/1944</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Esteban</nombre>
+        <apellido1>López</apellido1>
+        <apellido2>González</apellido2>
+        <sexo>M</sexo>
+        <edad>21</edad>
+        <profesion>jornalero</profesion>
+        <otrosDatos>condenado por bandolerismo, sentencia de 28 de junio de1944; enterrado en la fosa 94, serie 6ª, 1er recinto.</otrosDatos>
+        <fechaFallecimiento>17/10/1944</fechaFallecimiento>
+        <fechaInhumacion>17/10/1944</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Raimundo</nombre>
+        <apellido1>Oyonarte</apellido1>
+        <apellido2>Herrada</apellido2>
+        <sexo>M</sexo>
+        <edad>48</edad>
+        <profesion>barrilero</profesion>
+        <otrosDatos>condenado por sentencia de 24 de febrero de 1942; enterrado en la fosa 130, serie 3ª, 1er recinto.</otrosDatos>
+        <fechaFallecimiento>26/05/1942</fechaFallecimiento>
+        <fechaInhumacion>26/05/1942</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Juan</nombre>
+        <apellido1>Seguí</apellido1>
+        <apellido2>Escolar</apellido2>
+        <sexo>M</sexo>
+        <edad>23</edad>
+        <profesion>albañil</profesion>
+        <otrosDatos>enterrado en la fosa 130, serie 3ª, 1er recinto.</otrosDatos>
+        <fechaFallecimiento>02/06/1942</fechaFallecimiento>
+        <fechaInhumacion>02/06/1942</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Francisco</nombre>
+        <apellido1>Bravo</apellido1>
+        <apellido2>Ferrer</apellido2>
+        <sexo>M</sexo>
+        <edad>52</edad>
+        <profesion>barrilero</profesion>
+        <otrosDatos>condenado por sentencia de 9 de junio de 1941; enterrado en la fosa 130, serie 3ª, 1er recinto.</otrosDatos>
+        <fechaFallecimiento>09/06/1942</fechaFallecimiento>
+        <fechaInhumacion>09/06/1942</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Antonio</nombre>
+        <apellido1>Gutiérrez</apellido1>
+        <apellido2>Gómez</apellido2>
+        <sexo>M</sexo>
+        <edad>41</edad>
+        <profesion>mecánico</profesion>
+        <otrosDatos>condenado por sentencia de 24 de febrero de 1942; enterrado en la fosa 131, serie 3ª, 1er recinto.</otrosDatos>
+        <fechaFallecimiento>11/08/1942</fechaFallecimiento>
+        <fechaInhumacion>11/08/1942</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Alejandro</nombre>
+        <apellido1>Morales</apellido1>
+        <apellido2>Moya</apellido2>
+        <sexo>M</sexo>
+        <edad>31</edad>
+        <profesion>agricultor</profesion>
+        <otrosDatos>enterrado en la fosa 131, serie 3ª, 1er recinto.</otrosDatos>
+        <fechaFallecimiento>11/08/1942</fechaFallecimiento>
+        <fechaInhumacion>11/08/1942</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Encarnación</nombre>
+        <apellido1>Magaña</apellido1>
+        <apellido2>Gómez</apellido2>
+        <sexo>F</sexo>
+        <edad>20</edad>
+        <profesion>sus labores</profesion>
+        <otrosDatos>enterrada en la fosa 130, serie 3ª, 1er recinto.</otrosDatos>
+        <fechaFallecimiento>11/08/1942</fechaFallecimiento>
+        <fechaInhumacion>11/08/1942</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Cristobal</nombre>
+        <apellido1>Company</apellido1>
+        <apellido2>García</apellido2>
+        <sexo>M</sexo>
+        <edad>28</edad>
+        <profesion>peluquero</profesion>
+        <otrosDatos>enterrado en la fosa 130, serie 3ª, 1er recinto.</otrosDatos>
+        <fechaFallecimiento>11/08/1942</fechaFallecimiento>
+        <fechaInhumacion>11/08/1942</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Juan</nombre>
+        <apellido1>Hernández</apellido1>
+        <apellido2>Granados</apellido2>
+        <sexo>M</sexo>
+        <edad>24</edad>
+        <profesion>jornalero</profesion>
+        <otrosDatos>condenado por sentencia de 11 de mayo de 1942; enterrado en la fosa 131, serie 3ª, 1er recinto.</otrosDatos>
+        <fechaFallecimiento>11/08/1942</fechaFallecimiento>
+        <fechaInhumacion>11/08/1942</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Francisco</nombre>
+        <apellido1>García</apellido1>
+        <apellido2>Luna</apellido2>
+        <sexo>M</sexo>
+        <edad>32</edad>
+        <profesion>guardia civil</profesion>
+        <otrosDatos>enterrado en la fosa 131, serie 3ª, 1er recinto.</otrosDatos>
+        <fechaFallecimiento>11/08/1942</fechaFallecimiento>
+        <fechaInhumacion>11/08/1942</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Antonio</nombre>
+        <apellido1>González</apellido1>
+        <apellido2>Estrella</apellido2>
+        <sexo>M</sexo>
+        <edad>22</edad>
+        <profesion>practicante de farmacia</profesion>
+        <otrosDatos>enterrado en la fosa 131, serie 3ª, 1er recinto.</otrosDatos>
+        <fechaFallecimiento>11/08/1942</fechaFallecimiento>
+        <fechaInhumacion>11/08/1942</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Diego</nombre>
+        <apellido1>Molina</apellido1>
+        <apellido2>Matarín</apellido2>
+        <sexo>M</sexo>
+        <edad>29</edad>
+        <profesion>chofer</profesion>
+        <otrosDatos>enterrado en la fosa 131, serie 3ª, 1er recinto.</otrosDatos>
+        <fechaFallecimiento>11/08/1942</fechaFallecimiento>
+        <fechaInhumacion>11/08/1942</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Francisco</nombre>
+        <apellido1>Martín</apellido1>
+        <apellido2>Vázquez</apellido2>
+        <sexo>M</sexo>
+        <edad>44</edad>
+        <profesion>carpintero</profesion>
+        <otrosDatos>enterrado en la fosa 131, serie 3ª, 1er recinto.</otrosDatos>
+        <fechaFallecimiento>11/08/1942</fechaFallecimiento>
+        <fechaInhumacion>11/08/1942</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>José</nombre>
+        <apellido1>Reyes</apellido1>
+        <apellido2>Conde</apellido2>
+        <sexo>M</sexo>
+        <edad>33</edad>
+        <profesion>marinero</profesion>
+        <otrosDatos>enterrado en la fosa 131, serie 3ª, 1er recinto.</otrosDatos>
+        <fechaFallecimiento>18/08/1942</fechaFallecimiento>
+        <fechaInhumacion>18/08/1942</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Juan</nombre>
+        <apellido1>García</apellido1>
+        <apellido2>López</apellido2>
+        <sexo>M</sexo>
+        <edad>24</edad>
+        <profesion>jornalero</profesion>
+        <otrosDatos>enterrado en la fosa 131, serie 3ª, 1er recinto.</otrosDatos>
+        <fechaFallecimiento>29/08/1942</fechaFallecimiento>
+        <fechaInhumacion>29/08/1942</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Francisco</nombre>
+        <apellido1>López</apellido1>
+        <apellido2>Carrera</apellido2>
+        <sexo>M</sexo>
+        <edad>30</edad>
+        <profesion>labrador</profesion>
+        <otrosDatos>enterrado en la fosa 129, serie 3ª, 1er recinto.</otrosDatos>
+        <fechaFallecimiento>17/03/1942</fechaFallecimiento>
+        <fechaInhumacion>17/03/1942</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Enrique</nombre>
+        <apellido1>Martínez</apellido1>
+        <apellido2>López</apellido2>
+        <sexo>M</sexo>
+        <edad>42</edad>
+        <profesion>calafate</profesion>
+        <otrosDatos>condenado por sentencia de 17 de diciembre de 1941; enterrado en la fosa 129, serie 3ª, 1er recinto.</otrosDatos>
+        <fechaFallecimiento>17/03/1942</fechaFallecimiento>
+        <fechaInhumacion>17/03/1942</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Ramón</nombre>
+        <apellido1>Callejón</apellido1>
+        <apellido2>Bayo</apellido2>
+        <sexo>M</sexo>
+        <edad>38</edad>
+        <profesion>jornalero</profesion>
+        <otrosDatos>condenado por sentencia de 10 de diciembre de 1941; enterrado en la fosa 129, serie 3ª, 1er recinto.</otrosDatos>
+        <fechaFallecimiento>17/03/1942</fechaFallecimiento>
+        <fechaInhumacion>17/03/1942</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Juan</nombre>
+        <apellido1>Soriano</apellido1>
+        <apellido2>Rodríguez</apellido2>
+        <sexo>M</sexo>
+        <edad>27</edad>
+        <profesion>espartero</profesion>
+        <otrosDatos>condenado por sentencia de 10 de diciembre de 1941; enterrado en la fosa 129, serie 3ª, 1er recinto.</otrosDatos>
+        <fechaFallecimiento>14/04/1942</fechaFallecimiento>
+        <fechaInhumacion>14/04/1942</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Juan</nombre>
+        <apellido1>Molina</apellido1>
+        <apellido2>Núñez</apellido2>
+        <sexo>M</sexo>
+        <profesion>jornalero</profesion>
+        <otrosDatos>condenado por sentencia de 1 de mayo de 1939, enterrado en la fosa 57, sec 5ª</otrosDatos>
+        <fechaFallecimiento>18/05/1939</fechaFallecimiento>
+        <fechaInhumacion>18/05/1939</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Juan</nombre>
+        <apellido1>Segura</apellido1>
+        <apellido2>López</apellido2>
+        <sexo>M</sexo>
+        <profesion>jornalero</profesion>
+        <otrosDatos>condenado por sentencia de 4 de mayo de 1939. Enterrado en la fosa 57, sec. 5ª</otrosDatos>
+        <fechaFallecimiento>18/05/1939</fechaFallecimiento>
+        <fechaInhumacion>18/05/1939</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Pedro</nombre>
+        <apellido1>Herrera</apellido1>
+        <apellido2>Bueso</apellido2>
+        <sexo>M</sexo>
+        <profesion>ferroviario</profesion>
+        <fechaFallecimiento>18/05/1939</fechaFallecimiento>
+        <fechaInhumacion>18/05/1939</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Emilio</nombre>
+        <apellido1>Torrezano</apellido1>
+        <apellido2>Aguila del</apellido2>
+        <sexo>M</sexo>
+        <profesion>metalúrgico</profesion>
+        <otrosDatos>enterrado en la fosa 57, sec 5ª</otrosDatos>
+        <fechaFallecimiento>18/05/1939</fechaFallecimiento>
+        <fechaInhumacion>18/05/1939</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Juan</nombre>
+        <apellido1>Cruz</apellido1>
+        <apellido2>Nieto</apellido2>
+        <sexo>M</sexo>
+        <profesion>jornalero</profesion>
+        <otrosDatos>condenado por sentencia de 4 de mayo de 1939, enterrado en la fosa 57, sec 5ª</otrosDatos>
+        <fechaFallecimiento>18/05/1939</fechaFallecimiento>
+        <fechaInhumacion>18/05/1939</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Antonio</nombre>
+        <apellido1>Herrera</apellido1>
+        <apellido2>Bueso</apellido2>
+        <sexo>M</sexo>
+        <profesion>electricista</profesion>
+        <otrosDatos>condenado por sentencia de 17 de abril  de 1939, enterrado en la fosa 56, sec 5ª</otrosDatos>
+        <fechaFallecimiento>18/04/1939</fechaFallecimiento>
+        <fechaInhumacion>18/04/1939</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Enrique Juan</nombre>
+        <apellido1>Escobar</apellido1>
+        <apellido2>Benavente</apellido2>
+        <sexo>M</sexo>
+        <profesion>abogado</profesion>
+        <otrosDatos>condenado por sentencia de 18 de abril de 1939, enterrado en la fosa 56, sec 5ª</otrosDatos>
+        <fechaFallecimiento>18/04/1939</fechaFallecimiento>
+        <fechaInhumacion>18/04/1939</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Antonio</nombre>
+        <apellido1>Martínez</apellido1>
+        <apellido2>Fenoy</apellido2>
+        <sexo>M</sexo>
+        <profesion>dependiente</profesion>
+        <otrosDatos>condenado por sentencia de 17 de abril  de 1939, enterrado en la fosa 56, sec 5ª</otrosDatos>
+        <fechaFallecimiento>18/04/1939</fechaFallecimiento>
+        <fechaInhumacion>18/04/1939</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>José</nombre>
+        <apellido1>Martinez</apellido1>
+        <apellido2>Navarro</apellido2>
+        <sexo>M</sexo>
+        <profesion>empleado</profesion>
+        <otrosDatos>condenado por sentencia de 18 de abril de 1934. Enterrado en la fosa 56 sec.5ª</otrosDatos>
+        <fechaFallecimiento>18/04/1939</fechaFallecimiento>
+        <fechaInhumacion>18/04/1939</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Manuel</nombre>
+        <apellido1>Alférez</apellido1>
+        <apellido2>Samper</apellido2>
+        <sexo>M</sexo>
+        <profesion>camarero</profesion>
+        <otrosDatos>condenado por sentencia de 18 de abril de 1939, enterrado en la fosa 56, sec 5ª</otrosDatos>
+        <fechaFallecimiento>18/04/1939</fechaFallecimiento>
+        <fechaInhumacion>18/04/1939</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Blas Antonio</nombre>
+        <apellido1>Sánchez</apellido1>
+        <apellido2>Antolinez</apellido2>
+        <sexo>M</sexo>
+        <profesion>comerciante</profesion>
+        <otrosDatos>condenado por sentencia de 6 de junio de 1939. Enterrado en la fosa 9, serie 1ª, el 5 del 3er recinto.</otrosDatos>
+        <fechaFallecimiento>30/05/1940</fechaFallecimiento>
+        <fechaInhumacion>30/05/1940</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>josé</nombre>
+        <apellido1>Cirera</apellido1>
+        <apellido2>Pérez</apellido2>
+        <sexo>M</sexo>
+        <edad>40</edad>
+        <profesion>jornalero</profesion>
+        <otrosDatos>condenado por sentencia de 3 de junio de 1939. Enterrado en la fosa 4, serie 2ª, el 1 del 3er recinto.</otrosDatos>
+        <fechaFallecimiento>12/06/1939</fechaFallecimiento>
+        <fechaInhumacion>12/06/1939</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Pedro</nombre>
+        <apellido1>Gutiérrez</apellido1>
+        <apellido2>Solvas</apellido2>
+        <sexo>M</sexo>
+        <edad>35</edad>
+        <profesion>barbero</profesion>
+        <otrosDatos>condenado por sentencia de 190de septiembre de 1939. Enterrado en la fosa 10, serie 2ª, el 2 del 3er recinto.</otrosDatos>
+        <fechaFallecimiento>20/09/1939</fechaFallecimiento>
+        <fechaInhumacion>20/09/1939</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Antonio</nombre>
+        <apellido1>Ruiz</apellido1>
+        <apellido2>Cinta</apellido2>
+        <sexo>M</sexo>
+        <edad>24</edad>
+        <profesion>jornalero</profesion>
+        <otrosDatos>condenado por sentencia de 7 de octubre de 1939, enterrado en la fosa 16, serie 2, el 6 del 3er recinto.</otrosDatos>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Antonio</nombre>
+        <apellido1>Flores</apellido1>
+        <apellido2>Egea</apellido2>
+        <sexo>M</sexo>
+        <edad>24</edad>
+        <profesion>jornalero</profesion>
+        <otrosDatos>condenado por sentencia de 7 de octubre de 1939, enterrado en la fosa 16, serie 2, el 5 del 3er recinto.</otrosDatos>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Antonio</nombre>
+        <apellido1>Cazorla</apellido1>
+        <apellido2>Escámez</apellido2>
+        <sexo>M</sexo>
+        <edad>32</edad>
+        <profesion>secretario de juzgado municipal</profesion>
+        <otrosDatos>condenado por sentencia de 6 de diciembre de 1939, enterrado en la fosa 16, serie 2, el 5 del 3er recinto.</otrosDatos>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Domingo</nombre>
+        <apellido1>García</apellido1>
+        <apellido2>Cabarcos</apellido2>
+        <sexo>M</sexo>
+        <edad>28</edad>
+        <profesion>marinero</profesion>
+        <otrosDatos>condenado por sentencia de 30 de mayo de 1940, enterrado en tierra, n32-S 64-P12-L23</otrosDatos>
+        <fechaFallecimiento>03/01/1941</fechaFallecimiento>
+        <fechaInhumacion>03/01/1941</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Melchor</nombre>
+        <apellido1>Belmonte</apellido1>
+        <apellido2>Molina</apellido2>
+        <sexo>M</sexo>
+        <edad>27</edad>
+        <profesion>jornalero</profesion>
+        <otrosDatos>condenado por sentencia de 3 de enero de 1941, enterrado en tierra, n32-S 64-P12-L23</otrosDatos>
+        <fechaFallecimiento>03/01/1941</fechaFallecimiento>
+        <fechaInhumacion>03/01/1941</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Francisco</nombre>
+        <apellido1>Torre la</apellido1>
+        <apellido2>Aparicio</apellido2>
+        <sexo>M</sexo>
+        <edad>38</edad>
+        <profesion>jornalero</profesion>
+        <otrosDatos>condenado por sentencia de 19 de febrero de 1940, enterrado en tierra, n32-S 64-P12-L23</otrosDatos>
+        <fechaFallecimiento>03/01/1941</fechaFallecimiento>
+        <fechaInhumacion>03/01/1941</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Luís</nombre>
+        <apellido1>Berenguer</apellido1>
+        <apellido2>Sánchez</apellido2>
+        <sexo>M</sexo>
+        <edad>53</edad>
+        <profesion>jornalero</profesion>
+        <otrosDatos>condenado por sentencia de 3 de febrero de 1940, enterrado en tierra, n32-S 64-P12-L23</otrosDatos>
+        <fechaFallecimiento>03/01/1941</fechaFallecimiento>
+        <fechaInhumacion>03/01/1941</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>José</nombre>
+        <apellido1>Castillo</apellido1>
+        <apellido2>Castillo</apellido2>
+        <sexo>M</sexo>
+        <edad>28</edad>
+        <profesion>jornalero</profesion>
+        <otrosDatos>enterrado en la fosa 62, serie 1ª, 1er recinto.</otrosDatos>
+        <fechaFallecimiento>25/01/1941</fechaFallecimiento>
+        <fechaInhumacion>25/01/1941</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Gabriel</nombre>
+        <apellido1>Cruz</apellido1>
+        <apellido2>González</apellido2>
+        <sexo>M</sexo>
+        <edad>39</edad>
+        <profesion>jornalero</profesion>
+        <otrosDatos>condenado por sentencia de 1 de julio de 1939; enterrado en la fosa 87, serie 1ª, 1er recinto.</otrosDatos>
+        <fechaFallecimiento>23/09/1941</fechaFallecimiento>
+        <fechaInhumacion>23/09/1941</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Pedro</nombre>
+        <apellido1>Sánchez</apellido1>
+        <apellido2>Gázquez</apellido2>
+        <sexo>M</sexo>
+        <edad>28</edad>
+        <profesion>cantero</profesion>
+        <otrosDatos>condenado por sentencia de 1 de diciembre de 1939; enterrado en la fosa 87, serie 1ª, 1er recinto.</otrosDatos>
+        <fechaFallecimiento>19/09/1941</fechaFallecimiento>
+        <fechaInhumacion>19/09/1941</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Francisco</nombre>
+        <apellido1>Alfonso</apellido1>
+        <apellido2>Salas</apellido2>
+        <sexo>M</sexo>
+        <edad>32</edad>
+        <profesion>alfarero</profesion>
+        <otrosDatos>condenado por sentencia de 13 de mayo de 1940; enterrado en la fosa 87, serie 1ª, 1er recinto.</otrosDatos>
+        <fechaFallecimiento>19/09/1941</fechaFallecimiento>
+        <fechaInhumacion>19/09/1941</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Joaquín</nombre>
+        <apellido1>Rueda</apellido1>
+        <apellido2>Pérez</apellido2>
+        <sexo>M</sexo>
+        <edad>36</edad>
+        <profesion>hojalatero</profesion>
+        <otrosDatos>condenado por sentencia de 30 de enero de 1941; enterrado en la fosa 87, serie 1ª, 1er recinto.</otrosDatos>
+        <fechaFallecimiento>19/09/1941</fechaFallecimiento>
+        <fechaInhumacion>19/09/1941</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Juan</nombre>
+        <apellido1>Fernández</apellido1>
+        <apellido2>Fernández</apellido2>
+        <sexo>M</sexo>
+        <edad>33</edad>
+        <profesion>obrero</profesion>
+        <otrosDatos>condenado por sentencia de 21 de abril de 1941; enterrado en la fosa 87, serie 1ª, 1er recinto.</otrosDatos>
+        <fechaFallecimiento>23/09/1941</fechaFallecimiento>
+        <fechaInhumacion>23/09/1941</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>José</nombre>
+        <apellido1>Gómez</apellido1>
+        <apellido2>Amate</apellido2>
+        <sexo>M</sexo>
+        <edad>46</edad>
+        <otrosDatos>condenado por sentencia de 7 de agosto de 1941; enterrado en la fosa 87, serie 1ª, 1er recinto.</otrosDatos>
+        <fechaFallecimiento>14/10/1941</fechaFallecimiento>
+        <fechaInhumacion>14/10/1941</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>José</nombre>
+        <apellido1>Torres</apellido1>
+        <apellido2>Soler</apellido2>
+        <sexo>M</sexo>
+        <edad>28</edad>
+        <otrosDatos>enterrado en la fosa 87, serie 1ª, 1er recinto.</otrosDatos>
+        <fechaFallecimiento>14/10/1941</fechaFallecimiento>
+        <fechaInhumacion>14/10/1941</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Rafael</nombre>
+        <apellido1>Arcos</apellido1>
+        <apellido2>Sánchez</apellido2>
+        <sexo>M</sexo>
+        <edad>23</edad>
+        <profesion>practicante</profesion>
+        <otrosDatos>condenado por sentencia de 9 de julio de 1941; enterrado en la fosa 87, serie 1ª, 1er recinto.</otrosDatos>
+        <fechaFallecimiento>14/10/1941</fechaFallecimiento>
+        <fechaInhumacion>14/10/1941</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Ramón</nombre>
+        <apellido1>Soler</apellido1>
+        <apellido2>Hernández</apellido2>
+        <sexo>M</sexo>
+        <edad>28</edad>
+        <profesion>jornalero</profesion>
+        <otrosDatos>condenado por sentencia de 23 de junio de 1941; enterrado en la fosa 87, serie 1ª, 1er recinto.</otrosDatos>
+        <fechaFallecimiento>14/10/1941</fechaFallecimiento>
+        <fechaInhumacion>14/10/1941</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Antonio</nombre>
+        <apellido1>Mesa</apellido1>
+        <apellido2>Almansa</apellido2>
+        <sexo>M</sexo>
+        <edad>27</edad>
+        <profesion>labrador</profesion>
+        <otrosDatos>condenado por sentencia de 9 de julio de 1941; enterrado en la fosa 87, serie 1ª, 1er recinto.</otrosDatos>
+        <fechaFallecimiento>14/10/1941</fechaFallecimiento>
+        <fechaInhumacion>14/10/1941</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>José</nombre>
+        <apellido1>García</apellido1>
+        <apellido2>Gómez</apellido2>
+        <sexo>M</sexo>
+        <edad>29</edad>
+        <profesion>jornalero</profesion>
+        <otrosDatos>condenado por sentencia de 9 de junio de 1941; enterrado en la fosa 87, serie 1ª, 1er recinto.</otrosDatos>
+        <fechaFallecimiento>14/10/1941</fechaFallecimiento>
+        <fechaInhumacion>14/10/1941</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Ramón</nombre>
+        <apellido1>Sandoval</apellido1>
+        <apellido2>Vizcaíno</apellido2>
+        <sexo>M</sexo>
+        <edad>42</edad>
+        <profesion>cargador de buques</profesion>
+        <otrosDatos>condenado por sentencia de 10 de julio de 1941; enterrado en la fosa 87, serie 1ª, 1er recinto.</otrosDatos>
+        <fechaFallecimiento>14/10/1941</fechaFallecimiento>
+        <fechaInhumacion>14/10/1941</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Antonio</nombre>
+        <apellido1>Guerra</apellido1>
+        <apellido2>Molina</apellido2>
+        <sexo>M</sexo>
+        <edad>29</edad>
+        <profesion>chofer</profesion>
+        <otrosDatos>condenado por sentencia de 6 de agosto de 1941; enterrado en la fosa 87, serie 1ª, 1er recinto.</otrosDatos>
+        <fechaFallecimiento>13/10/1941</fechaFallecimiento>
+        <fechaInhumacion>13/10/1941</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Antonio</nombre>
+        <apellido1>López</apellido1>
+        <apellido2>López</apellido2>
+        <sexo>M</sexo>
+        <edad>31</edad>
+        <profesion>jornalero</profesion>
+        <otrosDatos>condenado por sentencia de 27 de septiembre de 1941; enterrado en la fosa 88, serie 1ª, 1er recinto.</otrosDatos>
+        <fechaFallecimiento>16/12/1941</fechaFallecimiento>
+        <fechaInhumacion>16/12/1941</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Joaquín</nombre>
+        <apellido1>García</apellido1>
+        <apellido2>Solbas</apellido2>
+        <sexo>M</sexo>
+        <edad>31</edad>
+        <profesion>chofer</profesion>
+        <otrosDatos>condenado por sentencia de 11 de agosto de 1941; enterrado en la fosa 88, serie 1ª, 1er recinto.</otrosDatos>
+        <fechaFallecimiento>13/01/1942</fechaFallecimiento>
+        <fechaInhumacion>13/01/1942</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Gumersindo</nombre>
+        <apellido1>Castro</apellido1>
+        <apellido2>López</apellido2>
+        <sexo>M</sexo>
+        <edad>39</edad>
+        <profesion>albañil</profesion>
+        <otrosDatos>enterrado en la fosa 88, serie 1ª, 1er recinto.</otrosDatos>
+        <fechaFallecimiento>10/12/1941</fechaFallecimiento>
+        <fechaInhumacion>10/12/1941</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Francisco</nombre>
+        <apellido1>Torres</apellido1>
+        <apellido2>Domínguez</apellido2>
+        <sexo>M</sexo>
+        <edad>34</edad>
+        <profesion>chofer</profesion>
+        <otrosDatos>condenado por sentencia de 2 de septiembre de 1941; enterrado en la fosa 88, serie 1ª, 1er recinto.</otrosDatos>
+        <fechaFallecimiento>10/12/1941</fechaFallecimiento>
+        <fechaInhumacion>10/12/1941</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Joaquín</nombre>
+        <apellido1>Robles</apellido1>
+        <apellido2>Medina</apellido2>
+        <sexo>M</sexo>
+        <edad>36</edad>
+        <profesion>chofer</profesion>
+        <otrosDatos>condenado por sentencia de 30 de enero de 1941; enterrado en la fosa 88, serie 1ª, 1er recinto.</otrosDatos>
+        <fechaFallecimiento>10/12/1941</fechaFallecimiento>
+        <fechaInhumacion>10/12/1941</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Antonio</nombre>
+        <apellido1>Sánchez</apellido1>
+        <apellido2>González</apellido2>
+        <sexo>M</sexo>
+        <edad>26</edad>
+        <profesion>empleado</profesion>
+        <otrosDatos>condenado por sentencia de 2 de septiembre de 1941; enterrado en la fosa 88, serie 1ª, 1er recinto.</otrosDatos>
+        <fechaFallecimiento>16/12/1941</fechaFallecimiento>
+        <fechaInhumacion>16/12/1941</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>José</nombre>
+        <apellido1>Cruz</apellido1>
+        <apellido2>García</apellido2>
+        <sexo>M</sexo>
+        <edad>47</edad>
+        <otrosDatos>condenado por sentencia de 4 de septiembre de 1941; enterrado en la fosa 88, serie 1ª, 1er recinto.</otrosDatos>
+        <fechaFallecimiento>10/12/1941</fechaFallecimiento>
+        <fechaInhumacion>10/12/1941</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Juan</nombre>
+        <apellido1>Pérez</apellido1>
+        <apellido2>Pérez</apellido2>
+        <sexo>M</sexo>
+        <edad>35</edad>
+        <profesion>minero</profesion>
+        <otrosDatos>condenado por sentencia de 5 de agosto de 1941; enterrado en la fosa 88, serie 1ª, 1er recinto.</otrosDatos>
+        <fechaFallecimiento>16/12/1941</fechaFallecimiento>
+        <fechaInhumacion>16/12/1941</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Juan</nombre>
+        <apellido1>Vindes</apellido1>
+        <apellido2>Camacho</apellido2>
+        <sexo>M</sexo>
+        <edad>24</edad>
+        <profesion>jornalero</profesion>
+        <otrosDatos>condenado por sentencia de 24 de septiembre de 1941; enterrado en la fosa 88, serie 1ª, 1er recinto.</otrosDatos>
+        <fechaFallecimiento>09/01/1942</fechaFallecimiento>
+        <fechaInhumacion>09/01/1942</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Aureliano</nombre>
+        <apellido1>Cortés</apellido1>
+        <apellido2>Mas</apellido2>
+        <sexo>M</sexo>
+        <edad>27</edad>
+        <profesion>barrilero</profesion>
+        <otrosDatos>condenado por sentencia de 22 de agosto de 1941; enterrado en la fosa 89, serie 1ª, 1er recinto.</otrosDatos>
+        <fechaFallecimiento>05/03/1942</fechaFallecimiento>
+        <fechaInhumacion>05/03/1942</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Lucas</nombre>
+        <apellido1>Salmerón</apellido1>
+        <apellido2>Corral</apellido2>
+        <sexo>M</sexo>
+        <edad>32</edad>
+        <profesion>industrial</profesion>
+        <otrosDatos>condenado por sentencia de 16 de noviembre de 1939; enterrado en la fosa 88, serie 1ª, 1er recinto.</otrosDatos>
+        <fechaFallecimiento>21/01/1942</fechaFallecimiento>
+        <fechaInhumacion>21/01/1942</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Tomás</nombre>
+        <apellido1>Puchol</apellido1>
+        <apellido2>Badenas</apellido2>
+        <sexo>M</sexo>
+        <edad>41</edad>
+        <profesion>forjador y bombero</profesion>
+        <otrosDatos>condenado por sentencia de 4 de noviembre de 1941; enterrado en la fosa 89, serie 1ª, 1er recinto.</otrosDatos>
+        <fechaFallecimiento>30/01/1942</fechaFallecimiento>
+        <fechaInhumacion>30/01/1942</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>José</nombre>
+        <apellido1>Pérez</apellido1>
+        <apellido2>Martínez</apellido2>
+        <sexo>M</sexo>
+        <edad>35</edad>
+        <profesion>obrero</profesion>
+        <otrosDatos>condenado por sentencia de 1 de noviembre de 1940; enterrado en la fosa 86, serie 1ª, 1er recinto.</otrosDatos>
+        <fechaFallecimiento>21/08/1941</fechaFallecimiento>
+        <fechaInhumacion>21/08/1941</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Enrique</nombre>
+        <apellido1>Fernández</apellido1>
+        <apellido2>Segura</apellido2>
+        <sexo>M</sexo>
+        <edad>22</edad>
+        <profesion>panadero</profesion>
+        <otrosDatos>condenado por sentencia de 24 de febrero de 1941; enterrado en la fosa 86, serie 1ª, 1er recinto.</otrosDatos>
+        <fechaFallecimiento>21/08/1941</fechaFallecimiento>
+        <fechaInhumacion>21/08/1941</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Gonzalo</nombre>
+        <apellido1>Fernández</apellido1>
+        <apellido2>Cazorla</apellido2>
+        <sexo>M</sexo>
+        <edad>46</edad>
+        <profesion>albañil</profesion>
+        <otrosDatos>condenado por sentencia de 14 de octubre de 1942; enterrado en la fosa 132, serie 3ª, 1er recinto.</otrosDatos>
+        <fechaFallecimiento>28/01/1943</fechaFallecimiento>
+        <fechaInhumacion>28/01/1943</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Ramón Miguel</nombre>
+        <apellido1>Saez</apellido1>
+        <apellido2>Alías</apellido2>
+        <sexo>M</sexo>
+        <edad>31</edad>
+        <profesion>jornalero</profesion>
+        <otrosDatos>condenado por sentencia de 13 de octubre de 1942; enterrado en la fosa 132, serie 3ª, 1er recinto.</otrosDatos>
+        <fechaFallecimiento>28/01/1943</fechaFallecimiento>
+        <fechaInhumacion>28/01/1943</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>José</nombre>
+        <apellido1>Hernández</apellido1>
+        <apellido2>Barroso</apellido2>
+        <sexo>M</sexo>
+        <edad>42</edad>
+        <profesion>comerciante</profesion>
+        <otrosDatos>enterrado en la fosa 132, serie 3ª, 1er recinto.</otrosDatos>
+        <fechaFallecimiento>28/01/1943</fechaFallecimiento>
+        <fechaInhumacion>28/01/1943</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Ramón</nombre>
+        <apellido1>Padilla</apellido1>
+        <apellido2>Casado</apellido2>
+        <sexo>M</sexo>
+        <edad>30</edad>
+        <profesion>jornalero</profesion>
+        <otrosDatos>condenado por sentencia de 9 de julio de 1941; enterrado en la fosa 88, serie 1ª, 1er recinto.</otrosDatos>
+        <fechaFallecimiento>09/01/1942</fechaFallecimiento>
+        <fechaInhumacion>09/01/1942</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Agustín</nombre>
+        <apellido1>García</apellido1>
+        <apellido2>Pastor</apellido2>
+        <sexo>M</sexo>
+        <edad>60</edad>
+        <profesion>jornalero</profesion>
+        <otrosDatos>condenado por sentencia de 24 de septiembre de 1941; enterrado en la fosa 89, serie 1ª, 1er recinto.</otrosDatos>
+        <fechaFallecimiento>30/01/1942</fechaFallecimiento>
+        <fechaInhumacion>30/01/1942</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>José</nombre>
+        <apellido1>López</apellido1>
+        <apellido2>Navarro</apellido2>
+        <sexo>M</sexo>
+        <edad>35</edad>
+        <profesion>ferroviario</profesion>
+        <otrosDatos>condenado por sentencia de 16 de octubre de 1941; enterrado en la fosa 89, serie 1ª, 1er recinto.</otrosDatos>
+        <fechaFallecimiento>06/02/1942</fechaFallecimiento>
+        <fechaInhumacion>06/02/1942</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Antonio</nombre>
+        <apellido1>Galindo</apellido1>
+        <apellido2>Romero</apellido2>
+        <sexo>M</sexo>
+        <edad>28</edad>
+        <profesion>jornalero</profesion>
+        <otrosDatos>condenado por sentencia de 9 de octubre de 1941; enterrado en la fosa 89, serie 1ª, 1er recinto.</otrosDatos>
+        <fechaFallecimiento>06/02/1942</fechaFallecimiento>
+        <fechaInhumacion>06/02/1942</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>José</nombre>
+        <apellido1>Lázaro</apellido1>
+        <apellido2>Beltrán</apellido2>
+        <sexo>M</sexo>
+        <edad>36</edad>
+        <profesion>barrilero</profesion>
+        <otrosDatos>condenado por sentencia de 27 de agosto de 1941; enterrado en la fosa 89, serie 1ª, 1er recinto.</otrosDatos>
+        <fechaFallecimiento>05/03/1942</fechaFallecimiento>
+        <fechaInhumacion>05/03/1942</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>José Pablo</nombre>
+        <apellido1>Barrionuevo</apellido1>
+        <apellido2>Salmerón</apellido2>
+        <sexo>M</sexo>
+        <edad>31</edad>
+        <profesion>maestro nacional</profesion>
+        <otrosDatos>condenado por sentencia de 29 de julio de 1942; enterrado en la fosa 131, serie 3ª, 1er recinto.</otrosDatos>
+        <fechaFallecimiento>17/12/1942</fechaFallecimiento>
+        <fechaInhumacion>17/12/1942</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Ramón</nombre>
+        <apellido1>Toledano</apellido1>
+        <apellido2>Manzano</apellido2>
+        <sexo>M</sexo>
+        <edad>29</edad>
+        <profesion>jornalero</profesion>
+        <otrosDatos>condenado por sentencia de 23 de septiembre de 1942; enterrado en la fosa 131, serie 3ª, 1er recinto.</otrosDatos>
+        <fechaFallecimiento>17/12/1942</fechaFallecimiento>
+        <fechaInhumacion>17/12/1942</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Francisco</nombre>
+        <apellido1>Selfa</apellido1>
+        <apellido2>Flores</apellido2>
+        <sexo>M</sexo>
+        <edad>31</edad>
+        <profesion>jornalero</profesion>
+        <otrosDatos>condenado por sentencia de 5 de agosto de 1942; enterrado en la fosa 131, serie 3ª, 1er recinto.</otrosDatos>
+        <fechaFallecimiento>17/12/1942</fechaFallecimiento>
+        <fechaInhumacion>17/12/1942</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Francisco</nombre>
+        <apellido1>Alcaraz</apellido1>
+        <apellido2>Solas</apellido2>
+        <sexo>M</sexo>
+        <edad>36</edad>
+        <profesion>herrero</profesion>
+        <otrosDatos>condenado por sentencia de 19 de noviembre de 1942; enterrado en la fosa 132, serie 3ª, 1er recinto.</otrosDatos>
+        <fechaFallecimiento>28/01/1943</fechaFallecimiento>
+        <fechaInhumacion>28/01/1943</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Torcuato</nombre>
+        <apellido1>Ortega</apellido1>
+        <apellido2>Martínez</apellido2>
+        <sexo>M</sexo>
+        <edad>35</edad>
+        <profesion>ferroviario</profesion>
+        <otrosDatos>condenado por sentencia de 19 de noviembre de 1942; enterrado en la fosa 132, serie 3ª, 1er recinto.</otrosDatos>
+        <fechaFallecimiento>28/01/1943</fechaFallecimiento>
+        <fechaInhumacion>28/01/1943</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Enrique</nombre>
+        <apellido1>Bonachera</apellido1>
+        <apellido2>Magán</apellido2>
+        <sexo>M</sexo>
+        <edad>39</edad>
+        <profesion>jornalero</profesion>
+        <otrosDatos>condenado por sentencia de 14 de octubre de 1942; enterrado en la fosa 132, serie 3ª, 1er recinto.</otrosDatos>
+        <fechaFallecimiento>28/01/1943</fechaFallecimiento>
+        <fechaInhumacion>28/01/1943</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Pedro</nombre>
+        <apellido1>Toribio</apellido1>
+        <apellido2>Fuentes</apellido2>
+        <sexo>M</sexo>
+        <edad>30</edad>
+        <profesion>agricultor</profesion>
+        <otrosDatos>condenado por sentencia de 13 de octubre de 1942; enterrado en la fosa 132, serie 3ª, 1er recinto.</otrosDatos>
+        <fechaFallecimiento>28/01/1943</fechaFallecimiento>
+        <fechaInhumacion>28/01/1943</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>José Mª</nombre>
+        <apellido1>Molina</apellido1>
+        <apellido2>Moya</apellido2>
+        <sexo>M</sexo>
+        <edad>49</edad>
+        <profesion>carpintero</profesion>
+        <otrosDatos>enterrado en la fosa 133, serie 4ª, 1er recinto.</otrosDatos>
+        <fechaFallecimiento>04/03/1943</fechaFallecimiento>
+        <fechaInhumacion>04/03/1943</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Juan</nombre>
+        <apellido1>Quintana</apellido1>
+        <apellido2>Cruz</apellido2>
+        <sexo>M</sexo>
+        <edad>50</edad>
+        <profesion>agricultor</profesion>
+        <otrosDatos>condenado por sentencia de 19 de octubre de 1942; enterrado en la fosa 132, serie 3ª, 1er recinto.</otrosDatos>
+        <fechaFallecimiento>25/02/1943</fechaFallecimiento>
+        <fechaInhumacion>25/02/1943</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Francisco</nombre>
+        <apellido1>Lorita</apellido1>
+        <apellido2>Teruel</apellido2>
+        <sexo>M</sexo>
+        <edad>36</edad>
+        <profesion>practicante</profesion>
+        <otrosDatos>condenado por sentencia de 20 de noviembre de 1942; enterrado en la fosa 132, serie 3ª, 1er recinto.</otrosDatos>
+        <fechaFallecimiento>25/02/1943</fechaFallecimiento>
+        <fechaInhumacion>25/02/1943</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Fernando</nombre>
+        <apellido1>Acado</apellido1>
+        <apellido2>Arroyo</apellido2>
+        <sexo>M</sexo>
+        <edad>22</edad>
+        <otrosDatos>enterrado en la fosa 135, serie 4, el 3 1er recinto.</otrosDatos>
+        <fechaFallecimiento>21/03/1943</fechaFallecimiento>
+        <fechaInhumacion>21/03/1943</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Emilio</nombre>
+        <apellido1>Marín</apellido1>
+        <apellido2>Mata de</apellido2>
+        <sexo>M</sexo>
+        <edad>23</edad>
+        <profesion>jornalero</profesion>
+        <otrosDatos>condenado por sentencia de 26 de junio de 1940; enterrado en la fosa 62, serie 1ª, 1er recinto.</otrosDatos>
+        <fechaFallecimiento>25/01/1941</fechaFallecimiento>
+        <fechaInhumacion>25/01/1941</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Damián</nombre>
+        <apellido1>Salmerón</apellido1>
+        <apellido2>Salmerón</apellido2>
+        <sexo>M</sexo>
+        <edad>24</edad>
+        <profesion>barrilero</profesion>
+        <otrosDatos>condenado por sentencia de 12 de julio de 1940; enterrado en la fosa 62, serie 1ª, 1er recinto.</otrosDatos>
+        <fechaFallecimiento>25/01/1941</fechaFallecimiento>
+        <fechaInhumacion>25/01/1941</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>José</nombre>
+        <apellido1>López</apellido1>
+        <apellido2>Soriano</apellido2>
+        <sexo>M</sexo>
+        <edad>32</edad>
+        <profesion>carnicero</profesion>
+        <otrosDatos>condenado por sentencia de 4 de junio de 1940; enterrado en la fosa 62, serie 1ª, 1er recinto.</otrosDatos>
+        <fechaFallecimiento>25/01/1941</fechaFallecimiento>
+        <fechaInhumacion>25/01/1941</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Juan</nombre>
+        <apellido1>Guirado</apellido1>
+        <apellido2>Arcas</apellido2>
+        <sexo>M</sexo>
+        <edad>34</edad>
+        <profesion>mecánico</profesion>
+        <otrosDatos>condenado por sentencia de 14 de junio de 1940; enterrado en la fosa 62, serie 1ª, 1er recinto.</otrosDatos>
+        <fechaFallecimiento>25/01/1941</fechaFallecimiento>
+        <fechaInhumacion>25/01/1941</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Francisco</nombre>
+        <apellido1>Nuñez</apellido1>
+        <apellido2>Calatrava</apellido2>
+        <sexo>M</sexo>
+        <edad>28</edad>
+        <profesion>oficinista</profesion>
+        <otrosDatos>condenado por sentencia de 2 de julio de 1939; enterrado en la fosa 62, serie 1ª, 1er recinto.</otrosDatos>
+        <fechaFallecimiento>25/01/1941</fechaFallecimiento>
+        <fechaInhumacion>25/01/1941</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Miguel</nombre>
+        <apellido1>Álvarez</apellido1>
+        <apellido2>Sánchez</apellido2>
+        <sexo>M</sexo>
+        <edad>54</edad>
+        <profesion>sepulturero</profesion>
+        <otrosDatos>condenado por sentencia de 10 de junio de 1940; enterrado en la fosa 62, serie 1ª, 1er recinto.</otrosDatos>
+        <fechaFallecimiento>25/01/1941</fechaFallecimiento>
+        <fechaInhumacion>25/01/1941</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Ángel</nombre>
+        <apellido1>Bervel</apellido1>
+        <apellido2>Cervantes</apellido2>
+        <sexo>M</sexo>
+        <edad>30</edad>
+        <profesion>obrero</profesion>
+        <otrosDatos>condenado por sentencia de 23 de julio de 1940; enterrado en la fosa 62, serie 1ª, 1er recinto.</otrosDatos>
+        <fechaFallecimiento>25/01/1941</fechaFallecimiento>
+        <fechaInhumacion>25/01/1941</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Francisco</nombre>
+        <apellido1>Hernández</apellido1>
+        <apellido2>Jiménez</apellido2>
+        <sexo>M</sexo>
+        <edad>52</edad>
+        <profesion>jornalero</profesion>
+        <otrosDatos>condenado por sentencia de 17 de octubre de 1939; enterrado en la fosa 62, serie 1ª, 1er recinto.</otrosDatos>
+        <fechaFallecimiento>25/01/1941</fechaFallecimiento>
+        <fechaInhumacion>25/01/1941</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Lucio</nombre>
+        <apellido1>Martín</apellido1>
+        <apellido2>Pérez</apellido2>
+        <sexo>M</sexo>
+        <edad>40</edad>
+        <profesion>obrero</profesion>
+        <otrosDatos>enterrado en la fosa 62, serie 1ª, 1er recinto.</otrosDatos>
+        <fechaFallecimiento>25/01/1941</fechaFallecimiento>
+        <fechaInhumacion>25/01/1941</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Manuel</nombre>
+        <apellido1>Campos</apellido1>
+        <apellido2>Garzón</apellido2>
+        <sexo>M</sexo>
+        <edad>41</edad>
+        <profesion>jornalero</profesion>
+        <otrosDatos>enterrado en tierra, n32-S 64-P12-L23</otrosDatos>
+        <fechaFallecimiento>03/01/1941</fechaFallecimiento>
+        <fechaInhumacion>03/01/1941</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Manuel</nombre>
+        <apellido1>Rodríguez</apellido1>
+        <apellido2>Pérez</apellido2>
+        <sexo>M</sexo>
+        <edad>50</edad>
+        <profesion>herrero</profesion>
+        <otrosDatos>enterrado en tierra, n34-S 54-P15-L20</otrosDatos>
+        <fechaFallecimiento>16/01/1941</fechaFallecimiento>
+        <fechaInhumacion>16/01/1941</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Juan</nombre>
+        <apellido1>Valdesquín</apellido1>
+        <apellido2>Rosa de la</apellido2>
+        <sexo>M</sexo>
+        <edad>24</edad>
+        <profesion>empleado</profesion>
+        <otrosDatos>condenado por sentencia de 6 de noviembre de 1940, enterrado en tierra, n34-S 54-P15-L20</otrosDatos>
+        <fechaFallecimiento>16/01/1941</fechaFallecimiento>
+        <fechaInhumacion>16/01/1941</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>José</nombre>
+        <apellido1>Padilla</apellido1>
+        <apellido2>Suárez</apellido2>
+        <sexo>M</sexo>
+        <edad>32</edad>
+        <profesion>mecánico</profesion>
+        <otrosDatos>enterrado en la fosa 62, serie 1, 1er recinto.</otrosDatos>
+        <fechaFallecimiento>25/01/1941</fechaFallecimiento>
+        <fechaInhumacion>25/01/1941</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Jerónimo</nombre>
+        <apellido1>Alarcó</apellido1>
+        <apellido2>Morales</apellido2>
+        <sexo>M</sexo>
+        <edad>35</edad>
+        <profesion>carpintero</profesion>
+        <otrosDatos>condenado por sentencia de 11 de agosto de 1939, enterrado en tierra, n34-S 54-P15-L20</otrosDatos>
+        <fechaFallecimiento>16/01/1941</fechaFallecimiento>
+        <fechaInhumacion>16/01/1941</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Antonio</nombre>
+        <apellido1>Salmerón</apellido1>
+        <apellido2>Martínez</apellido2>
+        <sexo>M</sexo>
+        <edad>32</edad>
+        <profesion>molinero</profesion>
+        <otrosDatos>condenado por sentencia de 30 de septiembre de 1939, enterrado en tierra, n34-S 54-P15-L20</otrosDatos>
+        <fechaFallecimiento>16/01/1941</fechaFallecimiento>
+        <fechaInhumacion>16/01/1941</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Narciso</nombre>
+        <apellido1>Martínez</apellido1>
+        <apellido2>Vergara</apellido2>
+        <sexo>M</sexo>
+        <edad>26</edad>
+        <profesion>obrero</profesion>
+        <otrosDatos>condenado por sentencia de 11 de julio de 1940; enterrado en la fosa 62, serie 1ª, 1er recinto.</otrosDatos>
+        <fechaFallecimiento>25/01/1941</fechaFallecimiento>
+        <fechaInhumacion>25/01/1941</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Eduardo</nombre>
+        <apellido1>Rodríguez</apellido1>
+        <apellido2>Canepa</apellido2>
+        <sexo>M</sexo>
+        <edad>47</edad>
+        <profesion>artista</profesion>
+        <otrosDatos>alias "Isasi"; enterrado en la fosa 62, serie 1ª, 1er recinto.</otrosDatos>
+        <fechaFallecimiento>25/01/1941</fechaFallecimiento>
+        <fechaInhumacion>25/01/1941</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Andrés</nombre>
+        <apellido1>Simón</apellido1>
+        <apellido2>Asensio</apellido2>
+        <sexo>M</sexo>
+        <edad>44</edad>
+        <profesion>albañil</profesion>
+        <otrosDatos>condenado por sentencia de 8 de febrero de 1941; enterrado en la fosa 85, serie 1ª, 1er recinto.</otrosDatos>
+        <fechaFallecimiento>20/05/1941</fechaFallecimiento>
+        <fechaInhumacion>20/05/1941</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>José</nombre>
+        <apellido1>Tari</apellido1>
+        <apellido2>Martínez</apellido2>
+        <sexo>M</sexo>
+        <edad>24</edad>
+        <profesion>zapatero</profesion>
+        <otrosDatos>enterrado en la fosa 85, serie 1ª, 1er recinto.</otrosDatos>
+        <fechaFallecimiento>20/05/1941</fechaFallecimiento>
+        <fechaInhumacion>20/05/1941</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Miguel</nombre>
+        <apellido1>Sáez</apellido1>
+        <apellido2>Segovia</apellido2>
+        <sexo>M</sexo>
+        <edad>35</edad>
+        <profesion>cantero</profesion>
+        <otrosDatos>condenado por sentencia de 31 de enero de 1941; enterrado en la fosa 85, serie 1ª, 1er recinto.</otrosDatos>
+        <fechaFallecimiento>24/05/1941</fechaFallecimiento>
+        <fechaInhumacion>24/05/1941</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Juan</nombre>
+        <apellido1>Sáez</apellido1>
+        <apellido2>Sáez</apellido2>
+        <sexo>M</sexo>
+        <edad>48</edad>
+        <profesion>cantero</profesion>
+        <otrosDatos>condenado por sentencia de 31 de enero de 1941; enterrado en la fosa 85, serie 1ª, 1er recinto.</otrosDatos>
+        <fechaFallecimiento>24/05/1941</fechaFallecimiento>
+        <fechaInhumacion>24/05/1941</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Francisco</nombre>
+        <apellido1>Fernández</apellido1>
+        <apellido2>Rodriguez</apellido2>
+        <sexo>M</sexo>
+        <edad>30</edad>
+        <profesion>jornalero</profesion>
+        <otrosDatos>condenado por sentencia de 27 de abril de 1941; enterrado en la fosa 86, serie 1ª, 1er recinto.</otrosDatos>
+        <fechaFallecimiento>10/07/1941</fechaFallecimiento>
+        <fechaInhumacion>10/07/1941</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>José</nombre>
+        <apellido1>Plaza</apellido1>
+        <apellido2>Martínez</apellido2>
+        <sexo>M</sexo>
+        <edad>27</edad>
+        <profesion>jornalero</profesion>
+        <otrosDatos>condenado por sentencia de 22 de febrerol de 1941; enterrado en la fosa 86, serie 1ª, 1er recinto.</otrosDatos>
+        <fechaFallecimiento>10/07/1941</fechaFallecimiento>
+        <fechaInhumacion>10/07/1941</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Lorenzo</nombre>
+        <apellido1>Cintas</apellido1>
+        <apellido2>García</apellido2>
+        <sexo>M</sexo>
+        <edad>32</edad>
+        <profesion>jornalero</profesion>
+        <otrosDatos>condenado por sentencia de 25 de abril de 1941; enterrado en la fosa 86, serie 1ª, 1er recinto.</otrosDatos>
+        <fechaFallecimiento>10/07/1941</fechaFallecimiento>
+        <fechaInhumacion>10/07/1941</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Miguel</nombre>
+        <apellido1>Cantón</apellido1>
+        <apellido2>Cantón</apellido2>
+        <sexo>M</sexo>
+        <edad>36</edad>
+        <profesion>jornalero</profesion>
+        <otrosDatos>condenado por sentencia de 3 de marzo de 1941; enterrado en la fosa 86, serie 1ª, 1er recinto.</otrosDatos>
+        <fechaFallecimiento>10/07/1941</fechaFallecimiento>
+        <fechaInhumacion>10/07/1941</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Antonio</nombre>
+        <apellido1>Román</apellido1>
+        <apellido2>Román</apellido2>
+        <sexo>M</sexo>
+        <edad>37</edad>
+        <profesion>pescador</profesion>
+        <otrosDatos>enterrado en la fosa 86, serie 1ª, 1er recinto.</otrosDatos>
+        <fechaFallecimiento>10/07/1941</fechaFallecimiento>
+        <fechaInhumacion>10/07/1941</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>José</nombre>
+        <apellido1>Martínez</apellido1>
+        <apellido2>Fernández</apellido2>
+        <sexo>M</sexo>
+        <edad>43</edad>
+        <profesion>jornalero</profesion>
+        <otrosDatos>condenado por sentencia de 14 de mayoil de 1941; enterrado en la fosa 86, serie 1ª, 1er recinto.</otrosDatos>
+        <fechaFallecimiento>17/07/1941</fechaFallecimiento>
+        <fechaInhumacion>17/07/1941</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Marcos</nombre>
+        <apellido1>Murcia</apellido1>
+        <apellido2>García</apellido2>
+        <sexo>M</sexo>
+        <edad>59</edad>
+        <profesion>jornalero</profesion>
+        <otrosDatos>condenado por sentencia de 17 de octubre de 1939; enterrado en la fosa 86, serie 1ª, 1er recinto.</otrosDatos>
+        <fechaFallecimiento>01/08/1941</fechaFallecimiento>
+        <fechaInhumacion>01/08/1941</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>José</nombre>
+        <apellido1>Lorenzo</apellido1>
+        <apellido2>Encinas</apellido2>
+        <sexo>M</sexo>
+        <edad>59</edad>
+        <profesion>obrero</profesion>
+        <otrosDatos>condenado por sentencia de 11 de julio de 1940; enterrado en la fosa 77, serie 1ª, 1er recinto.</otrosDatos>
+        <fechaFallecimiento>26/03/1941</fechaFallecimiento>
+        <fechaInhumacion>26/03/1941</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>José</nombre>
+        <apellido1>Hernández</apellido1>
+        <apellido2>Jiménez</apellido2>
+        <sexo>M</sexo>
+        <edad>57</edad>
+        <profesion>jornalero</profesion>
+        <otrosDatos>condenado por sentencia de 17 de octubre de 1939; enterrado en la fosa 86, serie 1ª, 1er recinto.</otrosDatos>
+        <fechaFallecimiento>01/08/1941</fechaFallecimiento>
+        <fechaInhumacion>01/08/1941</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Francisco</nombre>
+        <apellido1>Muñoz</apellido1>
+        <apellido2>Crisol</apellido2>
+        <sexo>M</sexo>
+        <edad>36</edad>
+        <profesion>albañil</profesion>
+        <otrosDatos>condenado por sentencia de 25 de junio de1941; enterrado en la fosa 86, serie 1ª, 1er recinto.</otrosDatos>
+        <fechaFallecimiento>19/08/1941</fechaFallecimiento>
+        <fechaInhumacion>19/08/1941</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Antonio</nombre>
+        <apellido1>Plaza</apellido1>
+        <apellido2>Martínez</apellido2>
+        <sexo>M</sexo>
+        <edad>29</edad>
+        <profesion>chofer</profesion>
+        <otrosDatos>enterrado en la fosa 129, serie 3ª, 1er recinto.</otrosDatos>
+        <fechaFallecimiento>07/04/1942</fechaFallecimiento>
+        <fechaInhumacion>07/04/1942</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Julio</nombre>
+        <apellido1>Moya</apellido1>
+        <apellido2>Cruz</apellido2>
+        <sexo>M</sexo>
+        <edad>29</edad>
+        <profesion>barbero</profesion>
+        <otrosDatos>condenado por sentencia de14 de enero de 1942; enterrado en la fosa 129, serie 3ª, 1er recinto.</otrosDatos>
+        <fechaFallecimiento>14/04/1942</fechaFallecimiento>
+        <fechaInhumacion>14/04/1942</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Juan</nombre>
+        <apellido1>Rubí</apellido1>
+        <apellido2>Soler</apellido2>
+        <sexo>M</sexo>
+        <edad>23</edad>
+        <profesion>jornalero</profesion>
+        <otrosDatos>condenado por sentencia de 5 de noviembre de 1941; enterrado en la fosa 129, serie 3ª, 1er recinto.</otrosDatos>
+        <fechaFallecimiento>07/04/1942</fechaFallecimiento>
+        <fechaInhumacion>07/04/1942</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Fernando</nombre>
+        <apellido1>Galera</apellido1>
+        <apellido2>Castro</apellido2>
+        <sexo>M</sexo>
+        <edad>42</edad>
+        <profesion>jornalero</profesion>
+        <otrosDatos>condenado por sentencia de 15 de diciembre de 1941; enterrado en la fosa 129, serie 3ª, 1er recinto.</otrosDatos>
+        <fechaFallecimiento>14/04/1942</fechaFallecimiento>
+        <fechaInhumacion>14/04/1942</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Pascual</nombre>
+        <apellido1>García</apellido1>
+        <apellido2>Romero</apellido2>
+        <sexo>M</sexo>
+        <edad>37</edad>
+        <profesion>vendedor</profesion>
+        <otrosDatos>enterrado en la fosa 129, serie 3ª, 1er recinto.</otrosDatos>
+        <fechaFallecimiento>14/04/1942</fechaFallecimiento>
+        <fechaInhumacion>14/04/1942</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Ramón</nombre>
+        <apellido1>Villapando</apellido1>
+        <apellido2>Egea</apellido2>
+        <sexo>M</sexo>
+        <edad>45</edad>
+        <profesion>minero</profesion>
+        <otrosDatos>condenado por sentencia de 20 de enero de 1942; enterrado en la fosa 129, serie 3ª, 1er recinto.</otrosDatos>
+        <fechaFallecimiento>14/04/1942</fechaFallecimiento>
+        <fechaInhumacion>14/04/1942</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Pedro</nombre>
+        <apellido1>Martos</apellido1>
+        <apellido2>Oliver</apellido2>
+        <sexo>M</sexo>
+        <edad>29</edad>
+        <profesion>minero</profesion>
+        <otrosDatos>condenado por sentencia de 14 de enero de 1942; enterrado en la fosa 129, serie 3ª, 1er recinto.</otrosDatos>
+        <fechaFallecimiento>14/04/1942</fechaFallecimiento>
+        <fechaInhumacion>14/04/1942</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Domingo</nombre>
+        <apellido1>Martínez</apellido1>
+        <apellido2>García</apellido2>
+        <sexo>M</sexo>
+        <edad>33</edad>
+        <otrosDatos>condenado por sentencia de 17 de enero de 1942; enterrado en la fosa 130, serie 3ª, 1er recinto.</otrosDatos>
+        <fechaFallecimiento>16/04/1942</fechaFallecimiento>
+        <fechaInhumacion>16/04/1942</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Diego</nombre>
+        <apellido1>Hermosilla</apellido1>
+        <apellido2>Díaz</apellido2>
+        <sexo>M</sexo>
+        <edad>26</edad>
+        <profesion>molinero</profesion>
+        <otrosDatos>condenado por sentencia de 17 de enero de 1942; enterrado en la fosa 130, serie 3ª, 1er recinto.</otrosDatos>
+        <fechaFallecimiento>16/04/1942</fechaFallecimiento>
+        <fechaInhumacion>16/04/1942</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Rafael</nombre>
+        <apellido1>Aguila del</apellido1>
+        <apellido2>Aguilera</apellido2>
+        <sexo>M</sexo>
+        <edad>23</edad>
+        <profesion>confitero</profesion>
+        <otrosDatos>condenado por sentencia de 15 de febrero de 1941</otrosDatos>
+        <fechaFallecimiento>06/03/1941</fechaFallecimiento>
+        <fechaInhumacion>06/03/1941</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>José</nombre>
+        <apellido1>Hernández</apellido1>
+        <apellido2>Ojeda</apellido2>
+        <sexo>M</sexo>
+        <edad>27</edad>
+        <profesion>ferroviario</profesion>
+        <otrosDatos>condenado por sentencia de 19 de julio de 1940; enterrado en la fosa 77, serie 1ª, 1er recinto.</otrosDatos>
+        <fechaFallecimiento>26/03/1941</fechaFallecimiento>
+        <fechaInhumacion>26/03/1941</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>José</nombre>
+        <apellido1>Carrillo</apellido1>
+        <apellido2>Collado</apellido2>
+        <sexo>M</sexo>
+        <edad>49</edad>
+        <profesion>labrador</profesion>
+        <otrosDatos>condenado por sentencia de 19 de julio de 1940; enterrado en la fosa 77, serie 1ª, 1er recinto.</otrosDatos>
+        <fechaFallecimiento>26/03/1941</fechaFallecimiento>
+        <fechaInhumacion>26/03/1941</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Francisco</nombre>
+        <apellido1>Camacho</apellido1>
+        <apellido2>Enríquez</apellido2>
+        <sexo>M</sexo>
+        <edad>34</edad>
+        <profesion>Carpintero</profesion>
+        <otrosDatos>condenado por bandolerismo, sentencia de 27 de mayo de1944; enterrado en la fosa 68, serie 7ª, 1er recinto.</otrosDatos>
+        <fechaFallecimiento>30/01/1945</fechaFallecimiento>
+        <fechaInhumacion>30/01/1945</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Francisco</nombre>
+        <apellido1>García</apellido1>
+        <apellido2>Gutiérrez</apellido2>
+        <sexo>M</sexo>
+        <edad>34</edad>
+        <profesion>minero</profesion>
+        <otrosDatos>condenado por bandolerismo, sentencia de 12 de abril de1944; enterrado en la fosa 68, serie 7ª, 1er recinto.</otrosDatos>
+        <fechaFallecimiento>30/01/1945</fechaFallecimiento>
+        <fechaInhumacion>30/01/1945</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Juan</nombre>
+        <apellido1>Fuentes</apellido1>
+        <apellido2>Torres</apellido2>
+        <sexo>M</sexo>
+        <edad>39</edad>
+        <profesion>Carpintero</profesion>
+        <otrosDatos>condenado por bandolerismo, sentencia de 28 de agosto de1944; enterrado en la fosa 68, serie 7ª, 1er recinto.</otrosDatos>
+        <fechaFallecimiento>30/01/1945</fechaFallecimiento>
+        <fechaInhumacion>30/01/1945</fechaInhumacion>
+        <numRegistro>1793/2010 ALME</numRegistro>
+      </victima>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Berja</nombre>
+    <IdProvincia>5</IdProvincia>
+    <ID>467</ID>
+    <latitud>36.84644</latitud>
+    <longitud>-2.949425</longitud>
+    <fosa>
+      <numRegistro>2384/2011 ALME</numRegistro>
+      <denominacionFosa>Fosa del Cementerio de Berja</denominacionFosa>
+      <estadoActual>DESAPARECIDA</estadoActual>
+      <entidadPromotora>AYUNTAMIENTO</entidadPromotora>
+      <entidadInformante>Consejería de Gobernación y Justicia de la Junta de Andalucía</entidadInformante>
+      <observaciones>La fosa se encuentra en un pasillo del cementerio, a la izquierda de la puerta de acceso. En el Cementerio de Berja se excavó una fosa para albergar los cadáveres de un número indeterminado de personas fusiladas de forma indiscriminada. Encima de lugar donde se encontraba la fosa se construyó una hilera de nichos de modo que, hoy por hoy, resultaría imposible realizar cualquier tipo de estudio sobre la misma. Según parece, hace unas décadas, familiares de las víctimas sacaron algunos restos que trasladaron al osario.</observaciones>
+      <IdLocalidad>467</IdLocalidad>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Illar</nombre>
+    <IdProvincia>5</IdProvincia>
+    <ID>468</ID>
+    <latitud>36.98504</latitud>
+    <longitud>-2.639302</longitud>
+    <fosa>
+      <numRegistro>1070/2009 ALME</numRegistro>
+      <denominacionFosa>NO CONSTA</denominacionFosa>
+      <estadoActual>TRASLADADA AL VALLE DE LOS CAÍDOS</estadoActual>
+      <numeroPersonasFosa>1</numeroPersonasFosa>
+      <numeroPersonasExhumadas>1</numeroPersonasExhumadas>
+      <numeroPersonasIdentificadas>1</numeroPersonasIdentificadas>
+      <entidadInformante>Patrimonio Nacional</entidadInformante>
+      <observaciones>Trasladada al Valle de los Caídos con la fecha/s:07/02/1975</observaciones>
+      <IdLocalidad>468</IdLocalidad>
+      <victima>
+        <nombre>Luis</nombre>
+        <apellido1>Almécija</apellido1>
+        <apellido2>Lázaro</apellido2>
+        <sexo>M</sexo>
+        <otrosDatos>Coman 1º</otrosDatos>
+        <numRegistro>1070/2009 ALME</numRegistro>
+      </victima>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Sierro</nombre>
+    <IdProvincia>5</IdProvincia>
+    <ID>469</ID>
+    <latitud>37.32348</latitud>
+    <longitud>-2.398526</longitud>
+    <fosa>
+      <numRegistro>2031/2010 ALME</numRegistro>
+      <denominacionFosa>Fosa del cementerio nuevo de Sierro</denominacionFosa>
+      <tipoFosa>GUERRILLERA</tipoFosa>
+      <fechaFosa>19/05/1947</fechaFosa>
+      <estadoActual>EXHUMADA TOTAL</estadoActual>
+      <numeroPersonasFosa>2</numeroPersonasFosa>
+      <numeroPersonasExhumadas>2</numeroPersonasExhumadas>
+      <numeroPersonasIdentificadas>2</numeroPersonasIdentificadas>
+      <entidadPromotora>Familiares / Asociación Rocamar</entidadPromotora>
+      <entidadInformante>Consejería de Gobernación y Justicia de la Junta de Andalucía</entidadInformante>
+      <observaciones>Esta fosa se encuentra en el cementerio nuevo de Sierro, al final del pasillo a la dercha, junto al muro. Allí fueron enterrados los restos de dos guerrilleros abatidos el 18 de mayo de 1947 en el barranco "de los Ceferinos". Tras las necesarias labores de investigación y documentación, la localización se realizó en julio de 2010. El 25 de noviembre de 2010 se firmó el convenio de colaboración entre la Junta de Andalucía, el Ayuntamiento de Sierro y la Asociación para la Recuperación de la Memoria Histórica Rocamar para la excavación y exhumación de los restos. En un acto celebrado el 16 de abril de 2011 fueron entregados a su familia los restos de Indalecio Fuentes Aguero; siendo enterrados los restos de las dos víctimas en el cementerio de Uleila del Campo.</observaciones>
+      <IdLocalidad>469</IdLocalidad>
+      <victima>
+        <nombre>Indalecio Francisco</nombre>
+        <apellido1>Fuentes</apellido1>
+        <apellido2>Agüero</apellido2>
+        <sexo>M</sexo>
+        <edad>36</edad>
+        <localidadNacimiento>Uleila del Campo</localidadNacimiento>
+        <otrosDatos>Conocido como "el extraperlista". Nació en 1909.Tras emigrar a Francia con 19 años, regresó a Cúllar (Granada) en 1936, combatió duarnte tres años en el frente, y al regresara a Uleila, las delaciones y el hostigamiento a que es sometido hacen que se dedi</otrosDatos>
+        <fechaFallecimiento>18/05/1947</fechaFallecimiento>
+        <numRegistro>2031/2010 ALME</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Rafael</nombre>
+        <apellido1>Jiménez</apellido1>
+        <apellido2>Ortega</apellido2>
+        <sexo>M</sexo>
+        <otrosDatos>alias: "Emilio, el de Bayarque". No se han establecido lazos de parentesco entre los restos exhumados y las personas que lo reclamaban, pero el Ayuntamiento de Uleila del Campo se ha hecho cargo de sus restos.</otrosDatos>
+        <fechaFallecimiento>18/05/1947</fechaFallecimiento>
+        <numRegistro>2031/2010 ALME</numRegistro>
+      </victima>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Gor</nombre>
+    <IdProvincia>20</IdProvincia>
+    <ID>757</ID>
+    <latitud>37.36952</latitud>
+    <longitud>-2.969444</longitud>
+    <fosa>
+      <numRegistro>1038/2009 GRAN</numRegistro>
+      <denominacionFosa>NO CONSTA</denominacionFosa>
+      <estadoActual>TRASLADADA AL VALLE DE LOS CAÍDOS</estadoActual>
+      <numeroPersonasFosa>3</numeroPersonasFosa>
+      <numeroPersonasExhumadas>3</numeroPersonasExhumadas>
+      <numeroPersonasIdentificadas>0</numeroPersonasIdentificadas>
+      <entidadInformante>Patrimonio Nacional</entidadInformante>
+      <observaciones>Trasladada al Valle de los Caídos con la fecha/s:26/03/1959</observaciones>
+      <IdLocalidad>757</IdLocalidad>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1038/2009 GRAN</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1038/2009 GRAN</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>1038/2009 GRAN</numRegistro>
+      </victima>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Mazarrón</nombre>
+    <IdProvincia>35</IdProvincia>
+    <ID>1077</ID>
+    <latitud>37.59907</latitud>
+    <longitud>-1.313669</longitud>
+    <fosa>
+      <numRegistro>995/2009 MURC</numRegistro>
+      <denominacionFosa>NO CONSTA</denominacionFosa>
+      <estadoActual>TRASLADADA AL VALLE DE LOS CAÍDOS</estadoActual>
+      <numeroPersonasFosa>6</numeroPersonasFosa>
+      <numeroPersonasExhumadas>6</numeroPersonasExhumadas>
+      <numeroPersonasIdentificadas>6</numeroPersonasIdentificadas>
+      <entidadInformante>Patrimonio Nacional</entidadInformante>
+      <observaciones>Trasladada al Valle de los Caídos con la fecha/s:25/03/1959</observaciones>
+      <IdLocalidad>1077</IdLocalidad>
+      <victima>
+        <nombre>Francisco</nombre>
+        <apellido1>Romera</apellido1>
+        <apellido2>Torres</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>995/2009 MURC</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Juan</nombre>
+        <apellido1>Legaz</apellido1>
+        <apellido2>Legaz</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>995/2009 MURC</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Roque</nombre>
+        <apellido1>Martínez</apellido1>
+        <apellido2>Legaz</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>995/2009 MURC</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Diego</nombre>
+        <apellido1>García</apellido1>
+        <apellido2>Legas</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>995/2009 MURC</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Andrés</nombre>
+        <apellido1>García</apellido1>
+        <apellido2>Legaz</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>995/2009 MURC</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Salvador</nombre>
+        <apellido1>Martínez</apellido1>
+        <apellido2>Legaz</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>995/2009 MURC</numRegistro>
+      </victima>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Murcia</nombre>
+    <IdProvincia>35</IdProvincia>
+    <ID>1078</ID>
+    <latitud>37.98344</latitud>
+    <longitud>-1.12989</longitud>
+    <fosa>
+      <numRegistro>996/2009 MURC</numRegistro>
+      <denominacionFosa>NO CONSTA</denominacionFosa>
+      <estadoActual>TRASLADADA AL VALLE DE LOS CAÍDOS</estadoActual>
+      <numeroPersonasFosa>11</numeroPersonasFosa>
+      <numeroPersonasExhumadas>11</numeroPersonasExhumadas>
+      <numeroPersonasIdentificadas>1</numeroPersonasIdentificadas>
+      <entidadInformante>Patrimonio Nacional</entidadInformante>
+      <observaciones>Trasladada al Valle de los Caídos con la fecha/s:25/03/1959</observaciones>
+      <IdLocalidad>1078</IdLocalidad>
+      <victima>
+        <nombre>Longinos</nombre>
+        <apellido1>Longinos</apellido1>
+        <apellido2>Jiménez</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>996/2009 MURC</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>996/2009 MURC</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>996/2009 MURC</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>996/2009 MURC</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>996/2009 MURC</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>996/2009 MURC</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>996/2009 MURC</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>996/2009 MURC</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>996/2009 MURC</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>996/2009 MURC</numRegistro>
+      </victima>
+      <victima>
+        <nombre>Desconocido</nombre>
+        <apellido1>Desconocido</apellido1>
+        <sexo>M</sexo>
+        <numRegistro>996/2009 MURC</numRegistro>
+      </victima>
+    </fosa>
+  </localidad>
+  <localidad>
+    <nombre>Totana</nombre>
+    <IdProvincia>35</IdProvincia>
+    <ID>1079</ID>
+    <latitud>37.77124</latitud>
+    <longitud>-1.501004</longitud>
+    <fosa>
+      <numRegistro>994/2009 MURC</numRegistro>
+      <denominacionFosa>NO CONSTA</denominacionFosa>
+      <estadoActual>TRASLADADA AL VALLE DE LOS CAÍDOS</estadoActual>
+      <numeroPersonasFosa>1</numeroPersonasFosa>
+      <numeroPersonasExhumadas>1</numeroPersonasExhumadas>
+      <numeroPersonasIdentificadas>1</numeroPersonasIdentificadas>
+      <entidadInformante>Patrimonio Nacional</entidadInformante>
+      <observaciones>Trasladada al Valle de los Caídos con la fecha/s:25/03/1959</observaciones>
+      <IdLocalidad>1079</IdLocalidad>
+      <victima>
+        <nombre>Juan José</nombre>
+        <apellido1>Torres</apellido1>
+        <apellido2>Pérez</apellido2>
+        <sexo>M</sexo>
+        <numRegistro>994/2009 MURC</numRegistro>
+      </victima>
+    </fosa>
+  </localidad>
+</zona>
