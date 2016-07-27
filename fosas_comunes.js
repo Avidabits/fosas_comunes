@@ -130,10 +130,10 @@ function zona(latitud, longitud, listaLocalidades)
      
     this.puntoEnZona=function(latitudPunto, longitudPunto)
     {  // cambiar siempre de forma consistente con generazonas.jsx
-        if (latitud > (latitudZona +1)) return false;
-        if (latitud <= (latitudZona -1)) return false ;
-        if (longitud > (longitudZona +1)) return false;
-        if (longitud <=(longitudZona-1)) return false;
+        if (latitudPunto > (latitud +1)) return false;
+        if (latitudPunto <= (latitud -1)) return false ;
+        if (longitudPunto > (longitud +1)) return false;
+        if (longitudPunto <=(longitud-1)) return false;
         return true;    
     } //zona.puntoEnZona
     
