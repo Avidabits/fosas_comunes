@@ -40,9 +40,9 @@ function victima(nombre, apellido1, apellido2, sexo, edad, profesion, fechaFalle
     }; //victima.generaSpeech
 
     this.esDesconocida=function(){
-       var conNombre=nombre!=null && !nombre.toUpperCase().includes("DESCONOCIDO") && !nombre.toUpperCase("DESCONOCIDA");
-       var conApellido1=apellido1!=null && !apellido1.toUpperCase().includes("DESCONOCIDO") && !apellido1.toUpperCase("DESCONOCIDA");
-       var conApellido2=apellido2!=null && !apellido2.toUpperCase().includes("DESCONOCIDO")  && !apellido2.toUpperCase("DESCONOCIDA");
+       var conNombre=nombre!=null && !nombre.toUpperCase().includes("DESCONOCIDO") && !nombre.toUpperCase().includes("DESCONOCIDA");
+       var conApellido1=apellido1!=null && !apellido1.toUpperCase().includes("DESCONOCIDO") && !apellido1.toUpperCase().includes("DESCONOCIDA");
+       var conApellido2=apellido2!=null && !apellido2.toUpperCase().includes("DESCONOCIDO")  && !apellido2.toUpperCase().includes("DESCONOCIDA");
        return !(conNombre||conApellido1||conApellido2);      
     }; //victima.esDesconocida
 
@@ -80,13 +80,17 @@ function fosa(registro, tipoFosa, estadoActual,numeroPersonasFosa, numeroPersona
           else if (numeroPersonasExhumadas>1) speech+=" "+numeroPersonasExhumadas+" exhumadas";
       }
       if (observaciones!=null) speech+=".\n"+observaciones+"\n";
-      if (listaVictimas.length>0) speech+=" Víctimas: "; 
-      //Cuidar de que se guarde este fichero en UTF-8 o dejará de pronunciar las ñ's y acentos
-      for (var i=0; i<listaVictimas.length; i++)
-      {
-           speech+=listaVictimas[i].generaSpeech();
-      }
-       
+      if (listaVictimas.length>0)
+      { 
+          if (listaVictimas.length>1) speech+=" Víctimas: "; 
+          else speech+=" Víctima: "; 
+          
+          //Cuidar de que se guarde este fichero en UTF-8 o dejará de pronunciar las ñ's y acentos
+          for (var i=0; i<listaVictimas.length; i++)
+          {
+               speech+=listaVictimas[i].generaSpeech();
+          }
+      } 
       return speech;
     }; //fosa.generaSpeech
     
@@ -112,6 +116,7 @@ function localidad(nombre, latitud, longitud, listaFosas)
       else if (listaFosas.length >1) speech+=", tiene "+listaFosas.length+" fosas comunes.\n";
       for (var i=0; i<listaFosas.length; i++)
       {   
+          if (listaFosas.length>1) speech+="Fosa número "+i+":";
           speech+=listaFosas[i].generaSpeech();
           speech+="\n";   
       }// para cada fosa
@@ -192,8 +197,7 @@ function construyeListaVictimas(xmlFosa)
       if (currentTagName) fechaInhumacion=currentTagName.childNodes[0].nodeValue;
 
       var tempVictima=new victima(nombre, apellido1, apellido2, sexo, edad, profesion, fechaFallecimiento, fechaInhumacion);
-      // TODO: AQUI PODRÍA VERIFICAR SI LA VICTIMA ES DECONOCIDA Y GENERAR UN ENTRADA CON EL NÚMERO DE DESCONOCIDOS
-      // PERO HAY QUE HACER ALGO CON TANTO DESCONOCIDO
+
       if (tempVictima.esDesconocida()) desconocidas++;
       else   listaVictimas.push(tempVictima); 
      }
@@ -201,9 +205,10 @@ function construyeListaVictimas(xmlFosa)
      // un storytelling más agradable
      if (desconocidas > 0)
      {
-         var textoDesconocidas="Y ";
-         if (desconocidas==1) textoDesconocidas+="otra víctima desconocida más.";
-         else textoDesconocidas+=desconocidas+" víctimas desconocidas más.";
+         var textoDesconocidas="";
+         if (desconocidas==1 && xmlVictima.length==1 ) textoDesconocidas="desconocida"; 
+         else if (desconocidas==1 ) textoDesconocidas="Y otra víctima desconocida más.";
+         else textoDesconocida="Y " + desconocidas + " víctimas desconocidas más.";
          var tempVictima=new victima(textoDesconocidas, null, null, null, null, null, null, null);
          listaVictimas.push(tempVictima); 
      }
