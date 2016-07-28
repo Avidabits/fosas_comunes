@@ -116,7 +116,7 @@ function localidad(nombre, latitud, longitud, listaFosas)
       else if (listaFosas.length >1) speech+=", tiene "+listaFosas.length+" fosas comunes.\n";
       for (var i=0; i<listaFosas.length; i++)
       {   
-          if (listaFosas.length>1) speech+="Fosa número "+i+":";
+          if (listaFosas.length>1) speech+="Fosa número "+(i+1)+": ";
           speech+=listaFosas[i].generaSpeech();
           speech+="\n";   
       }// para cada fosa
