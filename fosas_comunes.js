@@ -194,7 +194,7 @@ function construyeListaVictimas(xmlFosa)
       var tempVictima=new victima(nombre, apellido1, apellido2, sexo, edad, profesion, fechaFallecimiento, fechaInhumacion);
       // TODO: AQUI PODRÍA VERIFICAR SI LA VICTIMA ES DECONOCIDA Y GENERAR UN ENTRADA CON EL NÚMERO DE DESCONOCIDOS
       // PERO HAY QUE HACER ALGO CON TANTO DESCONOCIDO
-      if (victima.esDesconocida()) desconocidas++;
+      if (tempVictima.esDesconocida()) desconocidas++;
       else   listaVictimas.push(tempVictima); 
      }
      // meto un item de victimas desconocidas al final del todo a efectos de generar 
