@@ -57,7 +57,6 @@ function generaFicheroZona(latitud, longitud, xmlZonaCompleta)
         fichero.encoding="utf-8";
         fichero.open("w");
         fichero.writeln('<?xml version="1.0" encoding="utf-8"?>');
-        // TODO: GUARDA LOS FICHEROS EN ansi, HAY QUE ARREGLARLO.
         //fichero.write(miZona.toXMLString());
         fichero.write(miZona.toString());
         fichero.close();

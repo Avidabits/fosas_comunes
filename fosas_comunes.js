@@ -40,9 +40,9 @@ function victima(nombre, apellido1, apellido2, sexo, edad, profesion, fechaFalle
     }; //victima.generaSpeech
 
     this.esDesconocida=function(){
-       var conNombre=nombre!=null && !nombre.toUpperCase().includes("DESCONOCIDO");
-       var conApellido1=apellido1!=null && !apellido1.toUpperCase().includes("DESCONOCIDO");
-       var conApellido2=apellido2!=null && !apellido2.toUpperCase().includes("DESCONOCIDO");
+       var conNombre=nombre!=null && !nombre.toUpperCase().includes("DESCONOCIDO") && !nombre.toUpperCase("DESCONOCIDA");
+       var conApellido1=apellido1!=null && !apellido1.toUpperCase().includes("DESCONOCIDO") && !apellido1.toUpperCase("DESCONOCIDA");
+       var conApellido2=apellido2!=null && !apellido2.toUpperCase().includes("DESCONOCIDO")  && !apellido2.toUpperCase("DESCONOCIDA");
        return !(conNombre||conApellido1||conApellido2);      
     }; //victima.esDesconocida
 
