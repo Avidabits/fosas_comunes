@@ -317,8 +317,8 @@ function nombreFicheroZona(latitud, longitud)
     else if (esLatitudPar) latitudZona=latitudEntera+1;
     else latitudZona=latitudEntera;
     
-        // TODO: REVISAR VALORES FRONTERA
     // en el caso de las longitudes las zonas estan centradas en longitudes pares
+    // la longitud  3 será de la zona 2 y la longitud  1 de la zona 0
     var longitudEntera=Math.floor(longitud);
     var longitudZona=longitudEntera; // valor por defecto
     var esLongitudPar=((longitudEntera%2)==0);
@@ -328,7 +328,7 @@ function nombreFicheroZona(latitud, longitud)
     else if (!esLongitudPar) longitudZona=longitudEntera+1;
     else longitudZona=longitudEntera;
     
-    var nombreFichero="datos/zona_"; //TODO: revisar si cero es N/S E/W
+    var nombreFichero="datos/zona_"; 
     if (latitudZona>=0) nombreFichero+="N"+latitudZona;
     else nombreFichero+="S"+Math.abs(latitudZona);
     if (longitudZona>=0) nombreFichero+="E"+longitudZona;
@@ -346,6 +346,12 @@ function cambiaPosicion(newLatitud, newLongitud)
    // 3º al pinchar en un marcador de fosa
    // por tanto en muchos casos no habra ni cambio de zona ni cambio de nada
     console.log("CambiaPosicion: "+ newLatitud+","+newLongitud);
+    if (miZona==null) 
+    {
+        // es la primera vez que cargo una zona
+         asyncCargaXMLZona(newLatitud, newLongitud);
+         return;
+    }
     if (miZona.localidadActual)
     {   // si ya hay una localidad actual, y seguimos en el entorno, no hacemos nada
         if (miZona.localidadActual.puntoEnEntorno(newLatitud, newLongitud)) 
@@ -367,6 +373,7 @@ function cambiaPosicion(newLatitud, newLongitud)
           // el punto ni siquiera está en la zona. hay que cargar zona nueva de forma asincrona.
           // y esperar a que la nueva geolocalizacion vuelva a llamar a esta funcion
           asyncCargaXMLZona(newLatitud, newLongitud);
+          // TODO: queda pendiente actulizar la localidad actual 
      }
        
 

@@ -38,13 +38,10 @@
 
       // asignamos la funcionar a usar cuando el usuario hace click en el mapa
       google.maps.event.addListener(map, 'click', function(event) {
-          cambiaPosicion(event.latLng.lat(), event.latLng.lng());
-          pCentro=new google.maps.LatLng(event.latLng.lat(), event.latLng.lng());
-          map.setCenter(pCentro);          
+          cambiaPosicion(event.latLng.lat(), event.latLng.lng());         
       }); // esto es para que pueda funcionar en modo simulador
+      
       asynCargaMarcadoresFosas(); //funcion asincrona
-      // TODO: quitar cuando este implementado que los datos zonales para cuando se detecte que son necesarios, o no
-      asyncCargaXMLZona(pCentro.lat(), pCentro.lng());   //funcion asincrona
 
     }//function initialize   
     
@@ -62,16 +59,23 @@
       xhttp.send();
      } // function asynCargaMarcadoresFosas
     
+    // como los nuevos ficheros de zona se cargan de forma asincrona
+    // necesitamos conservar los datos de entrada en la zona para volver a 
+    // llamar a cambiaPosicion, con la zona ya cargada. 
+    var latitudEntraZona=null;
+    var longitudEntraZona=null; 
     function asyncCargaXMLZona(latitud, longitud)
     {  
+      latitudEntraZona=latitud;
+      longitudEntraZona=longitud;
       console.log("entrando en asyncCargaXMLZona");
       var xhttp = new XMLHttpRequest();
       xhttp.onreadystatechange = function() {
               if (xhttp.readyState == 4 && xhttp.status == 200) {
                   miZona=construyeZona(xhttp);
-                  pCentro=new google.maps.LatLng(miZona.latitud,miZona.longitud);
-                  console.log("centrado en la miZona", miZona.latitud,miZona.longitud);
-                  map.setCenter(pCentro);
+                  // hacemos que cambiaPosicion haga el trabajo que no
+                  // pudo hacer por no tener cargada la zona
+                  cambiaPosicion(latitudEntraZona, longitudEntraZona);
               }//if
           };// function onreadystatechange
 
@@ -99,8 +103,6 @@
                   /*esto es para poder funcionar en modo simulacion */
                   console.log("se ha pinchado un marcador, evento: ", event);
                   cambiaPosicion(event.latLng.lat(), event.latLng.lng()); 
-                  pCentro=event.latLng;
-                  map.setCenter(pCentro); 
            } ); //addListener
 
       }//for  
@@ -142,8 +144,6 @@
       //habla("y no hay manera"); //este segundo no funciona, investigar porque poniendo los manejadores de eventos
     }
    
- 
-
 
     function miraDondeEstamos(){
       // hace una peticion de leer la nueva posicion
