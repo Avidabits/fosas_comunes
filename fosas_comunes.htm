@@ -127,60 +127,60 @@
 
     if(navigator.geolocation)
     {
-      // Se cuenta con el soporte para geolocalización, entonces ...
-      setInterval(miraDondeEstamos, 30000); // que cada 30 segundos mire donde estamos
+    // Se cuenta con el soporte para geolocalización, entonces ...
+    setInterval(miraDondeEstamos, 30000); // que cada 30 segundos mire donde estamos
     }
     else
     {
-      // No se cuenta con soporte para geolocalización, manejar la situación.
-      alert("No hay soporte para geolocalización, actualiza tu navegador");
+    // No se cuenta con soporte para geolocalización, manejar la situación.
+    alert("No hay soporte para geolocalización, actualiza tu navegador");
     }
     // TODO: SACAR VENTANA INFORMATIVA SOBRE NAVEGADORES SOPORTADOS
     if (!('speechSynthesis' in window)) alert("Tu navegador no soporta síntesis de voz");
     else {
-       // TODO: entender porque este mensaje pronuncia bien la ñ y los acentos y los otros no.
-      var speech= new String("Llevamos 80 años con la misma canción."); 
-      habla(speech);
-      //habla("y no hay manera"); //este segundo no funciona, investigar porque poniendo los manejadores de eventos
+
+    var speech= "Llevamos 80 años con la misma canción.";
+    habla(speech);
+    //habla("y no hay manera"); //este segundo no funciona, investigar porque poniendo los manejadores de eventos
     }
-   
+
 
     function miraDondeEstamos(){
-      // hace una peticion de leer la nueva posicion
-      navigator.geolocation.getCurrentPosition(onSuccessGeolocating, onErrorGeolocating,  {enableHighAccuracy:true, maximumAge:4000, timeout:4000});
+    // hace una peticion de leer la nueva posicion
+    navigator.geolocation.getCurrentPosition(onSuccessGeolocating, onErrorGeolocating,  {enableHighAccuracy:true, maximumAge:4000, timeout:4000});
     }
 
     function onErrorGeolocating(error)
     {
-      switch(error.code)
-      {
-      case error.PERMISSION_DENIED:
-      console.error('ERROR: User denied access to track physical position!');
-      break;
+    switch(error.code)
+    {
+    case error.PERMISSION_DENIED:
+    console.error('ERROR: User denied access to track physical position!');
+    break;
 
-      case error.POSITION_UNAVAILABLE:
-      console.error("ERROR: There is a problem getting the position of the device!");
-      break;
+    case error.POSITION_UNAVAILABLE:
+    console.error("ERROR: There is a problem getting the position of the device!");
+    break;
 
-      case error.TIMEOUT:
-      console.warn("ERROR: The application timed out trying to get the position of the device!");
-      break;
+    case error.TIMEOUT:
+    console.warn("ERROR: The application timed out trying to get the position of the device!");
+    break;
 
-      default:
-      console.error("ERROR: Unknown problem!");
-      break;
-      }
+    default:
+    console.error("ERROR: Unknown problem!");
+    break;
+    }
     }
 
     function onSuccessGeolocating(position)
     {
-      var msg;
-      msg="("+position.coords.latitude+","+position.coords.longitude+") - altura:"+position.coords.altitude;
-      document.getElementById("lineaDepuracion").innerHTML =msg;
-      cambiaPosicion(position.coords.latitude, position.coords.longitude);
-      pCentro=new google.maps.LatLng(position.coords.latitude, position.coords.longitude);
-      map.setCenter(pCentro);    
-    }  
+    var msg;
+    msg="("+position.coords.latitude+","+position.coords.longitude+") - altura:"+position.coords.altitude;
+    document.getElementById("lineaDepuracion").innerHTML =msg;
+    cambiaPosicion(position.coords.latitude, position.coords.longitude);
+    pCentro=new google.maps.LatLng(position.coords.latitude, position.coords.longitude);
+    map.setCenter(pCentro);
+    }
 
   </script>
   </body>

@@ -30,14 +30,21 @@ function victima(nombre, apellido1, apellido2, sexo, edad, profesion, fechaFalle
        if (nombre) speech+=nombre;
        if (apellido1) speech+=" "+apellido1;
        if (apellido2) speech+=" "+apellido2;
-       if (edad) speech+=" de "+edad+" años"; // TODO: ENTERARSE DE COMO PONER BIEN ACENTOS Y EÑES.
+       if (edad) speech+=" de "+edad+" años"; 
+       //Cuidar de que se guarde este fichero en UTF-8 o dejará de pronunciar las ñ's y acentos
        if (profesion) speech+=", "+profesion;
        if (fechaFallecimiento) speech+=" fallece el "+fechaFallecimiento;
        if (fechaInhumacion) speech+=", se inhuma el "+fechaInhumacion;
        speech+=".\n";
        return speech;
     }; //victima.generaSpeech
-
+    this.EsDesconocida=function(){
+       var conNombre=nombre!=null && !nombre.toUpperCase().includes("DESCONOCIDO");
+       var conApellido1=apellido1!=null && !apellido1.toUpperCase().includes("DESCONOCIDO");
+       var conApellido2=apellido2!=null && !apellido.toUpperCase().includes("DESCONOCIDO");
+       return !(conNombre||conApellido1||conApellido2);
+       
+    }
 }//victima
 
 function fosa(registro, tipoFosa, estadoActual,numeroPersonasFosa, numeroPersonasExhumadas, numeroPersonasIdentificadas, observaciones, listaVictimas)
@@ -72,7 +79,8 @@ function fosa(registro, tipoFosa, estadoActual,numeroPersonasFosa, numeroPersona
           else if (numeroPersonasExhumadas>1) speech+=" "+numeroPersonasExhumadas+" exhumadas";
       }
       if (observaciones!=null) speech+=".\n"+observaciones+"\n";
-      if (listaVictimas.length>0) speech+=" Victimas: "; //TODO: problema con accentos. 
+      if (listaVictimas.length>0) speech+=" Víctimas: "; 
+      //Cuidar de que se guarde este fichero en UTF-8 o dejará de pronunciar las ñ's y acentos
       for (var i=0; i<listaVictimas.length; i++)
       {
            speech+=listaVictimas[i].generaSpeech();
@@ -98,8 +106,8 @@ function localidad(nombre, latitud, longitud, listaFosas)
 
     this.generaSpeech=function(){
      var speech=nombre; 
-       // TODO: ENTERARSE DE COMO PONER BIEN ACENTOS Y EÑES. 
-      if (listaFosas.length==1) speech+=", tiene una fosa comun.\n"; 
+      //Cuidar de que se guarde este fichero en UTF-8 o dejará de pronunciar las ñ's y acentos
+      if (listaFosas.length==1) speech+=", tiene una fosa común.\n"; 
       else if (listaFosas.length >1) speech+=", tiene "+listaFosas.length+" fosas comunes.\n";
       for (var i=0; i<listaFosas.length; i++)
       {   
@@ -156,6 +164,7 @@ function construyeListaVictimas(xmlFosa)
       var  fechaFallecimiento=null;
       var  fechaInhumacion=null; 
       var currentTagName=null;
+      desconocidas=0;
        
       currentTagName=xmlVictima[i].getElementsByTagName("nombre")[0];
       if (currentTagName) nombre=currentTagName.childNodes[0].nodeValue;
@@ -184,10 +193,19 @@ function construyeListaVictimas(xmlFosa)
       var tempVictima=new victima(nombre, apellido1, apellido2, sexo, edad, profesion, fechaFallecimiento, fechaInhumacion);
       // TODO: AQUI PODRÍA VERIFICAR SI LA VICTIMA ES DECONOCIDA Y GENERAR UN ENTRADA CON EL NÚMERO DE DESCONOCIDOS
       // PERO HAY QUE HACER ALGO CON TANTO DESCONOCIDO
-
-      listaVictimas.push(tempVictima); 
+      if (victima.EsDesconocida()) desconocidas++;
+      else   listaVictimas.push(tempVictima); 
      }
-
+     // meto un item de victimas desconocidas al final del todo a efectos de generar 
+     // un storytelling más agradable
+     if (desconocidas > 0)
+     {
+         var textoDesconocidas="Y ";
+         if (desconocidas==1) textoDesconocidas+="otra víctima desconocida más.";
+         else textoDesconocidas+=desconocidas+" víctimas desconocidas más.";
+         var tempVictima=new victima(textoDesconocidas, null, null, null, null, null, null, null);
+         listaVictimas.push(tempVictima); 
+     }
      return listaVictimas;
 
 }//construyeListaVictimas
@@ -376,7 +394,8 @@ function cambiaPosicion(newLatitud, newLongitud)
           // el punto ni siquiera está en la zona. hay que cargar zona nueva de forma asincrona.
           // y esperar a que la nueva geolocalizacion vuelva a llamar a esta funcion
           asyncCargaXMLZona(newLatitud, newLongitud);
-          // TODO: queda pendiente actulizar la localidad actual 
+          // esta funcion, almacena en global estas coordenadas y cuando el fichero se ha cargado
+          // vuelve a llamar a cambiaPosición, que ahora sí, funcionará con la zona ya cargada
      }
        
 
