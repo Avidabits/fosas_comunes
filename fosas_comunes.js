@@ -38,13 +38,14 @@ function victima(nombre, apellido1, apellido2, sexo, edad, profesion, fechaFalle
        speech+=".\n";
        return speech;
     }; //victima.generaSpeech
-    this.EsDesconocida=function(){
+
+    this.esDesconocida=function(){
        var conNombre=nombre!=null && !nombre.toUpperCase().includes("DESCONOCIDO");
        var conApellido1=apellido1!=null && !apellido1.toUpperCase().includes("DESCONOCIDO");
        var conApellido2=apellido2!=null && !apellido.toUpperCase().includes("DESCONOCIDO");
-       return !(conNombre||conApellido1||conApellido2);
-       
-    }
+       return !(conNombre||conApellido1||conApellido2);      
+    }; //victima.esDesconocida
+
 }//victima
 
 function fosa(registro, tipoFosa, estadoActual,numeroPersonasFosa, numeroPersonasExhumadas, numeroPersonasIdentificadas, observaciones, listaVictimas)
@@ -193,7 +194,7 @@ function construyeListaVictimas(xmlFosa)
       var tempVictima=new victima(nombre, apellido1, apellido2, sexo, edad, profesion, fechaFallecimiento, fechaInhumacion);
       // TODO: AQUI PODRÍA VERIFICAR SI LA VICTIMA ES DECONOCIDA Y GENERAR UN ENTRADA CON EL NÚMERO DE DESCONOCIDOS
       // PERO HAY QUE HACER ALGO CON TANTO DESCONOCIDO
-      if (victima.EsDesconocida()) desconocidas++;
+      if (victima.esDesconocida()) desconocidas++;
       else   listaVictimas.push(tempVictima); 
      }
      // meto un item de victimas desconocidas al final del todo a efectos de generar 
