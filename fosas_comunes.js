@@ -103,7 +103,6 @@ function localidad(nombre, latitud, longitud, listaFosas)
     this.longitud=longitud;
     this.listaFosas=listaFosas;
     this.puntoEnEntorno = function(latitudPunto, longitudPunto) {
-            console.log("mirando si punto "+latitudPunto+","+longitudPunto+" esta cerca de "+latitud +","+longitud+" con delta "+ deltaLocalidad);
             if (Math.abs(latitud-latitudPunto) > deltaLocalidad) return false;
             if (Math.abs(longitud-longitudPunto) > deltaLocalidad) return false;
             return true;
@@ -383,6 +382,11 @@ function cambiaPosicion(newLatitud, newLongitud)
     {   // si ya hay una localidad actual, y seguimos en el entorno, no hacemos nada
         if (miZona.localidadActual.puntoEnEntorno(newLatitud, newLongitud)) 
                return;
+        // TODO: esto crea el problema, en ordenador, de que si se pincha 2 veces en un marcador, 
+        // solo se escuchará la primera. quizás en el caso del marcador debemos hacerlo distintos
+        // pero para eso necesitamos saber si la funcion es llamada desde la geolocalizacion, desde un
+        // click de marcador, desde un click en mapa o desde la carga de nueva zona. 
+        
     }
     
     // SI EL PUNTO ESTA EN LA ZONA, BUSCAMOS LOCALIDAD EN ENTORNO
