@@ -42,7 +42,7 @@ function victima(nombre, apellido1, apellido2, sexo, edad, profesion, fechaFalle
     this.esDesconocida=function(){
        var conNombre=nombre!=null && !nombre.toUpperCase().includes("DESCONOCIDO");
        var conApellido1=apellido1!=null && !apellido1.toUpperCase().includes("DESCONOCIDO");
-       var conApellido2=apellido2!=null && !apellido.toUpperCase().includes("DESCONOCIDO");
+       var conApellido2=apellido2!=null && !apellido2.toUpperCase().includes("DESCONOCIDO");
        return !(conNombre||conApellido1||conApellido2);      
     }; //victima.esDesconocida
 
