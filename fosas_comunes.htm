@@ -139,7 +139,7 @@
     if (!('speechSynthesis' in window)) alert("Tu navegador no soporta síntesis de voz");
     else {
        // TODO: entender porque este mensaje pronuncia bien la ñ y los acentos y los otros no.
-      var speech="Llevamos 80 años con la misma canción."; 
+      var speech= new String("Llevamos 80 años con la misma canción."); 
       habla(speech);
       //habla("y no hay manera"); //este segundo no funciona, investigar porque poniendo los manejadores de eventos
     }

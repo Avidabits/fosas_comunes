@@ -26,7 +26,7 @@ function victima(nombre, apellido1, apellido2, sexo, edad, profesion, fechaFalle
     this.fechaFallecimiento=fechaFallecimiento;
     this.fechaInhumacion=fechaInhumacion;
     this.generaSpeech=function(){
-       var speech=""; 
+       var speech=new String(); 
        if (nombre) speech+=nombre;
        if (apellido1) speech+=" "+apellido1;
        if (apellido2) speech+=" "+apellido2;
@@ -100,7 +100,7 @@ function localidad(nombre, latitud, longitud, listaFosas)
      var speech=nombre; 
        // TODO: ENTERARSE DE COMO PONER BIEN ACENTOS Y EÑES. 
       if (listaFosas.length==1) speech+=", tiene una fosa comun.\n"; 
-      else if (listaFosas.lenfth >1) speech+=", tiene "+listaFosas.length+" fosas comunes.\n";
+      else if (listaFosas.length >1) speech+=", tiene "+listaFosas.length+" fosas comunes.\n";
       for (var i=0; i<listaFosas.length; i++)
       {   
           speech+=listaFosas[i].generaSpeech();
@@ -182,6 +182,9 @@ function construyeListaVictimas(xmlFosa)
       if (currentTagName) fechaInhumacion=currentTagName.childNodes[0].nodeValue;
 
       var tempVictima=new victima(nombre, apellido1, apellido2, sexo, edad, profesion, fechaFallecimiento, fechaInhumacion);
+      // TODO: AQUI PODRÍA VERIFICAR SI LA VICTIMA ES DECONOCIDA Y GENERAR UN ENTRADA CON EL NÚMERO DE DESCONOCIDOS
+      // PERO HAY QUE HACER ALGO CON TANTO DESCONOCIDO
+
       listaVictimas.push(tempVictima); 
      }
 
