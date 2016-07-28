@@ -1,4 +1,4 @@
-// variables globales de zona de fosas
+ï»¿// variables globales de zona de fosas
 var miZona=null; //es una variable de tipo zona que se construye con function construyeZona(xml) 
 
 // Al no estar geolocalizadas las fosas, colocamos los marcadores en la posicion de la muy cerca unos de otros
@@ -7,8 +7,8 @@ var miZona=null; //es una variable de tipo zona que se construye con function co
 // Delta_Kilometros=((RT=6371km)*PI  )* Delta_grados/180
 var deltaFosas=0.001125; //unos 125 metros
 
-// para decidir que nos ponemos a contar la fosas de una localidad, puesto que no tenemos los polígonos
-// hemos de tomar una decisión respecto a la distancia a la posicion puntual de esa localidad
+// para decidir que nos ponemos a contar la fosas de una localidad, puesto que no tenemos los polÃ­gonos
+// hemos de tomar una decisiÃ³n respecto a la distancia a la posicion puntual de esa localidad
 // decidimos tomar unos 2Km, que segun la formula anterior corresponde aproximadamente a 0.018 grados
 var deltaLocalidad=0.018;
 
@@ -30,7 +30,7 @@ function victima(nombre, apellido1, apellido2, sexo, edad, profesion, fechaFalle
        if (nombre) speech+=nombre;
        if (apellido1) speech+=" "+apellido1;
        if (apellido2) speech+=" "+apellido2;
-       if (edad) speech+=" de "+edad+" años"; // TODO: ENTERARSE DE COMO PONER BIEN ACENTOS Y EÑES.
+       if (edad) speech+=" de "+edad+" aÃ±os"; // TODO: ENTERARSE DE COMO PONER BIEN ACENTOS Y EÃ‘ES.
        if (profesion) speech+=", "+profesion;
        if (fechaFallecimiento) speech+=" fallece el "+fechaFallecimiento;
        if (fechaInhumacion) speech+=", se inhuma el "+fechaInhumacion;
@@ -52,7 +52,7 @@ function fosa(registro, tipoFosa, estadoActual,numeroPersonasFosa, numeroPersona
     this.listaVictimas=listaVictimas;
     
     this.generaSpeech=function(){
-      // TODO: el número de fosa lo recita como si fueran siglas americanas (CA->california) por eso lo omito hasta que sepa como solucionar el problema
+      // TODO: el nÃºmero de fosa lo recita como si fueran siglas americanas (CA->california) por eso lo omito hasta que sepa como solucionar el problema
       var speech="";
       if (tipoFosa) speech+="Fosa del tipo "+tipoFosa;
       if (estadoActual) speech+=" actualmente "+estadoActual;
@@ -98,7 +98,7 @@ function localidad(nombre, latitud, longitud, listaFosas)
 
     this.generaSpeech=function(){
      var speech=nombre; 
-       // TODO: ENTERARSE DE COMO PONER BIEN ACENTOS Y EÑES. 
+       // TODO: ENTERARSE DE COMO PONER BIEN ACENTOS Y EÃ‘ES. 
       if (listaFosas.length==1) speech+=", tiene una fosa comun.\n"; 
       else if (listaFosas.length >1) speech+=", tiene "+listaFosas.length+" fosas comunes.\n";
       for (var i=0; i<listaFosas.length; i++)
@@ -118,7 +118,7 @@ function zona(latitud, longitud, listaLocalidades)
     this.latitud=latitud;
     this.longitud=longitud;
     this.listaLocalidades=listaLocalidades;
-    this.localidadActual=null; // la funcion cambiaPosicion deberá actualizarla
+    this.localidadActual=null; // la funcion cambiaPosicion deberÃ¡ actualizarla
     console.log("zona nueva:", this);
     this.buscaLocalidadEnEntorno = function(latitudPunto, longitudPunto)    {
         console.log("buscando localidad en entorno: "+latitudPunto+","+longitudPunto);
@@ -182,7 +182,7 @@ function construyeListaVictimas(xmlFosa)
       if (currentTagName) fechaInhumacion=currentTagName.childNodes[0].nodeValue;
 
       var tempVictima=new victima(nombre, apellido1, apellido2, sexo, edad, profesion, fechaFallecimiento, fechaInhumacion);
-      // TODO: AQUI PODRÍA VERIFICAR SI LA VICTIMA ES DECONOCIDA Y GENERAR UN ENTRADA CON EL NÚMERO DE DESCONOCIDOS
+      // TODO: AQUI PODRÃA VERIFICAR SI LA VICTIMA ES DECONOCIDA Y GENERAR UN ENTRADA CON EL NÃšMERO DE DESCONOCIDOS
       // PERO HAY QUE HACER ALGO CON TANTO DESCONOCIDO
 
       listaVictimas.push(tempVictima); 
@@ -282,7 +282,7 @@ function construyeZona(xml)
       cLongitud=arr[1]/1; // con esto fuerzo la conversion numerica
       console.log("zona latitud:"+cLatitud+"longitud:"+cLongitud); 
       listaLocalidades=construyeListaLocalidades(xmlZona[i]);                      
-    }//for  -- en realidad solo deberíamos tener una zona
+    }//for  -- en realidad solo deberÃ­amos tener una zona
   
     return new zona(cLatitud, cLongitud, listaLocalidades);
      
@@ -310,7 +310,7 @@ function nombreFicheroZona(latitud, longitud)
     // Las latitudes centrales de zonas son enteros impares.
     // para asignar los numeros frontera, en el caso de las latitudes, la latitud superior
     // pertenece a la zona de latitud un grado inferior. 
-    // Ejemplos: latitud 44 sería de la zona 43, latitud 42, sería de la zona 41.
+    // Ejemplos: latitud 44 serÃ­a de la zona 43, latitud 42, serÃ­a de la zona 41.
    
     var latitudEntera=Math.floor(latitud);
     var latitudZona=latitudEntera;
@@ -321,7 +321,7 @@ function nombreFicheroZona(latitud, longitud)
     else latitudZona=latitudEntera;
     
     // en el caso de las longitudes las zonas estan centradas en longitudes pares
-    // la longitud  3 será de la zona 2 y la longitud  1 de la zona 0
+    // la longitud  3 serÃ¡ de la zona 2 y la longitud  1 de la zona 0
     var longitudEntera=Math.floor(longitud);
     var longitudZona=longitudEntera; // valor por defecto
     var esLongitudPar=((longitudEntera%2)==0);
@@ -344,9 +344,9 @@ function nombreFicheroZona(latitud, longitud)
 function cambiaPosicion(newLatitud, newLongitud)
 {
    // se llama en tres casos
-   // 1º: al recibir una nueva posicion de GPS.
-   // 2º al pinchar el usuario en el mapa
-   // 3º al pinchar en un marcador de fosa
+   // 1Âº: al recibir una nueva posicion de GPS.
+   // 2Âº al pinchar el usuario en el mapa
+   // 3Âº al pinchar en un marcador de fosa
    // por tanto en muchos casos no habra ni cambio de zona ni cambio de nada
     console.log("CambiaPosicion: "+ newLatitud+","+newLongitud);
     if (miZona==null) 
@@ -373,7 +373,7 @@ function cambiaPosicion(newLatitud, newLongitud)
            habla(miZona.localidadActual.generaSpeech());
         }
      } else {
-          // el punto ni siquiera está en la zona. hay que cargar zona nueva de forma asincrona.
+          // el punto ni siquiera estÃ¡ en la zona. hay que cargar zona nueva de forma asincrona.
           // y esperar a que la nueva geolocalizacion vuelva a llamar a esta funcion
           asyncCargaXMLZona(newLatitud, newLongitud);
           // TODO: queda pendiente actulizar la localidad actual 
@@ -407,9 +407,9 @@ function distanciaAngular(lat1, lat2)
 
 function puntoEnCirculo(puntoLat, puntoLong, circuloLat, circuloLong, circuloRadio)
 {
-  //están dentro del circulo todos aquellos puntos cuya distancia al centro es menor que el radio.
+  //estÃ¡n dentro del circulo todos aquellos puntos cuya distancia al centro es menor que el radio.
   // eso lo calculamos con la funcion de Harvesine
-  // Pero como en la mayoría de las consultas van a estar fuera, aceleramos los calculos los que esten fuera del
+  // Pero como en la mayorÃ­a de las consultas van a estar fuera, aceleramos los calculos los que esten fuera del
   // cuadros excrito
   if (distanciaAngular(puntoLat, circuloLat)>=circuloRadio) return false;
   if (distanciaAngular(puntoLong, circuloLong)>=circuloRadio) return false;
@@ -418,14 +418,14 @@ function puntoEnCirculo(puntoLat, puntoLong, circuloLat, circuloLong, circuloRad
   else return true; 
   // si hay problemas de rendimiento, se pude simplificar y usar las dos distacias angulares
   // como si fueran cartesianas -->distancia=raiz(distanciaLat*distanciaLat + distanciaLon*distanciaLon);
-  // porque los circulos van a ser siempre muy pequeños en esta aplicación.
+  // porque los circulos van a ser siempre muy pequeÃ±os en esta aplicaciÃ³n.
 }  
 
 /////////////////////////////////////////////////////////////////
 ///// SONIDO SINTETICO
 function habla(text) {
 
-    window.speechSynthesis.cancel(); //hacer que pare la anterior locución si es que había
+    window.speechSynthesis.cancel(); //hacer que pare la anterior locuciÃ³n si es que habÃ­a
     // Create a new instance of SpeechSynthesisUtterance.
 	var msg = new SpeechSynthesisUtterance();
     msg.text = text;
@@ -433,10 +433,10 @@ function habla(text) {
 	msg.rate = 1.0;
 	msg.pitch = 1.0;
   
-    // uso la voz que mejor funciona sin conexión -native- para optimizar el consumo de datos
+    // uso la voz que mejor funciona sin conexiÃ³n -native- para optimizar el consumo de datos
 	//msg.voice = window.speechSynthesis.getVoices().filter(function(voice) { return voice.name == "native"; })[0];
     // TODO: NINGUNA DE ESTAS FORMAS DE ASIGNAR LA VOZ FUNCIONA REALMENTE, VER QUE PASA msg.voice sigue siendo null
-    // podría ser un problema de inicializacion, que se resolviera cargando mas tarde el mensaje
+    // podrÃ­a ser un problema de inicializacion, que se resolviera cargando mas tarde el mensaje
     var listaVoces= speechSynthesis.getVoices();
     console.log("extrayendo lista voces");
     console.log(listaVoces);
