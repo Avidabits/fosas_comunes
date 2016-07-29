@@ -5,7 +5,7 @@
 html { height: 100% }
 body { 
     height: 100%; width:100%; margin: 0; padding: 0;
-    font-size:100%;
+    font-size:90%;
     font-family: 'Slabo 27px', serif;
     background-color:rgb(203, 181, 141);
     text-align: justify;
@@ -43,7 +43,7 @@ tr{
     vertical-align: bottom;
 }
 #titulo {
-    font-size:200%;
+    font-size:180%;
     border: 0px;
     margin-top:0px;
     margin-right:0px;
