@@ -1,18 +1,19 @@
 /* hueso oscuro--->rgb(75,56,40);     */
 /* hueso claro --->rgb(203, 181, 141);*/
+/* hueso muy claro rgb(228, 218, 197); */
  
 html { height: 100% }
 body { 
     height: 100%; width:100%; margin: 0; padding: 0;
-    font-size:120%;
-    font-family:Onyx;
+    font-size:130%;
+    font-family: Onyx;
     background-color:rgb(203, 181, 141);
     text-align: justify;
     color: rgb(75,56,40);
     border : none;
     } 
 .bienvenida{
-    background-image: url("fosas_bienvenida.jpg");
+    background-image: url("http://cdn.rawgit.com/Avidabits/fosas_comunes/master/fosas_bienvenida.jpg");
     background-color: rgb(203, 181, 141);
     color: white;
 }
@@ -45,6 +46,8 @@ tr{
 #mensaje_bienvenida {
     font-size:120%;
     padding: 15px 32px;
+    background-color: rgb(203, 181, 141);
+    color: rgb(75,56,40);
 }
 #letra_pequena{
     font-size:90%;
@@ -52,11 +55,9 @@ tr{
     vertical-align: bottom;
 }
 
-;visited link 
+/*visited link */
 a:visited {
-    color: rgb(75,56,40);
+    color: rgb(228, 218, 197);
 }
 #googleMap { height:90% ; width:100%; font-size:5%}
 
-
- 
