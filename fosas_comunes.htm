@@ -4,7 +4,10 @@
 <head>
   <link rel="icon" type="image/png" href="calavera_marker.png">
   <link rel="stylesheet" type="text/css" href="fosas_comunes.css">
-  <title id="title">Cunetas: gente en fosas comunes</title> 
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Slabo+27px" >  
+    
+  <title id="title">Cunetas: gente en fosas</title>
+
   <script src="https://maps.googleapis.com/maps/api/js?AIzaSyDIAeS71vGbVd9V0N9PJwSMrZIxnGQEWoQ"> </script>
     <!--todo: antes de pasar a produccion indicar la url-->
   <script src="fosas_comunes.js"> </script>
@@ -113,19 +116,14 @@
   
     }//function construyeMarcadores
     
-  
-    
   </script>
   </head>
 
   <body>
-<table id="tabla">
-  <tr><td><img class="logo" src="logo_fosas_comunes.jpg"></td></tr>
-</table> 
-    
-    <p id="lineaDepuracion">Información adicional</p>
-    <p id="googleMap"></p>
-
+  <table>
+    <tr><td><p id="titulo">Cunetas: gente en fosas</p></td></tr>
+  </table>     
+  <p id="googleMap"></p>
   
   <script> <!-- aqui meteremos el codigo de posicionamiento-->
 
@@ -177,9 +175,6 @@
 
     function onSuccessGeolocating(position)
     {
-      var msg;
-      msg="("+position.coords.latitude+","+position.coords.longitude+") - altura:"+position.coords.altitude;
-      document.getElementById("lineaDepuracion").innerHTML =msg;
       cambiaPosicion(position.coords.latitude, position.coords.longitude, false);
       pCentro=new google.maps.LatLng(position.coords.latitude, position.coords.longitude);
       map.setCenter(pCentro);
