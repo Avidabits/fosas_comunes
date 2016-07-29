@@ -58,7 +58,9 @@ tr{
     color: rgb(75,56,40);
 }
 
-/*visited link */
+a {
+   color: rgb(237, 215, 206);
+}
 a:visited {
     color: rgb(228, 218, 197);
 }
