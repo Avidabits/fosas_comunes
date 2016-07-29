@@ -41,10 +41,11 @@
 
       // asignamos la funcionar a usar cuando el usuario hace click en el mapa
       google.maps.event.addListener(map, 'click', function(event) {
-          cambiaPosicion(event.latLng.lat(), event.latLng.lng());         
-      }); // esto es para que pueda funcionar en modo simulador
+          cambiaPosicion(event.latLng.lat(), event.latLng.lng(), true); 
+          }); // esto es para que pueda funcionar en modo simulador
       
       asynCargaMarcadoresFosas(); //funcion asincrona
+      iniciaSpeechSynthesis();
 
     }//function initialize   
     
@@ -78,7 +79,7 @@
                   miZona=construyeZona(xhttp);
                   // hacemos que cambiaPosicion haga el trabajo que no
                   // pudo hacer por no tener cargada la zona
-                  cambiaPosicion(latitudEntraZona, longitudEntraZona);
+                  cambiaPosicion(latitudEntraZona, longitudEntraZona, false);
               }//if
           };// function onreadystatechange
 
@@ -105,7 +106,7 @@
         google.maps.event.addListener(markerFosa, 'click', function(event) {
                   /*esto es para poder funcionar en modo simulacion */
                   console.log("se ha pinchado un marcador, evento: ", event);
-                  cambiaPosicion(event.latLng.lat(), event.latLng.lng()); 
+                  cambiaPosicion(event.latLng.lat(), event.latLng.lng(), true); 
            } ); //addListener
 
       }//for  
@@ -130,21 +131,21 @@
 
     if(navigator.geolocation)
     {
-    // Se cuenta con el soporte para geolocalización, entonces ...
-    setInterval(miraDondeEstamos, 30000); // que cada 30 segundos mire donde estamos
+      // Se cuenta con el soporte para geolocalización, entonces ...
+      setInterval(miraDondeEstamos, 30000); // que cada 30 segundos mire donde estamos
     }
     else
     {
-    // No se cuenta con soporte para geolocalización, manejar la situación.
-    alert("No hay soporte para geolocalización, actualiza tu navegador");
+      // No se cuenta con soporte para geolocalización, manejar la situación.
+      alert("No hay soporte para geolocalización, actualiza tu navegador");
     }
+    
     // TODO: SACAR VENTANA INFORMATIVA SOBRE NAVEGADORES SOPORTADOS
     if (!('speechSynthesis' in window)) alert("Tu navegador no soporta síntesis de voz");
     else {
-
-    var speech= "Llevamos 80 años con la misma canción.";
-    habla(speech);
-    //habla("y no hay manera"); //este segundo no funciona, investigar porque poniendo los manejadores de eventos
+      var speech= "Llevamos 80 años con la misma canción.";
+      habla(speech);
+   
     }
 
 
@@ -155,35 +156,35 @@
 
     function onErrorGeolocating(error)
     {
-    switch(error.code)
-    {
-    case error.PERMISSION_DENIED:
-    console.error('ERROR: User denied access to track physical position!');
-    break;
+      switch(error.code)
+      {
+      case error.PERMISSION_DENIED:
+      console.error('ERROR: User denied access to track physical position!');
+      break;
 
-    case error.POSITION_UNAVAILABLE:
-    console.error("ERROR: There is a problem getting the position of the device!");
-    break;
+      case error.POSITION_UNAVAILABLE:
+      console.error("ERROR: There is a problem getting the position of the device!");
+      break;
 
-    case error.TIMEOUT:
-    console.warn("ERROR: The application timed out trying to get the position of the device!");
-    break;
+      case error.TIMEOUT:
+      console.warn("ERROR: The application timed out trying to get the position of the device!");
+      break;
 
-    default:
-    console.error("ERROR: Unknown problem!");
-    break;
-    }
-    }
+      default:
+      console.error("ERROR: Unknown problem!");
+      break;
+      }
+    }//onErrorGeolocating
 
     function onSuccessGeolocating(position)
     {
-    var msg;
-    msg="("+position.coords.latitude+","+position.coords.longitude+") - altura:"+position.coords.altitude;
-    document.getElementById("lineaDepuracion").innerHTML =msg;
-    cambiaPosicion(position.coords.latitude, position.coords.longitude);
-    pCentro=new google.maps.LatLng(position.coords.latitude, position.coords.longitude);
-    map.setCenter(pCentro);
-    }
+      var msg;
+      msg="("+position.coords.latitude+","+position.coords.longitude+") - altura:"+position.coords.altitude;
+      document.getElementById("lineaDepuracion").innerHTML =msg;
+      cambiaPosicion(position.coords.latitude, position.coords.longitude, false);
+      pCentro=new google.maps.LatLng(position.coords.latitude, position.coords.longitude);
+      map.setCenter(pCentro);
+    }//onSuccessGeolocating
 
   </script>
   </body>

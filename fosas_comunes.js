@@ -364,14 +364,14 @@ function nombreFicheroZona(latitud, longitud)
 
  }
 
-function cambiaPosicion(newLatitud, newLongitud)
+function cambiaPosicion(newLatitud, newLongitud, desdeClick)
 {
    // se llama en tres casos
    // 1º: al recibir una nueva posicion de GPS.
    // 2º al pinchar el usuario en el mapa
    // 3º al pinchar en un marcador de fosa
    // por tanto en muchos casos no habra ni cambio de zona ni cambio de nada
-    console.log("CambiaPosicion: "+ newLatitud+","+newLongitud);
+    console.log("CambiaPosicion: "+ newLatitud+","+newLongitud+","+desdeClick);
     if (miZona==null) 
     {
         // es la primera vez que cargo una zona
@@ -380,13 +380,14 @@ function cambiaPosicion(newLatitud, newLongitud)
     }
     if (miZona.localidadActual)
     {   // si ya hay una localidad actual, y seguimos en el entorno, no hacemos nada
-        if (miZona.localidadActual.puntoEnEntorno(newLatitud, newLongitud)) 
+        // excepto si el usuario ha pulsado click, entonces conmutamos habla/calla
+        if (miZona.localidadActual.puntoEnEntorno(newLatitud, newLongitud)) {
+               if (desdeClick){
+                  if (hablando()) calla();
+                  else habla(miZona.localidadActual.generaSpeech());
+               }
                return;
-        // TODO: esto crea el problema, en ordenador, de que si se pincha 2 veces en un marcador, 
-        // solo se escuchará la primera. quizás en el caso del marcador debemos hacerlo distintos
-        // pero para eso necesitamos saber si la funcion es llamada desde la geolocalizacion, desde un
-        // click de marcador, desde un click en mapa o desde la carga de nueva zona. 
-        
+        }
     }
     
     // SI EL PUNTO ESTA EN LA ZONA, BUSCAMOS LOCALIDAD EN ENTORNO
@@ -452,20 +453,9 @@ function puntoEnCirculo(puntoLat, puntoLong, circuloLat, circuloLong, circuloRad
 
 /////////////////////////////////////////////////////////////////
 ///// SONIDO SINTETICO
-function habla(text) {
-
-    window.speechSynthesis.cancel(); //hacer que pare la anterior locución si es que había
-    // Create a new instance of SpeechSynthesisUtterance.
-	var msg = new SpeechSynthesisUtterance();
-    msg.text = text;
-   	msg.volume = 1.0;
-	msg.rate = 1.0;
-	msg.pitch = 1.0;
-  
-    // uso la voz que mejor funciona sin conexión -native- para optimizar el consumo de datos
-	//msg.voice = window.speechSynthesis.getVoices().filter(function(voice) { return voice.name == "native"; })[0];
-    // TODO: NINGUNA DE ESTAS FORMAS DE ASIGNAR LA VOZ FUNCIONA REALMENTE, VER QUE PASA msg.voice sigue siendo null
-    // podría ser un problema de inicializacion, que se resolviera cargando mas tarde el mensaje
+var msg = new SpeechSynthesisUtterance(); // Create a new instance of SpeechSynthesisUtterance.
+function iniciaSpeechSynthesis()
+{
     var listaVoces= speechSynthesis.getVoices();
     console.log("extrayendo lista voces");
     console.log(listaVoces);
@@ -474,13 +464,52 @@ function habla(text) {
 
     for (var i=0; i<listaVoces.length; i++)
     {
-       if (listaVoces[i].localService) {
-          msg.voice=listaVoces[i];
-          console.log(listaVoces[i]);
-          break;   
-       }
-    }
+        if (listaVoces[i].localService) {
+            msg.voice=listaVoces[i];
+            console.log(listaVoces[i]);
+            break;   
+        }
+    }//for
+
+    msg.volume = 1.0;
+	msg.rate = 1.0;
+	msg.pitch = 1.0;
+    msg.onerror = function(event) {console.error('An error has occurred with the speech synthesis: ' + event.error); };
+    msg.onboundary = function(event) {console.log('Fired when the spoken utterance reaches a word or sentence boundary.: ' + event); };
+    msg.onend= function(event) {console.log('Fired when the utterance has finished being spoken.' + event); }
+    msg.onmark= function(event) {console.log('Fired when the spoken utterance reaches a named SSML "mark" tag.' + event); }
+    msg.onpause= function(event) {console.log('Fired when the utterance is paused part way through.' + event); }
+    msg.onresume= function(event) {console.log('Fired when a paused utterance is resumed.' + event); }
+    msg.onstart= function(event) {console.log('Fired when the utterance has begun to be spoken.' + event); }
    
-    console.log(msg); 
-    	window.speechSynthesis.speak(msg);
+
+}//iniciaSpeechSynthesis
+
+function calla()
+{
+     window.speechSynthesis.cancel(); //hacer que pare la anterior locución si es que había
 }
+
+function hablando()
+{
+    return window.speechSynthesis.speaking; 
+}
+
+function habla(text) {
+
+    console.log("window.speechSynthesis.paused: " + window.speechSynthesis.paused);
+    console.log("window.speechSynthesis.pending: " + window.speechSynthesis.pending);
+    console.log("window.speechSynthesis.speaking: " + window.speechSynthesis.speaking);
+
+    window.speechSynthesis.cancel(); //hacer que pare la anterior locución si es que había
+
+    console.log("despues del cancel\nwindow.speechSynthesis.paused: " + window.speechSynthesis.paused);
+    console.log("window.speechSynthesis.pending: " + window.speechSynthesis.pending);
+    console.log("window.speechSynthesis.speaking: " + window.speechSynthesis.speaking);
+
+    msg.text = text;
+
+    console.log(msg); 
+    window.speechSynthesis.speak(msg);
+
+}//habla
