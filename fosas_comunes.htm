@@ -145,6 +145,7 @@
       habla(speech);
     }
     
+    doTest();// esta funcion esta aqui para facilitar los test 
 
     function miraDondeEstamos(){
     // hace una peticion de leer la nueva posicion
@@ -184,7 +185,12 @@
       pCentro=new google.maps.LatLng(position.coords.latitude, position.coords.longitude);
       map.setCenter(pCentro);
     }//onSuccessGeolocating
-
+    
+    function doTest()
+    {
+        var calculos=distanciaHarvesine(pCentro.lat(), pCentro.lng(), pCentro.lat(), pCentro.lng()+deltaLocalidad);
+        console.log("DoTest: esperamos unos 4000 m y obtenemos "+calculos);
+    } 
   </script>
   </body>
 </html>
