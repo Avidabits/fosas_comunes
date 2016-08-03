@@ -153,6 +153,7 @@ function zona(latitud, longitud, listaLocalidades)
                 } // ya hay una seleccionada, pero esta puede ser mejor
             }// if puntoEnEntorno
         }// for
+        console.log("localidadSeleccionada;", localidadSeleccionada);
         return localidadSeleccionada;// esto es que no ha encontrado ninguna 
      };//buscaLocalidadEnEntorno
      
