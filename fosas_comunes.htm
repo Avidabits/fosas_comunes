@@ -144,7 +144,7 @@
       var speech= "Llevamos 80 años con la misma canción.";
       habla(speech);
     }
-
+    
 
     function miraDondeEstamos(){
     // hace una peticion de leer la nueva posicion
@@ -153,6 +153,11 @@
 
     function onErrorGeolocating(error)
     {
+      /*Entre los motivos de error de geolocalizaion pueden estar los siguiente:
+      -- La geolocalización solo funciona, por motivos de seguridad, con https. No funciona con http
+      -- La geolocalización solo funciona en determinados navegadores. Las últimas versiones de chrome, PC y movíl sí la soportan
+      -- La geolocalización de navegador móvil, no funciona cuando la red esta en modo solo 2G/GSM, pues se apoya en A-GPS
+      */
       switch(error.code)
       {
       case error.PERMISSION_DENIED:

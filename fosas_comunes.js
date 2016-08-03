@@ -1,16 +1,12 @@
 ﻿// variables globales de zona de fosas
 var miZona=null; //es una variable de tipo zona que se construye con function construyeZona(xml) 
 
-// Al no estar geolocalizadas las fosas, colocamos los marcadores en la posicion de la muy cerca unos de otros
-// la distancia entre marcadores que en realidad se consideran en el mismo puento es esta variable deltaFosas
 // deltaGrados=180*deltaKm/((RT=6371km)*PI  )
 // Delta_Kilometros=((RT=6371km)*PI  )* Delta_grados/180
-var deltaFosas=0.001125; //unos 125 metros
-
-// para decidir que nos ponemos a contar la fosas de una localidad, puesto que no tenemos los polígonos
+// para decidir que nos ponemos a declamar la fosas de una localidad, puesto que no tenemos los polígonos
 // hemos de tomar una decisión respecto a la distancia a la posicion puntual de esa localidad
-// decidimos tomar unos 2Km, que segun la formula anterior corresponde aproximadamente a 0.018 grados
-var deltaLocalidad=0.018;
+// decidimos tomar unos 4Km, que segun la formula anterior corresponde aproximadamente a 0.036 grados
+var deltaLocalidad=0.036; // solo declamará las fosas cuya localidad este a 4km del punto geolocalizado
 
 
 //objetos que construyen la informacion de una zona: zona, localidad, fosas, victimas
@@ -71,7 +67,7 @@ function fosa(registro, tipoFosa, estadoActual,numeroPersonasFosa, numeroPersona
       }
       if (numeroPersonasIdentificadas!=null)
       {
-          if (numeroPersonasIdentificadas==0) speech+=" sin identificar";
+          if (numeroPersonasIdentificadas==0) speech+="víctimas sin identificar";
           else if (numeroPersonasIdentificadas>0) speech+=", "+numeroPersonasIdentificadas+" identificadas";
       }
       if (numeroPersonasExhumadas!=null)
@@ -134,11 +130,30 @@ function zona(latitud, longitud, listaLocalidades)
     this.localidadActual=null; // la funcion cambiaPosicion deberá actualizarla
     console.log("zona nueva:", this);
     this.buscaLocalidadEnEntorno = function(latitudPunto, longitudPunto)    {
+        var localidadSeleccionada=null;//valor de retorno
+        var distanciaSeleccionada=0;
+        var distanciaEvaluada=0;
+        var localidaEvaluada=null;
         console.log("buscando localidad en entorno: "+latitudPunto+","+longitudPunto);
         for (var i=0; i<listaLocalidades.length; i++){
-         if (listaLocalidades[i].puntoEnEntorno(latitudPunto, longitudPunto)) return listaLocalidades[i];
-        }
-        return null;// esto es que no ha encontrado ninguna 
+            // TODO:Ahora solo estamos buscando en la zona cargada y deberíamos valorar lo que se hace cuando el punto
+            // esta en la proximidad de una frontera
+            // Una posibilidad es que se puedan cargar un par de zonas (function AmpliaZona), tal como esta 
+            // la reticula podríamos llegar a cargar hasta 4 zonas, para un vertice
+            if (listaLocalidades[i].puntoEnEntorno(latitudPunto, longitudPunto)) {
+                localidadEvaluada=listaLocalidades[i];
+                distanciaEvaluada=distanciaHarvesine(latitud, longitud, localidadEvaluada.latitud, localidadEvaluada.longitud);
+                // solo debemos seleccionar la localidad si está  una distancia menor que la previa
+                if (localidadSeleccionada=null){
+                   localidadSeleccionada=localidadEvaluada;
+                   distanciaSeleccionada=distanciaEvaluada;
+                } else if (distanciaEvaluada < distanciaSeleccionada){
+                   localidadSeleccionada=localidadEvaluada;
+                   distanciaSeleccionada=distanciaEvaluada;
+                } // ya hay una seleccionada, pero esta puede ser mejor
+            }// if puntoEnEntorno
+        }// for
+        return localidadSeleccionada;// esto es que no ha encontrado ninguna 
      };//buscaLocalidadEnEntorno
      
     this.puntoEnZona=function(latitudPunto, longitudPunto)
