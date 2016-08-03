@@ -134,7 +134,7 @@ function zona(latitud, longitud, listaLocalidades)
         var distanciaSeleccionada=0;
         var distanciaEvaluada=0;
         var localidaEvaluada=null;
-        console.log("buscando localidad en entorno: "+latitudPunto+","+longitudPunto);
+        console.log("buscando localidad en entorno: "+latitudPunto+","+longitudPunto+", entre "+listaLocalidades.length+" localidadades");
         for (var i=0; i<listaLocalidades.length; i++){
             // TODO:Ahora solo estamos buscando en la zona cargada y deberíamos valorar lo que se hace cuando el punto
             // esta en la proximidad de una frontera
@@ -143,8 +143,9 @@ function zona(latitud, longitud, listaLocalidades)
             if (listaLocalidades[i].puntoEnEntorno(latitudPunto, longitudPunto)) {
                 localidadEvaluada=listaLocalidades[i];
                 distanciaEvaluada=distanciaHarvesine(latitud, longitud, localidadEvaluada.latitud, localidadEvaluada.longitud);
+                console.log("distancia Harvesine evaluada="+distanciaEvaluada);
                 // solo debemos seleccionar la localidad si está  una distancia menor que la previa
-                if (localidadSeleccionada=null){
+                if (localidadSeleccionada==null){
                    localidadSeleccionada=localidadEvaluada;
                    distanciaSeleccionada=distanciaEvaluada;
                 } else if (distanciaEvaluada < distanciaSeleccionada){
